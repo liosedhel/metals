@@ -165,7 +165,15 @@ final class FoldingRangeExtractor(
 
         case c: Case =>
           val startingPoint = c.cond.getOrElse(c.pat)
-          val bodyEnd = c.body.pos.end + 1
+          val bodyEnd = {
+            c.body.pos match {
+              case Position.None => c.body.pos.end
+              case Position.Range(input, _, end) =>
+                val char = input.chars(end)
+                if (char == '\r') end + 2
+                else end + 1
+            }
+          }
           for {
             token <- startingPoint.findFirstTrailing(_.is[Token.RightArrow])
             pos <- range(tree.pos.input, token.pos.end, bodyEnd)

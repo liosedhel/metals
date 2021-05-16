@@ -117,7 +117,7 @@ abstract class BasePCSuite extends BaseSuite {
   protected def requiresScalaLibrarySources: Boolean = false
 
   protected def isScala3Version(scalaVersion: String): Boolean = {
-    scalaVersion.startsWith("0.") || scalaVersion.startsWith("3.")
+    scalaVersion.startsWith("3.")
   }
 
   protected def createBinaryVersion(scalaVersion: String): String = {
@@ -211,7 +211,7 @@ abstract class BasePCSuite extends BaseSuite {
       case NonFatal(e) =>
         println(s"warn: $e")
     }
-    workspace.inputs(filename) = code2
+    workspace.inputs(filename) = (code2, dialect)
     (code2, offset)
   }
 

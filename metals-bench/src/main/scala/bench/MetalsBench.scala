@@ -70,7 +70,9 @@ class MetalsBench {
   @Benchmark
   @BenchmarkMode(Array(Mode.SingleShotTime))
   def mtagsScalaIndex(): Unit = {
-    scalaDependencySources.inputs.foreach { input => Mtags.index(input) }
+    scalaDependencySources.inputs.foreach { input =>
+      Mtags.index(input, dialects.Scala213)
+    }
   }
 
   @Benchmark
@@ -138,13 +140,15 @@ class MetalsBench {
   @Benchmark
   @BenchmarkMode(Array(Mode.SingleShotTime))
   def mtagsJavaParse(): Unit = {
-    javaDependencySources.inputs.foreach { input => Mtags.index(input) }
+    javaDependencySources.inputs.foreach { input =>
+      Mtags.index(input, dialects.Scala213)
+    }
   }
 
   @Benchmark
   @BenchmarkMode(Array(Mode.SingleShotTime))
   def indexSources(): Unit = {
-    val index = OnDemandSymbolIndex()
+    val index = OnDemandSymbolIndex.empty()
     fullClasspath.entries.foreach(entry =>
       index.addSourceJar(entry, dialects.Scala213)
     )

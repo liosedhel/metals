@@ -49,6 +49,7 @@ import scala.meta.internal.metals.Messages.AmmoniteJvmParametersChange
 import scala.meta.internal.metals.Messages.IncompatibleBloopVersion
 import scala.meta.internal.metals.MetalsEnrichments._
 import scala.meta.internal.metals.ammonite.Ammonite
+import scala.meta.internal.metals.codeactions.ExtractMemberDefinitionData
 import scala.meta.internal.metals.codelenses.RunTestCodeLens
 import scala.meta.internal.metals.codelenses.SuperMethodCodeLens
 import scala.meta.internal.metals.codelenses.WorksheetCodeLens
@@ -82,6 +83,7 @@ import ch.epfl.scala.{bsp4j => b}
 import com.google.gson.JsonElement
 import com.google.gson.JsonPrimitive
 import io.undertow.server.HttpServerExchange
+import org.eclipse.lsp4j.ExecuteCommandParams
 import org.eclipse.lsp4j._
 import org.eclipse.lsp4j.jsonrpc.messages.{Either => JEither}
 import org.eclipse.lsp4j.jsonrpc.services.JsonNotification
@@ -1541,6 +1543,22 @@ class MetalsLanguageServer(
   def executeCommand(
       params: ExecuteCommandParams
   ): CompletableFuture[Object] = {
+    def textDocumentPosition(
+        args: mutable.Buffer[AnyRef]
+    ): Option[(TextDocumentPositionParams, String)] = {
+      for {
+        arg0 <- args.lift(0)
+        uri <- Argument.getAsString(arg0)
+        arg1 <- args.lift(1)
+        line <- Argument.getAsInt(arg1)
+        arg2 <- args.lift(2)
+        character <- Argument.getAsInt(arg2)
+        pos = new l.Position(line, character)
+        textDoc = new l.TextDocumentIdentifier(uri)
+        params = new TextDocumentPositionParams(textDoc, pos)
+      } yield (params, uri)
+    }
+
     val command = Option(params.getCommand).getOrElse("")
     command.stripPrefix("metals.") match {
       case ServerCommands.ScanWorkspaceSources() =>
@@ -1744,17 +1762,7 @@ class MetalsLanguageServer(
       case ServerCommands.InsertInferredType() =>
         CancelTokens.future { token =>
           val args = params.getArguments().asScala
-          val futureOpt = for {
-            arg0 <- args.lift(0)
-            uri <- Argument.getAsString(arg0)
-            arg1 <- args.lift(1)
-            line <- Argument.getAsInt(arg1)
-            arg2 <- args.lift(2)
-            character <- Argument.getAsInt(arg2)
-            pos = new l.Position(line, character)
-            textDoc = new l.TextDocumentIdentifier(uri)
-            params = new TextDocumentPositionParams(textDoc, pos)
-          } yield {
+          val futureOpt = textDocumentPosition(args).map { case (params, uri) =>
             for {
               edits <- compilers.insertInferredType(params, token)
               if (!edits.isEmpty())
@@ -1768,6 +1776,37 @@ class MetalsLanguageServer(
           futureOpt.getOrElse {
             languageClient.showMessage(Messages.InsertInferredTypeFailed)
             Future.unit
+          }.withObjectValue
+        }
+      case ServerCommands.ExtractMemberDefinition() =>
+        CancelTokens.future { token =>
+          val args = params.getArguments().asScala
+
+          val futureOpt = for {
+            (params, uri) <- textDocumentPosition(args)
+          } yield {
+            val data = ExtractMemberDefinitionData(uri, params)
+            for {
+              result <- codeActionProvider.executeCommands(data, token)
+              future <- languageClient.applyEdit(result.edits).asScala
+            } yield {
+              result.goToLocation.foreach { location =>
+                languageClient.metalsExecuteClientCommand(
+                  new ExecuteCommandParams(
+                    ClientCommands.GotoLocation.id,
+                    List(location: Object).asJava
+                  )
+                )
+              }
+            }
+          }
+
+          futureOpt.getOrElse {
+            Future(
+              languageClient.showMessage(
+                Messages.ExtractMemberDefinitionFailed
+              )
+            )
           }.withObjectValue
         }
       case cmd =>
@@ -2129,10 +2168,22 @@ class MetalsLanguageServer(
     try {
       val sourceToIndex0 = sourceToIndex(source, targetOpt)
       if (sourceToIndex0.exists) {
+        val dialect = {
+          val scalaVersion =
+            targetOpt
+              .flatMap(buildTargets.scalaInfo)
+              .map(_.getScalaVersion())
+              .getOrElse(
+                scalaVersionSelector.fallbackScalaVersion(
+                  source.isAmmoniteScript
+                )
+              )
+          ScalaVersions.dialectForScalaVersion(scalaVersion)
+        }
         val reluri = source.toIdeallyRelativeURI(sourceItem)
         val input = sourceToIndex0.toInput
         val symbols = ArrayBuffer.empty[WorkspaceSymbolInformation]
-        SemanticdbDefinition.foreach(input) {
+        SemanticdbDefinition.foreach(input, dialect) {
           case SemanticdbDefinition(info, occ, owner) =>
             if (WorkspaceSymbolProvider.isRelevantKind(info.kind)) {
               occ.range.foreach { range =>
@@ -2148,14 +2199,19 @@ class MetalsLanguageServer(
               !info.symbol.isPackage &&
               (owner.isPackage || source.isAmmoniteScript)
             ) {
-              definitionIndex.addToplevelSymbol(reluri, source, info.symbol)
+              definitionIndex.addToplevelSymbol(
+                reluri,
+                source,
+                info.symbol,
+                dialect
+              )
             }
         }
         workspaceSymbols.didChange(source, symbols)
 
         // Since the `symbols` here are toplevel symbols,
         // we cannot use `symbols` for expiring the cache for all symbols in the source.
-        symbolDocs.expireSymbolDefinition(sourceToIndex0)
+        symbolDocs.expireSymbolDefinition(sourceToIndex0, dialect)
       }
     } catch {
       case NonFatal(e) =>
@@ -2377,7 +2433,8 @@ class MetalsLanguageServer(
   private def addSourceJarSymbols(path: AbsolutePath): Unit = {
     tables.jarSymbols.getTopLevels(path) match {
       case Some(toplevels) =>
-        definitionIndex.addIndexedSourceJar(path, toplevels)
+        val dialect = ScalaVersions.dialectForDependencyJar(path.filename)
+        definitionIndex.addIndexedSourceJar(path, toplevels, dialect)
       case None =>
         val dialect = ScalaVersions.dialectForDependencyJar(path.filename)
         val toplevels = definitionIndex.addSourceJar(path, dialect)
@@ -2567,12 +2624,14 @@ class MetalsLanguageServer(
   }
 
   private def newSymbolIndex(): OnDemandSymbolIndex = {
-    OnDemandSymbolIndex(
+    OnDemandSymbolIndex.empty(
       onError = {
         case e @ (_: ParseException | _: TokenizeException) =>
           scribe.error(e.toString)
         case e: InvalidJarException =>
           scribe.warn(s"invalid jar: ${e.path}")
+        case _: NoSuchFileException =>
+        // only comes for badly configured jar with `/Users` path added.
         case NonFatal(e) =>
           scribe.error("unexpected error during source scanning", e)
       },

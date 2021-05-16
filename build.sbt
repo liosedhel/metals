@@ -192,22 +192,22 @@ lazy val V = new {
   val scala213 = "2.13.5"
   val ammonite212Version = scala212
   val ammonite213Version = scala213
-  val scalameta = "4.4.15"
+  val scalameta = "4.4.17"
   val semanticdb = scalameta
   val bsp = "2.0.0-M13"
   val bloop = "1.4.8-19-4d9f966b"
-  val scala3 = "3.0.0-RC3"
+  val scala3 = "3.0.0"
   val bloopNightly = bloop
   val sbtBloop = bloop
   val gradleBloop = bloop
   val mavenBloop = bloop
-  val mdoc = "2.2.20"
+  val mdoc = "2.2.21"
   val scalafmt = "2.7.5"
-  val munit = "0.7.25"
+  val munit = "0.7.26"
   val scalafix = "0.9.27"
   val lsp4jV = "0.12.0"
   val sbtJdiTools = "1.1.1"
-  val genyVersion = "0.6.9"
+  val genyVersion = "0.6.10"
 
   // List of supported Scala versions in SemanticDB. Needs to be manually updated
   // for every SemanticDB upgrade.
@@ -226,8 +226,9 @@ lazy val V = new {
   def scala2Versions = nonDeprecatedScala2Versions ++ deprecatedScala2Versions
 
   // Scala 3
-  def nonDeprecatedScala3Versions = Seq(scala3, "3.0.0-RC2", "3.0.0-RC1")
-  def deprecatedScala3Versions = Seq("3.0.0-M3", "3.0.0-M2", "3.0.0-M1")
+  def nonDeprecatedScala3Versions =
+    Seq(scala3, "3.0.0-RC3", "3.0.0-RC2", "3.0.0-RC1")
+  def deprecatedScala3Versions = Seq()
   def scala3Versions = nonDeprecatedScala3Versions ++ deprecatedScala3Versions
 
   def supportedScalaVersions = scala2Versions ++ scala3Versions
@@ -239,10 +240,10 @@ lazy val V = new {
   def guava = "com.google.guava" % "guava" % "30.1.1-jre"
   def lsp4j = "org.eclipse.lsp4j" % "org.eclipse.lsp4j" % lsp4jV
   def dap4j = "org.eclipse.lsp4j" % "org.eclipse.lsp4j.debug" % lsp4jV
-  val coursierInterfaces = "1.0.3"
+  val coursierInterfaces = "1.0.4"
   val coursier = "2.0.16"
   val ammonite = "2.3.8-58-aa8b2ab1"
-  val mill = "0.9.3"
+  val mill = "0.9.7"
   val organizeImportRule = "0.5.0"
 }
 
@@ -312,20 +313,21 @@ val mtagsSettings = List(
   ),
   // @note needed to deal with issues with dottyDoc
   Compile / doc / sources := Seq.empty,
+  libraryDependencies +=
+    "com.thoughtworks.qdox" % "qdox" % "2.0.0", // for java mtags
   libraryDependencies ++= crossSetting(
     scalaVersion.value,
     if2 = List(
       // for token edit-distance used by goto definition
       "com.googlecode.java-diff-utils" % "diffutils" % "1.3.0",
-      "com.thoughtworks.qdox" % "qdox" % "2.0.0", // for java mtags
       "org.jsoup" % "jsoup" % "1.13.1", // for extracting HTML from javadocs
       "com.lihaoyi" %% "geny" % V.genyVersion,
-      "org.scala-lang.modules" %% "scala-java8-compat" % "0.9.1",
+      "org.scala-lang.modules" %% "scala-java8-compat" % "1.0.0",
       "org.scalameta" % "semanticdb-scalac-core" % V.scalameta cross CrossVersion.full
     ),
     if3 = List(
       "com.fasterxml.jackson.core" % "jackson-databind" % "2.12.3",
-      ("org.scala-lang.modules" %% "scala-java8-compat" % "0.9.1")
+      ("org.scala-lang.modules" %% "scala-java8-compat" % "1.0.0")
         .cross(CrossVersion.for3Use2_13),
       ("com.lihaoyi" %% "geny" % V.genyVersion)
         .cross(CrossVersion.for3Use2_13),
@@ -402,7 +404,7 @@ lazy val metals = project
       "io.undertow" % "undertow-core" % "2.2.7.Final",
       "org.jboss.xnio" % "xnio-nio" % "3.8.4.Final",
       // for persistent data like "dismissed notification"
-      "org.flywaydb" % "flyway-core" % "7.8.2",
+      "org.flywaydb" % "flyway-core" % "7.9.0",
       "com.h2database" % "h2" % "1.4.200",
       // for starting embedded buildTool processes
       "com.zaxxer" % "nuprocess" % "2.0.1",
@@ -423,7 +425,7 @@ lazy val metals = project
       // ==================
       // Scala dependencies
       // ==================
-      "org.scala-lang.modules" %% "scala-java8-compat" % "0.9.1",
+      "org.scala-lang.modules" %% "scala-java8-compat" % "1.0.0",
       "org.scalameta" % "mdoc-interfaces" % V.mdoc,
       "org.scalameta" %% "scalafmt-dynamic" % V.scalafmt,
       "ch.epfl.scala" % "scalafix-interfaces" % V.scalafix,
@@ -437,9 +439,9 @@ lazy val metals = project
       // for debugging purposes, not strictly needed but nice for productivity
       "com.lihaoyi" %% "pprint" % "0.6.2",
       // for JSON formatted doctor
-      "com.lihaoyi" %% "ujson" % "1.3.12",
+      "com.lihaoyi" %% "ujson" % "1.3.13",
       // For remote language server
-      "com.lihaoyi" %% "requests" % "0.6.8",
+      "com.lihaoyi" %% "requests" % "0.6.9",
       // for producing SemanticDB from Scala source files
       "org.scalameta" %% "scalameta" % V.scalameta,
       "org.scalameta" % "semanticdb-scalac-core" % V.scalameta cross CrossVersion.full,
@@ -593,7 +595,9 @@ lazy val mtest = project
     testSettings,
     sharedSettings,
     libraryDependencies ++= List(
-      if (scalaVersion.value == "3.0.0-RC1") {
+      if (
+        scalaVersion.value == "3.0.0-RC1" || scalaVersion.value == "3.0.0-RC2"
+      ) {
         "org.scalameta" %% "munit" % "0.7.23"
       } else {
         "org.scalameta" %% "munit" % V.munit

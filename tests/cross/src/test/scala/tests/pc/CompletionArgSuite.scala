@@ -35,8 +35,22 @@ class CompletionArgSuite extends BaseCompletionSuite {
     compat = Map(
       "3.0" ->
         """|message = : => Any
+           |Main arg1
+           |ArrayCharSequence(arrayOfChars: Array[Char]): ArrayCharSequence
            |""".stripMargin
     )
+  )
+
+  checkEdit(
+    "arg-edit",
+    s"""|object Main {
+        |  assert(assertion = true, me@@)
+        |}
+        |""".stripMargin,
+    """|object Main {
+       |  assert(assertion = true, message = )
+       |}
+       |""".stripMargin
   )
 
   check(
@@ -53,6 +67,8 @@ class CompletionArgSuite extends BaseCompletionSuite {
     compat = Map(
       "3.0" ->
         """|message = : => Any
+           |Main arg2
+           |ArrayCharSequence(arrayOfChars: Array[Char]): ArrayCharSequence
            |""".stripMargin
     )
   )
@@ -78,13 +94,7 @@ class CompletionArgSuite extends BaseCompletionSuite {
        |Main arg3
        |User arg3
        |""".stripMargin,
-    topLines = Option(4),
-    compat = Map(
-      "3.0" ->
-        """|age = : Int
-           |followers = : Int
-           |""".stripMargin
-    )
+    topLines = Option(4)
   )
 
   // We should get NamedArg `address` from args in scala3, and remove `address` from completion, but it doesn't appear.
@@ -123,6 +133,8 @@ class CompletionArgSuite extends BaseCompletionSuite {
       "3.0" ->
         """|age = : Int
            |followers = : Int
+           |Main arg5
+           |User arg5
            |""".stripMargin
     )
   )
@@ -156,6 +168,7 @@ class CompletionArgSuite extends BaseCompletionSuite {
     compat = Map(
       "3.0" ->
         """|x = : A
+           |Main arg7
            |""".stripMargin
     )
   )
@@ -175,6 +188,8 @@ class CompletionArgSuite extends BaseCompletionSuite {
     compat = Map(
       "3.0" ->
         """|suffix = : String
+           |Main arg8
+           |ArrayCharSequence(arrayOfChars: Array[Char]): ArrayCharSequence
            |""".stripMargin
     )
   )
@@ -275,8 +290,8 @@ class CompletionArgSuite extends BaseCompletionSuite {
     topLines = Some(3),
     compat = Map(
       "3.0" ->
-        """|argument: Int
-           |argument = : Int
+        """|argument = : Int
+           |argument: Int
            |""".stripMargin
     )
   )
@@ -300,8 +315,12 @@ class CompletionArgSuite extends BaseCompletionSuite {
        |""".stripMargin,
     topLines = Some(5),
     compat = Map(
+      "3.0.0-RC1" ->
+        """|argument = : Int
+           |""".stripMargin,
       "3.0" ->
         """|argument = : Int
+           |Calendar - java.util
            |""".stripMargin
     )
   )
