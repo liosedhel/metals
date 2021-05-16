@@ -1,0 +1,101 @@
+
+Ametals/src/main/scala/scala/meta/internal/metals/JavaBinary.scala÷
+&scala/meta/internal/metals/JavaBinary.OBJECTK
+Ametals/src/main/scala/scala/meta/internal/metals/JavaBinary.scala ("
+endLine4"
+isVarfalse"0
+symbol&scala/meta/internal/metals/JavaBinary."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName
+JavaBinary"
+kindOBJECT"
+	startLine4"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JavaBinary.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter7"
+isFinaltrue"	
+LOC13*
+JavaBinary2ä
+.scala/meta/internal/metals/JavaBinary.apply().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/metals/JavaBinary.scala	 	(2
+scala/AnyRef#EXTENDå
+Ametals/src/main/scala/scala/meta/internal/metals/JavaBinary.scalaFILE*Ametals/src/main/scala/scala/meta/internal/metals/JavaBinary.scalaå
+.scala/meta/internal/metals/JavaBinary.apply().METHODK
+Ametals/src/main/scala/scala/meta/internal/metals/JavaBinary.scala	 	("
+endLine9"
+isVarfalse"8
+symbol.scala/meta/internal/metals/JavaBinary.apply()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameapply"
+kindMETHOD"
+	startLine9"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JavaBinary.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter11"
+startCharacter6"
+isFinalfalse"
+LOC6*apply2í
+8scala/meta/internal/metals/JavaBinary.apply().(javaHome)	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/metals/JavaBinary.scala	 	(2p
+scala/Predef.String#RETURN_TYPEK
+Ametals/src/main/scala/scala/meta/internal/metals/JavaBinary.scala	' 	(-2p
+scala/meta/io/AbsolutePath.CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JavaBinary.scala (2|
+'scala/meta/io/AbsolutePath#resolve(+1).CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JavaBinary.scala ("2|
+'scala/meta/io/AbsolutePath#resolve(+1).CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JavaBinary.scala* (12{
+&scala/meta/io/AbsolutePath#toString().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JavaBinary.scala: (B2{
+&scala/meta/internal/metals/JdkSources.CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JavaBinary.scala (2ç
+8scala/meta/internal/metals/JdkSources.defaultJavaHome().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JavaBinary.scala ((2ç
+8scala/meta/internal/metals/JavaBinary.apply().(javaHome)CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JavaBinary.scala
+ 
+(2k
+scala/Option#orElse().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JavaBinary.scala (2h
+scala/Option#map().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JavaBinary.scala (
+2n
+scala/Option#getOrElse().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JavaBinary.scala (ì
+8scala/meta/internal/metals/JavaBinary.apply().(javaHome)	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/metals/JavaBinary.scala	 	("
+endLine9"
+isVarfalse"B
+symbol8scala/meta/internal/metals/JavaBinary.apply().(javaHome)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamejavaHome"
+kind	PARAMETER"
+	startLine9"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JavaBinary.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter12"
+isFinalfalse*javaHome2b
+scala/Option#TYPEK
+Ametals/src/main/scala/scala/meta/internal/metals/JavaBinary.scala	 	(2i
+scala/Predef.String#TYPEK
+Ametals/src/main/scala/scala/meta/internal/metals/JavaBinary.scala	 	(#

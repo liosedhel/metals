@@ -1,0 +1,167 @@
+
+Jmetals/src/main/scala/scala/meta/internal/metals/codelenses/CodeLens.scalaž
+Jmetals/src/main/scala/scala/meta/internal/metals/codelenses/CodeLens.scalaFILE*Jmetals/src/main/scala/scala/meta/internal/metals/codelenses/CodeLens.scalaî
+Dscala/meta/internal/metals/codelenses/CodeLens#codeLenses(+1).(path)	PARAMETERT
+Jmetals/src/main/scala/scala/meta/internal/metals/codelenses/CodeLens.scala ("
+endLine11"
+isVarfalse"N
+symbolDscala/meta/internal/metals/codelenses/CodeLens#codeLenses(+1).(path)"0
+package%scala.meta.internal.metals.codelenses"
+accessEmpty"
+displayNamepath"
+kind	PARAMETER"
+	startLine11"
+isValfalse"Q
+uriJmetals/src/main/scala/scala/meta/internal/metals/codelenses/CodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter17"
+isFinalfalse*path2y
+scala/meta/io/AbsolutePath#TYPET
+Jmetals/src/main/scala/scala/meta/internal/metals/codelenses/CodeLens.scala (#ß
+/scala/meta/internal/metals/codelenses/CodeLens#TRAITT
+Jmetals/src/main/scala/scala/meta/internal/metals/codelenses/CodeLens.scala ("
+endLine7"
+isVarfalse"9
+symbol/scala/meta/internal/metals/codelenses/CodeLens#"0
+package%scala.meta.internal.metals.codelenses"
+accessPublicAccess()"
+displayNameCodeLens"
+kindTRAIT"
+	startLine7"
+isValfalse"Q
+uriJmetals/src/main/scala/scala/meta/internal/metals/codelenses/CodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter14"
+startCharacter6"
+isFinalfalse"
+LOC6*CodeLens2 
+;scala/meta/internal/metals/codelenses/CodeLens#isEnabled().DECLARATIONT
+Jmetals/src/main/scala/scala/meta/internal/metals/codelenses/CodeLens.scala (2¡
+<scala/meta/internal/metals/codelenses/CodeLens#codeLenses().DECLARATIONT
+Jmetals/src/main/scala/scala/meta/internal/metals/codelenses/CodeLens.scala	 	(2£
+>scala/meta/internal/metals/codelenses/CodeLens#codeLenses(+1).DECLARATIONT
+Jmetals/src/main/scala/scala/meta/internal/metals/codelenses/CodeLens.scala (2
+scala/AnyRef#EXTEND–
+
+>scala/meta/internal/metals/codelenses/CodeLens#codeLenses(+1).METHODT
+Jmetals/src/main/scala/scala/meta/internal/metals/codelenses/CodeLens.scala ("
+endLine11"
+isVarfalse"H
+symbol>scala/meta/internal/metals/codelenses/CodeLens#codeLenses(+1)."0
+package%scala.meta.internal.metals.codelenses"
+accessPublicAccess()"
+displayName
+codeLenses"
+kindMETHOD"
+	startLine11"
+isValfalse"Q
+uriJmetals/src/main/scala/scala/meta/internal/metals/codelenses/CodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter6"
+isFinalfalse"
+LOC1*
+codeLenses2§
+Dscala/meta/internal/metals/codelenses/CodeLens#codeLenses(+1).(path)	PARAMETERT
+Jmetals/src/main/scala/scala/meta/internal/metals/codelenses/CodeLens.scala (2w
+scala/package.Seq#RETURN_TYPET
+Jmetals/src/main/scala/scala/meta/internal/metals/codelenses/CodeLens.scala& ()2p
+org/eclipse/lsp4j/CALLT
+Jmetals/src/main/scala/scala/meta/internal/metals/codelenses/CodeLens.scala* (+2€
+org/eclipse/lsp4j/CodeLens#RETURN_TYPET
+Jmetals/src/main/scala/scala/meta/internal/metals/codelenses/CodeLens.scala, (42}
+scala/collection/immutable/Nil.CALLT
+Jmetals/src/main/scala/scala/meta/internal/metals/codelenses/CodeLens.scala8 (;ß
+;scala/meta/internal/metals/codelenses/CodeLens#isEnabled().METHODT
+Jmetals/src/main/scala/scala/meta/internal/metals/codelenses/CodeLens.scala ("
+endLine8"
+isVarfalse"E
+symbol;scala/meta/internal/metals/codelenses/CodeLens#isEnabled()."0
+package%scala.meta.internal.metals.codelenses"
+accessPublicAccess()"
+displayName	isEnabled"
+kindMETHOD"
+	startLine8"
+isValfalse"Q
+uriJmetals/src/main/scala/scala/meta/internal/metals/codelenses/CodeLens.scala"
+
+isAbstracttrue"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter15"
+startCharacter6"
+isFinalfalse*	isEnabled2s
+scala/Boolean#RETURN_TYPET
+Jmetals/src/main/scala/scala/meta/internal/metals/codelenses/CodeLens.scala (Æ
+Rscala/meta/internal/metals/codelenses/CodeLens#codeLenses().(textDocumentWithPath)	PARAMETERT
+Jmetals/src/main/scala/scala/meta/internal/metals/codelenses/CodeLens.scala	 	(%"
+endLine9"
+isVarfalse"\
+symbolRscala/meta/internal/metals/codelenses/CodeLens#codeLenses().(textDocumentWithPath)"0
+package%scala.meta.internal.metals.codelenses"
+accessEmpty"#
+displayNametextDocumentWithPath"
+kind	PARAMETER"
+	startLine9"
+isValfalse"Q
+uriJmetals/src/main/scala/scala/meta/internal/metals/codelenses/CodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter37"
+startCharacter17"
+isFinalfalse*textDocumentWithPath2–
+8scala/meta/internal/implementation/TextDocumentWithPath#TYPET
+Jmetals/src/main/scala/scala/meta/internal/metals/codelenses/CodeLens.scala	' 	(;ž
+
+<scala/meta/internal/metals/codelenses/CodeLens#codeLenses().METHODT
+Jmetals/src/main/scala/scala/meta/internal/metals/codelenses/CodeLens.scala	 	("
+endLine9"
+isVarfalse"F
+symbol<scala/meta/internal/metals/codelenses/CodeLens#codeLenses()."0
+package%scala.meta.internal.metals.codelenses"
+accessPublicAccess()"
+displayName
+codeLenses"
+kindMETHOD"
+	startLine9"
+isValfalse"Q
+uriJmetals/src/main/scala/scala/meta/internal/metals/codelenses/CodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter6"
+isFinalfalse"
+LOC2*
+codeLenses2µ
+Rscala/meta/internal/metals/codelenses/CodeLens#codeLenses().(textDocumentWithPath)	PARAMETERT
+Jmetals/src/main/scala/scala/meta/internal/metals/codelenses/CodeLens.scala	 	(%2w
+scala/package.Seq#RETURN_TYPET
+Jmetals/src/main/scala/scala/meta/internal/metals/codelenses/CodeLens.scala	> 	(A2p
+org/eclipse/lsp4j/CALLT
+Jmetals/src/main/scala/scala/meta/internal/metals/codelenses/CodeLens.scala	B 	(C2€
+org/eclipse/lsp4j/CodeLens#RETURN_TYPET
+Jmetals/src/main/scala/scala/meta/internal/metals/codelenses/CodeLens.scala	D 	(L2}
+scala/collection/immutable/Nil.CALLT
+Jmetals/src/main/scala/scala/meta/internal/metals/codelenses/CodeLens.scala
+ 
+(

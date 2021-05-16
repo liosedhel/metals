@@ -1,0 +1,1848 @@
+
+Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala¥
+Cscala/meta/internal/decorations/PublishDecorationsParams.unapply().METHOD"
+endLine0"
+isVarfalse"M
+symbolCscala/meta/internal/decorations/PublishDecorationsParams.unapply()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameunapply"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*unapply2U
+Hscala/meta/internal/decorations/PublishDecorationsParams.unapply().(x$0)	PARAMETER2
+scala/Option#RETURN_TYPE2
+scala/Tuple2#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE2
+scala/Array#RETURN_TYPE2A
+2scala/meta/internal/decorations/DecorationOptions#RETURN_TYPEΩ
+Dscala/meta/internal/decorations/PublishDecorationsParams#canEqual().METHOD"
+endLine0"
+isVarfalse"N
+symbolDscala/meta/internal/decorations/PublishDecorationsParams#canEqual()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamecanEqual"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*canEqual2V
+Iscala/meta/internal/decorations/PublishDecorationsParams#canEqual().(x$1)	PARAMETER2
+scala/Boolean#RETURN_TYPE2$
+scala/Equals#canEqual().OVERRIDEÉ
+Iscala/meta/internal/decorations/DecorationOptions.apply().(renderOptions)	PARAMETER"
+endLine0"
+isVarfalse"S
+symbolIscala/meta/internal/decorations/DecorationOptions.apply().(renderOptions)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamerenderOptions"
+kind	PARAMETER"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*renderOptions2P
+Hscala/meta/internal/decorations/ThemableDecorationInstanceRenderOptions#TYPE˛
+Mscala/meta/internal/decorations/PublishDecorationsParams#`<init>`().(options)	PARAMETER"
+endLine0"
+isVarfalse"W
+symbolMscala/meta/internal/decorations/PublishDecorationsParams#`<init>`().(options)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNameoptions"
+kind	PARAMETER"
+	startLine0"
+isValtrue"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*options2
+scala/Array#TYPE2:
+2scala/meta/internal/decorations/DecorationOptions#TYPE˘
+Jscala/meta/internal/decorations/PublishDecorationsParams.apply().(options)	PARAMETER"
+endLine0"
+isVarfalse"T
+symbolJscala/meta/internal/decorations/PublishDecorationsParams.apply().(options)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNameoptions"
+kind	PARAMETER"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*options2
+scala/Array#TYPE2:
+2scala/meta/internal/decorations/DecorationOptions#TYPE∞
+Kscala/meta/internal/decorations/PublishDecorationsParams#productIterator().METHOD"
+endLine0"
+isVarfalse"U
+symbolKscala/meta/internal/decorations/PublishDecorationsParams#productIterator()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameproductIterator"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productIterator2)
+scala/collection/Iterator#RETURN_TYPE2
+
+scala/Any#RETURN_TYPE2,
+ scala/Product#productIterator().OVERRIDEÕ
+<scala/meta/internal/decorations/DecorationOptions.unapply().METHOD"
+endLine0"
+isVarfalse"F
+symbol<scala/meta/internal/decorations/DecorationOptions.unapply()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameunapply"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*unapply2N
+Ascala/meta/internal/decorations/DecorationOptions.unapply().(x$0)	PARAMETER2
+scala/Option#RETURN_TYPE2
+scala/Tuple3#RETURN_TYPE2'
+org/eclipse/lsp4j/Range#RETURN_TYPE2/
+ org/eclipse/lsp4j/MarkupContent#RETURN_TYPE2W
+Hscala/meta/internal/decorations/ThemableDecorationInstanceRenderOptions#RETURN_TYPE®
+=scala/meta/internal/decorations/DecorationOptions#canEqual().METHOD"
+endLine0"
+isVarfalse"G
+symbol=scala/meta/internal/decorations/DecorationOptions#canEqual()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamecanEqual"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*canEqual2O
+Bscala/meta/internal/decorations/DecorationOptions#canEqual().(x$1)	PARAMETER2
+scala/Boolean#RETURN_TYPE2$
+scala/Equals#canEqual().OVERRIDEµ
+Fscala/meta/internal/decorations/PublishDecorationsParams.apply().(uri)	PARAMETER"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/decorations/PublishDecorationsParams.apply().(uri)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNameuri"
+kind	PARAMETER"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*uri2
+scala/Predef.String#TYPE±
+@scala/meta/internal/decorations/DecorationOptions#copy().(range)	PARAMETER"
+endLine0"
+isVarfalse"J
+symbol@scala/meta/internal/decorations/DecorationOptions#copy().(range)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamerange"
+kind	PARAMETER"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*range2 
+org/eclipse/lsp4j/Range#TYPE∏
+Dscala/meta/internal/decorations/DecorationOptions#`<init>`().(range)	PARAMETER"
+endLine0"
+isVarfalse"N
+symbolDscala/meta/internal/decorations/DecorationOptions#`<init>`().(range)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamerange"
+kind	PARAMETER"
+	startLine0"
+isValtrue"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*range2 
+org/eclipse/lsp4j/Range#TYPEΩ
+Oscala/meta/internal/decorations/PublishDecorationsParams#productElement().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"Y
+symbolOscala/meta/internal/decorations/PublishDecorationsParams#productElement().(x$1)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Int#TYPE±
+Iscala/meta/internal/decorations/PublishDecorationsParams#canEqual().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"S
+symbolIscala/meta/internal/decorations/PublishDecorationsParams#canEqual().(x$1)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Any#TYPEÖ
+Kscala/meta/internal/decorations/DecorationOptions#`<init>`().(hoverMessage)	PARAMETER"
+endLine0"
+isVarfalse"U
+symbolKscala/meta/internal/decorations/DecorationOptions#`<init>`().(hoverMessage)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamehoverMessage"
+kind	PARAMETER"
+	startLine0"
+isValtrue"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*hoverMessage2'
+javax/annotation/Nullable#	ANNOTATED2(
+ org/eclipse/lsp4j/MarkupContent#TYPE∞
+Tscala/meta/internal/decorations/DecorationClient#metalsPublishDecorations().(params)	PARAMETERV
+Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala ("
+endLine11"
+isVarfalse"^
+symbolTscala/meta/internal/decorations/DecorationClient#metalsPublishDecorations().(params)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNameparams"
+kind	PARAMETER"
+	startLine11"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*params2ô
+9scala/meta/internal/decorations/PublishDecorationsParams#TYPEV
+Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala (&≠
+Gscala/meta/internal/decorations/PublishDecorationsParams#equals().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"Q
+symbolGscala/meta/internal/decorations/PublishDecorationsParams#equals().(x$1)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Any#TYPE◊
+Hscala/meta/internal/decorations/DecorationOptions.apply().(hoverMessage)	PARAMETER"
+endLine0"
+isVarfalse"R
+symbolHscala/meta/internal/decorations/DecorationOptions.apply().(hoverMessage)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamehoverMessage"
+kind	PARAMETER"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*hoverMessage2(
+ org/eclipse/lsp4j/MarkupContent#TYPE™
+2scala/meta/internal/decorations/DecorationOptions#CLASSV
+Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala ("
+endLine15"
+isVarfalse"<
+symbol2scala/meta/internal/decorations/DecorationOptions#"*
+packagescala.meta.internal.decorations"
+accessPublicAccess()" 
+displayNameDecorationOptions"
+kindCLASS"
+	startLine15"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter28"
+startCharacter11"
+isFinalfalse"
+LOC5*DecorationOptions2ü
+8scala/meta/internal/decorations/DecorationOptions#range.DECLARATIONV
+Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala (	2¶
+?scala/meta/internal/decorations/DecorationOptions#hoverMessage.DECLARATIONV
+Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala (2ß
+@scala/meta/internal/decorations/DecorationOptions#renderOptions.DECLARATIONV
+Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala (2§
+=scala/meta/internal/decorations/DecorationOptions#`<init>`().DECLARATIONV
+Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala (2H
+9scala/meta/internal/decorations/DecorationOptions#copy().DECLARATION2R
+Cscala/meta/internal/decorations/DecorationOptions#copy$default$1().DECLARATION2R
+Cscala/meta/internal/decorations/DecorationOptions#copy$default$2().DECLARATION2R
+Cscala/meta/internal/decorations/DecorationOptions#copy$default$3().DECLARATION2Q
+Bscala/meta/internal/decorations/DecorationOptions#productPrefix().DECLARATION2P
+Ascala/meta/internal/decorations/DecorationOptions#productArity().DECLARATION2R
+Cscala/meta/internal/decorations/DecorationOptions#productElement().DECLARATION2S
+Dscala/meta/internal/decorations/DecorationOptions#productIterator().DECLARATION2L
+=scala/meta/internal/decorations/DecorationOptions#canEqual().DECLARATION2L
+=scala/meta/internal/decorations/DecorationOptions#hashCode().DECLARATION2L
+=scala/meta/internal/decorations/DecorationOptions#toString().DECLARATION2J
+;scala/meta/internal/decorations/DecorationOptions#equals().DECLARATION2
+scala/AnyRef#EXTEND2
+scala/Product#EXTEND2
+scala/Serializable#EXTEND≥
+Escala/meta/internal/decorations/PublishDecorationsParams#copy().(uri)	PARAMETER"
+endLine0"
+isVarfalse"O
+symbolEscala/meta/internal/decorations/PublishDecorationsParams#copy().(uri)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNameuri"
+kind	PARAMETER"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*uri2
+scala/Predef.String#TYPE”
+8scala/meta/internal/decorations/DecorationOptions#range.VALUEV
+Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala (	"
+endLine16"
+isVarfalse"B
+symbol8scala/meta/internal/decorations/DecorationOptions#range."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamerange"
+kindVALUE"
+	startLine16"
+isValtrue"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter9"
+startCharacter4"
+isFinalfalse*range2x
+org/eclipse/lsp4j/Range#TYPEV
+Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala (°
+2scala/meta/internal/decorations/DecorationOptions.OBJECTT
+Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala ("
+endLine0"
+isVarfalse"<
+symbol2scala/meta/internal/decorations/DecorationOptions."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()" 
+displayNameDecorationOptions"
+kindOBJECT"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinaltrue*DecorationOptions2L
+=scala/meta/internal/decorations/DecorationOptions.toString().DECLARATION2I
+:scala/meta/internal/decorations/DecorationOptions.apply().DECLARATION2S
+Dscala/meta/internal/decorations/DecorationOptions.apply$default$2().DECLARATION2S
+Dscala/meta/internal/decorations/DecorationOptions.apply$default$3().DECLARATION2K
+<scala/meta/internal/decorations/DecorationOptions.unapply().DECLARATION2V
+Gscala/meta/internal/decorations/DecorationOptions.`<init>$default$2`().DECLARATION2V
+Gscala/meta/internal/decorations/DecorationOptions.`<init>$default$3`().DECLARATION2O
+@scala/meta/internal/decorations/DecorationOptions.readResolve().DECLARATION2*
+ scala/runtime/AbstractFunction3#EXTEND2"
+org/eclipse/lsp4j/Range#EXTEND2*
+ org/eclipse/lsp4j/MarkupContent#EXTEND2R
+Hscala/meta/internal/decorations/ThemableDecorationInstanceRenderOptions#EXTEND2<
+2scala/meta/internal/decorations/DecorationOptions#EXTEND2
+scala/Serializable#EXTENDÂ
+;scala/meta/internal/decorations/DecorationOptions#equals().METHOD"
+endLine0"
+isVarfalse"E
+symbol;scala/meta/internal/decorations/DecorationOptions#equals()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameequals"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*equals2M
+@scala/meta/internal/decorations/DecorationOptions#equals().(x$1)	PARAMETER2
+scala/Boolean#RETURN_TYPE2"
+scala/Equals#equals().OVERRIDE2&
+java/lang/Object#equals().OVERRIDE2
+scala/Any#equals().OVERRIDE∫
+1scala/meta/internal/decorations/DecorationClient#TRAITV
+Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala ("
+endLine8"
+isVarfalse";
+symbol1scala/meta/internal/decorations/DecorationClient#"*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameDecorationClient"
+kindTRAIT"
+	startLine8"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter6"
+isFinalfalse"
+LOC6*DecorationClient2≥
+Lscala/meta/internal/decorations/DecorationClient#metalsPublishDecorations().DECLARATIONV
+Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala
+ 
+(2
+scala/AnyRef#EXTENDÓ
+:scala/meta/internal/decorations/DecorationOptions.apply().METHOD"
+endLine0"
+isVarfalse"D
+symbol:scala/meta/internal/decorations/DecorationOptions.apply()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameapply"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply2N
+Ascala/meta/internal/decorations/DecorationOptions.apply().(range)	PARAMETER2U
+Hscala/meta/internal/decorations/DecorationOptions.apply().(hoverMessage)	PARAMETER2V
+Iscala/meta/internal/decorations/DecorationOptions.apply().(renderOptions)	PARAMETER2A
+2scala/meta/internal/decorations/DecorationOptions#RETURN_TYPE2$
+scala/Function3#apply().OVERRIDEô
+Cscala/meta/internal/decorations/DecorationOptions#copy$default$2().METHOD"
+endLine0"
+isVarfalse"M
+symbolCscala/meta/internal/decorations/DecorationOptions#copy$default$2()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamecopy$default$2"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$22<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2/
+ org/eclipse/lsp4j/MarkupContent#RETURN_TYPEü
+@scala/meta/internal/decorations/DecorationOptions#equals().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"J
+symbol@scala/meta/internal/decorations/DecorationOptions#equals().(x$1)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Any#TYPEÎ
+Slocal2:metals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal2"
+package "
+accessPublicAccess()"
+displayNamecase6"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case62
+scala/Boolean#RETURN_TYPEÎ
+Slocal6:metals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal6"
+package "
+accessPublicAccess()"
+displayNamecase5"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case52
+scala/Boolean#RETURN_TYPEØ
+Hscala/meta/internal/decorations/DecorationOptions#productElement().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"R
+symbolHscala/meta/internal/decorations/DecorationOptions#productElement().(x$1)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Int#TYPEÎ
+Slocal7:metals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal7"
+package "
+accessPublicAccess()"
+displayNamecase6"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case62
+scala/Boolean#RETURN_TYPE£
+Bscala/meta/internal/decorations/DecorationOptions#canEqual().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"L
+symbolBscala/meta/internal/decorations/DecorationOptions#canEqual().(x$1)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Any#TYPE÷
+Jscala/meta/internal/decorations/PublishDecorationsParams#copy$default$2().METHOD"
+endLine0"
+isVarfalse"T
+symbolJscala/meta/internal/decorations/PublishDecorationsParams#copy$default$2()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamecopy$default$2"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$22<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+scala/Array#RETURN_TYPE2A
+2scala/meta/internal/decorations/DecorationOptions#RETURN_TYPEè
+Dscala/meta/internal/decorations/PublishDecorationsParams#toString().METHOD"
+endLine0"
+isVarfalse"N
+symbolDscala/meta/internal/decorations/PublishDecorationsParams#toString()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNametoString"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*toString2 
+java/lang/String#RETURN_TYPE2(
+java/lang/Object#toString().OVERRIDE2!
+scala/Any#toString().OVERRIDEÑ	
+Dscala/meta/internal/decorations/PublishDecorationsParams#`<init>`().CONSTRUCTORV
+Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala# (#"
+endLine21"
+isVarfalse"N
+symbolDscala/meta/internal/decorations/PublishDecorationsParams#`<init>`()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine21"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter35"
+startCharacter35"
+isFinalfalse*<init>2V
+Iscala/meta/internal/decorations/PublishDecorationsParams#`<init>`().(uri)	PARAMETER2Z
+Mscala/meta/internal/decorations/PublishDecorationsParams#`<init>`().(options)	PARAMETER2¢
+=scala/meta/internal/decorations/PublishDecorationsParams#uri.	PARAMETERV
+Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala (2¶
+Ascala/meta/internal/decorations/PublishDecorationsParams#options.	PARAMETERV
+Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala (≥
+Ascala/meta/internal/decorations/DecorationOptions.apply().(range)	PARAMETER"
+endLine0"
+isVarfalse"K
+symbolAscala/meta/internal/decorations/DecorationOptions.apply().(range)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamerange"
+kind	PARAMETER"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*range2 
+org/eclipse/lsp4j/Range#TYPE˜
+Iscala/meta/internal/decorations/PublishDecorationsParams#copy().(options)	PARAMETER"
+endLine0"
+isVarfalse"S
+symbolIscala/meta/internal/decorations/PublishDecorationsParams#copy().(options)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNameoptions"
+kind	PARAMETER"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*options2
+scala/Array#TYPE2:
+2scala/meta/internal/decorations/DecorationOptions#TYPEˆ
+Hscala/meta/internal/decorations/PublishDecorationsParams#productArity().METHOD"
+endLine0"
+isVarfalse"R
+symbolHscala/meta/internal/decorations/PublishDecorationsParams#productArity()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameproductArity"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productArity2
+
+scala/Int#RETURN_TYPE2)
+scala/Product#productArity().OVERRIDEﬁ
+Hscala/meta/internal/decorations/PublishDecorationsParams.unapply().(x$0)	PARAMETER"
+endLine0"
+isVarfalse"R
+symbolHscala/meta/internal/decorations/PublishDecorationsParams.unapply().(x$0)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamex$0"
+kind	PARAMETER"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$02A
+9scala/meta/internal/decorations/PublishDecorationsParams#TYPE£
+9scala/meta/internal/decorations/PublishDecorationsParams#CLASSV
+Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala (#"
+endLine21"
+isVarfalse"C
+symbol9scala/meta/internal/decorations/PublishDecorationsParams#"*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"'
+displayNamePublishDecorationsParams"
+kindCLASS"
+	startLine21"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter35"
+startCharacter11"
+isFinalfalse"
+LOC4*PublishDecorationsParams2§
+=scala/meta/internal/decorations/PublishDecorationsParams#uri.DECLARATIONV
+Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala (2®
+Ascala/meta/internal/decorations/PublishDecorationsParams#options.DECLARATIONV
+Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala (2´
+Dscala/meta/internal/decorations/PublishDecorationsParams#`<init>`().DECLARATIONV
+Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala# (#2O
+@scala/meta/internal/decorations/PublishDecorationsParams#copy().DECLARATION2Y
+Jscala/meta/internal/decorations/PublishDecorationsParams#copy$default$1().DECLARATION2Y
+Jscala/meta/internal/decorations/PublishDecorationsParams#copy$default$2().DECLARATION2X
+Iscala/meta/internal/decorations/PublishDecorationsParams#productPrefix().DECLARATION2W
+Hscala/meta/internal/decorations/PublishDecorationsParams#productArity().DECLARATION2Y
+Jscala/meta/internal/decorations/PublishDecorationsParams#productElement().DECLARATION2Z
+Kscala/meta/internal/decorations/PublishDecorationsParams#productIterator().DECLARATION2S
+Dscala/meta/internal/decorations/PublishDecorationsParams#canEqual().DECLARATION2S
+Dscala/meta/internal/decorations/PublishDecorationsParams#hashCode().DECLARATION2S
+Dscala/meta/internal/decorations/PublishDecorationsParams#toString().DECLARATION2Q
+Bscala/meta/internal/decorations/PublishDecorationsParams#equals().DECLARATION2
+scala/AnyRef#EXTEND2
+scala/Product#EXTEND2
+scala/Serializable#EXTENDœ
+Gscala/meta/internal/decorations/PublishDecorationsParams.readResolve().METHOD"
+endLine0"
+isVarfalse"Q
+symbolGscala/meta/internal/decorations/PublishDecorationsParams.readResolve()."*
+packagescala.meta.internal.decorations"
+accessPrivateAccess()"
+displayNamereadResolve"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*readResolve2 
+java/lang/Object#RETURN_TYPE¢
+Dscala/meta/internal/decorations/DecorationOptions#productIterator().METHOD"
+endLine0"
+isVarfalse"N
+symbolDscala/meta/internal/decorations/DecorationOptions#productIterator()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameproductIterator"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productIterator2)
+scala/collection/Iterator#RETURN_TYPE2
+
+scala/Any#RETURN_TYPE2,
+ scala/Product#productIterator().OVERRIDEÿ	
+9scala/meta/internal/decorations/PublishDecorationsParams.OBJECTT
+Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala ("
+endLine0"
+isVarfalse"C
+symbol9scala/meta/internal/decorations/PublishDecorationsParams."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"'
+displayNamePublishDecorationsParams"
+kindOBJECT"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinaltrue*PublishDecorationsParams2S
+Dscala/meta/internal/decorations/PublishDecorationsParams.toString().DECLARATION2P
+Ascala/meta/internal/decorations/PublishDecorationsParams.apply().DECLARATION2R
+Cscala/meta/internal/decorations/PublishDecorationsParams.unapply().DECLARATION2V
+Gscala/meta/internal/decorations/PublishDecorationsParams.readResolve().DECLARATION2*
+ scala/runtime/AbstractFunction2#EXTEND2
+scala/Predef.String#EXTEND2
+scala/Array#EXTEND2<
+2scala/meta/internal/decorations/DecorationOptions#EXTEND2C
+9scala/meta/internal/decorations/PublishDecorationsParams#EXTEND2
+scala/Serializable#EXTEND≈
+Dscala/meta/internal/decorations/DecorationOptions.apply$default$3().METHOD"
+endLine0"
+isVarfalse"N
+symbolDscala/meta/internal/decorations/DecorationOptions.apply$default$3()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameapply$default$3"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply$default$32<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2W
+Hscala/meta/internal/decorations/ThemableDecorationInstanceRenderOptions#RETURN_TYPE©
+=scala/meta/internal/decorations/DecorationOptions.toString().METHOD"
+endLine0"
+isVarfalse"G
+symbol=scala/meta/internal/decorations/DecorationOptions.toString()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNametoString"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinaltrue*toString2 
+java/lang/String#RETURN_TYPE2'
+scala/Function3#toString().OVERRIDE2(
+java/lang/Object#toString().OVERRIDE2!
+scala/Any#toString().OVERRIDE÷
+Slocal3:metals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal3"
+package "
+accessPublicAccess()"
+displayName	matchEnd4"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*	matchEnd42a
+Tlocal95:metals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala	PARAMETER2
+scala/Boolean#RETURN_TYPEù
+Lscala/meta/internal/decorations/DecorationClient#metalsPublishDecorations().METHODV
+Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala
+ 
+("
+endLine10"
+isVarfalse"V
+symbolLscala/meta/internal/decorations/DecorationClient#metalsPublishDecorations()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"'
+displayNamemetalsPublishDecorations"
+kindMETHOD"
+	startLine10"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstracttrue"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter30"
+startCharacter6"
+isFinalfalse*metalsPublishDecorations2A
+4org/eclipse/lsp4j/jsonrpc/services/JsonNotification#	ANNOTATED2π
+Tscala/meta/internal/decorations/DecorationClient#metalsPublishDecorations().(params)	PARAMETERV
+Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala (2r
+scala/Unit#RETURN_TYPEV
+Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala (	∫
+Iscala/meta/internal/decorations/PublishDecorationsParams#`<init>`().(uri)	PARAMETER"
+endLine0"
+isVarfalse"S
+symbolIscala/meta/internal/decorations/PublishDecorationsParams#`<init>`().(uri)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNameuri"
+kind	PARAMETER"
+	startLine0"
+isValtrue"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*uri2
+scala/Predef.String#TYPE¡
+Cscala/meta/internal/decorations/DecorationOptions#copy$default$3().METHOD"
+endLine0"
+isVarfalse"M
+symbolCscala/meta/internal/decorations/DecorationOptions#copy$default$3()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamecopy$default$3"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$32<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2W
+Hscala/meta/internal/decorations/ThemableDecorationInstanceRenderOptions#RETURN_TYPE¶
+@scala/meta/internal/decorations/DecorationOptions#renderOptions.VALUEV
+Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala ("
+endLine18"
+isVarfalse"J
+symbol@scala/meta/internal/decorations/DecorationOptions#renderOptions."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamerenderOptions"
+kindVALUE"
+	startLine18"
+isValtrue"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter27"
+startCharacter14"
+isFinalfalse*renderOptions2®
+Hscala/meta/internal/decorations/ThemableDecorationInstanceRenderOptions#TYPEV
+Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala (DÛ
+Ascala/meta/internal/decorations/PublishDecorationsParams#options.VALUEV
+Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala ("
+endLine23"
+isVarfalse"K
+symbolAscala/meta/internal/decorations/PublishDecorationsParams#options."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameoptions"
+kindVALUE"
+	startLine23"
+isValtrue"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter11"
+startCharacter4"
+isFinalfalse*options2l
+scala/Array#TYPEV
+Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala (2í
+2scala/meta/internal/decorations/DecorationOptions#TYPEV
+Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala ($õ
+Jscala/meta/internal/decorations/PublishDecorationsParams#copy$default$1().METHOD"
+endLine0"
+isVarfalse"T
+symbolJscala/meta/internal/decorations/PublishDecorationsParams#copy$default$1()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamecopy$default$1"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$12<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE•
+Gscala/meta/internal/decorations/DecorationOptions.`<init>$default$2`().METHOD"
+endLine0"
+isVarfalse"Q
+symbolGscala/meta/internal/decorations/DecorationOptions.`<init>$default$2`()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayName<init>$default$2"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>$default$22<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2/
+ org/eclipse/lsp4j/MarkupContent#RETURN_TYPEﬁ
+Jscala/meta/internal/decorations/PublishDecorationsParams#productElement().METHOD"
+endLine0"
+isVarfalse"T
+symbolJscala/meta/internal/decorations/PublishDecorationsParams#productElement()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameproductElement"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productElement2\
+Oscala/meta/internal/decorations/PublishDecorationsParams#productElement().(x$1)	PARAMETER2
+
+scala/Any#RETURN_TYPE2+
+scala/Product#productElement().OVERRIDE¢
+Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scalaFILE*Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala˙
+?scala/meta/internal/decorations/DecorationOptions#hoverMessage.VALUEV
+Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala ("
+endLine17"
+isVarfalse"I
+symbol?scala/meta/internal/decorations/DecorationOptions#hoverMessage."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamehoverMessage"
+kindVALUE"
+	startLine17"
+isValtrue"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter26"
+startCharacter14"
+isFinalfalse*hoverMessage2Ä
+ org/eclipse/lsp4j/MarkupContent#TYPEV
+Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala ()Õ
+Slocal0:metals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal0"
+package "
+accessEmpty"
+displayNamex1"
+kindVALUE"
+	startLine0"
+isValtrue"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x12
+
+scala/Any#TYPEù
+Dscala/meta/internal/decorations/DecorationOptions.apply$default$2().METHOD"
+endLine0"
+isVarfalse"N
+symbolDscala/meta/internal/decorations/DecorationOptions.apply$default$2()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameapply$default$2"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply$default$22<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2/
+ org/eclipse/lsp4j/MarkupContent#RETURN_TYPE…
+Cscala/meta/internal/decorations/DecorationOptions#productElement().METHOD"
+endLine0"
+isVarfalse"M
+symbolCscala/meta/internal/decorations/DecorationOptions#productElement()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameproductElement"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productElement2U
+Hscala/meta/internal/decorations/DecorationOptions#productElement().(x$1)	PARAMETER2
+
+scala/Any#RETURN_TYPE2+
+scala/Product#productElement().OVERRIDEó
+Slocal4:metals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal4"
+package "
+accessEmpty""
+displayNameDecorationOptions$1"
+kindVALUE"
+	startLine0"
+isValtrue"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*DecorationOptions$12:
+2scala/meta/internal/decorations/DecorationOptions#TYPE’
+Gscala/meta/internal/decorations/DecorationOptions#copy().(hoverMessage)	PARAMETER"
+endLine0"
+isVarfalse"Q
+symbolGscala/meta/internal/decorations/DecorationOptions#copy().(hoverMessage)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamehoverMessage"
+kind	PARAMETER"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*hoverMessage2(
+ org/eclipse/lsp4j/MarkupContent#TYPEÕ
+Gscala/meta/internal/decorations/DecorationOptions.`<init>$default$3`().METHOD"
+endLine0"
+isVarfalse"Q
+symbolGscala/meta/internal/decorations/DecorationOptions.`<init>$default$3`()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayName<init>$default$3"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>$default$32<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2W
+Hscala/meta/internal/decorations/ThemableDecorationInstanceRenderOptions#RETURN_TYPEÙ
+Bscala/meta/internal/decorations/DecorationOptions#productPrefix().METHOD"
+endLine0"
+isVarfalse"L
+symbolBscala/meta/internal/decorations/DecorationOptions#productPrefix()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameproductPrefix"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productPrefix2 
+java/lang/String#RETURN_TYPE2*
+scala/Product#productPrefix().OVERRIDE¡
+@scala/meta/internal/decorations/DecorationOptions.readResolve().METHOD"
+endLine0"
+isVarfalse"J
+symbol@scala/meta/internal/decorations/DecorationOptions.readResolve()."*
+packagescala.meta.internal.decorations"
+accessPrivateAccess()"
+displayNamereadResolve"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*readResolve2 
+java/lang/Object#RETURN_TYPE˙
+=scala/meta/internal/decorations/DecorationOptions#hashCode().METHOD"
+endLine0"
+isVarfalse"G
+symbol=scala/meta/internal/decorations/DecorationOptions#hashCode()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamehashCode"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*hashCode2
+
+scala/Int#RETURN_TYPE2(
+java/lang/Object#hashCode().OVERRIDE2!
+scala/Any#hashCode().OVERRIDE÷
+Slocal8:metals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal8"
+package "
+accessPublicAccess()"
+displayName	matchEnd4"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*	matchEnd42a
+Tlocal96:metals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala	PARAMETER2
+scala/Boolean#RETURN_TYPEÅ
+=scala/meta/internal/decorations/DecorationOptions#toString().METHOD"
+endLine0"
+isVarfalse"G
+symbol=scala/meta/internal/decorations/DecorationOptions#toString()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNametoString"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*toString2 
+java/lang/String#RETURN_TYPE2(
+java/lang/Object#toString().OVERRIDE2!
+scala/Any#toString().OVERRIDE¡
+9scala/meta/internal/decorations/DecorationOptions#copy().METHOD"
+endLine0"
+isVarfalse"C
+symbol9scala/meta/internal/decorations/DecorationOptions#copy()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamecopy"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy2M
+@scala/meta/internal/decorations/DecorationOptions#copy().(range)	PARAMETER2T
+Gscala/meta/internal/decorations/DecorationOptions#copy().(hoverMessage)	PARAMETER2U
+Hscala/meta/internal/decorations/DecorationOptions#copy().(renderOptions)	PARAMETER2A
+2scala/meta/internal/decorations/DecorationOptions#RETURN_TYPEà
+Dscala/meta/internal/decorations/PublishDecorationsParams#hashCode().METHOD"
+endLine0"
+isVarfalse"N
+symbolDscala/meta/internal/decorations/PublishDecorationsParams#hashCode()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamehashCode"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*hashCode2
+
+scala/Int#RETURN_TYPE2(
+java/lang/Object#hashCode().OVERRIDE2!
+scala/Any#hashCode().OVERRIDE˙
+Bscala/meta/internal/decorations/PublishDecorationsParams#equals().METHOD"
+endLine0"
+isVarfalse"L
+symbolBscala/meta/internal/decorations/PublishDecorationsParams#equals()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameequals"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*equals2T
+Gscala/meta/internal/decorations/PublishDecorationsParams#equals().(x$1)	PARAMETER2
+scala/Boolean#RETURN_TYPE2"
+scala/Equals#equals().OVERRIDE2&
+java/lang/Object#equals().OVERRIDE2
+scala/Any#equals().OVERRIDE…
+Ascala/meta/internal/decorations/DecorationOptions.unapply().(x$0)	PARAMETER"
+endLine0"
+isVarfalse"K
+symbolAscala/meta/internal/decorations/DecorationOptions.unapply().(x$0)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamex$0"
+kind	PARAMETER"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$02:
+2scala/meta/internal/decorations/DecorationOptions#TYPEÜ
+@scala/meta/internal/decorations/PublishDecorationsParams#copy().METHOD"
+endLine0"
+isVarfalse"J
+symbol@scala/meta/internal/decorations/PublishDecorationsParams#copy()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamecopy"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy2R
+Escala/meta/internal/decorations/PublishDecorationsParams#copy().(uri)	PARAMETER2V
+Iscala/meta/internal/decorations/PublishDecorationsParams#copy().(options)	PARAMETER2H
+9scala/meta/internal/decorations/PublishDecorationsParams#RETURN_TYPE≤
+Ascala/meta/internal/decorations/PublishDecorationsParams.apply().METHOD"
+endLine0"
+isVarfalse"K
+symbolAscala/meta/internal/decorations/PublishDecorationsParams.apply()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameapply"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply2S
+Fscala/meta/internal/decorations/PublishDecorationsParams.apply().(uri)	PARAMETER2W
+Jscala/meta/internal/decorations/PublishDecorationsParams.apply().(options)	PARAMETER2H
+9scala/meta/internal/decorations/PublishDecorationsParams#RETURN_TYPE2$
+scala/Function2#apply().OVERRIDEË
+Ascala/meta/internal/decorations/DecorationOptions#productArity().METHOD"
+endLine0"
+isVarfalse"K
+symbolAscala/meta/internal/decorations/DecorationOptions#productArity()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameproductArity"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productArity2
+
+scala/Int#RETURN_TYPE2)
+scala/Product#productArity().OVERRIDEÎ
+Slocal1:metals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal1"
+package "
+accessPublicAccess()"
+displayNamecase5"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case52
+scala/Boolean#RETURN_TYPE’
+=scala/meta/internal/decorations/PublishDecorationsParams#uri.VALUEV
+Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala ("
+endLine22"
+isVarfalse"G
+symbol=scala/meta/internal/decorations/PublishDecorationsParams#uri."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameuri"
+kindVALUE"
+	startLine22"
+isValtrue"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter7"
+startCharacter4"
+isFinalfalse*uri2t
+scala/Predef.String#TYPEV
+Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala	 (Ç
+Iscala/meta/internal/decorations/PublishDecorationsParams#productPrefix().METHOD"
+endLine0"
+isVarfalse"S
+symbolIscala/meta/internal/decorations/PublishDecorationsParams#productPrefix()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameproductPrefix"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productPrefix2 
+java/lang/String#RETURN_TYPE2*
+scala/Product#productPrefix().OVERRIDEÅ
+Hscala/meta/internal/decorations/DecorationOptions#copy().(renderOptions)	PARAMETER"
+endLine0"
+isVarfalse"R
+symbolHscala/meta/internal/decorations/DecorationOptions#copy().(renderOptions)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamerenderOptions"
+kind	PARAMETER"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*renderOptions2P
+Hscala/meta/internal/decorations/ThemableDecorationInstanceRenderOptions#TYPEë
+Cscala/meta/internal/decorations/DecorationOptions#copy$default$1().METHOD"
+endLine0"
+isVarfalse"M
+symbolCscala/meta/internal/decorations/DecorationOptions#copy$default$1()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamecopy$default$1"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$12<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2'
+org/eclipse/lsp4j/Range#RETURN_TYPE¨
+Slocal9:metals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal9"
+package "
+accessEmpty")
+displayNamePublishDecorationsParams$1"
+kindVALUE"
+	startLine0"
+isValtrue"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*PublishDecorationsParams$12A
+9scala/meta/internal/decorations/PublishDecorationsParams#TYPEÕ
+Slocal5:metals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal5"
+package "
+accessEmpty"
+displayNamex1"
+kindVALUE"
+	startLine0"
+isValtrue"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x12
+
+scala/Any#TYPEÎ
+
+=scala/meta/internal/decorations/DecorationOptions#`<init>`().CONSTRUCTORV
+Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala ("
+endLine15"
+isVarfalse"G
+symbol=scala/meta/internal/decorations/DecorationOptions#`<init>`()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine15"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter28"
+startCharacter28"
+isFinalfalse*<init>2Q
+Dscala/meta/internal/decorations/DecorationOptions#`<init>`().(range)	PARAMETER2X
+Kscala/meta/internal/decorations/DecorationOptions#`<init>`().(hoverMessage)	PARAMETER2Y
+Lscala/meta/internal/decorations/DecorationOptions#`<init>`().(renderOptions)	PARAMETER2ù
+8scala/meta/internal/decorations/DecorationOptions#range.	PARAMETERV
+Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala (	2§
+?scala/meta/internal/decorations/DecorationOptions#hoverMessage.	PARAMETERV
+Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala (2•
+@scala/meta/internal/decorations/DecorationOptions#renderOptions.	PARAMETERV
+Lmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala (±
+Lscala/meta/internal/decorations/DecorationOptions#`<init>`().(renderOptions)	PARAMETER"
+endLine0"
+isVarfalse"V
+symbolLscala/meta/internal/decorations/DecorationOptions#`<init>`().(renderOptions)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamerenderOptions"
+kind	PARAMETER"
+	startLine0"
+isValtrue"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*renderOptions2'
+javax/annotation/Nullable#	ANNOTATED2P
+Hscala/meta/internal/decorations/ThemableDecorationInstanceRenderOptions#TYPE∑
+Dscala/meta/internal/decorations/PublishDecorationsParams.toString().METHOD"
+endLine0"
+isVarfalse"N
+symbolDscala/meta/internal/decorations/PublishDecorationsParams.toString()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNametoString"
+kindMETHOD"
+	startLine0"
+isValfalse"S
+uriLmetals/src/main/scala/scala/meta/internal/decorations/DecorationClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinaltrue*toString2 
+java/lang/String#RETURN_TYPE2'
+scala/Function2#toString().OVERRIDE2(
+java/lang/Object#toString().OVERRIDE2!
+scala/Any#toString().OVERRIDE

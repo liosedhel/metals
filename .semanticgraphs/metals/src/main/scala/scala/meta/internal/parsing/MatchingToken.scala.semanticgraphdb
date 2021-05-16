@@ -1,0 +1,177 @@
+
+Emetals/src/main/scala/scala/meta/internal/parsing/MatchingToken.scala‰
+
+5scala/meta/internal/parsing/MatchingToken#toString().METHODO
+Emetals/src/main/scala/scala/meta/internal/parsing/MatchingToken.scala ("
+endLine8"
+isVarfalse"?
+symbol5scala/meta/internal/parsing/MatchingToken#toString()."&
+packagescala.meta.internal.parsing"
+accessPublicAccess()"
+displayNametoString"
+kindMETHOD"
+	startLine8"
+isValfalse"L
+uriEmetals/src/main/scala/scala/meta/internal/parsing/MatchingToken.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter15"
+isFinalfalse"
+LOC2*toString2(
+java/lang/Object#toString().OVERRIDE2!
+scala/Any#toString().OVERRIDE2t
+scala/Predef.String#RETURN_TYPEO
+Emetals/src/main/scala/scala/meta/internal/parsing/MatchingToken.scala (2å
+3scala/meta/internal/parsing/MatchingToken#original.CALLO
+Emetals/src/main/scala/scala/meta/internal/parsing/MatchingToken.scala	 	(2ï
+<scala/meta/prettyprinters/Api#XtensionStructure#structure().CALLO
+Emetals/src/main/scala/scala/meta/internal/parsing/MatchingToken.scala	 	(2ã
+2scala/meta/internal/parsing/MatchingToken#revised.CALLO
+Emetals/src/main/scala/scala/meta/internal/parsing/MatchingToken.scala	" 	()2ï
+<scala/meta/prettyprinters/Api#XtensionStructure#structure().CALLO
+Emetals/src/main/scala/scala/meta/internal/parsing/MatchingToken.scala	* 	(3±
+?scala/meta/internal/parsing/MatchingToken#`<init>`().(original)	PARAMETER"
+endLine0"
+isVarfalse"I
+symbol?scala/meta/internal/parsing/MatchingToken#`<init>`().(original)"&
+packagescala.meta.internal.parsing"
+accessEmpty"
+displayNameoriginal"
+kind	PARAMETER"
+	startLine0"
+isValtrue"L
+uriEmetals/src/main/scala/scala/meta/internal/parsing/MatchingToken.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*original2(
+ scala/meta/tokens/Aliases#Token#TYPEí
+5scala/meta/internal/parsing/MatchingToken#`<init>`().CONSTRUCTORO
+Emetals/src/main/scala/scala/meta/internal/parsing/MatchingToken.scala ("
+endLine7"
+isVarfalse"?
+symbol5scala/meta/internal/parsing/MatchingToken#`<init>`()."&
+packagescala.meta.internal.parsing"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine7"
+isValfalse"L
+uriEmetals/src/main/scala/scala/meta/internal/parsing/MatchingToken.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter19"
+isFinalfalse*<init>2L
+?scala/meta/internal/parsing/MatchingToken#`<init>`().(original)	PARAMETER2K
+>scala/meta/internal/parsing/MatchingToken#`<init>`().(revised)	PARAMETER2ë
+3scala/meta/internal/parsing/MatchingToken#original.	PARAMETERO
+Emetals/src/main/scala/scala/meta/internal/parsing/MatchingToken.scala ( 2ê
+2scala/meta/internal/parsing/MatchingToken#revised.	PARAMETERO
+Emetals/src/main/scala/scala/meta/internal/parsing/MatchingToken.scala- (4∫
+2scala/meta/internal/parsing/MatchingToken#revised.VALUEO
+Emetals/src/main/scala/scala/meta/internal/parsing/MatchingToken.scala- (4"
+endLine7"
+isVarfalse"<
+symbol2scala/meta/internal/parsing/MatchingToken#revised."&
+packagescala.meta.internal.parsing"
+accessPublicAccess()"
+displayNamerevised"
+kindVALUE"
+	startLine7"
+isValtrue"L
+uriEmetals/src/main/scala/scala/meta/internal/parsing/MatchingToken.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter52"
+startCharacter45"
+isFinalfalse*revised2y
+ scala/meta/tokens/Aliases#Token#TYPEO
+Emetals/src/main/scala/scala/meta/internal/parsing/MatchingToken.scala6 (;æ
+3scala/meta/internal/parsing/MatchingToken#original.VALUEO
+Emetals/src/main/scala/scala/meta/internal/parsing/MatchingToken.scala ( "
+endLine7"
+isVarfalse"=
+symbol3scala/meta/internal/parsing/MatchingToken#original."&
+packagescala.meta.internal.parsing"
+accessPublicAccess()"
+displayNameoriginal"
+kindVALUE"
+	startLine7"
+isValtrue"L
+uriEmetals/src/main/scala/scala/meta/internal/parsing/MatchingToken.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter32"
+startCharacter24"
+isFinalfalse*original2y
+ scala/meta/tokens/Aliases#Token#TYPEO
+Emetals/src/main/scala/scala/meta/internal/parsing/MatchingToken.scala" ('î
+Emetals/src/main/scala/scala/meta/internal/parsing/MatchingToken.scalaFILE*Emetals/src/main/scala/scala/meta/internal/parsing/MatchingToken.scalaπ	
+*scala/meta/internal/parsing/MatchingToken#CLASSO
+Emetals/src/main/scala/scala/meta/internal/parsing/MatchingToken.scala ("
+endLine7"
+isVarfalse"4
+symbol*scala/meta/internal/parsing/MatchingToken#"&
+packagescala.meta.internal.parsing"
+accessPublicAccess()"
+displayNameMatchingToken"
+kindCLASS"
+	startLine7"
+isValfalse"L
+uriEmetals/src/main/scala/scala/meta/internal/parsing/MatchingToken.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter6"
+isFinalfalse"
+LOC4*MatchingToken2ì
+3scala/meta/internal/parsing/MatchingToken#original.DECLARATIONO
+Emetals/src/main/scala/scala/meta/internal/parsing/MatchingToken.scala ( 2í
+2scala/meta/internal/parsing/MatchingToken#revised.DECLARATIONO
+Emetals/src/main/scala/scala/meta/internal/parsing/MatchingToken.scala- (42ï
+5scala/meta/internal/parsing/MatchingToken#`<init>`().DECLARATIONO
+Emetals/src/main/scala/scala/meta/internal/parsing/MatchingToken.scala (2ï
+5scala/meta/internal/parsing/MatchingToken#toString().DECLARATIONO
+Emetals/src/main/scala/scala/meta/internal/parsing/MatchingToken.scala (2
+scala/AnyRef#EXTEND≠
+>scala/meta/internal/parsing/MatchingToken#`<init>`().(revised)	PARAMETER"
+endLine0"
+isVarfalse"H
+symbol>scala/meta/internal/parsing/MatchingToken#`<init>`().(revised)"&
+packagescala.meta.internal.parsing"
+accessEmpty"
+displayNamerevised"
+kind	PARAMETER"
+	startLine0"
+isValtrue"L
+uriEmetals/src/main/scala/scala/meta/internal/parsing/MatchingToken.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*revised2(
+ scala/meta/tokens/Aliases#Token#TYPE

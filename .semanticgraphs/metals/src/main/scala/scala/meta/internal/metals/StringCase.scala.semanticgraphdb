@@ -1,0 +1,403 @@
+
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scalaå
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scalaFILE*Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scalaâ
+&scala/meta/internal/metals/StringCase.OBJECTK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala ("
+endLine2"
+isVarfalse"0
+symbol&scala/meta/internal/metals/StringCase."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName
+StringCase"
+kindOBJECT"
+	startLine2"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/StringCase.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter7"
+isFinaltrue"	
+LOC27*
+StringCase2ë
+5scala/meta/internal/metals/StringCase.kebabToCamel().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (2ë
+5scala/meta/internal/metals/StringCase.camelToKebab().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (2
+scala/AnyRef#EXTEND2à
+,scala/meta/internal/metals/StringCase.Kebab.DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (2
+*scala/collection/immutable/StringLike#r().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala! ("2à
+,scala/meta/internal/metals/StringCase.Camel.DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (2
+*scala/collection/immutable/StringLike#r().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala  (!À
+,scala/meta/internal/metals/StringCase.Kebab.VALUEK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala ("
+endLine3"
+isVarfalse"6
+symbol,scala/meta/internal/metals/StringCase.Kebab."%
+packagescala.meta.internal.metals"
+accessPrivateAccess()"
+displayNameKebab"
+kindVALUE"
+	startLine3"
+isValtrue"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/StringCase.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter14"
+isFinalfalse*Kebab2"
+scala/util/matching/Regex#TYPE 
+5scala/meta/internal/metals/StringCase.camelToKebab().METHODK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala ("
+endLine18"
+isVarfalse"?
+symbol5scala/meta/internal/metals/StringCase.camelToKebab()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamecamelToKebab"
+kindMETHOD"
+	startLine18"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/StringCase.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter6"
+isFinalfalse"
+LOC9*camelToKebab2ñ
+<scala/meta/internal/metals/StringCase.camelToKebab().(camel)	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (2p
+scala/Predef.String#RETURN_TYPEK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala# ()2§
+Hlocal3:metals/src/main/scala/scala/meta/internal/metals/StringCase.scalaDECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (	2ë
+<scala/meta/internal/metals/StringCase.camelToKebab().(camel)CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala" ('2Å
+,scala/meta/internal/metals/StringCase.Camel.CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (2w
+"scala/util/matching/Regex#pattern.CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (2w
+"java/util/regex/Pattern#matcher().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (!2§
+Hlocal4:metals/src/main/scala/scala/meta/internal/metals/StringCase.scalaDECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (
+2l
+java/lang/StringBuffer#CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (2w
+"java/lang/StringBuffer#`<init>`().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (2ù
+Hlocal3:metals/src/main/scala/scala/meta/internal/metals/StringCase.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (2t
+java/util/regex/Matcher#find().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (2ù
+Hlocal4:metals/src/main/scala/scala/meta/internal/metals/StringCase.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (2l
+java/lang/String#`+`().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala" (#2ù
+Hlocal3:metals/src/main/scala/scala/meta/internal/metals/StringCase.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala$ (%2u
+ java/util/regex/Matcher#group().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala& (+2v
+!java/lang/String#toLowerCase(+1).CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala. (92ù
+Hlocal3:metals/src/main/scala/scala/meta/internal/metals/StringCase.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (2Å
+,java/util/regex/Matcher#appendReplacement().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (2ù
+Hlocal4:metals/src/main/scala/scala/meta/internal/metals/StringCase.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (2ù
+Hlocal3:metals/src/main/scala/scala/meta/internal/metals/StringCase.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (2z
+%java/util/regex/Matcher#appendTail().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (2ù
+Hlocal4:metals/src/main/scala/scala/meta/internal/metals/StringCase.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (2w
+"java/lang/StringBuffer#toString().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (ø"
+5scala/meta/internal/metals/StringCase.kebabToCamel().METHODK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala ("
+endLine5"
+isVarfalse"?
+symbol5scala/meta/internal/metals/StringCase.kebabToCamel()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamekebabToCamel"
+kindMETHOD"
+	startLine5"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/StringCase.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter6"
+isFinalfalse"	
+LOC12*kebabToCamel2ñ
+<scala/meta/internal/metals/StringCase.kebabToCamel().(kebab)	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (2p
+scala/Predef.String#RETURN_TYPEK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala# ()2§
+Hlocal0:metals/src/main/scala/scala/meta/internal/metals/StringCase.scalaDECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (	2ë
+<scala/meta/internal/metals/StringCase.kebabToCamel().(kebab)CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala" ('2Å
+,scala/meta/internal/metals/StringCase.Kebab.CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (2w
+"scala/util/matching/Regex#pattern.CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (2w
+"java/util/regex/Pattern#matcher().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (!2§
+Hlocal1:metals/src/main/scala/scala/meta/internal/metals/StringCase.scalaDECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (
+2l
+java/lang/StringBuffer#CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (2w
+"java/lang/StringBuffer#`<init>`().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (2ù
+Hlocal0:metals/src/main/scala/scala/meta/internal/metals/StringCase.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (2t
+java/util/regex/Matcher#find().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (2ù
+Hlocal1:metals/src/main/scala/scala/meta/internal/metals/StringCase.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala
+ 
+(
+2ù
+Hlocal0:metals/src/main/scala/scala/meta/internal/metals/StringCase.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (	2u
+ java/util/regex/Matcher#group().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala
+ (2o
+java/lang/String#charAt().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (2v
+!scala/runtime/RichChar#toUpper().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (#2f
+scala/Char#`+`().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala$ (%2ù
+Hlocal0:metals/src/main/scala/scala/meta/internal/metals/StringCase.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala& ('2u
+ java/util/regex/Matcher#group().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala( (-2r
+java/lang/String#substring().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala0 (92ù
+Hlocal0:metals/src/main/scala/scala/meta/internal/metals/StringCase.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala	 	(2Å
+,java/util/regex/Matcher#appendReplacement().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala	 	(2ù
+Hlocal1:metals/src/main/scala/scala/meta/internal/metals/StringCase.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (2ù
+Hlocal0:metals/src/main/scala/scala/meta/internal/metals/StringCase.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (2z
+%java/util/regex/Matcher#appendTail().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (2ù
+Hlocal1:metals/src/main/scala/scala/meta/internal/metals/StringCase.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (2w
+"java/lang/StringBuffer#toString().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (ê
+Hlocal0:metals/src/main/scala/scala/meta/internal/metals/StringCase.scalaVALUEK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (	"
+endLine6"
+isVarfalse"
+symbollocal0"
+package "
+accessEmpty"
+displayNamem"
+kindVALUE"
+	startLine6"
+isValtrue"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/StringCase.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter9"
+startCharacter8"
+isFinalfalse*m2 
+java/util/regex/Matcher#TYPEí
+Hlocal1:metals/src/main/scala/scala/meta/internal/metals/StringCase.scalaVALUEK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (
+"
+endLine7"
+isVarfalse"
+symbollocal1"
+package "
+accessEmpty"
+displayNamesb"
+kindVALUE"
+	startLine7"
+isValtrue"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/StringCase.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter8"
+isFinalfalse*sb2
+java/lang/StringBuffer#TYPEî
+Hlocal4:metals/src/main/scala/scala/meta/internal/metals/StringCase.scalaVALUEK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (
+"
+endLine20"
+isVarfalse"
+symbollocal4"
+package "
+accessEmpty"
+displayNamesb"
+kindVALUE"
+	startLine20"
+isValtrue"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/StringCase.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter8"
+isFinalfalse*sb2
+java/lang/StringBuffer#TYPEí
+Hlocal3:metals/src/main/scala/scala/meta/internal/metals/StringCase.scalaVALUEK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala (	"
+endLine19"
+isVarfalse"
+symbollocal3"
+package "
+accessEmpty"
+displayNamem"
+kindVALUE"
+	startLine19"
+isValtrue"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/StringCase.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter9"
+startCharacter8"
+isFinalfalse*m2 
+java/util/regex/Matcher#TYPE≥
+<scala/meta/internal/metals/StringCase.camelToKebab().(camel)	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala ("
+endLine18"
+isVarfalse"F
+symbol<scala/meta/internal/metals/StringCase.camelToKebab().(camel)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamecamel"
+kind	PARAMETER"
+	startLine18"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/StringCase.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter24"
+startCharacter19"
+isFinalfalse*camel2i
+scala/Predef.String#TYPEK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala ( ÷
+Hlocal5:metals/src/main/scala/scala/meta/internal/metals/StringCase.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal5"
+package "
+accessPublicAccess()"
+displayNamewhile$2"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/StringCase.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*while$22
+scala/Unit#RETURN_TYPE±
+<scala/meta/internal/metals/StringCase.kebabToCamel().(kebab)	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala ("
+endLine5"
+isVarfalse"F
+symbol<scala/meta/internal/metals/StringCase.kebabToCamel().(kebab)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamekebab"
+kind	PARAMETER"
+	startLine5"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/StringCase.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter24"
+startCharacter19"
+isFinalfalse*kebab2i
+scala/Predef.String#TYPEK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala ( À
+,scala/meta/internal/metals/StringCase.Camel.VALUEK
+Ametals/src/main/scala/scala/meta/internal/metals/StringCase.scala ("
+endLine4"
+isVarfalse"6
+symbol,scala/meta/internal/metals/StringCase.Camel."%
+packagescala.meta.internal.metals"
+accessPrivateAccess()"
+displayNameCamel"
+kindVALUE"
+	startLine4"
+isValtrue"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/StringCase.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter14"
+isFinalfalse*Camel2"
+scala/util/matching/Regex#TYPE÷
+Hlocal2:metals/src/main/scala/scala/meta/internal/metals/StringCase.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal2"
+package "
+accessPublicAccess()"
+displayNamewhile$1"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/StringCase.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*while$12
+scala/Unit#RETURN_TYPE

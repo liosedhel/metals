@@ -1,0 +1,3253 @@
+
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala
+@scala/meta/internal/builds/MillDigest.ImportLinesAcc#hashCode().METHOD"
+endLine0"
+isVarfalse"J
+symbol@scala/meta/internal/builds/MillDigest.ImportLinesAcc#hashCode()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNamehashCode"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*hashCode2
+
+scala/Int#RETURN_TYPE2(
+java/lang/Object#hashCode().OVERRIDE2!
+scala/Any#hashCode().OVERRIDEì
+@scala/meta/internal/builds/MillDigest.ImportLinesAcc#`<init>`().CONSTRUCTORK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala# (#"
+endLine26"
+isVarfalse"J
+symbol@scala/meta/internal/builds/MillDigest.ImportLinesAcc#`<init>`()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine26"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter35"
+startCharacter35"
+isFinalfalse*<init>2X
+Kscala/meta/internal/builds/MillDigest.ImportLinesAcc#`<init>`().(hadImport)	PARAMETER2V
+Iscala/meta/internal/builds/MillDigest.ImportLinesAcc#`<init>`().(hadFile)	PARAMETER2[
+Nscala/meta/internal/builds/MillDigest.ImportLinesAcc#`<init>`().(insideBraces)	PARAMETER2S
+Fscala/meta/internal/builds/MillDigest.ImportLinesAcc#`<init>`().(skip)	PARAMETER2W
+Jscala/meta/internal/builds/MillDigest.ImportLinesAcc#`<init>`().(allPaths)	PARAMETER2V
+Iscala/meta/internal/builds/MillDigest.ImportLinesAcc#`<init>`().(current)	PARAMETER2U
+Hscala/meta/internal/builds/MillDigest.ImportLinesAcc#`<init>`().(prefix)	PARAMETER2õ
+Ascala/meta/internal/builds/MillDigest.ImportLinesAcc#hadImport().	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala
+ (2ô
+?scala/meta/internal/builds/MillDigest.ImportLinesAcc#hadFile().	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala
+ (2û
+Dscala/meta/internal/builds/MillDigest.ImportLinesAcc#insideBraces().	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala
+ (2ñ
+<scala/meta/internal/builds/MillDigest.ImportLinesAcc#skip().	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala
+ (2ö
+@scala/meta/internal/builds/MillDigest.ImportLinesAcc#allPaths().	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala
+ (2ô
+?scala/meta/internal/builds/MillDigest.ImportLinesAcc#current().	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala 
+  (2ò
+>scala/meta/internal/builds/MillDigest.ImportLinesAcc#prefix().	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala!
+ !(ô
+Escala/meta/internal/builds/MillDigest.ImportLinesAcc#canEqual().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"O
+symbolEscala/meta/internal/builds/MillDigest.ImportLinesAcc#canEqual().(x$1)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Any#TYPE√
+Gscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply$default$5().METHOD"
+endLine0"
+isVarfalse"Q
+symbolGscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply$default$5()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNameapply$default$5"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply$default$52<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE23
+$scala/collection/mutable/ListBuffer#RETURN_TYPE2*
+scala/meta/io/AbsolutePath#RETURN_TYPE©
+Hscala/meta/internal/builds/MillDigest.ImportLinesAcc#`current_=`().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"R
+symbolHscala/meta/internal/builds/MillDigest.ImportLinesAcc#`current_=`().(x$1)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+scala/Predef.String#TYPE˝
+Fscala/meta/internal/builds/MillDigest.ImportLinesAcc#copy$default$3().METHOD"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/builds/MillDigest.ImportLinesAcc#copy$default$3()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNamecopy$default$3"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$32<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+scala/Boolean#RETURN_TYPE≤
+Iscala/meta/internal/builds/MillDigest.ImportLinesAcc#`<init>`().(current)	PARAMETER"
+endLine0"
+isVartrue"S
+symbolIscala/meta/internal/builds/MillDigest.ImportLinesAcc#`<init>`().(current)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNamecurrent"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*current2
+scala/Predef.String#TYPEÊ
+Gscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply().(allPaths)	PARAMETER"
+endLine0"
+isVarfalse"Q
+symbolGscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply().(allPaths)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNameallPaths"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*allPaths2,
+$scala/collection/mutable/ListBuffer#TYPE2#
+scala/meta/io/AbsolutePath#TYPE≠
+Mscala/meta/internal/builds/MillDigest.ImportLinesAcc#`insideBraces_=`().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"W
+symbolMscala/meta/internal/builds/MillDigest.ImportLinesAcc#`insideBraces_=`().(x$1)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+scala/Boolean#TYPE´
+Escala/meta/internal/builds/MillDigest.ImportLinesAcc#copy().(current)	PARAMETER"
+endLine0"
+isVarfalse"O
+symbolEscala/meta/internal/builds/MillDigest.ImportLinesAcc#copy().(current)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNamecurrent"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*current2
+scala/Predef.String#TYPEÎ
+Jscala/meta/internal/builds/MillDigest.ImportLinesAcc#`<init>`().(allPaths)	PARAMETER"
+endLine0"
+isVartrue"T
+symbolJscala/meta/internal/builds/MillDigest.ImportLinesAcc#`<init>`().(allPaths)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNameallPaths"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*allPaths2,
+$scala/collection/mutable/ListBuffer#TYPE2#
+scala/meta/io/AbsolutePath#TYPEß
+Jscala/meta/internal/builds/MillDigest.ImportLinesAcc#`hadImport_=`().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"T
+symbolJscala/meta/internal/builds/MillDigest.ImportLinesAcc#`hadImport_=`().(x$1)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+scala/Boolean#TYPE‡
+Iscala/meta/internal/builds/MillDigest.ImportLinesAcc#`allPaths_=`().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"S
+symbolIscala/meta/internal/builds/MillDigest.ImportLinesAcc#`allPaths_=`().(x$1)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12,
+$scala/collection/mutable/ListBuffer#TYPE2#
+scala/meta/io/AbsolutePath#TYPEâ
+Jscala/meta/internal/builds/MillDigest.ImportLinesAcc.`<init>$default$1`().METHOD"
+endLine0"
+isVarfalse"T
+symbolJscala/meta/internal/builds/MillDigest.ImportLinesAcc.`<init>$default$1`()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayName<init>$default$1"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>$default$12<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+scala/Boolean#RETURN_TYPE†
+Fscala/meta/internal/builds/MillDigest.ImportLinesAcc#`<init>`().(skip)	PARAMETER"
+endLine0"
+isVartrue"P
+symbolFscala/meta/internal/builds/MillDigest.ImportLinesAcc#`<init>`().(skip)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNameskip"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*skip2
+scala/Boolean#TYPEπ#
+5scala/meta/internal/builds/MillDigest.ImportLinesAcc#CLASSK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala (#"
+endLine26"
+isVarfalse"?
+symbol5scala/meta/internal/builds/MillDigest.ImportLinesAcc#"%
+packagescala.meta.internal.builds"
+accessPrivateAccess()"
+displayNameImportLinesAcc"
+kindCLASS"
+	startLine26"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter35"
+startCharacter21"
+isFinalfalse"	
+LOC11*ImportLinesAcc2ù
+Ascala/meta/internal/builds/MillDigest.ImportLinesAcc#hadImport().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala
+ (2°
+Escala/meta/internal/builds/MillDigest.ImportLinesAcc#`hadImport_=`().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaF F(2õ
+?scala/meta/internal/builds/MillDigest.ImportLinesAcc#hadFile().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala
+ (2ü
+Cscala/meta/internal/builds/MillDigest.ImportLinesAcc#`hadFile_=`().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala@ @(2†
+Dscala/meta/internal/builds/MillDigest.ImportLinesAcc#insideBraces().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala
+ (2§
+Hscala/meta/internal/builds/MillDigest.ImportLinesAcc#`insideBraces_=`().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala< <(2ò
+<scala/meta/internal/builds/MillDigest.ImportLinesAcc#skip().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala
+ (2ú
+@scala/meta/internal/builds/MillDigest.ImportLinesAcc#`skip_=`().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaS S(2ú
+@scala/meta/internal/builds/MillDigest.ImportLinesAcc#allPaths().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala
+ (2S
+Dscala/meta/internal/builds/MillDigest.ImportLinesAcc#`allPaths_=`().DECLARATION2õ
+?scala/meta/internal/builds/MillDigest.ImportLinesAcc#current().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala 
+  (2ü
+Cscala/meta/internal/builds/MillDigest.ImportLinesAcc#`current_=`().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaX X(2ö
+>scala/meta/internal/builds/MillDigest.ImportLinesAcc#prefix().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala!
+ !(2û
+Bscala/meta/internal/builds/MillDigest.ImportLinesAcc#`prefix_=`().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaW W(2ú
+@scala/meta/internal/builds/MillDigest.ImportLinesAcc#`<init>`().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala# (#2®
+Lscala/meta/internal/builds/MillDigest.ImportLinesAcc#processingFileImport().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala# #(2K
+<scala/meta/internal/builds/MillDigest.ImportLinesAcc#copy().DECLARATION2U
+Fscala/meta/internal/builds/MillDigest.ImportLinesAcc#copy$default$1().DECLARATION2U
+Fscala/meta/internal/builds/MillDigest.ImportLinesAcc#copy$default$2().DECLARATION2U
+Fscala/meta/internal/builds/MillDigest.ImportLinesAcc#copy$default$3().DECLARATION2U
+Fscala/meta/internal/builds/MillDigest.ImportLinesAcc#copy$default$4().DECLARATION2U
+Fscala/meta/internal/builds/MillDigest.ImportLinesAcc#copy$default$5().DECLARATION2U
+Fscala/meta/internal/builds/MillDigest.ImportLinesAcc#copy$default$6().DECLARATION2U
+Fscala/meta/internal/builds/MillDigest.ImportLinesAcc#copy$default$7().DECLARATION2T
+Escala/meta/internal/builds/MillDigest.ImportLinesAcc#productPrefix().DECLARATION2S
+Dscala/meta/internal/builds/MillDigest.ImportLinesAcc#productArity().DECLARATION2U
+Fscala/meta/internal/builds/MillDigest.ImportLinesAcc#productElement().DECLARATION2V
+Gscala/meta/internal/builds/MillDigest.ImportLinesAcc#productIterator().DECLARATION2O
+@scala/meta/internal/builds/MillDigest.ImportLinesAcc#canEqual().DECLARATION2O
+@scala/meta/internal/builds/MillDigest.ImportLinesAcc#hashCode().DECLARATION2O
+@scala/meta/internal/builds/MillDigest.ImportLinesAcc#toString().DECLARATION2M
+>scala/meta/internal/builds/MillDigest.ImportLinesAcc#equals().DECLARATION2
+scala/AnyRef#EXTEND2
+scala/Product#EXTEND2
+scala/Serializable#EXTENDﬁ
+Dscala/meta/internal/builds/MillDigest.ImportLinesAcc#productArity().METHOD"
+endLine0"
+isVarfalse"N
+symbolDscala/meta/internal/builds/MillDigest.ImportLinesAcc#productArity()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNameproductArity"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productArity2
+
+scala/Int#RETURN_TYPE2)
+scala/Product#productArity().OVERRIDEß
+Gscala/meta/internal/builds/MillDigest.ImportLinesAcc#`prefix_=`().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"Q
+symbolGscala/meta/internal/builds/MillDigest.ImportLinesAcc#`prefix_=`().(x$1)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+scala/Predef.String#TYPEÇ
+5scala/meta/internal/builds/MillDigest.ImportLinesAcc.OBJECTK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala
+ ("
+endLine45"
+isVarfalse"?
+symbol5scala/meta/internal/builds/MillDigest.ImportLinesAcc."%
+packagescala.meta.internal.builds"
+accessPrivateAccess()"
+displayNameImportLinesAcc"
+kindOBJECT"
+	startLine45"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter30"
+startCharacter16"
+isFinaltrue*ImportLinesAcc2O
+@scala/meta/internal/builds/MillDigest.ImportLinesAcc.toString().DECLARATION2L
+=scala/meta/internal/builds/MillDigest.ImportLinesAcc.apply().DECLARATION2V
+Gscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply$default$1().DECLARATION2V
+Gscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply$default$2().DECLARATION2V
+Gscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply$default$3().DECLARATION2V
+Gscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply$default$4().DECLARATION2V
+Gscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply$default$5().DECLARATION2V
+Gscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply$default$6().DECLARATION2V
+Gscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply$default$7().DECLARATION2N
+?scala/meta/internal/builds/MillDigest.ImportLinesAcc.unapply().DECLARATION2Y
+Jscala/meta/internal/builds/MillDigest.ImportLinesAcc.`<init>$default$1`().DECLARATION2Y
+Jscala/meta/internal/builds/MillDigest.ImportLinesAcc.`<init>$default$2`().DECLARATION2Y
+Jscala/meta/internal/builds/MillDigest.ImportLinesAcc.`<init>$default$3`().DECLARATION2Y
+Jscala/meta/internal/builds/MillDigest.ImportLinesAcc.`<init>$default$4`().DECLARATION2Y
+Jscala/meta/internal/builds/MillDigest.ImportLinesAcc.`<init>$default$5`().DECLARATION2Y
+Jscala/meta/internal/builds/MillDigest.ImportLinesAcc.`<init>$default$6`().DECLARATION2Y
+Jscala/meta/internal/builds/MillDigest.ImportLinesAcc.`<init>$default$7`().DECLARATION2R
+Cscala/meta/internal/builds/MillDigest.ImportLinesAcc.readResolve().DECLARATION2*
+ scala/runtime/AbstractFunction7#EXTEND2
+scala/Boolean#EXTEND2
+scala/Boolean#EXTEND2
+scala/Boolean#EXTEND2
+scala/Boolean#EXTEND2.
+$scala/collection/mutable/ListBuffer#EXTEND2%
+scala/meta/io/AbsolutePath#EXTEND2
+scala/Predef.String#EXTEND2
+scala/Predef.String#EXTEND2?
+5scala/meta/internal/builds/MillDigest.ImportLinesAcc#EXTEND2
+scala/Serializable#EXTEND≠
+Fscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply().(current)	PARAMETER"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply().(current)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNamecurrent"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*current2
+scala/Predef.String#TYPEÀ
+Bscala/meta/internal/builds/MillDigest.ImportLinesAcc#`prefix_=`().VARIABLEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaW W("
+endLine87"
+isVartrue"L
+symbolBscala/meta/internal/builds/MillDigest.ImportLinesAcc#`prefix_=`()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNameprefix_="
+kindVARIABLE"
+	startLine87"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter16"
+isFinalfalse*prefix_=2T
+Gscala/meta/internal/builds/MillDigest.ImportLinesAcc#`prefix_=`().(x$1)	PARAMETER2
+scala/Unit#TYPE¬
+Fscala/meta/internal/builds/MillDigest.ImportLinesAcc#productElement().METHOD"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/builds/MillDigest.ImportLinesAcc#productElement()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNameproductElement"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productElement2X
+Kscala/meta/internal/builds/MillDigest.ImportLinesAcc#productElement().(x$1)	PARAMETER2
+
+scala/Any#RETURN_TYPE2+
+scala/Product#productElement().OVERRIDE¥
+Kscala/meta/internal/builds/MillDigest.ImportLinesAcc#`<init>`().(hadImport)	PARAMETER"
+endLine0"
+isVartrue"U
+symbolKscala/meta/internal/builds/MillDigest.ImportLinesAcc#`<init>`().(hadImport)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayName	hadImport"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*	hadImport2
+scala/Boolean#TYPE⁄
+Escala/meta/internal/builds/MillDigest.ImportLinesAcc#`hadImport_=`().VARIABLEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaF F("
+endLine70"
+isVartrue"O
+symbolEscala/meta/internal/builds/MillDigest.ImportLinesAcc#`hadImport_=`()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNamehadImport_="
+kindVARIABLE"
+	startLine70"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter27"
+startCharacter18"
+isFinalfalse*hadImport_=2W
+Jscala/meta/internal/builds/MillDigest.ImportLinesAcc#`hadImport_=`().(x$1)	PARAMETER2
+scala/Unit#TYPE—
+Dscala/meta/internal/builds/MillDigest.ImportLinesAcc#insideBraces().VARIABLEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala
+ ("
+endLine29"
+isVartrue"N
+symbolDscala/meta/internal/builds/MillDigest.ImportLinesAcc#insideBraces()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNameinsideBraces"
+kindVARIABLE"
+	startLine29"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter10"
+isFinalfalse*insideBraces2c
+scala/Boolean#TYPEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala (ª
+Kscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply().(insideBraces)	PARAMETER"
+endLine0"
+isVarfalse"U
+symbolKscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply().(insideBraces)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNameinsideBraces"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*insideBraces2
+scala/Boolean#TYPEÅ
+Gscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply$default$3().METHOD"
+endLine0"
+isVarfalse"Q
+symbolGscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply$default$3()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNameapply$default$3"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply$default$32<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+scala/Boolean#RETURN_TYPEù
+Escala/meta/internal/builds/MillDigest.ImportLinesAcc#`skip_=`().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"O
+symbolEscala/meta/internal/builds/MillDigest.ImportLinesAcc#`skip_=`().(x$1)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+scala/Boolean#TYPEâ
+Jscala/meta/internal/builds/MillDigest.ImportLinesAcc.`<init>$default$4`().METHOD"
+endLine0"
+isVarfalse"T
+symbolJscala/meta/internal/builds/MillDigest.ImportLinesAcc.`<init>$default$4`()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayName<init>$default$4"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>$default$42<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+scala/Boolean#RETURN_TYPE√
+Bscala/meta/internal/builds/MillDigest.findImportedScripts().(file)	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala( ((
+"
+endLine40"
+isVarfalse"L
+symbolBscala/meta/internal/builds/MillDigest.findImportedScripts().(file)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNamefile"
+kind	PARAMETER"
+	startLine40"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter6"
+isFinalfalse*file2p
+scala/meta/io/AbsolutePath#TYPEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala( ((¡
+@scala/meta/internal/builds/MillDigest.ImportLinesAcc#`skip_=`().VARIABLEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaS S("
+endLine83"
+isVartrue"J
+symbol@scala/meta/internal/builds/MillDigest.ImportLinesAcc#`skip_=`()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNameskip_="
+kindVARIABLE"
+	startLine83"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter16"
+isFinalfalse*skip_=2R
+Escala/meta/internal/builds/MillDigest.ImportLinesAcc#`skip_=`().(x$1)	PARAMETER2
+scala/Unit#TYPEø
+Fscala/meta/internal/builds/MillDigest.ImportLinesAcc#copy$default$5().METHOD"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/builds/MillDigest.ImportLinesAcc#copy$default$5()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNamecopy$default$5"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$52<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE23
+$scala/collection/mutable/ListBuffer#RETURN_TYPE2*
+scala/meta/io/AbsolutePath#RETURN_TYPE‘
+8scala/meta/internal/builds/MillDigest.digestWorkspace().METHODK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala (("
+endLine13"
+isVarfalse"B
+symbol8scala/meta/internal/builds/MillDigest.digestWorkspace()."%
+packagescala.meta.internal.builds"
+accessProtectedAccess()"
+displayNamedigestWorkspace"
+kindMETHOD"
+	startLine13"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter40"
+startCharacter25"
+isFinalfalse"	
+LOC12*digestWorkspace2D
+8scala/meta/internal/builds/Digestable#digestWorkspace().OVERRIDE2ù
+Cscala/meta/internal/builds/MillDigest.digestWorkspace().(workspace)	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala (2ö
+@scala/meta/internal/builds/MillDigest.digestWorkspace().(digest)	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala (2j
+scala/Boolean#RETURN_TYPEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala (2§
+Hlocal4:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaDECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala (2ò
+Cscala/meta/internal/builds/MillDigest.digestWorkspace().(workspace)CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala (2|
+'scala/meta/io/AbsolutePath#resolve(+1).CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala (%2ù
+Hlocal4:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala ( 2ù
+Hlocal0:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala (ﬁ
+>scala/meta/internal/builds/MillDigest.ImportLinesAcc#equals().METHOD"
+endLine0"
+isVarfalse"H
+symbol>scala/meta/internal/builds/MillDigest.ImportLinesAcc#equals()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNameequals"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*equals2P
+Cscala/meta/internal/builds/MillDigest.ImportLinesAcc#equals().(x$1)	PARAMETER2
+scala/Boolean#RETURN_TYPE2"
+scala/Equals#equals().OVERRIDE2&
+java/lang/Object#equals().OVERRIDE2
+scala/Any#equals().OVERRIDEâ
+Jscala/meta/internal/builds/MillDigest.ImportLinesAcc.`<init>$default$2`().METHOD"
+endLine0"
+isVarfalse"T
+symbolJscala/meta/internal/builds/MillDigest.ImportLinesAcc.`<init>$default$2`()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayName<init>$default$2"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>$default$22<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+scala/Boolean#RETURN_TYPEΩ
+?scala/meta/internal/builds/MillDigest.ImportLinesAcc#hadFile().VARIABLEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala
+ ("
+endLine28"
+isVartrue"I
+symbol?scala/meta/internal/builds/MillDigest.ImportLinesAcc#hadFile()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNamehadFile"
+kindVARIABLE"
+	startLine28"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter10"
+isFinalfalse*hadFile2c
+scala/Boolean#TYPEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala (˛Ö
+<scala/meta/internal/builds/MillDigest.findImportedScripts().METHODK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala' '(!"
+endLine39"
+isVarfalse"F
+symbol<scala/meta/internal/builds/MillDigest.findImportedScripts()."%
+packagescala.meta.internal.builds"
+accessPrivateAccess()""
+displayNamefindImportedScripts"
+kindMETHOD"
+	startLine39"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter33"
+startCharacter14"
+isFinalfalse"	
+LOC61*findImportedScripts2ú
+Bscala/meta/internal/builds/MillDigest.findImportedScripts().(file)	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala( ((
+2o
+scala/package.List#RETURN_TYPEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala) )(	2w
+scala/meta/io/AbsolutePath#RETURN_TYPEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala)
+ )(2•
+Ilocal12:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaDECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala+
+ +(2ó
+Bscala/meta/internal/builds/MillDigest.findImportedScripts().(file)CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala+ +(2•
+Pscala/meta/internal/mtags/CommonMtagsEnrichments#XtensionAbsolutePath#toInput().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala+ +(2•
+Ilocal13:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaDECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala,
+ ,(2û
+Ilocal12:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala,1 ,(62w
+"scala/meta/internal/parsing/Trees.CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala, ,(2è
+:scala/meta/internal/parsing/Trees.defaultTokenizerDialect.CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala, ,(02ó
+Bscala/meta/tokenizers/Api#XtensionTokenizeDialectInput#tokenize().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala,8 ,(@2{
+&scala/meta/tokenizers/Tokenized#get().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala,A ,(D2u
+ scala/meta/tokens/Tokens#tokens.CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala,E ,(K2•
+Ilocal14:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaDECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala-
+ -(2ä
+5scala/meta/internal/builds/MillDigest.ImportLinesAcc.CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala- -(2£
+Ilocal15:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scala	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala. .(2û
+Ilocal16:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala/ /(2û
+Ilocal14:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala2 2(2ö
+Escala/meta/internal/builds/MillDigest.ImportLinesAcc#`hadImport_=`().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala2 2(2û
+Ilocal14:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala5% 5((2°
+Lscala/meta/internal/builds/MillDigest.ImportLinesAcc#processingFileImport().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala5) 5(=2•
+Ilocal27:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaDECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala6 6(2û
+Ilocal14:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala68 6(;2î
+?scala/meta/internal/builds/MillDigest.ImportLinesAcc#current().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala6< 6(C2l
+java/lang/String#`+`().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala6D 6(E2û
+Ilocal14:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala6$ 6('2ì
+>scala/meta/internal/builds/MillDigest.ImportLinesAcc#prefix().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala6( 6(.2i
+java/nio/file/Paths#CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala6 6(2o
+java/nio/file/Paths#get().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala6  6(#2t
+java/nio/file/Path#resolve(+1).CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala60 6(72•
+Ilocal28:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaDECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala7 7(2û
+Ilocal27:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala75 7(<2ó
+Bscala/meta/internal/builds/MillDigest.findImportedScripts().(file)CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala7 7(2v
+!scala/meta/io/AbsolutePath#toNIO.CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala7  7(%2y
+$java/nio/file/Path#resolveSibling().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala7& 7(42û
+Ilocal28:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala8- 8(52p
+scala/meta/io/AbsolutePath.CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala8  8(,2û
+Ilocal14:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala8 8(2ï
+@scala/meta/internal/builds/MillDigest.ImportLinesAcc#allPaths().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala8 8(2Ç
+-scala/collection/mutable/BufferLike#append().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala8 8(2û
+Ilocal14:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala9 9(2ò
+Cscala/meta/internal/builds/MillDigest.ImportLinesAcc#`current_=`().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala9 9(2û
+Ilocal14:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala: :(2ï
+@scala/meta/internal/builds/MillDigest.ImportLinesAcc#`skip_=`().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala: :(2m
+scala/meta/tokens/Token.CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala;# ;((2x
+#scala/meta/tokens/Token.RightBrace#CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala;) ;(32û
+Ilocal15:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala; ;(2n
+scala/Any#isInstanceOf().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala; ;("2û
+Ilocal14:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala< <(2ù
+Hscala/meta/internal/builds/MillDigest.ImportLinesAcc#`insideBraces_=`().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala< <(2û
+Ilocal14:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala= =(2ó
+Bscala/meta/internal/builds/MillDigest.ImportLinesAcc#`prefix_=`().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala= =(2o
+scala/Boolean#`unary_!`().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala? ?(2û
+Ilocal14:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala@ @(2ò
+Cscala/meta/internal/builds/MillDigest.ImportLinesAcc#`hadFile_=`().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala@ @(2m
+scala/meta/tokens/Token.CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaC! C(&2p
+scala/meta/tokens/Token.LF#CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaC' C()2û
+Ilocal15:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaC C(2n
+scala/Any#isInstanceOf().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaC C( 2j
+scala/Boolean#`||`().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaC+ C(-2m
+scala/meta/tokens/Token.CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaD D(#2r
+scala/meta/tokens/Token.LFLF#CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaD$ D((2û
+Ilocal15:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaC. C(32n
+scala/Any#isInstanceOf().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaD D(2û
+Ilocal14:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaF F(2ö
+Escala/meta/internal/builds/MillDigest.ImportLinesAcc#`hadImport_=`().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaF F(2û
+Ilocal14:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaI I(2ë
+<scala/meta/internal/builds/MillDigest.ImportLinesAcc#skip().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaI I(2u
+scala/Any#isInstanceOf().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaK K(2û
+Ilocal17:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaK% K(*2y
+$scala/meta/tokens/Token.Ident#pos().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaK+ K(.2w
+"scala/meta/inputs/Position#text().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaK/ K(32m
+java/lang/Object#`==`().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaK4 K(62û
+Ilocal14:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaL L(2ò
+Cscala/meta/internal/builds/MillDigest.ImportLinesAcc#`hadFile_=`().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaL L(2q
+scala/Boolean#`&&`().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaN N(2û
+Ilocal14:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaN% N((2°
+Lscala/meta/internal/builds/MillDigest.ImportLinesAcc#processingFileImport().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaN) N(=2•
+Ilocal32:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaDECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaO O(2û
+Ilocal17:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaO O(!2y
+$scala/meta/tokens/Token.Ident#pos().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaO" O(%2w
+"scala/meta/inputs/Position#text().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaO& O(*2m
+java/lang/Object#`==`().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaO+ O(-2û
+Ilocal17:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaO= O(B2y
+$scala/meta/tokens/Token.Ident#pos().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaOC O(F2w
+"scala/meta/inputs/Position#text().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaOG O(K2û
+Ilocal14:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaP P(2ò
+Cscala/meta/internal/builds/MillDigest.ImportLinesAcc#`current_=`().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaP P(2l
+java/lang/String#`+`().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaP P(2û
+Ilocal14:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaP  P(#2î
+?scala/meta/internal/builds/MillDigest.ImportLinesAcc#current().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaP$ P(+2Å
+,scala/collection/TraversableOnce#nonEmpty().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaP, P(42l
+java/lang/String#`+`().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaP: P(;2û
+Ilocal32:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaP< P(A2û
+Ilocal32:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaPG P(L2û
+Ilocal14:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaS S(2ï
+@scala/meta/internal/builds/MillDigest.ImportLinesAcc#`skip_=`().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaS S(2û
+Ilocal14:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaU% U((2°
+Lscala/meta/internal/builds/MillDigest.ImportLinesAcc#processingFileImport().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaU) U(=2û
+Ilocal14:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaV V(2ù
+Hscala/meta/internal/builds/MillDigest.ImportLinesAcc#`insideBraces_=`().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaV V(2û
+Ilocal14:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaW W(2î
+?scala/meta/internal/builds/MillDigest.ImportLinesAcc#current().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaW W($2û
+Ilocal14:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaW W(2ó
+Bscala/meta/internal/builds/MillDigest.ImportLinesAcc#`prefix_=`().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaW W(2û
+Ilocal14:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaX X(2ò
+Cscala/meta/internal/builds/MillDigest.ImportLinesAcc#`current_=`().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaX X(2û
+Ilocal13:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala. .(2Ñ
+/scala/collection/IndexedSeqOptimized#foreach().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala. .(2û
+Ilocal14:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala^ ^(	2ï
+@scala/meta/internal/builds/MillDigest.ImportLinesAcc#allPaths().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala^
+ ^(2Ç
+-scala/collection/mutable/ListBuffer#toList().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala^ ^(2û
+Ilocal39:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala` `(2û
+Ilocal41:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaa a(Æ
+Hscala/meta/internal/builds/MillDigest.ImportLinesAcc#`<init>`().(prefix)	PARAMETER"
+endLine0"
+isVartrue"R
+symbolHscala/meta/internal/builds/MillDigest.ImportLinesAcc#`<init>`().(prefix)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNameprefix"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*prefix2
+scala/Predef.String#TYPEπ
+@scala/meta/internal/builds/MillDigest.ImportLinesAcc#allPaths().VARIABLEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala
+ ("
+endLine31"
+isVartrue"J
+symbol@scala/meta/internal/builds/MillDigest.ImportLinesAcc#allPaths()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNameallPaths"
+kindVARIABLE"
+	startLine31"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter10"
+isFinalfalse*allPaths2n
+scala/collection/mutable/CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala (2y
+$scala/collection/mutable/ListBuffer#TYPEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala (&2p
+scala/meta/io/AbsolutePath#TYPEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala' (3Ø
+Hscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply().(hadImport)	PARAMETER"
+endLine0"
+isVarfalse"R
+symbolHscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply().(hadImport)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayName	hadImport"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*	hadImport2
+scala/Boolean#TYPEè
+Jscala/meta/internal/builds/MillDigest.ImportLinesAcc.`<init>$default$6`().METHOD"
+endLine0"
+isVarfalse"T
+symbolJscala/meta/internal/builds/MillDigest.ImportLinesAcc.`<init>$default$6`()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayName<init>$default$6"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>$default$62<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE÷
+Ilocal19:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal19"
+package "
+accessPublicAccess()"
+displayNamecase14"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case142
+scala/Unit#RETURN_TYPEá
+Gscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply$default$6().METHOD"
+endLine0"
+isVarfalse"Q
+symbolGscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply$default$6()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNameapply$default$6"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply$default$62<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE˝
+Fscala/meta/internal/builds/MillDigest.ImportLinesAcc#copy$default$2().METHOD"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/builds/MillDigest.ImportLinesAcc#copy$default$2()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNamecopy$default$2"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$22<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+scala/Boolean#RETURN_TYPE≠
+Gscala/meta/internal/builds/MillDigest.ImportLinesAcc#copy().(hadImport)	PARAMETER"
+endLine0"
+isVarfalse"Q
+symbolGscala/meta/internal/builds/MillDigest.ImportLinesAcc#copy().(hadImport)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayName	hadImport"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*	hadImport2
+scala/Boolean#TYPE÷
+Ilocal30:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal30"
+package "
+accessPublicAccess()"
+displayNamecase23"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case232
+scala/Unit#RETURN_TYPEÄ
+Ilocal11:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal11"
+package "
+accessEmpty"
+displayNameImportLinesAcc$1"
+kindVALUE"
+	startLine0"
+isValtrue"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*ImportLinesAcc$12=
+5scala/meta/internal/builds/MillDigest.ImportLinesAcc#TYPEø
+>scala/meta/internal/builds/MillDigest.ImportLinesAcc#prefix().VARIABLEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala!
+ !("
+endLine33"
+isVartrue"H
+symbol>scala/meta/internal/builds/MillDigest.ImportLinesAcc#prefix()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNameprefix"
+kindVARIABLE"
+	startLine33"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter10"
+isFinalfalse*prefix2i
+scala/Predef.String#TYPEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala! !(ø	
+=scala/meta/internal/builds/MillDigest.ImportLinesAcc.apply().METHOD"
+endLine0"
+isVarfalse"G
+symbol=scala/meta/internal/builds/MillDigest.ImportLinesAcc.apply()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNameapply"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply2U
+Hscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply().(hadImport)	PARAMETER2S
+Fscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply().(hadFile)	PARAMETER2X
+Kscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply().(insideBraces)	PARAMETER2P
+Cscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply().(skip)	PARAMETER2T
+Gscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply().(allPaths)	PARAMETER2S
+Fscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply().(current)	PARAMETER2R
+Escala/meta/internal/builds/MillDigest.ImportLinesAcc.apply().(prefix)	PARAMETER2D
+5scala/meta/internal/builds/MillDigest.ImportLinesAcc#RETURN_TYPE2$
+scala/Function7#apply().OVERRIDE§
+Ilocal17:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaVARIABLEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaO O(!"
+endLine79"
+isVartrue"
+symbollocal17"
+package "
+accessEmpty"
+displayNamex7"
+kindVARIABLE"
+	startLine79"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter33"
+startCharacter28"
+isFinalfalse*x72&
+scala/meta/tokens/Token.Ident#TYPE∂
+Ilocal13:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaVALUEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala,
+ ,("
+endLine44"
+isVarfalse"
+symbollocal13"
+package "
+accessEmpty"
+displayNametokens"
+kindVALUE"
+	startLine44"
+isValtrue"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter10"
+isFinalfalse*tokens2
+scala/Array#TYPE2 
+scala/meta/tokens/Token#TYPE¿
+Nscala/meta/internal/builds/MillDigest.ImportLinesAcc#`<init>`().(insideBraces)	PARAMETER"
+endLine0"
+isVartrue"X
+symbolNscala/meta/internal/builds/MillDigest.ImportLinesAcc#`<init>`().(insideBraces)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNameinsideBraces"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*insideBraces2
+scala/Boolean#TYPEÑ
+Dscala/meta/internal/builds/MillDigest.ImportLinesAcc#`allPaths_=`().VARIABLE"
+endLine0"
+isVartrue"N
+symbolDscala/meta/internal/builds/MillDigest.ImportLinesAcc#`allPaths_=`()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayName
+allPaths_="
+kindVARIABLE"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*
+allPaths_=2V
+Iscala/meta/internal/builds/MillDigest.ImportLinesAcc#`allPaths_=`().(x$1)	PARAMETER2
+scala/Unit#TYPE∑
+Cscala/meta/internal/builds/MillDigest.ImportLinesAcc.readResolve().METHOD"
+endLine0"
+isVarfalse"M
+symbolCscala/meta/internal/builds/MillDigest.ImportLinesAcc.readResolve()."%
+packagescala.meta.internal.builds"
+accessPrivateAccess()"
+displayNamereadResolve"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*readResolve2 
+java/lang/Object#RETURN_TYPE®
+Ilocal15:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scala	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala. .("
+endLine46"
+isVarfalse"
+symbollocal15"
+package "
+accessEmpty"
+displayNametoken"
+kind	PARAMETER"
+	startLine46"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter28"
+startCharacter23"
+isFinalfalse*token2 
+scala/meta/tokens/Token#TYPEß
+Fscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply().(hadFile)	PARAMETER"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply().(hadFile)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNamehadFile"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*hadFile2
+scala/Boolean#TYPE‡
+Ilocal40:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal40"
+package "
+accessEmpty"
+displayNameo13"
+kindVALUE"
+	startLine0"
+isValtrue"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*o132
+scala/Option#TYPE2 
+scala/package.Throwable#TYPE∫
+Ilocal41:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaMETHODK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaa a("
+endLine97"
+isVarfalse"
+symbollocal41"
+package "
+accessPublicAccess()"
+displayName
+matchEnd10"
+kindMETHOD"
+	startLine97"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter11"
+startCharacter8"
+isFinalfalse*
+matchEnd102V
+Ilocal59:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scala	PARAMETER2"
+scala/package.List#RETURN_TYPE2*
+scala/meta/io/AbsolutePath#RETURN_TYPEÅ
+Gscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply$default$1().METHOD"
+endLine0"
+isVarfalse"Q
+symbolGscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply$default$1()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNameapply$default$1"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply$default$12<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+scala/Boolean#RETURN_TYPE§
+
+&scala/meta/internal/builds/MillDigest.OBJECTK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala ("
+endLine12"
+isVarfalse"0
+symbol&scala/meta/internal/builds/MillDigest."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayName
+MillDigest"
+kindOBJECT"
+	startLine12"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter7"
+isFinaltrue"	
+LOC89*
+MillDigest2î
+8scala/meta/internal/builds/MillDigest.digestWorkspace().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala ((2ë
+5scala/meta/internal/builds/MillDigest.ImportLinesAcc#DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala (#2ë
+5scala/meta/internal/builds/MillDigest.ImportLinesAcc.DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala- -(2ò
+<scala/meta/internal/builds/MillDigest.findImportedScripts().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala' '(!2
+scala/AnyRef#EXTEND2}
+&scala/meta/internal/builds/Digestable#EXTENDK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala ($’
+Hlocal9:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal9"
+package "
+accessPublicAccess()"
+displayNamecase6"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case62
+scala/Boolean#RETURN_TYPE¶
+Hlocal4:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaVALUEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala ("
+endLine22"
+isVarfalse"
+symbollocal4"
+package "
+accessEmpty"
+displayName	buildFile"
+kindVALUE"
+	startLine22"
+isValtrue"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter8"
+isFinalfalse*	buildFile2#
+scala/meta/io/AbsolutePath#TYPEƒ
+Hlocal0:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaMETHODK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala ("
+endLine17"
+isVarfalse"
+symbollocal0"
+package "
+accessPublicAccess()"!
+displayNameanalyzeBuildScript"
+kindMETHOD"
+	startLine17"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter26"
+startCharacter8"
+isFinalfalse"
+LOC5*analyzeBuildScript2¢
+Hlocal1:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scala	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala (2j
+scala/Boolean#RETURN_TYPEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala0 (72§
+Hlocal2:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaDECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala
+ (2ù
+Hlocal1:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala) (-2ë
+<scala/meta/internal/builds/MillDigest.findImportedScripts().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala ((2¢
+Hlocal3:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scala	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala (2ù
+Hlocal3:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala3 (92ù
+Hlocal0:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala  (22ù
+Hlocal2:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala (2Ç
+-scala/collection/LinearSeqOptimized#forall().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala (2j
+scala/Boolean#`&&`().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala< (>2ù
+Hlocal1:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala (2ï
+@scala/meta/internal/builds/MillDigest.digestWorkspace().(digest)CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala ( 2w
+"scala/meta/internal/builds/Digest.CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala? (E2Ñ
+/scala/meta/internal/builds/Digest.digestFile().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala	 (Ù
+Hlocal1:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scala	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala ("
+endLine17"
+isVarfalse"
+symbollocal1"
+package "
+accessEmpty"
+displayNamefile"
+kind	PARAMETER"
+	startLine17"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter31"
+startCharacter27"
+isFinalfalse*file2p
+scala/meta/io/AbsolutePath#TYPEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala! (-´
+Hlocal3:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scala	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala ("
+endLine19"
+isVarfalse"
+symbollocal3"
+package "
+accessEmpty"
+displayNamescript"
+kind	PARAMETER"
+	startLine19"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter28"
+startCharacter22"
+isFinalfalse*script2#
+scala/meta/io/AbsolutePath#TYPE√
+?scala/meta/internal/builds/MillDigest.ImportLinesAcc#current().VARIABLEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala 
+  ("
+endLine32"
+isVartrue"I
+symbol?scala/meta/internal/builds/MillDigest.ImportLinesAcc#current()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNamecurrent"
+kindVARIABLE"
+	startLine32"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter10"
+isFinalfalse*current2i
+scala/Predef.String#TYPEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala   (œ
+Cscala/meta/internal/builds/MillDigest.digestWorkspace().(workspace)	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala ("
+endLine14"
+isVarfalse"M
+symbolCscala/meta/internal/builds/MillDigest.digestWorkspace().(workspace)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayName	workspace"
+kind	PARAMETER"
+	startLine14"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter15"
+startCharacter6"
+isFinalfalse*	workspace2p
+scala/meta/io/AbsolutePath#TYPEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala (¬
+Hlocal2:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaVALUEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala
+ ("
+endLine18"
+isVarfalse"
+symbollocal2"
+package "
+accessEmpty"
+displayNameimported"
+kindVALUE"
+	startLine18"
+isValtrue"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter10"
+isFinalfalse*imported2
+scala/package.List#TYPE2#
+scala/meta/io/AbsolutePath#TYPE≈
+Ascala/meta/internal/builds/MillDigest.ImportLinesAcc#hadImport().VARIABLEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala
+ ("
+endLine27"
+isVartrue"K
+symbolAscala/meta/internal/builds/MillDigest.ImportLinesAcc#hadImport()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayName	hadImport"
+kindVARIABLE"
+	startLine27"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter10"
+isFinalfalse*	hadImport2c
+scala/Boolean#TYPEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala (É
+Fscala/meta/internal/builds/MillDigest.ImportLinesAcc#copy$default$7().METHOD"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/builds/MillDigest.ImportLinesAcc#copy$default$7()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNamecopy$default$7"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$72<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPEπ
+Jscala/meta/internal/builds/MillDigest.ImportLinesAcc#copy().(insideBraces)	PARAMETER"
+endLine0"
+isVarfalse"T
+symbolJscala/meta/internal/builds/MillDigest.ImportLinesAcc#copy().(insideBraces)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNameinsideBraces"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*insideBraces2
+scala/Boolean#TYPE÷
+Ilocal31:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal31"
+package "
+accessPublicAccess()"
+displayNamecase24"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case242
+scala/Unit#RETURN_TYPEó
+Ilocal32:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaVALUEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaO O("
+endLine79"
+isVarfalse"
+symbollocal32"
+package "
+accessEmpty"
+displayNametoAdd"
+kindVALUE"
+	startLine79"
+isValtrue"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter16"
+isFinalfalse*toAdd2
+java/lang/String#TYPE÷
+Ilocal35:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal35"
+package "
+accessPublicAccess()"
+displayNamecase27"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case272
+scala/Unit#RETURN_TYPE÷
+Ilocal33:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal33"
+package "
+accessPublicAccess()"
+displayNamecase25"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case252
+scala/Unit#RETURN_TYPEè
+Jscala/meta/internal/builds/MillDigest.ImportLinesAcc.`<init>$default$7`().METHOD"
+endLine0"
+isVarfalse"T
+symbolJscala/meta/internal/builds/MillDigest.ImportLinesAcc.`<init>$default$7`()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayName<init>$default$7"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>$default$72<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE÷
+Ilocal34:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal34"
+package "
+accessPublicAccess()"
+displayNamecase26"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case262
+scala/Unit#RETURN_TYPE∑
+Hlocal5:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal5"
+package "
+accessEmpty"
+displayNamex1"
+kindVALUE"
+	startLine0"
+isValtrue"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x12
+
+scala/Int#TYPE€
+Ilocal39:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaMETHODK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala` `("
+endLine96"
+isVarfalse"
+symbollocal39"
+package "
+accessPublicAccess()"
+displayNamecase11"
+kindMETHOD"
+	startLine96"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter11"
+isFinalfalse*case112"
+scala/package.List#RETURN_TYPE2*
+scala/meta/io/AbsolutePath#RETURN_TYPE∂
+Ilocal36:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal36"
+package "
+accessPublicAccess()"
+displayName
+matchEnd13"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*
+matchEnd132V
+Ilocal58:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scala	PARAMETER2
+scala/Unit#RETURN_TYPE’
+Hlocal8:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal8"
+package "
+accessPublicAccess()"
+displayNamecase5"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case52
+scala/Boolean#RETURN_TYPE√
+Ilocal38:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal38"
+package "
+accessEmpty"
+displayNamex5"
+kindVALUE"
+	startLine0"
+isValtrue"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x52
+java/lang/Throwable#TYPEø
+Hlocal6:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaVARIABLE"
+endLine0"
+isVartrue"
+symbollocal6"
+package "
+accessEmpty"
+displayNameacc"
+kindVARIABLE"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*acc2
+
+scala/Int#TYPE∑
+Hlocal7:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal7"
+package "
+accessEmpty"
+displayNamex1"
+kindVALUE"
+	startLine0"
+isValtrue"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x12
+
+scala/Any#TYPE“
+Ilocal37:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal37"
+package "
+accessPublicAccess()"
+displayNameex8"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*ex82
+java/lang/Throwable#TYPEä
+Ilocal42:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal42"
+package "
+accessPublicAccess()"
+displayNamecase12"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case122"
+scala/package.List#RETURN_TYPE2*
+scala/meta/io/AbsolutePath#RETURN_TYPEõ
+Cscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply().(skip)	PARAMETER"
+endLine0"
+isVarfalse"M
+symbolCscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply().(skip)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNameskip"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*skip2
+scala/Boolean#TYPEô
+Bscala/meta/internal/builds/MillDigest.ImportLinesAcc#copy().(skip)	PARAMETER"
+endLine0"
+isVarfalse"L
+symbolBscala/meta/internal/builds/MillDigest.ImportLinesAcc#copy().(skip)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNameskip"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*skip2
+scala/Boolean#TYPEŸ
+Ilocal21:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal21"
+package "
+accessPublicAccess()"
+displayNamecase18"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case182
+scala/Boolean#RETURN_TYPEÅ
+Gscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply$default$4().METHOD"
+endLine0"
+isVarfalse"Q
+symbolGscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply$default$4()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNameapply$default$4"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply$default$42<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+scala/Boolean#RETURN_TYPEƒ
+@scala/meta/internal/builds/MillDigest.digestWorkspace().(digest)	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala ("
+endLine15"
+isVarfalse"J
+symbol@scala/meta/internal/builds/MillDigest.digestWorkspace().(digest)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNamedigest"
+kind	PARAMETER"
+	startLine15"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*digest2q
+java/security/MessageDigest#TYPEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala (Ÿ
+Ilocal23:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal23"
+package "
+accessPublicAccess()"
+displayNamecase20"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case202
+scala/Boolean#RETURN_TYPEŸ
+Ilocal24:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal24"
+package "
+accessPublicAccess()"
+displayNamecase21"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case212
+scala/Boolean#RETURN_TYPEŸ
+Ilocal22:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal22"
+package "
+accessPublicAccess()"
+displayNamecase19"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case192
+scala/Boolean#RETURN_TYPEò
+Gscala/meta/internal/builds/MillDigest.ImportLinesAcc#productIterator().METHOD"
+endLine0"
+isVarfalse"Q
+symbolGscala/meta/internal/builds/MillDigest.ImportLinesAcc#productIterator()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNameproductIterator"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productIterator2)
+scala/collection/Iterator#RETURN_TYPE2
+
+scala/Any#RETURN_TYPE2,
+ scala/Product#productIterator().OVERRIDE÷
+Ilocal29:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal29"
+package "
+accessPublicAccess()"
+displayNamecase16"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case162
+scala/Unit#RETURN_TYPEü
+Ilocal28:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaVALUEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala7 7("
+endLine55"
+isVarfalse"
+symbollocal28"
+package "
+accessEmpty"
+displayNamerelative"
+kindVALUE"
+	startLine55"
+isValtrue"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter24"
+startCharacter16"
+isFinalfalse*relative2
+java/nio/file/Path#TYPEù
+Ilocal27:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaVALUEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala6 6("
+endLine54"
+isVarfalse"
+symbollocal27"
+package "
+accessEmpty"
+displayNamenewPath"
+kindVALUE"
+	startLine54"
+isValtrue"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter16"
+isFinalfalse*newPath2
+java/nio/file/Path#TYPEŸ
+Ilocal25:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal25"
+package "
+accessPublicAccess()"
+displayNamecase22"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case222
+scala/Boolean#RETURN_TYPE˝
+Fscala/meta/internal/builds/MillDigest.ImportLinesAcc#copy$default$4().METHOD"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/builds/MillDigest.ImportLinesAcc#copy$default$4()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNamecopy$default$4"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$42<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+scala/Boolean#RETURN_TYPEπ
+Ilocal26:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal26"
+package "
+accessPublicAccess()"
+displayName
+matchEnd17"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*
+matchEnd172V
+Ilocal57:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scala	PARAMETER2
+scala/Boolean#RETURN_TYPEß
+Dscala/meta/internal/builds/MillDigest.ImportLinesAcc#copy().(prefix)	PARAMETER"
+endLine0"
+isVarfalse"N
+symbolDscala/meta/internal/builds/MillDigest.ImportLinesAcc#copy().(prefix)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNameprefix"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*prefix2
+scala/Predef.String#TYPE•
+Escala/meta/internal/builds/MillDigest.ImportLinesAcc#copy().(hadFile)	PARAMETER"
+endLine0"
+isVarfalse"O
+symbolEscala/meta/internal/builds/MillDigest.ImportLinesAcc#copy().(hadFile)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNamehadFile"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*hadFile2
+scala/Boolean#TYPE∫
+?scala/meta/internal/builds/MillDigest.ImportLinesAcc.unapply().METHOD"
+endLine0"
+isVarfalse"I
+symbol?scala/meta/internal/builds/MillDigest.ImportLinesAcc.unapply()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNameunapply"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*unapply2Q
+Dscala/meta/internal/builds/MillDigest.ImportLinesAcc.unapply().(x$0)	PARAMETER2
+scala/Option#RETURN_TYPE2
+scala/Tuple7#RETURN_TYPE2
+scala/Boolean#RETURN_TYPE2
+scala/Boolean#RETURN_TYPE2
+scala/Boolean#RETURN_TYPE2
+scala/Boolean#RETURN_TYPE23
+$scala/collection/mutable/ListBuffer#RETURN_TYPE2*
+scala/meta/io/AbsolutePath#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE¬
+Dscala/meta/internal/builds/MillDigest.ImportLinesAcc.unapply().(x$0)	PARAMETER"
+endLine0"
+isVarfalse"N
+symbolDscala/meta/internal/builds/MillDigest.ImportLinesAcc.unapply().(x$0)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNamex$0"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$02=
+5scala/meta/internal/builds/MillDigest.ImportLinesAcc#TYPE÷
+Ilocal20:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal20"
+package "
+accessPublicAccess()"
+displayNamecase15"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case152
+scala/Unit#RETURN_TYPEÍ
+Escala/meta/internal/builds/MillDigest.ImportLinesAcc#productPrefix().METHOD"
+endLine0"
+isVarfalse"O
+symbolEscala/meta/internal/builds/MillDigest.ImportLinesAcc#productPrefix()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNameproductPrefix"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productPrefix2 
+java/lang/String#RETURN_TYPE2*
+scala/Product#productPrefix().OVERRIDE˜
+@scala/meta/internal/builds/MillDigest.ImportLinesAcc#toString().METHOD"
+endLine0"
+isVarfalse"J
+symbol@scala/meta/internal/builds/MillDigest.ImportLinesAcc#toString()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNametoString"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*toString2 
+java/lang/String#RETURN_TYPE2(
+java/lang/Object#toString().OVERRIDE2!
+scala/Any#toString().OVERRIDEá
+Gscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply$default$7().METHOD"
+endLine0"
+isVarfalse"Q
+symbolGscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply$default$7()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNameapply$default$7"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply$default$72<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPEâ
+Jscala/meta/internal/builds/MillDigest.ImportLinesAcc.`<init>$default$3`().METHOD"
+endLine0"
+isVarfalse"T
+symbolJscala/meta/internal/builds/MillDigest.ImportLinesAcc.`<init>$default$3`()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayName<init>$default$3"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>$default$32<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+scala/Boolean#RETURN_TYPE˝
+Fscala/meta/internal/builds/MillDigest.ImportLinesAcc#copy$default$1().METHOD"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/builds/MillDigest.ImportLinesAcc#copy$default$1()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNamecopy$default$1"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$12<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+scala/Boolean#RETURN_TYPEå
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaFILE*Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaü
+@scala/meta/internal/builds/MillDigest.ImportLinesAcc.toString().METHOD"
+endLine0"
+isVarfalse"J
+symbol@scala/meta/internal/builds/MillDigest.ImportLinesAcc.toString()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNametoString"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinaltrue*toString2 
+java/lang/String#RETURN_TYPE2'
+scala/Function7#toString().OVERRIDE2(
+java/lang/Object#toString().OVERRIDE2!
+scala/Any#toString().OVERRIDEö	
+Lscala/meta/internal/builds/MillDigest.ImportLinesAcc#processingFileImport().METHODK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala# #("
+endLine35"
+isVarfalse"V
+symbolLscala/meta/internal/builds/MillDigest.ImportLinesAcc#processingFileImport()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"#
+displayNameprocessingFileImport"
+kindMETHOD"
+	startLine35"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter28"
+startCharacter8"
+isFinalfalse"
+LOC1*processingFileImport2j
+scala/Boolean#RETURN_TYPEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala# #(%2î
+?scala/meta/internal/builds/MillDigest.ImportLinesAcc#hadFile().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala#( #(/2j
+scala/Boolean#`&&`().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala#0 #(22ñ
+Ascala/meta/internal/builds/MillDigest.ImportLinesAcc#hadImport().CALLK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala#3 #(<‰
+Fscala/meta/internal/builds/MillDigest.ImportLinesAcc#copy().(allPaths)	PARAMETER"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/builds/MillDigest.ImportLinesAcc#copy().(allPaths)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNameallPaths"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*allPaths2,
+$scala/collection/mutable/ListBuffer#TYPE2#
+scala/meta/io/AbsolutePath#TYPE±
+<scala/meta/internal/builds/MillDigest.ImportLinesAcc#skip().VARIABLEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala
+ ("
+endLine30"
+isVartrue"F
+symbol<scala/meta/internal/builds/MillDigest.ImportLinesAcc#skip()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNameskip"
+kindVARIABLE"
+	startLine30"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter14"
+startCharacter10"
+isFinalfalse*skip2c
+scala/Boolean#TYPEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala (Å
+Gscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply$default$2().METHOD"
+endLine0"
+isVarfalse"Q
+symbolGscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply$default$2()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNameapply$default$2"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply$default$22<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+scala/Boolean#RETURN_TYPE–
+Cscala/meta/internal/builds/MillDigest.ImportLinesAcc#`current_=`().VARIABLEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaX X("
+endLine88"
+isVartrue"M
+symbolCscala/meta/internal/builds/MillDigest.ImportLinesAcc#`current_=`()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayName	current_="
+kindVARIABLE"
+	startLine88"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter16"
+isFinalfalse*	current_=2U
+Hscala/meta/internal/builds/MillDigest.ImportLinesAcc#`current_=`().(x$1)	PARAMETER2
+scala/Unit#TYPE°
+@scala/meta/internal/builds/MillDigest.ImportLinesAcc#canEqual().METHOD"
+endLine0"
+isVarfalse"J
+symbol@scala/meta/internal/builds/MillDigest.ImportLinesAcc#canEqual()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNamecanEqual"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*canEqual2R
+Escala/meta/internal/builds/MillDigest.ImportLinesAcc#canEqual().(x$1)	PARAMETER2
+scala/Boolean#RETURN_TYPE2$
+scala/Equals#canEqual().OVERRIDE£
+Hscala/meta/internal/builds/MillDigest.ImportLinesAcc#`hadFile_=`().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"R
+symbolHscala/meta/internal/builds/MillDigest.ImportLinesAcc#`hadFile_=`().(x$1)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+scala/Boolean#TYPEÈ
+Hscala/meta/internal/builds/MillDigest.ImportLinesAcc#`insideBraces_=`().VARIABLEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala< <("
+endLine60"
+isVartrue"R
+symbolHscala/meta/internal/builds/MillDigest.ImportLinesAcc#`insideBraces_=`()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNameinsideBraces_="
+kindVARIABLE"
+	startLine60"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter30"
+startCharacter18"
+isFinalfalse*insideBraces_=2Z
+Mscala/meta/internal/builds/MillDigest.ImportLinesAcc#`insideBraces_=`().(x$1)	PARAMETER2
+scala/Unit#TYPEÉ
+Fscala/meta/internal/builds/MillDigest.ImportLinesAcc#copy$default$6().METHOD"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/builds/MillDigest.ImportLinesAcc#copy$default$6()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNamecopy$default$6"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$62<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE©
+Escala/meta/internal/builds/MillDigest.ImportLinesAcc.apply().(prefix)	PARAMETER"
+endLine0"
+isVarfalse"O
+symbolEscala/meta/internal/builds/MillDigest.ImportLinesAcc.apply().(prefix)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNameprefix"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*prefix2
+scala/Predef.String#TYPE•
+Kscala/meta/internal/builds/MillDigest.ImportLinesAcc#productElement().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"U
+symbolKscala/meta/internal/builds/MillDigest.ImportLinesAcc#productElement().(x$1)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Int#TYPE∑
+Ilocal10:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal10"
+package "
+accessPublicAccess()"
+displayName	matchEnd4"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*	matchEnd42V
+Ilocal56:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scala	PARAMETER2
+scala/Boolean#RETURN_TYPEï
+Cscala/meta/internal/builds/MillDigest.ImportLinesAcc#equals().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"M
+symbolCscala/meta/internal/builds/MillDigest.ImportLinesAcc#equals().(x$1)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Any#TYPE™
+Ilocal12:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaVALUEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala+
+ +("
+endLine43"
+isVarfalse"
+symbollocal12"
+package "
+accessEmpty"
+displayNameinput"
+kindVALUE"
+	startLine43"
+isValtrue"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter15"
+startCharacter10"
+isFinalfalse*input2,
+$scala/meta/inputs/Input.VirtualFile#TYPEÀ
+Jscala/meta/internal/builds/MillDigest.ImportLinesAcc.`<init>$default$5`().METHOD"
+endLine0"
+isVarfalse"T
+symbolJscala/meta/internal/builds/MillDigest.ImportLinesAcc.`<init>$default$5`()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayName<init>$default$5"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>$default$52<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE23
+$scala/collection/mutable/ListBuffer#RETURN_TYPE2*
+scala/meta/io/AbsolutePath#RETURN_TYPE«
+Ilocal18:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal18"
+package "
+accessEmpty"
+displayNamex1"
+kindVALUE"
+	startLine0"
+isValtrue"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x12 
+scala/meta/tokens/Token#TYPE¨
+Iscala/meta/internal/builds/MillDigest.ImportLinesAcc#`<init>`().(hadFile)	PARAMETER"
+endLine0"
+isVartrue"S
+symbolIscala/meta/internal/builds/MillDigest.ImportLinesAcc#`<init>`().(hadFile)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNamehadFile"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*hadFile2
+scala/Boolean#TYPE–
+Cscala/meta/internal/builds/MillDigest.ImportLinesAcc#`hadFile_=`().VARIABLEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala@ @("
+endLine64"
+isVartrue"M
+symbolCscala/meta/internal/builds/MillDigest.ImportLinesAcc#`hadFile_=`()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayName	hadFile_="
+kindVARIABLE"
+	startLine64"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter25"
+startCharacter18"
+isFinalfalse*	hadFile_=2U
+Hscala/meta/internal/builds/MillDigest.ImportLinesAcc#`hadFile_=`().(x$1)	PARAMETER2
+scala/Unit#TYPEó
+Ilocal16:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaVARIABLEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala/ /("
+endLine47"
+isVartrue"
+symbollocal16"
+package "
+accessEmpty"
+displayNamerc12"
+kindVARIABLE"
+	startLine47"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter8"
+isFinalfalse*rc122
+scala/Boolean#TYPE∑
+Ilocal14:metals/src/main/scala/scala/meta/internal/builds/MillDigest.scalaVALUEK
+Ametals/src/main/scala/scala/meta/internal/builds/MillDigest.scala-
+ -("
+endLine45"
+isVarfalse"
+symbollocal14"
+package "
+accessEmpty"
+displayNameacc"
+kindVALUE"
+	startLine45"
+isValtrue"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter10"
+isFinalfalse*acc2=
+5scala/meta/internal/builds/MillDigest.ImportLinesAcc#TYPEé	
+<scala/meta/internal/builds/MillDigest.ImportLinesAcc#copy().METHOD"
+endLine0"
+isVarfalse"F
+symbol<scala/meta/internal/builds/MillDigest.ImportLinesAcc#copy()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNamecopy"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/builds/MillDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy2T
+Gscala/meta/internal/builds/MillDigest.ImportLinesAcc#copy().(hadImport)	PARAMETER2R
+Escala/meta/internal/builds/MillDigest.ImportLinesAcc#copy().(hadFile)	PARAMETER2W
+Jscala/meta/internal/builds/MillDigest.ImportLinesAcc#copy().(insideBraces)	PARAMETER2O
+Bscala/meta/internal/builds/MillDigest.ImportLinesAcc#copy().(skip)	PARAMETER2S
+Fscala/meta/internal/builds/MillDigest.ImportLinesAcc#copy().(allPaths)	PARAMETER2R
+Escala/meta/internal/builds/MillDigest.ImportLinesAcc#copy().(current)	PARAMETER2Q
+Dscala/meta/internal/builds/MillDigest.ImportLinesAcc#copy().(prefix)	PARAMETER2D
+5scala/meta/internal/builds/MillDigest.ImportLinesAcc#RETURN_TYPE

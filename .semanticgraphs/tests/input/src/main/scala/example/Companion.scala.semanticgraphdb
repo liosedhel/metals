@@ -1,0 +1,70 @@
+
+2tests/input/src/main/scala/example/Companion.scalaí
+example/Companion.OBJECT<
+2tests/input/src/main/scala/example/Companion.scala ("
+endLine4"
+isVarfalse"
+symbolexample/Companion."
+packageexample"
+accessPublicAccess()"
+displayName	Companion"
+kindOBJECT"
+	startLine4"
+isValfalse"9
+uri2tests/input/src/main/scala/example/Companion.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter7"
+isFinaltrue"
+LOC1*	Companion2
+scala/AnyRef#EXTENDn
+2tests/input/src/main/scala/example/Companion.scalaFILE*2tests/input/src/main/scala/example/Companion.scalaš
+example/Companion#CLASS<
+2tests/input/src/main/scala/example/Companion.scala ("
+endLine2"
+isVarfalse"
+symbolexample/Companion#"
+packageexample"
+accessPublicAccess()"
+displayName	Companion"
+kindCLASS"
+	startLine2"
+isValfalse"9
+uri2tests/input/src/main/scala/example/Companion.scala"
+
+isAbstracttrue"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter24"
+startCharacter15"
+isFinalfalse"
+LOC1*	Companion2j
+example/Companion#`<init>`().DECLARATION<
+2tests/input/src/main/scala/example/Companion.scala (2Y
+java/lang/Object#EXTEND<
+2tests/input/src/main/scala/example/Companion.scala# ()æ
+example/Companion#`<init>`().CONSTRUCTOR<
+2tests/input/src/main/scala/example/Companion.scala ("
+endLine2"
+isVarfalse"'
+symbolexample/Companion#`<init>`()."
+packageexample"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine2"
+isValfalse"9
+uri2tests/input/src/main/scala/example/Companion.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter24"
+startCharacter24"
+isFinalfalse*<init>

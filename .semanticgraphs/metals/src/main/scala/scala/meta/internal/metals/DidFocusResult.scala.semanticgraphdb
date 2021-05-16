@@ -1,0 +1,146 @@
+
+Emetals/src/main/scala/scala/meta/internal/metals/DidFocusResult.scalaü
+9scala/meta/internal/metals/DidFocusResult.RecentlyActive.VALUEO
+Emetals/src/main/scala/scala/meta/internal/metals/DidFocusResult.scala (#"
+endLine4"
+isVarfalse"C
+symbol9scala/meta/internal/metals/DidFocusResult.RecentlyActive."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameRecentlyActive"
+kindVALUE"
+	startLine4"
+isValtrue"L
+uriEmetals/src/main/scala/scala/meta/internal/metals/DidFocusResult.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter35"
+startCharacter21"
+isFinalfalse*RecentlyActive2 
+scala/Enumeration#Value#TYPE£
+9scala/meta/internal/metals/DidFocusResult.DidFocusResult#TYPEO
+Emetals/src/main/scala/scala/meta/internal/metals/DidFocusResult.scala ("
+endLine3"
+isVarfalse"C
+symbol9scala/meta/internal/metals/DidFocusResult.DidFocusResult#"%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameDidFocusResult"
+kindTYPE"
+	startLine3"
+isValfalse"L
+uriEmetals/src/main/scala/scala/meta/internal/metals/DidFocusResult.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter7"
+isFinalfalse*DidFocusResult2*
+scala/Enumeration#Value#TYPE_PARAMETER2*
+scala/Enumeration#Value#TYPE_PARAMETER2q
+scala/Enumeration#Value#TYPEO
+Emetals/src/main/scala/scala/meta/internal/metals/DidFocusResult.scala (€
+:scala/meta/internal/metals/DidFocusResult.AlreadyCompiled.VALUEO
+Emetals/src/main/scala/scala/meta/internal/metals/DidFocusResult.scala% (4"
+endLine4"
+isVarfalse"D
+symbol:scala/meta/internal/metals/DidFocusResult.AlreadyCompiled."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameAlreadyCompiled"
+kindVALUE"
+	startLine4"
+isValtrue"L
+uriEmetals/src/main/scala/scala/meta/internal/metals/DidFocusResult.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter52"
+startCharacter37"
+isFinalfalse*AlreadyCompiled2 
+scala/Enumeration#Value#TYPE‘
+3scala/meta/internal/metals/DidFocusResult.Compiled.VALUE"
+endLine0"
+isVarfalse"=
+symbol3scala/meta/internal/metals/DidFocusResult.Compiled."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameCompiled"
+kindVALUE"
+	startLine0"
+isValtrue"L
+uriEmetals/src/main/scala/scala/meta/internal/metals/DidFocusResult.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*Compiled2 
+scala/Enumeration#Value#TYPE”
+Emetals/src/main/scala/scala/meta/internal/metals/DidFocusResult.scalaFILE*Emetals/src/main/scala/scala/meta/internal/metals/DidFocusResult.scalaú
+*scala/meta/internal/metals/DidFocusResult.OBJECTO
+Emetals/src/main/scala/scala/meta/internal/metals/DidFocusResult.scala ("
+endLine2"
+isVarfalse"4
+symbol*scala/meta/internal/metals/DidFocusResult."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameDidFocusResult"
+kindOBJECT"
+	startLine2"
+isValfalse"L
+uriEmetals/src/main/scala/scala/meta/internal/metals/DidFocusResult.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter7"
+isFinaltrue"
+LOC4*DidFocusResult2B
+3scala/meta/internal/metals/DidFocusResult.Compiled.DECLARATION2m
+scala/Enumeration#EXTENDO
+Emetals/src/main/scala/scala/meta/internal/metals/DidFocusResult.scala ()2™
+9scala/meta/internal/metals/DidFocusResult.DidFocusResult#DECLARATIONO
+Emetals/src/main/scala/scala/meta/internal/metals/DidFocusResult.scala (2˜
+8scala/meta/internal/metals/DidFocusResult.NoBuildTarget.DECLARATIONO
+Emetals/src/main/scala/scala/meta/internal/metals/DidFocusResult.scala (2™
+9scala/meta/internal/metals/DidFocusResult.RecentlyActive.DECLARATIONO
+Emetals/src/main/scala/scala/meta/internal/metals/DidFocusResult.scala (#2š
+:scala/meta/internal/metals/DidFocusResult.AlreadyCompiled.DECLARATIONO
+Emetals/src/main/scala/scala/meta/internal/metals/DidFocusResult.scala% (42˜
+8scala/meta/internal/metals/DidFocusResult.NoBuildTarget.DECLARATIONO
+Emetals/src/main/scala/scala/meta/internal/metals/DidFocusResult.scala6 (>2s
+scala/Enumeration#Value().CALLO
+Emetals/src/main/scala/scala/meta/internal/metals/DidFocusResult.scalaA (Fø
+8scala/meta/internal/metals/DidFocusResult.NoBuildTarget.VALUEO
+Emetals/src/main/scala/scala/meta/internal/metals/DidFocusResult.scala6 (>"
+endLine4"
+isVarfalse"B
+symbol8scala/meta/internal/metals/DidFocusResult.NoBuildTarget."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameNoBuildTarget"
+kindVALUE"
+	startLine4"
+isValtrue"L
+uriEmetals/src/main/scala/scala/meta/internal/metals/DidFocusResult.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter62"
+startCharacter54"
+isFinalfalse*NoBuildTarget2 
+scala/Enumeration#Value#TYPE

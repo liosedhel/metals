@@ -1,0 +1,2983 @@
+
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaò
+8scala/meta/internal/mtags/JavaMtags#XtensionJavaModel().METHOD"
+endLine0"
+isVarfalse"B
+symbol8scala/meta/internal/mtags/JavaMtags#XtensionJavaModel()."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()" 
+displayNameXtensionJavaModel"
+kindMETHOD"
+	startLine0"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicittrue"
+endCharacter0"
+startCharacter0"
+isFinalfalse*XtensionJavaModel2H
+;scala/meta/internal/mtags/JavaMtags#XtensionJavaModel().(m)	PARAMETER2E
+6scala/meta/internal/mtags/JavaMtags#XtensionJavaModel#RETURN_TYPEé/
+3scala/meta/internal/mtags/JavaMtags#visitClass(+1).METHODJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalag g("
+endLine103"
+isVarfalse"=
+symbol3scala/meta/internal/mtags/JavaMtags#visitClass(+1)."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayName
+visitClass"
+kindMETHOD"
+	startLine103"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter6"
+isFinalfalse"	
+LOC16*
+visitClass2ë
+8scala/meta/internal/mtags/JavaMtags#visitClass(+1).(cls)	PARAMETERJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalag g(2f
+scala/Unit#RETURN_TYPEJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalag" g(&2£
+Hlocal19:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaDECLARATIONJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalai
+ i(2å
+8scala/meta/internal/mtags/JavaMtags#visitClass(+1).(cls)CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalai i(2à
+4com/thoughtworks/qdox/model/JavaClass#isInterface().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalai i($2ä
+6scala/meta/internal/semanticdb/SymbolInformation.Kind.CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalai& i(*2î
+@scala/meta/internal/semanticdb/SymbolInformation.Kind.INTERFACE.CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalai+ i(42ä
+6scala/meta/internal/semanticdb/SymbolInformation.Kind.CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalai: i(>2ê
+<scala/meta/internal/semanticdb/SymbolInformation.Kind.CLASS.CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalai? i(D2£
+Hlocal20:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaDECLARATIONJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaj
+ j(2å
+8scala/meta/internal/mtags/JavaMtags#visitClass(+1).(cls)CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaj  j(#2ó
+Cscala/meta/internal/mtags/JavaMtags#XtensionJavaModel#lineNumber().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaj$ j(.2å
+8scala/meta/internal/mtags/JavaMtags#visitClass(+1).(cls)CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaj0 j(32Ñ
+0com/thoughtworks/qdox/model/JavaClass#getName().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaj4 j(;2ä
+6scala/meta/internal/mtags/JavaMtags#toRangePosition().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaj j(2å
+8scala/meta/internal/mtags/JavaMtags#visitClass(+1).(cls)CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalal l(2å
+8scala/meta/internal/mtags/JavaMtags#visitClass(+1).(cls)CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalam m(2Ñ
+0com/thoughtworks/qdox/model/JavaClass#getName().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalam m(2ú
+Hlocal20:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalan n(2ú
+Hlocal19:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalao o(2å
+8scala/meta/internal/mtags/JavaMtags#visitClass(+1).(cls)CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalap p(2É
+/com/thoughtworks/qdox/model/JavaClass#isEnum().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalap p(2é
+:scala/meta/internal/semanticdb/SymbolInformation.Property.CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalap p( 2ì
+?scala/meta/internal/semanticdb/SymbolInformation.Property.ENUM.CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalap! p(%2î
+@scala/meta/internal/semanticdb/SymbolInformation.Property#value.CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalap& p(+2Ö
+1scala/meta/internal/mtags/JavaMtags#visitClass().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalak k(2å
+8scala/meta/internal/mtags/JavaMtags#visitClass(+1).(cls)CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalar r(2ç
+9com/thoughtworks/qdox/model/JavaClass#getNestedClasses().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalar r('2á
+3scala/meta/internal/mtags/JavaMtags#visitClasses().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalar r(2å
+8scala/meta/internal/mtags/JavaMtags#visitClass(+1).(cls)CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalas s(2á
+3scala/meta/internal/mtags/JavaMtags#visitMethods().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalas s(2å
+8scala/meta/internal/mtags/JavaMtags#visitClass(+1).(cls)CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalat t(2å
+8scala/meta/internal/mtags/JavaMtags#visitConstructors().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalat t(2å
+8scala/meta/internal/mtags/JavaMtags#visitClass(+1).(cls)CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalau u(2Ü
+2com/thoughtworks/qdox/model/JavaClass#getFields().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalau u( 2á
+3scala/meta/internal/mtags/JavaMtags#visitMembers().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalau u(2É
+/scala/meta/internal/mtags/MtagsIndexer#owner().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalah h(2á
+3scala/meta/internal/mtags/MtagsIndexer#withOwner().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalah h(ª
+8scala/meta/internal/mtags/JavaMtags#visitMethods().(cls)	PARAMETERL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaõ õ("
+endLine155"
+isVarfalse"B
+symbol8scala/meta/internal/mtags/JavaMtags#visitMethods().(cls)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNamecls"
+kind	PARAMETER"
+	startLine155"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter19"
+isFinalfalse*cls2|
+&com/thoughtworks/qdox/model/JavaClass#TYPEL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaõ õ(!Ÿ1
+6scala/meta/internal/mtags/JavaMtags#toRangePosition().METHODJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala< <("
+endLine60"
+isVarfalse"@
+symbol6scala/meta/internal/mtags/JavaMtags#toRangePosition()."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayNametoRangePosition"
+kindMETHOD"
+	startLine60"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter6"
+isFinalfalse"	
+LOC19*toRangePosition2ï
+<scala/meta/internal/mtags/JavaMtags#toRangePosition().(line)	PARAMETERJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala< <(2ï
+<scala/meta/internal/mtags/JavaMtags#toRangePosition().(name)	PARAMETERJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala<! <(%2v
+scala/meta/inputs/Position#RETURN_TYPEJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala<0 <(82£
+Hlocal13:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaDECLARATIONJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala= =(2ê
+<scala/meta/internal/mtags/JavaMtags#toRangePosition().(line)CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala=  =($2Ä
+,scala/meta/internal/mtags/JavaMtags#input().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala= =(2û
+Jscala/meta/internal/mtags/MtagsEnrichments#XtensionInputOffset#toOffset().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala= =(2£
+Hlocal14:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaDECLARATIONJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala> >(2£
+Hlocal15:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaDECLARATIONJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala?
+ ?(2ú
+Hlocal13:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaA. A(42Ä
+,scala/meta/internal/mtags/JavaMtags#input().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaA A(2~
+*scala/meta/inputs/Input.VirtualFile#value.CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaA A(2r
+java/lang/String#startsWith().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaA A("2n
+java/lang/String#length().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaAA A(G2ú
+Hlocal13:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaB B(2£
+Hlocal16:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaDECLARATIONJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaD
+ D(2k
+java/lang/String#`+`().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaD( D()2ê
+<scala/meta/internal/mtags/JavaMtags#toRangePosition().(name)CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaD* D(.2ú
+Hlocal15:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaD0 D(92Ä
+,scala/meta/internal/mtags/JavaMtags#input().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaD D(2~
+*scala/meta/inputs/Input.VirtualFile#value.CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaD D(2q
+java/lang/String#indexOf(+3).CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaD D(#2ú
+Hlocal16:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaE
+ E(2g
+scala/Int#`==`(+3).CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaE E(2ú
+Hlocal16:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaF F(2f
+scala/Int#`-`(+3).CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaF F(2ú
+Hlocal13:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaF F(2f
+scala/Int#`+`(+4).CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaF F(2n
+java/lang/String#length().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaF F(%2ê
+<scala/meta/internal/mtags/JavaMtags#toRangePosition().(name)CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaF' F(+2n
+java/lang/String#length().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaF, F(22ê
+<scala/meta/internal/mtags/JavaMtags#toRangePosition().(line)CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaI I(
+2ú
+Hlocal14:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaJ J(2d
+scala/Tuple2#_1.CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaJ J(2ê
+<scala/meta/internal/mtags/JavaMtags#toRangePosition().(line)CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaK K(
+2ú
+Hlocal14:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaL L(2d
+scala/Tuple2#_1.CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaL L(2f
+scala/Int#`+`(+4).CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaL L(2ú
+Hlocal14:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaL L(*2d
+scala/Tuple2#_2.CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaL+ L(-2Ä
+,scala/meta/internal/mtags/JavaMtags#input().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaH H(	2¢
+Nscala/meta/internal/mtags/MtagsEnrichments#XtensionInputOffset#toPosition(+2).CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaH
+ H(œ	
+,scala/meta/internal/mtags/JavaMtags.index().METHODJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala ("
+endLine23"
+isVarfalse"6
+symbol,scala/meta/internal/mtags/JavaMtags.index()."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayNameindex"
+kindMETHOD"
+	startLine23"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter11"
+startCharacter6"
+isFinalfalse"
+LOC2*index2å
+3scala/meta/internal/mtags/JavaMtags.index().(input)	PARAMETERJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala (2Ç
+'scala/meta/internal/mtags/MtagsIndexer#RETURN_TYPEJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala' (32x
+$scala/meta/internal/mtags/JavaMtags#CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala (2É
+/scala/meta/internal/mtags/JavaMtags#`<init>`().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala (2á
+3scala/meta/internal/mtags/JavaMtags.index().(input)CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala (…
+=scala/meta/internal/mtags/JavaMtags#visitConstructor().(ctor)	PARAMETERJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalay y(
+"
+endLine121"
+isVarfalse"G
+symbol=scala/meta/internal/mtags/JavaMtags#visitConstructor().(ctor)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNamector"
+kind	PARAMETER"
+	startLine121"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter6"
+isFinalfalse*ctor2Ä
+,com/thoughtworks/qdox/model/JavaConstructor#TYPEJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalay y(‘
+Fscala/meta/internal/mtags/JavaMtags#visitConstructor().(disambiguator)	PARAMETERJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaz z("
+endLine122"
+isVarfalse"P
+symbolFscala/meta/internal/mtags/JavaMtags#visitConstructor().(disambiguator)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNamedisambiguator"
+kind	PARAMETER"
+	startLine122"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter6"
+isFinalfalse*disambiguator2h
+scala/Predef.String#TYPEJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaz z(≈
+=scala/meta/internal/mtags/JavaMtags#visitConstructors().(cls)	PARAMETERL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaÅ Å("
+endLine129"
+isVarfalse"G
+symbol=scala/meta/internal/mtags/JavaMtags#visitConstructors().(cls)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNamecls"
+kind	PARAMETER"
+	startLine129"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter27"
+startCharacter24"
+isFinalfalse*cls2|
+&com/thoughtworks/qdox/model/JavaClass#TYPEL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaÅ Å(&ä
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaFILE*@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala¡
+5scala/meta/internal/mtags/JavaMtags#visitMember().(m)	PARAMETERL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala≠# ≠($"
+endLine173"
+isVarfalse"?
+symbol5scala/meta/internal/mtags/JavaMtags#visitMember().(m)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNamem"
+kind	PARAMETER"
+	startLine173"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter36"
+startCharacter35"
+isFinalfalse*m2ã
+5scala/meta/internal/mtags/JavaMtags#visitMember().[T]TYPEL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala≠& ≠('Ó
+7scala/meta/internal/mtags/JavaMtags#visitConstructor().METHODJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalax x("
+endLine120"
+isVarfalse"A
+symbol7scala/meta/internal/mtags/JavaMtags#visitConstructor()."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayNamevisitConstructor"
+kindMETHOD"
+	startLine120"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter6"
+isFinalfalse"
+LOC8*visitConstructor2ñ
+=scala/meta/internal/mtags/JavaMtags#visitConstructor().(ctor)	PARAMETERJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalay y(
+2ü
+Fscala/meta/internal/mtags/JavaMtags#visitConstructor().(disambiguator)	PARAMETERJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaz z(2ï
+<scala/meta/internal/mtags/JavaMtags#visitConstructor().(pos)	PARAMETERJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala{ {(	2ú
+Cscala/meta/internal/mtags/JavaMtags#visitConstructor().(properties)	PARAMETERJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala| |(2f
+scala/Unit#RETURN_TYPEJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala} }(	2ö
+Fscala/meta/internal/mtags/JavaMtags#visitConstructor().(disambiguator)CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala~ ~(2ê
+<scala/meta/internal/mtags/JavaMtags#visitConstructor().(pos)CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala~ ~(!2Ç
+.scala/meta/internal/mtags/MtagsIndexer#ctor().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala~
+ ~(Ø
+<scala/meta/internal/mtags/JavaMtags#`<init>`().(virtualFile)	PARAMETER"
+endLine0"
+isVarfalse"F
+symbol<scala/meta/internal/mtags/JavaMtags#`<init>`().(virtualFile)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNamevirtualFile"
+kind	PARAMETER"
+	startLine0"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*virtualFile2,
+$scala/meta/inputs/Input.VirtualFile#TYPEƒ
+Hlocal19:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaVALUEJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalai
+ i("
+endLine105"
+isVarfalse"
+symbollocal19"
+package "
+accessEmpty"
+displayNamekind"
+kindVALUE"
+	startLine105"
+isValtrue"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter14"
+startCharacter10"
+isFinalfalse*kind2I
+Ascala/meta/internal/semanticdb/SymbolInformation.Kind.Recognized#TYPEõ
+3scala/meta/internal/mtags/JavaMtags.index().(input)	PARAMETERJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala ("
+endLine23"
+isVarfalse"=
+symbol3scala/meta/internal/mtags/JavaMtags.index().(input)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNameinput"
+kind	PARAMETER"
+	startLine23"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter12"
+isFinalfalse*input2l
+scala/meta/inputs/Input.CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala (2x
+$scala/meta/inputs/Input.VirtualFile#TYPEJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala ($≠
+Dscala/meta/internal/mtags/JavaMtags#XtensionJavaModel#`<init>`().(m)	PARAMETER"
+endLine0"
+isVarfalse"N
+symbolDscala/meta/internal/mtags/JavaMtags#XtensionJavaModel#`<init>`().(m)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNamem"
+kind	PARAMETER"
+	startLine0"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*m2.
+&com/thoughtworks/qdox/model/JavaModel#TYPEÔ
+Hlocal29:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaMETHODL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaü ü("
+endLine159"
+isVarfalse"
+symbollocal29"
+package "
+accessPublicAccess()"
+displayNamecompare"
+kindMETHOD"
+	startLine159"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter26"
+startCharacter19"
+isFinalfalse"
+LOC3*compare2+
+java/util/Comparator#compare().OVERRIDE2£
+Hlocal30:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala	PARAMETERL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaü ü(2£
+Hlocal31:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala	PARAMETERL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaü+ ü(-2g
+
+scala/Int#RETURN_TYPEL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaü< ü(?2û
+Hlocal30:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala†" †($2à
+2com/thoughtworks/qdox/model/JavaMember#isStatic().CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala†% †(-2û
+Hlocal31:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala†/ †(12à
+2com/thoughtworks/qdox/model/JavaMember#isStatic().CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala†2 †(:2[
+java/CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala† †(2`
+
+java/lang/CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala† †(2h
+java/lang/Boolean#CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala† †(2r
+java/lang/Boolean#compare().CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala† †(!À
+Ascala/meta/internal/mtags/JavaMtags#XtensionJavaModel#`<init>`().CONSTRUCTORL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala¡" ¡(""
+endLine193"
+isVarfalse"K
+symbolAscala/meta/internal/mtags/JavaMtags#XtensionJavaModel#`<init>`()."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine193"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter34"
+startCharacter34"
+isFinalfalse*<init>2Q
+Dscala/meta/internal/mtags/JavaMtags#XtensionJavaModel#`<init>`().(m)	PARAMETER2ì
+8scala/meta/internal/mtags/JavaMtags#XtensionJavaModel#m.	PARAMETERL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala¡# ¡($’
+Glocal9:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal9"
+package "
+accessPublicAccess()"
+displayNamecase16"
+kindMETHOD"
+	startLine0"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case162
+scala/Boolean#RETURN_TYPE±
+Hlocal49:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaMETHODL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaº º(#"
+endLine188"
+isVarfalse"
+symbollocal49"
+package "
+accessPublicAccess()"
+displayName	matchEnd6"
+kindMETHOD"
+	startLine188"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter35"
+startCharacter23"
+isFinalfalse*	matchEnd62V
+Ilocal151:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala	PARAMETER2E
+6scala/meta/internal/semanticdb/SymbolInformation.Kind#RETURN_TYPE—
+Hlocal39:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal39"
+package "
+accessPublicAccess()"
+displayNamecase6"
+kindMETHOD"
+	startLine0"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case62
+
+scala/Int#RETURN_TYPEÂ
+<scala/meta/internal/mtags/JavaMtags#visitClasses().(classes)	PARAMETERJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaT T("
+endLine84"
+isVarfalse"F
+symbol<scala/meta/internal/mtags/JavaMtags#visitClasses().(classes)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNameclasses"
+kind	PARAMETER"
+	startLine84"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter26"
+startCharacter19"
+isFinalfalse*classes2Y
+java/CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaT T( 2^
+
+java/util/CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaT! T(%2c
+java/util/List#TYPEJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaT& T(*2z
+&com/thoughtworks/qdox/model/JavaClass#TYPEJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaT+ T(4ö
+5scala/meta/internal/mtags/JavaMtags#visitMember().[T]TYPE_PARAMETERL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala≠ ≠("
+endLine173"
+isVarfalse"?
+symbol5scala/meta/internal/mtags/JavaMtags#visitMember().[T]"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNameT"
+kindTYPE_PARAMETER"
+	startLine173"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter18"
+isFinalfalse*T29
+'com/thoughtworks/qdox/model/JavaMember#TYPE_PARAMETER2 
+scala/Nothing#TYPE_PARAMETER∂
+Hlocal47:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaVALUEL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala∂ ∂("
+endLine182"
+isVarfalse"
+symbollocal47"
+package "
+accessEmpty"
+displayNamex1"
+kindVALUE"
+	startLine182"
+isValtrue"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter24"
+startCharacter23"
+isFinalfalse*x12=
+5scala/meta/internal/mtags/JavaMtags#visitMember().[T]TYPE 
+Hlocal27:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaVALUEL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaù ù("
+endLine157"
+isVarfalse"
+symbollocal27"
+package "
+accessEmpty"
+displayNamemethods"
+kindVALUE"
+	startLine157"
+isValtrue"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter15"
+startCharacter8"
+isFinalfalse*methods2
+java/util/List#TYPE2/
+'com/thoughtworks/qdox/model/JavaMethod#TYPEÁ
+Hlocal40:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaVALUEL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala± ±("
+endLine177"
+isVarfalse"
+symbollocal40"
+package "
+accessEmpty"
+displayNamex2"
+kindVALUE"
+	startLine177"
+isValtrue"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter31"
+startCharacter30"
+isFinalfalse*x22=
+5scala/meta/internal/mtags/JavaMtags#visitMember().[T]TYPE2/
+'com/thoughtworks/qdox/model/JavaMethod#TYPEõ
+;scala/meta/internal/mtags/JavaMtags#XtensionJavaModel().(m)	PARAMETER"
+endLine0"
+isVarfalse"E
+symbol;scala/meta/internal/mtags/JavaMtags#XtensionJavaModel().(m)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNamem"
+kind	PARAMETER"
+	startLine0"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*m2.
+&com/thoughtworks/qdox/model/JavaModel#TYPEú
+Hlocal20:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaVALUEJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaj
+ j("
+endLine106"
+isVarfalse"
+symbollocal20"
+package "
+accessEmpty"
+displayNamepos"
+kindVALUE"
+	startLine106"
+isValtrue"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter10"
+isFinalfalse*pos2#
+scala/meta/inputs/Position#TYPEﬂ
+Hlocal18:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala	PARAMETER"
+endLine0"
+isVarfalse"
+symbollocal18"
+package "
+accessEmpty"
+displayNamecls"
+kind	PARAMETER"
+	startLine0"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*cls2.
+&com/thoughtworks/qdox/model/JavaClass#TYPEæ
+Cscala/meta/internal/mtags/JavaMtags#visitConstructor().(properties)	PARAMETERJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala| |("
+endLine124"
+isVarfalse"M
+symbolCscala/meta/internal/mtags/JavaMtags#visitConstructor().(properties)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayName
+properties"
+kind	PARAMETER"
+	startLine124"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter6"
+isFinalfalse*
+properties2^
+
+scala/Int#TYPEJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala| |(Æ
+$scala/meta/internal/mtags/JavaMtags#CLASSJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala ("
+endLine26"
+isVarfalse".
+symbol$scala/meta/internal/mtags/JavaMtags#"$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayName	JavaMtags"
+kindCLASS"
+	startLine26"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter15"
+startCharacter6"
+isFinalfalse"
+
+LOC172*	JavaMtags2ã
+0scala/meta/internal/mtags/JavaMtags#virtualFile.DECLARATIONJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala (2ä
+/scala/meta/internal/mtags/JavaMtags#`<init>`().DECLARATIONJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala (2ä
+/scala/meta/internal/mtags/JavaMtags#language().DECLARATIONJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala (2á
+,scala/meta/internal/mtags/JavaMtags#input().DECLARATIONJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala (2ã
+0scala/meta/internal/mtags/JavaMtags#indexRoot().DECLARATIONJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala   (2ë
+6scala/meta/internal/mtags/JavaMtags#toRangePosition().DECLARATIONJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala< <(2é
+3scala/meta/internal/mtags/JavaMtags#visitMembers().DECLARATIONJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaP P(2é
+3scala/meta/internal/mtags/JavaMtags#visitClasses().DECLARATIONJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaT T(2å
+1scala/meta/internal/mtags/JavaMtags#visitClass().DECLARATIONJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaX X(2é
+3scala/meta/internal/mtags/JavaMtags#visitClass(+1).DECLARATIONJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalag g(2í
+7scala/meta/internal/mtags/JavaMtags#visitConstructor().DECLARATIONJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalax x(2ï
+8scala/meta/internal/mtags/JavaMtags#visitConstructors().DECLARATIONL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaÅ Å(2è
+2scala/meta/internal/mtags/JavaMtags#visitMethod().DECLARATIONL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaë ë(2ê
+3scala/meta/internal/mtags/JavaMtags#visitMethods().DECLARATIONL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaõ õ(2è
+2scala/meta/internal/mtags/JavaMtags#visitMember().DECLARATIONL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala≠ ≠(2ì
+6scala/meta/internal/mtags/JavaMtags#XtensionJavaModel#DECLARATIONL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala¡ ¡("2G
+8scala/meta/internal/mtags/JavaMtags#XtensionJavaModel().DECLARATION2
+scala/AnyRef#EXTEND2}
+'scala/meta/internal/mtags/MtagsIndexer#EXTENDJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala8 (D2á
+,scala/meta/internal/mtags/JavaMtags#builder.DECLARATIONJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala (2}
+)com/thoughtworks/qdox/JavaProjectBuilder#CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala (&2à
+4com/thoughtworks/qdox/JavaProjectBuilder#`<init>`().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala& (&™
+8scala/meta/internal/mtags/JavaMtags#visitMethod().(name)	PARAMETERL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaì ì(
+"
+endLine147"
+isVarfalse"B
+symbol8scala/meta/internal/mtags/JavaMtags#visitMethod().(name)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNamename"
+kind	PARAMETER"
+	startLine147"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter6"
+isFinalfalse*name2j
+scala/Predef.String#TYPEL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaì ì(Ú
+;scala/meta/internal/mtags/JavaMtags#visitMembers().(fields)	PARAMETERJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaP$ P(*"
+endLine80"
+isVarfalse"E
+symbol;scala/meta/internal/mtags/JavaMtags#visitMembers().(fields)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNamefields"
+kind	PARAMETER"
+	startLine80"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter42"
+startCharacter36"
+isFinalfalse*fields2Y
+java/CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaP, P(02^
+
+java/util/CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaP1 P(52c
+java/util/List#TYPEJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaP6 P(:2ä
+6scala/meta/internal/mtags/JavaMtags#visitMembers().[T]TYPEJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaP; P(<’
+Glocal8:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal8"
+package "
+accessPublicAccess()"
+displayNamecase15"
+kindMETHOD"
+	startLine0"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case152
+scala/Boolean#RETURN_TYPE∂
+Hlocal38:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaVALUEL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala∞ ∞("
+endLine176"
+isVarfalse"
+symbollocal38"
+package "
+accessEmpty"
+displayNamex1"
+kindVALUE"
+	startLine176"
+isValtrue"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter17"
+isFinalfalse*x12=
+5scala/meta/internal/mtags/JavaMtags#visitMember().[T]TYPEû
+Hlocal35:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaVALUEL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala¶
+ ¶("
+endLine166"
+isVarfalse"
+symbollocal35"
+package "
+accessEmpty"
+displayNamepos"
+kindVALUE"
+	startLine166"
+isValtrue"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter10"
+isFinalfalse*pos2#
+scala/meta/inputs/Position#TYPE¢
+7scala/meta/internal/mtags/JavaMtags#visitClass().(name)	PARAMETERJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaZ Z(
+"
+endLine90"
+isVarfalse"A
+symbol7scala/meta/internal/mtags/JavaMtags#visitClass().(name)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNamename"
+kind	PARAMETER"
+	startLine90"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter6"
+isFinalfalse*name2h
+scala/Predef.String#TYPEJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaZ Z(≈
+7scala/meta/internal/mtags/JavaMtags#visitClass().(kind)	PARAMETERJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala\ \(
+"
+endLine92"
+isVarfalse"A
+symbol7scala/meta/internal/mtags/JavaMtags#visitClass().(kind)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNamekind"
+kind	PARAMETER"
+	startLine92"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter6"
+isFinalfalse*kind2ä
+6scala/meta/internal/semanticdb/SymbolInformation.Kind#TYPEJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala\ \(§
+6scala/meta/internal/mtags/JavaMtags#visitClass().(pos)	PARAMETERJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala[ [(	"
+endLine91"
+isVarfalse"@
+symbol6scala/meta/internal/mtags/JavaMtags#visitClass().(pos)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNamepos"
+kind	PARAMETER"
+	startLine91"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter9"
+startCharacter6"
+isFinalfalse*pos2o
+scala/meta/inputs/Position#TYPEJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala[ [(ø
+Glocal5:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal5"
+package "
+accessEmpty"
+displayNamex5"
+kindVALUE"
+	startLine0"
+isValtrue"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x52
+java/lang/Throwable#TYPEÂ
+,scala/meta/internal/mtags/JavaMtags#input().METHODJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala ("
+endLine30"
+isVarfalse"6
+symbol,scala/meta/internal/mtags/JavaMtags#input()."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayNameinput"
+kindMETHOD"
+	startLine30"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter15"
+isFinalfalse"
+LOC1*input2;
+/scala/meta/internal/mtags/MtagsIndexer#input().OVERRIDE2l
+scala/meta/inputs/Input.CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala (2
+$scala/meta/inputs/Input.VirtualFile#RETURN_TYPEJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala ('2Ñ
+0scala/meta/internal/mtags/JavaMtags#virtualFile.CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala* (5ò
+6scala/meta/internal/mtags/JavaMtags#visitMembers().[T]TYPE_PARAMETERJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaP P("
+endLine80"
+isVarfalse"@
+symbol6scala/meta/internal/mtags/JavaMtags#visitMembers().[T]"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNameT"
+kindTYPE_PARAMETER"
+	startLine80"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter19"
+isFinalfalse*T29
+'com/thoughtworks/qdox/model/JavaMember#TYPE_PARAMETER2 
+scala/Nothing#TYPE_PARAMETERÀ
+$scala/meta/internal/mtags/JavaMtags.OBJECTJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala ("
+endLine22"
+isVarfalse".
+symbol$scala/meta/internal/mtags/JavaMtags."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayName	JavaMtags"
+kindOBJECT"
+	startLine22"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter7"
+isFinaltrue"
+LOC4*	JavaMtags2á
+,scala/meta/internal/mtags/JavaMtags.index().DECLARATIONJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala (2
+scala/AnyRef#EXTENDï
+Hlocal15:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaVALUEJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala?
+ ?("
+endLine63"
+isVarfalse"
+symbollocal15"
+package "
+accessEmpty"
+displayName	fromIndex"
+kindVALUE"
+	startLine63"
+isValtrue"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter10"
+isFinalfalse*	fromIndex2
+
+scala/Int#TYPE∫
+Hlocal32:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala	PARAMETERL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala£ £($"
+endLine163"
+isVarfalse"
+symbollocal32"
+package "
+accessEmpty"
+displayNamemethod"
+kind	PARAMETER"
+	startLine163"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter36"
+startCharacter30"
+isFinalfalse*method2/
+'com/thoughtworks/qdox/model/JavaMethod#TYPEó
+Hlocal52:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaVALUEL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala∫ ∫("
+endLine186"
+isVarfalse"
+symbollocal52"
+package "
+accessEmpty"
+displayNamex4"
+kindVALUE"
+	startLine186"
+isValtrue"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter15"
+startCharacter14"
+isFinalfalse*x42=
+5scala/meta/internal/mtags/JavaMtags#visitMember().[T]TYPE2/
+'com/thoughtworks/qdox/model/JavaMember#TYPE2.
+&com/thoughtworks/qdox/model/JavaClass#TYPE¥
+Hlocal12:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal12"
+package "
+accessPublicAccess()"
+displayName
+matchEnd10"
+kindMETHOD"
+	startLine0"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*
+matchEnd102V
+Ilocal149:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala	PARAMETER2
+scala/Unit#RETURN_TYPEØ
+6scala/meta/internal/mtags/JavaMtags#visitClass().(cls)	PARAMETERJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaY Y(	"
+endLine89"
+isVarfalse"@
+symbol6scala/meta/internal/mtags/JavaMtags#visitClass().(cls)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNamecls"
+kind	PARAMETER"
+	startLine89"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter9"
+startCharacter6"
+isFinalfalse*cls2z
+&com/thoughtworks/qdox/model/JavaClass#TYPEJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaY Y(î
+Glocal2:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala	PARAMETERJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala$5 $(6"
+endLine36"
+isVarfalse"
+symbollocal2"
+package "
+accessEmpty"
+displayNamep"
+kind	PARAMETER"
+	startLine36"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter54"
+startCharacter53"
+isFinalfalse*p2
+java/lang/String#TYPE∏
+>scala/meta/internal/mtags/JavaMtags#visitMethod().(properties)	PARAMETERL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalañ ñ("
+endLine150"
+isVarfalse"H
+symbol>scala/meta/internal/mtags/JavaMtags#visitMethod().(properties)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayName
+properties"
+kind	PARAMETER"
+	startLine150"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter6"
+isFinalfalse*
+properties2`
+
+scala/Int#TYPEL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalañ ñ(ñ
+Hlocal23:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaVALUEL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaà à("
+endLine136"
+isVarfalse"
+symbollocal23"
+package "
+accessEmpty"
+displayNamename"
+kindVALUE"
+	startLine136"
+isValtrue"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter12"
+isFinalfalse*name2
+java/lang/String#TYPEé
+Hlocal13:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaVALUEJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala= =("
+endLine61"
+isVarfalse"
+symbollocal13"
+package "
+accessEmpty"
+displayNameoffset"
+kindVALUE"
+	startLine61"
+isValtrue"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter14"
+startCharacter8"
+isFinalfalse*offset2
+
+scala/Int#TYPEÊ
+Hlocal43:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaVALUEL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala≤ ≤("
+endLine178"
+isVarfalse"
+symbollocal43"
+package "
+accessEmpty"
+displayNamex3"
+kindVALUE"
+	startLine178"
+isValtrue"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter30"
+startCharacter29"
+isFinalfalse*x32=
+5scala/meta/internal/mtags/JavaMtags#visitMember().[T]TYPE2.
+&com/thoughtworks/qdox/model/JavaField#TYPEˇ
+Hlocal53:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal53"
+package "
+accessPublicAccess()"
+displayNamecase10"
+kindMETHOD"
+	startLine0"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case102E
+6scala/meta/internal/semanticdb/SymbolInformation.Kind#RETURN_TYPEÜ
+/scala/meta/internal/mtags/JavaMtags#language().METHODJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala ("
+endLine28"
+isVarfalse"9
+symbol/scala/meta/internal/mtags/JavaMtags#language()."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayNamelanguage"
+kindMETHOD"
+	startLine28"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter15"
+isFinalfalse"
+LOC1*language2>
+2scala/meta/internal/mtags/MtagsIndexer#language().OVERRIDE2É
+(scala/meta/internal/semanticdb/Language#RETURN_TYPEJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala (!2|
+(scala/meta/internal/semanticdb/Language.CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala$ (,2Å
+-scala/meta/internal/semanticdb/Language.JAVA.CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala- (1ñ
+Hlocal33:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaVALUEL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala§
+ §("
+endLine164"
+isVarfalse"
+symbollocal33"
+package "
+accessEmpty"
+displayNamename"
+kindVALUE"
+	startLine164"
+isValtrue"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter14"
+startCharacter10"
+isFinalfalse*name2
+java/lang/String#TYPEº
+8scala/meta/internal/mtags/JavaMtags#XtensionJavaModel#m.VALUEL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala¡# ¡($"
+endLine193"
+isVarfalse"B
+symbol8scala/meta/internal/mtags/JavaMtags#XtensionJavaModel#m."$
+packagescala.meta.internal.mtags"
+accessPrivateThisAccess()"
+displayNamem"
+kindVALUE"
+	startLine193"
+isValtrue"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter36"
+startCharacter35"
+isFinalfalse*m2|
+&com/thoughtworks/qdox/model/JavaModel#TYPEL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala¡& ¡(/›
+Glocal3:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala	PARAMETER"
+endLine0"
+isVarfalse"
+symbollocal3"
+package "
+accessEmpty"
+displayNamecls"
+kind	PARAMETER"
+	startLine0"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*cls2.
+&com/thoughtworks/qdox/model/JavaClass#TYPE‡
+Cscala/meta/internal/mtags/JavaMtags#XtensionJavaModel#lineNumber().METHODL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala¬ ¬("
+endLine194"
+isVarfalse"M
+symbolCscala/meta/internal/mtags/JavaMtags#XtensionJavaModel#lineNumber()."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayName
+lineNumber"
+kindMETHOD"
+	startLine194"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter8"
+isFinalfalse"
+LOC1*
+lineNumber2g
+
+scala/Int#RETURN_TYPEL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala¬ ¬(2é
+8scala/meta/internal/mtags/JavaMtags#XtensionJavaModel#m.CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala¬ ¬(2å
+6com/thoughtworks/qdox/model/JavaModel#getLineNumber().CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala¬ ¬()2h
+scala/Int#`-`(+3).CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala¬* ¬(+≤
+<scala/meta/internal/mtags/JavaMtags#visitConstructor().(pos)	PARAMETERJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala{ {(	"
+endLine123"
+isVarfalse"F
+symbol<scala/meta/internal/mtags/JavaMtags#visitConstructor().(pos)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNamepos"
+kind	PARAMETER"
+	startLine123"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter9"
+startCharacter6"
+isFinalfalse*pos2o
+scala/meta/inputs/Position#TYPEJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala{ {(ï
+1scala/meta/internal/mtags/JavaMtags#visitClass().METHODJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaX X("
+endLine88"
+isVarfalse";
+symbol1scala/meta/internal/mtags/JavaMtags#visitClass()."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayName
+visitClass"
+kindMETHOD"
+	startLine88"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter6"
+isFinalfalse"	
+LOC14*
+visitClass2è
+6scala/meta/internal/mtags/JavaMtags#visitClass().(cls)	PARAMETERJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaY Y(	2ê
+7scala/meta/internal/mtags/JavaMtags#visitClass().(name)	PARAMETERJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaZ Z(
+2è
+6scala/meta/internal/mtags/JavaMtags#visitClass().(pos)	PARAMETERJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala[ [(	2ê
+7scala/meta/internal/mtags/JavaMtags#visitClass().(kind)	PARAMETERJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala\ \(
+2ñ
+=scala/meta/internal/mtags/JavaMtags#visitClass().(properties)	PARAMETERJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala] ](2f
+scala/Unit#RETURN_TYPEJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala^ ^(	2ä
+6scala/meta/internal/mtags/JavaMtags#visitClass().(cls)CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala` `(	2Ñ
+0com/thoughtworks/qdox/model/JavaClass#getName().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala`
+ `(2ä
+6scala/meta/internal/mtags/JavaMtags#visitClass().(pos)CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaa a(	2ã
+7scala/meta/internal/mtags/JavaMtags#visitClass().(kind)CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalab b(
+2ä
+6scala/meta/internal/mtags/JavaMtags#visitClass().(cls)CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalac
+ c(2É
+/com/thoughtworks/qdox/model/JavaClass#isEnum().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalac c(2é
+:scala/meta/internal/semanticdb/SymbolInformation.Property.CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalac c(2ì
+?scala/meta/internal/semanticdb/SymbolInformation.Property.ENUM.CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalac c(#2î
+@scala/meta/internal/semanticdb/SymbolInformation.Property#value.CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalac$ c()2Å
+-scala/meta/internal/mtags/MtagsIndexer#tpe().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala_ _(À
+Hlocal14:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaVALUEJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala> >("
+endLine62"
+isVarfalse"
+symbollocal14"
+package "
+accessEmpty"
+displayNamecolumnAndLength"
+kindVALUE"
+	startLine62"
+isValtrue"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter8"
+isFinalfalse*columnAndLength2
+scala/Tuple2#TYPE2
+
+scala/Int#TYPE2
+
+scala/Int#TYPE´
+Hlocal34:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaVALUEL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala•
+ •("
+endLine165"
+isVarfalse"
+symbollocal34"
+package "
+accessEmpty"
+displayNamedisambiguator"
+kindVALUE"
+	startLine165"
+isValtrue"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter10"
+isFinalfalse*disambiguator2
+scala/Predef.String#TYPE´
+Hlocal24:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaVALUEL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaâ â("
+endLine137"
+isVarfalse"
+symbollocal24"
+package "
+accessEmpty"
+displayNamedisambiguator"
+kindVALUE"
+	startLine137"
+isValtrue"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter25"
+startCharacter12"
+isFinalfalse*disambiguator2
+scala/Predef.String#TYPE—
+Hlocal44:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal44"
+package "
+accessPublicAccess()"
+displayNamecase8"
+kindMETHOD"
+	startLine0"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case82
+
+scala/Int#RETURN_TYPE£
+<scala/meta/internal/mtags/JavaMtags#toRangePosition().(line)	PARAMETERJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala< <("
+endLine60"
+isVarfalse"F
+symbol<scala/meta/internal/mtags/JavaMtags#toRangePosition().(line)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNameline"
+kind	PARAMETER"
+	startLine60"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter26"
+startCharacter22"
+isFinalfalse*line2^
+
+scala/Int#TYPEJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala< <(Œ
+Glocal4:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal4"
+package "
+accessPublicAccess()"
+displayNameex8"
+kindMETHOD"
+	startLine0"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*ex82
+java/lang/Throwable#TYPEë
+/scala/meta/internal/mtags/JavaMtags#`<init>`().CONSTRUCTORJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala ("
+endLine26"
+isVarfalse"9
+symbol/scala/meta/internal/mtags/JavaMtags#`<init>`()."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine26"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter15"
+startCharacter15"
+isFinalfalse*<init>2I
+<scala/meta/internal/mtags/JavaMtags#`<init>`().(virtualFile)	PARAMETER2â
+0scala/meta/internal/mtags/JavaMtags#virtualFile.	PARAMETERJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala (Ö
+Hlocal41:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaMETHODL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala≤ ≤()"
+endLine178"
+isVarfalse"
+symbollocal41"
+package "
+accessPublicAccess()"
+displayName	matchEnd5"
+kindMETHOD"
+	startLine178"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter41"
+startCharacter31"
+isFinalfalse*	matchEnd52V
+Ilocal150:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala	PARAMETER2
+
+scala/Int#RETURN_TYPEÄ
+Hlocal31:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala	PARAMETERL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaü+ ü(-"
+endLine159"
+isVarfalse"
+symbollocal31"
+package "
+accessEmpty"
+displayNameo2"
+kind	PARAMETER"
+	startLine159"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter45"
+startCharacter43"
+isFinalfalse*o22}
+'com/thoughtworks/qdox/model/JavaMethod#TYPEL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaü/ ü(9‘
+Hlocal11:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal11"
+package "
+accessPublicAccess()"
+displayNamecase12"
+kindMETHOD"
+	startLine0"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case122
+scala/Unit#RETURN_TYPEä1
+2scala/meta/internal/mtags/JavaMtags#visitMember().METHODL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala≠ ≠("
+endLine173"
+isVarfalse"<
+symbol2scala/meta/internal/mtags/JavaMtags#visitMember()."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayNamevisitMember"
+kindMETHOD"
+	startLine173"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter6"
+isFinalfalse"	
+LOC19*visitMember2ê
+5scala/meta/internal/mtags/JavaMtags#visitMember().(m)	PARAMETERL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala≠# ≠($2h
+scala/Unit#RETURN_TYPEL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala≠* ≠(.2•
+Hlocal36:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaDECLARATIONL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaØ
+ Ø(2ã
+5scala/meta/internal/mtags/JavaMtags#visitMember().(m)CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaØ Ø(2á
+1com/thoughtworks/qdox/model/JavaMember#getName().CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaØ Ø(2•
+Hlocal37:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaDECLARATIONL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala∞
+ ∞(2û
+Hlocal38:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala∞ ∞(2v
+scala/Any#isInstanceOf().DECLARATIONL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala± ±(2û
+Hlocal40:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala± ±(2û
+Hlocal41:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala±  ±(*2v
+scala/Any#isInstanceOf().DECLARATIONL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala≤ ≤(2û
+Hlocal43:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala≤ ≤(2û
+Hlocal41:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala≤ ≤()2•
+Hlocal45:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaDECLARATIONL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaµ
+ µ(2û
+Hlocal37:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaµ  µ($2û
+Hlocal36:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaµ& µ(*2å
+6scala/meta/internal/mtags/JavaMtags#toRangePosition().CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaµ µ(2•
+Hlocal46:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaDECLARATIONL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala∂
+ ∂(2û
+Hlocal47:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala∂ ∂(2å
+6scala/meta/internal/semanticdb/SymbolInformation.Kind.CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala∑ ∑("2û
+Hlocal49:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala∑# ∑()2å
+6scala/meta/internal/semanticdb/SymbolInformation.Kind.CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala∏ ∏(!2û
+Hlocal49:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala∏" ∏('2v
+scala/Any#isInstanceOf().DECLARATIONL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaπ π(2û
+Hlocal52:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala∫ ∫(2ä
+4com/thoughtworks/qdox/model/JavaClass#isInterface().CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala∫ ∫(2å
+6scala/meta/internal/semanticdb/SymbolInformation.Kind.CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala∫ ∫(!2ñ
+@scala/meta/internal/semanticdb/SymbolInformation.Kind.INTERFACE.CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala∫" ∫(+2å
+6scala/meta/internal/semanticdb/SymbolInformation.Kind.CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaª ª(2í
+<scala/meta/internal/semanticdb/SymbolInformation.Kind.CLASS.CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaª ª(2å
+6scala/meta/internal/semanticdb/SymbolInformation.Kind.CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaº º(2û
+Hlocal49:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaº º(#2û
+Hlocal36:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaæ æ(2û
+Hlocal45:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaæ æ(2û
+Hlocal46:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaæ æ(2Ñ
+.scala/meta/internal/mtags/MtagsIndexer#term().CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaæ æ(
+2Ö
+/scala/meta/internal/mtags/MtagsIndexer#owner().CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaÆ Æ(2â
+3scala/meta/internal/mtags/MtagsIndexer#withOwner().CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaÆ Æ(æ
+Hlocal21:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaVALUEL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaÇ Ç("
+endLine130"
+isVarfalse"
+symbollocal21"
+package "
+accessEmpty"
+displayName	overloads"
+kindVALUE"
+	startLine130"
+isValtrue"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter8"
+isFinalfalse*	overloads28
+0scala/meta/internal/mtags/OverloadDisambiguator#TYPEâ
+Hlocal16:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaVALUEJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaD
+ D("
+endLine68"
+isVarfalse"
+symbollocal16"
+package "
+accessEmpty"
+displayNameidx"
+kindVALUE"
+	startLine68"
+isValtrue"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter10"
+isFinalfalse*idx2
+
+scala/Int#TYPEñ
+Hlocal36:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaVALUEL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaØ
+ Ø("
+endLine175"
+isVarfalse"
+symbollocal36"
+package "
+accessEmpty"
+displayNamename"
+kindVALUE"
+	startLine175"
+isValtrue"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter14"
+startCharacter10"
+isFinalfalse*name2
+java/lang/String#TYPEª
+Hlocal46:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaVALUEL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala∂
+ ∂("
+endLine182"
+isVarfalse"
+symbollocal46"
+package "
+accessEmpty"
+displayNamekind"
+kindVALUE"
+	startLine182"
+isValtrue"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter14"
+startCharacter10"
+isFinalfalse*kind2>
+6scala/meta/internal/semanticdb/SymbolInformation.Kind#TYPE¨
+7scala/meta/internal/mtags/JavaMtags#visitMethod().(pos)	PARAMETERL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaï ï(	"
+endLine149"
+isVarfalse"A
+symbol7scala/meta/internal/mtags/JavaMtags#visitMethod().(pos)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNamepos"
+kind	PARAMETER"
+	startLine149"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter9"
+startCharacter6"
+isFinalfalse*pos2q
+scala/meta/inputs/Position#TYPEL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaï ï(Œ
+Ascala/meta/internal/mtags/JavaMtags#visitMethod().(disambiguator)	PARAMETERL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaî î("
+endLine148"
+isVarfalse"K
+symbolAscala/meta/internal/mtags/JavaMtags#visitMethod().(disambiguator)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNamedisambiguator"
+kind	PARAMETER"
+	startLine148"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter6"
+isFinalfalse*disambiguator2j
+scala/Predef.String#TYPEL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaî î(‘
+6scala/meta/internal/mtags/JavaMtags#XtensionJavaModel#CLASSL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala¡ ¡(""
+endLine193"
+isVarfalse"@
+symbol6scala/meta/internal/mtags/JavaMtags#XtensionJavaModel#"$
+packagescala.meta.internal.mtags"
+accessPublicAccess()" 
+displayNameXtensionJavaModel"
+kindCLASS"
+	startLine193"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicittrue"
+endCharacter34"
+startCharacter17"
+isFinalfalse"
+LOC3*XtensionJavaModel2ï
+8scala/meta/internal/mtags/JavaMtags#XtensionJavaModel#m.DECLARATIONL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala¡# ¡($2û
+Ascala/meta/internal/mtags/JavaMtags#XtensionJavaModel#`<init>`().DECLARATIONL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala¡" ¡("2†
+Cscala/meta/internal/mtags/JavaMtags#XtensionJavaModel#lineNumber().DECLARATIONL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala¬ ¬(2
+scala/AnyRef#EXTEND™
+Glocal1:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaVALUEJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+ "("
+endLine34"
+isVarfalse"
+symbollocal1"
+package "
+accessEmpty"
+displayNamesource"
+kindVALUE"
+	startLine34"
+isValtrue"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter10"
+isFinalfalse*source2/
+'com/thoughtworks/qdox/model/JavaSource#TYPE“
+Glocal6:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal6"
+package "
+accessPublicAccess()"
+displayNamecase11"
+kindMETHOD"
+	startLine0"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case112
+scala/Unit#RETURN_TYPEæ
+Hlocal26:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaVALUEL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaú ú("
+endLine156"
+isVarfalse"
+symbollocal26"
+package "
+accessEmpty"
+displayName	overloads"
+kindVALUE"
+	startLine156"
+isValtrue"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter8"
+isFinalfalse*	overloads28
+0scala/meta/internal/mtags/OverloadDisambiguator#TYPE≈
+:scala/meta/internal/mtags/JavaMtags#visitMethod().(method)	PARAMETERL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaí í("
+endLine146"
+isVarfalse"D
+symbol:scala/meta/internal/mtags/JavaMtags#visitMethod().(method)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNamemethod"
+kind	PARAMETER"
+	startLine146"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*method2}
+'com/thoughtworks/qdox/model/JavaMethod#TYPEL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaí í(Ú
+3scala/meta/internal/mtags/JavaMtags#visitMembers().METHODJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaP P("
+endLine80"
+isVarfalse"=
+symbol3scala/meta/internal/mtags/JavaMtags#visitMembers()."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayNamevisitMembers"
+kindMETHOD"
+	startLine80"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter6"
+isFinalfalse"
+LOC3*visitMembers2î
+;scala/meta/internal/mtags/JavaMtags#visitMembers().(fields)	PARAMETERJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaP$ P(*2f
+scala/Unit#RETURN_TYPEJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaP@ P(D2è
+;scala/meta/internal/mtags/JavaMtags#visitMembers().(fields)CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaQ Q(2l
+java/lang/Object#`==`().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaQ Q(2Ü
+2scala/meta/internal/mtags/JavaMtags#visitMember().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaR  R(+2è
+;scala/meta/internal/mtags/JavaMtags#visitMembers().(fields)CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaR	 R(2ä
+6scala/collection/convert/Decorators.AsScala#asScala().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaR R(2|
+(scala/collection/IterableLike#foreach().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaR R(˝
+Hlocal51:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal51"
+package "
+accessPublicAccess()"
+displayNamecase9"
+kindMETHOD"
+	startLine0"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case92E
+6scala/meta/internal/semanticdb/SymbolInformation.Kind#RETURN_TYPE‹
+Hlocal17:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala	PARAMETER"
+endLine0"
+isVarfalse"
+symbollocal17"
+package "
+accessEmpty"
+displayNamem"
+kind	PARAMETER"
+	startLine0"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*m2/
+'com/thoughtworks/qdox/model/JavaMember#TYPEâ
+Glocal0:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaSELF_PARAMETERJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaG (K"
+endLine26"
+isVarfalse"
+symbollocal0"
+package "
+accessEmpty"
+displayNameself"
+kindSELF_PARAMETER"
+	startLine26"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter75"
+startCharacter71"
+isFinalfalse*self¶
+0scala/meta/internal/mtags/JavaMtags#virtualFile.VALUEJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala ("
+endLine26"
+isVarfalse":
+symbol0scala/meta/internal/mtags/JavaMtags#virtualFile."$
+packagescala.meta.internal.mtags"
+accessPrivateThisAccess()"
+displayNamevirtualFile"
+kindVALUE"
+	startLine26"
+isValtrue"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter27"
+startCharacter16"
+isFinalfalse*virtualFile2l
+scala/meta/inputs/Input.CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala ("2x
+$scala/meta/inputs/Input.VirtualFile#TYPEJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala# (.è
+Hlocal37:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaVALUEL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala∞
+ ∞("
+endLine176"
+isVarfalse"
+symbollocal37"
+package "
+accessEmpty"
+displayNameline"
+kindVALUE"
+	startLine176"
+isValtrue"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter14"
+startCharacter10"
+isFinalfalse*line2
+
+scala/Int#TYPE’
+Glocal7:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal7"
+package "
+accessPublicAccess()"
+displayNamecase14"
+kindMETHOD"
+	startLine0"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case142
+scala/Boolean#RETURN_TYPE≤#
+0scala/meta/internal/mtags/JavaMtags#indexRoot().METHODJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala   ("
+endLine32"
+isVarfalse":
+symbol0scala/meta/internal/mtags/JavaMtags#indexRoot()."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayName	indexRoot"
+kindMETHOD"
+	startLine32"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter24"
+startCharacter15"
+isFinalfalse"	
+LOC18*	indexRoot2?
+3scala/meta/internal/mtags/MtagsIndexer#indexRoot().OVERRIDE2f
+scala/Unit#RETURN_TYPEJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala   ( 2¢
+Glocal1:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaDECLARATIONJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+ "(2i
+java/io/StringReader#CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala") "(52t
+ java/io/StringReader#`<init>`().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"5 "(52Ä
+,scala/meta/internal/mtags/JavaMtags#input().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"6 "(;2~
+*scala/meta/inputs/Input.VirtualFile#value.CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"< "(A2Ä
+,scala/meta/internal/mtags/JavaMtags#builder.CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala" "(2ã
+7com/thoughtworks/qdox/JavaProjectBuilder#addSource(+2).CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala" "($2õ
+Glocal1:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala#
+ #(2à
+4com/thoughtworks/qdox/model/JavaSource#getPackage().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala# #(2l
+java/lang/Object#`!=`().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala# #(2†
+Glocal2:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala	PARAMETERJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala$5 $(62õ
+Glocal2:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala& &(2õ
+Glocal1:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala' '("2à
+4com/thoughtworks/qdox/model/JavaSource#getPackage().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala'# '(-2ó
+Cscala/meta/internal/mtags/JavaMtags#XtensionJavaModel#lineNumber().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala'. '(82õ
+Glocal2:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala': '(;2ä
+6scala/meta/internal/mtags/JavaMtags#toRangePosition().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala' '(2Å
+-scala/meta/internal/mtags/MtagsIndexer#pkg().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala%
+ %(2õ
+Glocal1:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala$ $(2å
+8com/thoughtworks/qdox/model/JavaSource#getPackageName().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala$ $(2o
+java/lang/String#split(+1).CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala$ $(#2É
+/scala/collection/IndexedSeqOptimized#foreach().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala$+ $(22á
+3scala/meta/internal/mtags/JavaMtags#visitClass(+1).CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala+( +(22õ
+Glocal1:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala+ +(2à
+4com/thoughtworks/qdox/model/JavaSource#getClasses().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala+ +(2ä
+6scala/collection/convert/Decorators.AsScala#asScala().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala+ +(2|
+(scala/collection/IterableLike#foreach().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala+  +('Ä
+Hlocal30:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala	PARAMETERL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaü ü("
+endLine159"
+isVarfalse"
+symbollocal30"
+package "
+accessEmpty"
+displayNameo1"
+kind	PARAMETER"
+	startLine159"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter29"
+startCharacter27"
+isFinalfalse*o12}
+'com/thoughtworks/qdox/model/JavaMethod#TYPEL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaü ü()∑
+Hlocal10:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal10"
+package "
+accessPublicAccess()"
+displayName
+matchEnd13"
+kindMETHOD"
+	startLine0"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*
+matchEnd132V
+Ilocal148:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala	PARAMETER2
+scala/Boolean#RETURN_TYPE˝
+Hlocal48:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal48"
+package "
+accessPublicAccess()"
+displayNamecase7"
+kindMETHOD"
+	startLine0"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case72E
+6scala/meta/internal/semanticdb/SymbolInformation.Kind#RETURN_TYPEº
+Hlocal28:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCLASSL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaû û("
+endLine158"
+isVarfalse"
+symbollocal28"
+package "
+accessPublicAccess()"
+displayName$anon"
+kindCLASS"
+	startLine158"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter21"
+isFinaltrue*$anon2•
+Hlocal29:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaDECLARATIONL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaü ü(2
+java/lang/Object#EXTEND2m
+java/util/Comparator#EXTENDL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaû û(2
+'com/thoughtworks/qdox/model/JavaMethod#EXTENDL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaû  û(*ê-
+3scala/meta/internal/mtags/JavaMtags#visitMethods().METHODL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaõ õ("
+endLine155"
+isVarfalse"=
+symbol3scala/meta/internal/mtags/JavaMtags#visitMethods()."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayNamevisitMethods"
+kindMETHOD"
+	startLine155"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter6"
+isFinalfalse"	
+LOC17*visitMethods2ì
+8scala/meta/internal/mtags/JavaMtags#visitMethods().(cls)	PARAMETERL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaõ õ(2h
+scala/Unit#RETURN_TYPEL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaõ$ õ((2•
+Hlocal26:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaDECLARATIONL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaú ú(2Ü
+0scala/meta/internal/mtags/OverloadDisambiguator#CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaú ú(-2ë
+;scala/meta/internal/mtags/OverloadDisambiguator#`<init>`().CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaú- ú(-2•
+Hlocal27:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaDECLARATIONL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaù ù(2é
+8scala/meta/internal/mtags/JavaMtags#visitMethods().(cls)CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaù ù(2â
+3com/thoughtworks/qdox/model/JavaClass#getMethods().CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaù ù( 2•
+Hlocal28:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaDECLARATIONL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaû ¢(2û
+Hlocal28:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaû û(2û
+Hlocal27:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaû û(2l
+java/util/List#sort().CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaû û(2£
+Hlocal32:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala	PARAMETERL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala£ £($2•
+Hlocal33:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaDECLARATIONL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala§
+ §(2û
+Hlocal32:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala§ §(2á
+1com/thoughtworks/qdox/model/JavaMember#getName().CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala§ §(2•
+Hlocal34:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaDECLARATIONL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala•
+ •(2û
+Hlocal33:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala•2 •(62û
+Hlocal26:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala• •(#2ñ
+@scala/meta/internal/mtags/OverloadDisambiguator#disambiguator().CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala•$ •(12•
+Hlocal35:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaDECLARATIONL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala¶
+ ¶(2û
+Hlocal32:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala¶  ¶(&2ô
+Cscala/meta/internal/mtags/JavaMtags#XtensionJavaModel#lineNumber().CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala¶' ¶(12û
+Hlocal33:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala¶3 ¶(72å
+6scala/meta/internal/mtags/JavaMtags#toRangePosition().CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala¶ ¶(2û
+Hlocal32:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala® ®(2û
+Hlocal33:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala® ®( 2û
+Hlocal34:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala®" ®(/2û
+Hlocal35:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala®1 ®(42à
+2scala/meta/internal/mtags/JavaMtags#visitMethod().CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala® ®(2â
+3scala/meta/internal/mtags/MtagsIndexer#withOwner().CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaß ß(2û
+Hlocal27:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala£ £(2å
+6scala/collection/convert/Decorators.AsScala#asScala().CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala£ £(2~
+(scala/collection/IterableLike#foreach().CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala£ £(û
+Hlocal25:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaVALUEL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaä ä("
+endLine138"
+isVarfalse"
+symbollocal25"
+package "
+accessEmpty"
+displayNamepos"
+kindVALUE"
+	startLine138"
+isValtrue"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter15"
+startCharacter12"
+isFinalfalse*pos2#
+scala/meta/inputs/Position#TYPEû
+Hlocal45:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaVALUEL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaµ
+ µ("
+endLine181"
+isVarfalse"
+symbollocal45"
+package "
+accessEmpty"
+displayNamepos"
+kindVALUE"
+	startLine181"
+isValtrue"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter10"
+isFinalfalse*pos2#
+scala/meta/inputs/Position#TYPE€
+,scala/meta/internal/mtags/JavaMtags#builder.VALUEJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala ("
+endLine27"
+isVarfalse"6
+symbol,scala/meta/internal/mtags/JavaMtags#builder."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayNamebuilder"
+kindVALUE"
+	startLine27"
+isValtrue"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter6"
+isFinalfalse*builder21
+)com/thoughtworks/qdox/JavaProjectBuilder#TYPEê
+2scala/meta/internal/mtags/JavaMtags#visitMethod().METHODL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaë ë("
+endLine145"
+isVarfalse"<
+symbol2scala/meta/internal/mtags/JavaMtags#visitMethod()."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayNamevisitMethod"
+kindMETHOD"
+	startLine145"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter6"
+isFinalfalse"
+LOC9*visitMethod2ï
+:scala/meta/internal/mtags/JavaMtags#visitMethod().(method)	PARAMETERL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaí í(2ì
+8scala/meta/internal/mtags/JavaMtags#visitMethod().(name)	PARAMETERL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaì ì(
+2ú
+Ascala/meta/internal/mtags/JavaMtags#visitMethod().(disambiguator)	PARAMETERL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaî î(2í
+7scala/meta/internal/mtags/JavaMtags#visitMethod().(pos)	PARAMETERL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaï ï(	2ô
+>scala/meta/internal/mtags/JavaMtags#visitMethod().(properties)	PARAMETERL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalañ ñ(2h
+scala/Unit#RETURN_TYPEL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaó ó(	2é
+8scala/meta/internal/mtags/JavaMtags#visitMethod().(name)CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaò ò(2ó
+Ascala/meta/internal/mtags/JavaMtags#visitMethod().(disambiguator)CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaò ò($2ç
+7scala/meta/internal/mtags/JavaMtags#visitMethod().(pos)CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaò& ò()2î
+>scala/meta/internal/mtags/JavaMtags#visitMethod().(properties)CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaò+ ò(52Ü
+0scala/meta/internal/mtags/MtagsIndexer#method().CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaò
+ ò(ª
+Hlocal22:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala	PARAMETERL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaá á("
+endLine135"
+isVarfalse"
+symbollocal22"
+package "
+accessEmpty"
+displayNamector"
+kind	PARAMETER"
+	startLine135"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter17"
+isFinalfalse*ctor24
+,com/thoughtworks/qdox/model/JavaConstructor#TYPE˝
+Hlocal50:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal50"
+package "
+accessPublicAccess()"
+displayNamecase8"
+kindMETHOD"
+	startLine0"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case82E
+6scala/meta/internal/semanticdb/SymbolInformation.Kind#RETURN_TYPE—
+Hlocal42:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal42"
+package "
+accessPublicAccess()"
+displayNamecase7"
+kindMETHOD"
+	startLine0"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case72
+
+scala/Int#RETURN_TYPE∞
+=scala/meta/internal/mtags/JavaMtags#visitClass().(properties)	PARAMETERJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala] ]("
+endLine93"
+isVarfalse"G
+symbol=scala/meta/internal/mtags/JavaMtags#visitClass().(properties)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayName
+properties"
+kind	PARAMETER"
+	startLine93"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter6"
+isFinalfalse*
+properties2^
+
+scala/Int#TYPEJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala] ](ˆ
+3scala/meta/internal/mtags/JavaMtags#visitClasses().METHODJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaT T("
+endLine84"
+isVarfalse"=
+symbol3scala/meta/internal/mtags/JavaMtags#visitClasses()."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayNamevisitClasses"
+kindMETHOD"
+	startLine84"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter6"
+isFinalfalse"
+LOC3*visitClasses2ï
+<scala/meta/internal/mtags/JavaMtags#visitClasses().(classes)	PARAMETERJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaT T(2f
+scala/Unit#RETURN_TYPEJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaT8 T(<2ê
+<scala/meta/internal/mtags/JavaMtags#visitClasses().(classes)CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaU U(2l
+java/lang/Object#`==`().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaU U(2á
+3scala/meta/internal/mtags/JavaMtags#visitClass(+1).CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaV! V(+2ê
+<scala/meta/internal/mtags/JavaMtags#visitClasses().(classes)CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaV	 V(2ä
+6scala/collection/convert/Decorators.AsScala#asScala().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaV V(2|
+(scala/collection/IterableLike#foreach().CALLJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaV V( ≠
+<scala/meta/internal/mtags/JavaMtags#toRangePosition().(name)	PARAMETERJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala<! <(%"
+endLine60"
+isVarfalse"F
+symbol<scala/meta/internal/mtags/JavaMtags#toRangePosition().(name)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNamename"
+kind	PARAMETER"
+	startLine60"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter37"
+startCharacter33"
+isFinalfalse*name2h
+scala/Predef.String#TYPEJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala<' <(-‚'
+8scala/meta/internal/mtags/JavaMtags#visitConstructors().METHODL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaÅ Å("
+endLine129"
+isVarfalse"B
+symbol8scala/meta/internal/mtags/JavaMtags#visitConstructors()."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()" 
+displayNamevisitConstructors"
+kindMETHOD"
+	startLine129"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter6"
+isFinalfalse"	
+LOC15*visitConstructors2ò
+=scala/meta/internal/mtags/JavaMtags#visitConstructors().(cls)	PARAMETERL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaÅ Å(2h
+scala/Unit#RETURN_TYPEL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaÅ) Å(-2•
+Hlocal21:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaDECLARATIONL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaÇ Ç(2Ü
+0scala/meta/internal/mtags/OverloadDisambiguator#CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaÇ Ç(-2ë
+;scala/meta/internal/mtags/OverloadDisambiguator#`<init>`().CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaÇ- Ç(-2£
+Hlocal22:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala	PARAMETERL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaá á(2•
+Hlocal23:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaDECLARATIONL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaà à(2ì
+=scala/meta/internal/mtags/JavaMtags#visitConstructors().(cls)CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaà à(2Ü
+0com/thoughtworks/qdox/model/JavaClass#getName().CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaà à(2•
+Hlocal24:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaDECLARATIONL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaâ â(2û
+Hlocal23:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaâ4 â(82û
+Hlocal21:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaâ â(%2ñ
+@scala/meta/internal/mtags/OverloadDisambiguator#disambiguator().CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaâ& â(32•
+Hlocal25:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaDECLARATIONL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaä ä(2û
+Hlocal22:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaä" ä(&2ô
+Cscala/meta/internal/mtags/JavaMtags#XtensionJavaModel#lineNumber().CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaä' ä(12û
+Hlocal23:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaä3 ä(72å
+6scala/meta/internal/mtags/JavaMtags#toRangePosition().CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaä ä(!2û
+Hlocal22:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaå å(2û
+Hlocal24:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaå! å(.2û
+Hlocal25:mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaCALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaå0 å(32ç
+7scala/meta/internal/mtags/JavaMtags#visitConstructor().CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaå
+ å(2â
+3scala/meta/internal/mtags/MtagsIndexer#withOwner().CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaã ã(2â
+3com/thoughtworks/qdox/model/JavaMember#isPrivate().CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaÜ Ü(2ì
+=scala/meta/internal/mtags/JavaMtags#visitConstructors().(cls)CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaÉ É(2é
+8com/thoughtworks/qdox/model/JavaClass#getConstructors().CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaÉ É(2p
+java/util/List#iterator().CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaÑ Ñ(2å
+6scala/collection/convert/Decorators.AsScala#asScala().CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaÖ Ö(2|
+&scala/collection/Iterator#filterNot().CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaÜ Ü(2z
+$scala/collection/Iterator#foreach().CALLL
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalaá á(∑
+8scala/meta/internal/mtags/JavaMtags#visitClass(+1).(cls)	PARAMETERJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalag g("
+endLine103"
+isVarfalse"B
+symbol8scala/meta/internal/mtags/JavaMtags#visitClass(+1).(cls)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNamecls"
+kind	PARAMETER"
+	startLine103"
+isValfalse"G
+uri@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter17"
+isFinalfalse*cls2z
+&com/thoughtworks/qdox/model/JavaClass#TYPEJ
+@mtags/src/main/scala-2/scala/meta/internal/mtags/JavaMtags.scalag g(

@@ -1,0 +1,624 @@
+
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala‹*
+Fscala/meta/internal/builds/BuildToolSelector#requestBuildToolChoice().METHODR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala ($"
+endLine29"
+isVarfalse"P
+symbolFscala/meta/internal/builds/BuildToolSelector#requestBuildToolChoice()."%
+packagescala.meta.internal.builds"
+accessPrivateAccess()"%
+displayNamerequestBuildToolChoice"
+kindMETHOD"
+	startLine29"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter36"
+startCharacter14"
+isFinalfalse"	
+LOC16*requestBuildToolChoice2≥
+Rscala/meta/internal/builds/BuildToolSelector#requestBuildToolChoice().(buildTools)	PARAMETERR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala (2{
+scala/concurrent/Future#RETURN_TYPER
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala (2p
+scala/Option#RETURN_TYPER
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala (2à
+%scala/meta/internal/builds/BuildTool#RETURN_TYPER
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala (2∞
+Olocal7:metals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala	PARAMETERR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala# #(2≤
+Olocal8:metals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scalaDECLARATIONR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala$ $(2∞
+Olocal9:metals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala	PARAMETERR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala$- $(62Ä
+$org/eclipse/lsp4j/MessageActionItem#CALLR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala% %(2ç
+1org/eclipse/lsp4j/MessageActionItem#`<init>`(+1).CALLR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala% %(2´
+Olocal9:metals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scalaCALLR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala%  %()2í
+6scala/meta/internal/builds/BuildTool#executableName().CALLR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala%* %(82t
+java/lang/Object#`==`().CALLR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala%: %(<2´
+Olocal7:metals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scalaCALLR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala%= %(C2Æ
+Rscala/meta/internal/builds/BuildToolSelector#requestBuildToolChoice().(buildTools)CALLR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala$ $('2á
++scala/collection/LinearSeqOptimized#find().CALLR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala$( $(,2±
+Plocal10:metals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala	PARAMETERR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala' '((2¨
+Plocal10:metals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scalaCALLR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala(+ ((42í
+6scala/meta/internal/builds/BuildTool#executableName().CALLR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala(5 ((C2ê
+4scala/meta/internal/builds/BuildToolSelector#tables.CALLR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala(
+ ((2à
+,scala/meta/internal/metals/Tables#buildTool.CALLR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala( ((2ô
+=scala/meta/internal/metals/ChosenBuildTool#chooseBuildTool().CALLR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala( ((*2´
+Olocal8:metals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scalaCALLR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala' '(2s
+scala/Option#foreach().CALLR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala' '(2´
+Olocal8:metals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scalaCALLR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala* *(2Æ
+Rscala/meta/internal/builds/BuildToolSelector#requestBuildToolChoice().(buildTools)CALLR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala!1 !(;2ê
+4scala/meta/internal/metals/Messages.ChooseBuildTool.CALLR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala! !()2ô
+=scala/meta/internal/metals/Messages.ChooseBuildTool.params().CALLR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala!* !(02ò
+<scala/meta/internal/builds/BuildToolSelector#languageClient.CALLR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala   (2õ
+?org/eclipse/lsp4j/services/LanguageClient#showMessageRequest().CALLR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala! !(2¶
+Jscala/meta/internal/metals/MetalsEnrichments.XtensionJavaFuture#asScala().CALLR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala" "(2z
+scala/concurrent/Future#map().CALLR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala# #(
+ö
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scalaFILE*Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scalaº
+0scala/meta/internal/builds/BuildToolSelector#ec.VALUER
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala ("
+endLine19"
+isVarfalse":
+symbol0scala/meta/internal/builds/BuildToolSelector#ec."%
+packagescala.meta.internal.builds"
+accessPrivateThisAccess()"
+displayNameec"
+kindVALUE"
+	startLine19"
+isValtrue"O
+uriHmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicittrue"
+endCharacter13"
+startCharacter11"
+isFinalfalse*ec2~
+"scala/concurrent/ExecutionContext#TYPER
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala (£
+<scala/meta/internal/builds/BuildToolSelector#`<init>`().(ec)	PARAMETER"
+endLine0"
+isVarfalse"F
+symbol<scala/meta/internal/builds/BuildToolSelector#`<init>`().(ec)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNameec"
+kind	PARAMETER"
+	startLine0"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicittrue"
+endCharacter0"
+startCharacter0"
+isFinalfalse*ec2*
+"scala/concurrent/ExecutionContext#TYPEÇ
+Sscala/meta/internal/builds/BuildToolSelector#checkForChosenBuildTool().(buildTools)	PARAMETERR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala ("
+endLine21"
+isVarfalse"]
+symbolSscala/meta/internal/builds/BuildToolSelector#checkForChosenBuildTool().(buildTools)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayName
+buildTools"
+kind	PARAMETER"
+	startLine21"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter6"
+isFinalfalse*
+buildTools2o
+scala/package.List#TYPER
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala (2Å
+%scala/meta/internal/builds/BuildTool#TYPER
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala ( Ω
+-scala/meta/internal/builds/BuildToolSelector#CLASSR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala ("
+endLine16"
+isVarfalse"7
+symbol-scala/meta/internal/builds/BuildToolSelector#"%
+packagescala.meta.internal.builds"
+accessPublicAccess()" 
+displayNameBuildToolSelector"
+kindCLASS"
+	startLine16"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter29"
+startCharacter12"
+isFinaltrue"	
+LOC30*BuildToolSelector2ü
+<scala/meta/internal/builds/BuildToolSelector#languageClient.DECLARATIONR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala (2ó
+4scala/meta/internal/builds/BuildToolSelector#tables.DECLARATIONR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala (
+2ì
+0scala/meta/internal/builds/BuildToolSelector#ec.DECLARATIONR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala (2õ
+8scala/meta/internal/builds/BuildToolSelector#`<init>`().DECLARATIONR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala (2™
+Gscala/meta/internal/builds/BuildToolSelector#checkForChosenBuildTool().DECLARATIONR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala (2©
+Fscala/meta/internal/builds/BuildToolSelector#requestBuildToolChoice().DECLARATIONR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala ($2
+scala/AnyRef#EXTEND¥
+@scala/meta/internal/builds/BuildToolSelector#`<init>`().(tables)	PARAMETER"
+endLine0"
+isVarfalse"J
+symbol@scala/meta/internal/builds/BuildToolSelector#`<init>`().(tables)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNametables"
+kind	PARAMETER"
+	startLine0"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*tables2*
+"scala/meta/internal/metals/Tables#TYPE¡
+Olocal4:metals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal4"
+package "
+accessPublicAccess()"
+displayNamecase7"
+kindMETHOD"
+	startLine0"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case72'
+scala/concurrent/Future#RETURN_TYPE2
+scala/Option#RETURN_TYPE24
+%scala/meta/internal/builds/BuildTool#RETURN_TYPE®
+Olocal6:metals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal6"
+package "
+accessPublicAccess()"
+displayName	matchEnd5"
+kindMETHOD"
+	startLine0"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*	matchEnd52]
+Plocal34:metals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala	PARAMETER2'
+scala/concurrent/Future#RETURN_TYPE2
+scala/Option#RETURN_TYPE24
+%scala/meta/internal/builds/BuildTool#RETURN_TYPEÊ
+Olocal0:metals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal0"
+package "
+accessEmpty"
+displayNamex1"
+kindVALUE"
+	startLine0"
+isValtrue"O
+uriHmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x12
+scala/Option#TYPE2
+scala/Predef.String#TYPEÁ
+Olocal8:metals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scalaVALUER
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala$ $("
+endLine36"
+isVarfalse"
+symbollocal8"
+package "
+accessEmpty"
+displayNamefoundBuildTool"
+kindVALUE"
+	startLine36"
+isValtrue"O
+uriHmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter26"
+startCharacter12"
+isFinalfalse*foundBuildTool2
+scala/Option#TYPE2-
+%scala/meta/internal/builds/BuildTool#TYPE‰
+Olocal2:metals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal2"
+package "
+accessEmpty"
+displayNamex2"
+kindVALUE"
+	startLine0"
+isValtrue"O
+uriHmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x22
+scala/Some#TYPE2
+scala/Predef.String#TYPEØ
+Olocal3:metals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scalaVALUER
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala ("
+endLine24"
+isVarfalse"
+symbollocal3"
+package "
+accessEmpty"
+displayNamechosen"
+kindVALUE"
+	startLine24"
+isValtrue"O
+uriHmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter16"
+isFinalfalse*chosen2
+scala/Predef.String#TYPEö
+
+8scala/meta/internal/builds/BuildToolSelector#`<init>`().CONSTRUCTORR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala ("
+endLine16"
+isVarfalse"B
+symbol8scala/meta/internal/builds/BuildToolSelector#`<init>`()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine16"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter29"
+startCharacter29"
+isFinalfalse*<init>2U
+Hscala/meta/internal/builds/BuildToolSelector#`<init>`().(languageClient)	PARAMETER2M
+@scala/meta/internal/builds/BuildToolSelector#`<init>`().(tables)	PARAMETER2I
+<scala/meta/internal/builds/BuildToolSelector#`<init>`().(ec)	PARAMETER2ù
+<scala/meta/internal/builds/BuildToolSelector#languageClient.	PARAMETERR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala (2ï
+4scala/meta/internal/builds/BuildToolSelector#tables.	PARAMETERR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala (
+2ë
+0scala/meta/internal/builds/BuildToolSelector#ec.	PARAMETERR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala (Ä
+Rscala/meta/internal/builds/BuildToolSelector#requestBuildToolChoice().(buildTools)	PARAMETERR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala ("
+endLine30"
+isVarfalse"\
+symbolRscala/meta/internal/builds/BuildToolSelector#requestBuildToolChoice().(buildTools)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayName
+buildTools"
+kind	PARAMETER"
+	startLine30"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter6"
+isFinalfalse*
+buildTools2o
+scala/package.List#TYPER
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala (2Å
+%scala/meta/internal/builds/BuildTool#TYPER
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala ( ‚
+Hscala/meta/internal/builds/BuildToolSelector#`<init>`().(languageClient)	PARAMETER"
+endLine0"
+isVarfalse"R
+symbolHscala/meta/internal/builds/BuildToolSelector#`<init>`().(languageClient)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNamelanguageClient"
+kind	PARAMETER"
+	startLine0"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*languageClient28
+0scala/meta/internal/metals/MetalsLanguageClient#TYPEÃ
+4scala/meta/internal/builds/BuildToolSelector#tables.VALUER
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala (
+"
+endLine18"
+isVarfalse">
+symbol4scala/meta/internal/builds/BuildToolSelector#tables."%
+packagescala.meta.internal.builds"
+accessPrivateThisAccess()"
+displayNametables"
+kindVALUE"
+	startLine18"
+isValtrue"O
+uriHmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter4"
+isFinalfalse*tables2~
+"scala/meta/internal/metals/Tables#TYPER
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala (…
+Olocal7:metals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala	PARAMETERR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala# #("
+endLine35"
+isVarfalse"
+symbollocal7"
+package "
+accessEmpty"
+displayNamechoice"
+kind	PARAMETER"
+	startLine35"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter13"
+isFinalfalse*choice2,
+$org/eclipse/lsp4j/MessageActionItem#TYPE“
+Plocal10:metals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala	PARAMETERR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala' '(("
+endLine39"
+isVarfalse"
+symbollocal10"
+package "
+accessEmpty"
+displayName	buildTool"
+kind	PARAMETER"
+	startLine39"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter40"
+startCharacter31"
+isFinalfalse*	buildTool2-
+%scala/meta/internal/builds/BuildTool#TYPE˚
+<scala/meta/internal/builds/BuildToolSelector#languageClient.VALUER
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala ("
+endLine17"
+isVarfalse"F
+symbol<scala/meta/internal/builds/BuildToolSelector#languageClient."%
+packagescala.meta.internal.builds"
+accessPrivateThisAccess()"
+displayNamelanguageClient"
+kindVALUE"
+	startLine17"
+isValtrue"O
+uriHmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter4"
+isFinalfalse*languageClient2å
+0scala/meta/internal/metals/MetalsLanguageClient#TYPER
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala ((–
+Olocal9:metals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala	PARAMETERR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala$- $(6"
+endLine36"
+isVarfalse"
+symbollocal9"
+package "
+accessEmpty"
+displayName	buildTool"
+kind	PARAMETER"
+	startLine36"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter54"
+startCharacter45"
+isFinalfalse*	buildTool2-
+%scala/meta/internal/builds/BuildTool#TYPE¡
+Olocal5:metals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal5"
+package "
+accessPublicAccess()"
+displayNamecase8"
+kindMETHOD"
+	startLine0"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case82'
+scala/concurrent/Future#RETURN_TYPE2
+scala/Option#RETURN_TYPE24
+%scala/meta/internal/builds/BuildTool#RETURN_TYPE¡
+Olocal1:metals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal1"
+package "
+accessPublicAccess()"
+displayNamecase6"
+kindMETHOD"
+	startLine0"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case62'
+scala/concurrent/Future#RETURN_TYPE2
+scala/Option#RETURN_TYPE24
+%scala/meta/internal/builds/BuildTool#RETURN_TYPEÄ
+Gscala/meta/internal/builds/BuildToolSelector#checkForChosenBuildTool().METHODR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala ("
+endLine20"
+isVarfalse"Q
+symbolGscala/meta/internal/builds/BuildToolSelector#checkForChosenBuildTool()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"&
+displayNamecheckForChosenBuildTool"
+kindMETHOD"
+	startLine20"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter29"
+startCharacter6"
+isFinalfalse"
+LOC8*checkForChosenBuildTool2¥
+Sscala/meta/internal/builds/BuildToolSelector#checkForChosenBuildTool().(buildTools)	PARAMETERR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala (2{
+scala/concurrent/Future#RETURN_TYPER
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala (2p
+scala/Option#RETURN_TYPER
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala (2à
+%scala/meta/internal/builds/BuildTool#RETURN_TYPER
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala (2ê
+4scala/meta/internal/builds/BuildToolSelector#tables.CALLR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala (
+2à
+,scala/meta/internal/metals/Tables#buildTool.CALLR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala (2õ
+?scala/meta/internal/metals/ChosenBuildTool#selectedBuildTool().CALLR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala (&2≤
+Olocal3:metals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scalaDECLARATIONR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala (2í
+6scala/meta/internal/builds/BuildTool#executableName().CALLR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala! (/2t
+java/lang/Object#`==`().CALLR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala0 (22´
+Olocal3:metals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scalaCALLR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala3 (92Ø
+Sscala/meta/internal/builds/BuildToolSelector#checkForChosenBuildTool().(buildTools)CALLR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala (2á
++scala/collection/LinearSeqOptimized#find().CALLR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala (2t
+scala/concurrent/Future.CALLR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala (2Ø
+Sscala/meta/internal/builds/BuildToolSelector#checkForChosenBuildTool().(buildTools)CALLR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala* (42¢
+Fscala/meta/internal/builds/BuildToolSelector#requestBuildToolChoice().CALLR
+Hmetals/src/main/scala/scala/meta/internal/builds/BuildToolSelector.scala ()

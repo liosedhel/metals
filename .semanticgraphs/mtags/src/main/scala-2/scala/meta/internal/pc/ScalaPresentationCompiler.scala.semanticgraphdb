@@ -1,0 +1,5103 @@
+
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala˛R
+1scala/meta/internal/pc/ScalaPresentationCompiler#CLASSW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala& &($"
+endLine38"
+isVarfalse";
+symbol1scala/meta/internal/pc/ScalaPresentationCompiler#"!
+packagescala.meta.internal.pc"
+accessPublicAccess()"(
+displayNameScalaPresentationCompiler"
+kindCLASS"
+	startLine38"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter36"
+startCharacter11"
+isFinalfalse"
+
+LOC230*ScalaPresentationCompiler2Ø
+Gscala/meta/internal/pc/ScalaPresentationCompiler#buildTargetIdentifier.DECLARATIONW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala' '(2£
+;scala/meta/internal/pc/ScalaPresentationCompiler#classpath.DECLARATIONW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala( ((2°
+9scala/meta/internal/pc/ScalaPresentationCompiler#options.DECLARATIONW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala) )(2†
+8scala/meta/internal/pc/ScalaPresentationCompiler#search.DECLARATIONW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala* *(
+2ú
+4scala/meta/internal/pc/ScalaPresentationCompiler#ec.DECLARATIONW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala+ +(2ú
+4scala/meta/internal/pc/ScalaPresentationCompiler#sh.DECLARATIONW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala, ,(2†
+8scala/meta/internal/pc/ScalaPresentationCompiler#config.DECLARATIONW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala- -(
+2£
+;scala/meta/internal/pc/ScalaPresentationCompiler#workspace.DECLARATIONW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala. .(2§
+<scala/meta/internal/pc/ScalaPresentationCompiler#`<init>`().DECLARATIONW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala&$ &($2¶
+>scala/meta/internal/pc/ScalaPresentationCompiler#withSearch().DECLARATIONW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala7 7(2©
+Ascala/meta/internal/pc/ScalaPresentationCompiler#withWorkspace().DECLARATIONW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala: :(2Ø
+Gscala/meta/internal/pc/ScalaPresentationCompiler#withExecutorService().DECLARATIONW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala= =("2∏
+Pscala/meta/internal/pc/ScalaPresentationCompiler#withScheduledExecutorService().DECLARATIONW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaB B(+2≠
+Escala/meta/internal/pc/ScalaPresentationCompiler#withConfiguration().DECLARATIONW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaG G( 2¶
+>scala/meta/internal/pc/ScalaPresentationCompiler#`<init>`(+1).DECLARATIONW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaL L(
+2§
+<scala/meta/internal/pc/ScalaPresentationCompiler#shutdown().DECLARATIONW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaW W(2£
+;scala/meta/internal/pc/ScalaPresentationCompiler#restart().DECLARATIONW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala[ [(2§
+<scala/meta/internal/pc/ScalaPresentationCompiler#isLoaded().DECLARATIONW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala_ _(2ß
+?scala/meta/internal/pc/ScalaPresentationCompiler#newInstance().DECLARATIONW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaa a(2•
+=scala/meta/internal/pc/ScalaPresentationCompiler#didChange().DECLARATIONW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalam m(2§
+<scala/meta/internal/pc/ScalaPresentationCompiler#didClose().DECLARATIONW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalas s(2§
+<scala/meta/internal/pc/ScalaPresentationCompiler#complete().DECLARATIONW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalau u(2¥
+Lscala/meta/internal/pc/ScalaPresentationCompiler#implementAbstractMembers().DECLARATIONW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala} }('2∞
+Fscala/meta/internal/pc/ScalaPresentationCompiler#insertInferredType().DECLARATIONY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÜ Ü(!2©
+?scala/meta/internal/pc/ScalaPresentationCompiler#autoImports().DECLARATIONY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaè è(2≥
+Iscala/meta/internal/pc/ScalaPresentationCompiler#completionItemResolve().DECLARATIONY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaû û($2´
+Ascala/meta/internal/pc/ScalaPresentationCompiler#signatureHelp().DECLARATIONY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala® ®(2£
+9scala/meta/internal/pc/ScalaPresentationCompiler#hover().DECLARATIONY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala∞ ∞(2®
+>scala/meta/internal/pc/ScalaPresentationCompiler#definition().DECLARATIONY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaº º(2¥
+Jscala/meta/internal/pc/ScalaPresentationCompiler#semanticdbTextDocument().DECLARATIONY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala√ √(%2©
+?scala/meta/internal/pc/ScalaPresentationCompiler#newCompiler().DECLARATIONY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala— —(2Ω
+Sscala/meta/internal/pc/ScalaPresentationCompiler#diagnosticsForDebuggingPurposes().DECLARATIONY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala¯ ¯(.2†
+8scala/meta/internal/pc/ScalaPresentationCompiler#copy().DECLARATIONW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaf f(2Q
+Bscala/meta/internal/pc/ScalaPresentationCompiler#copy$default$1().DECLARATION2Q
+Bscala/meta/internal/pc/ScalaPresentationCompiler#copy$default$2().DECLARATION2Q
+Bscala/meta/internal/pc/ScalaPresentationCompiler#copy$default$3().DECLARATION2Q
+Bscala/meta/internal/pc/ScalaPresentationCompiler#copy$default$4().DECLARATION2Q
+Bscala/meta/internal/pc/ScalaPresentationCompiler#copy$default$5().DECLARATION2Q
+Bscala/meta/internal/pc/ScalaPresentationCompiler#copy$default$6().DECLARATION2Q
+Bscala/meta/internal/pc/ScalaPresentationCompiler#copy$default$7().DECLARATION2Q
+Bscala/meta/internal/pc/ScalaPresentationCompiler#copy$default$8().DECLARATION2P
+Ascala/meta/internal/pc/ScalaPresentationCompiler#productPrefix().DECLARATION2O
+@scala/meta/internal/pc/ScalaPresentationCompiler#productArity().DECLARATION2Q
+Bscala/meta/internal/pc/ScalaPresentationCompiler#productElement().DECLARATION2R
+Cscala/meta/internal/pc/ScalaPresentationCompiler#productIterator().DECLARATION2K
+<scala/meta/internal/pc/ScalaPresentationCompiler#canEqual().DECLARATION2K
+<scala/meta/internal/pc/ScalaPresentationCompiler#hashCode().DECLARATION2K
+<scala/meta/internal/pc/ScalaPresentationCompiler#toString().DECLARATION2I
+:scala/meta/internal/pc/ScalaPresentationCompiler#equals().DECLARATION2
+scala/Product#EXTEND2
+scala/Serializable#EXTEND2Ü
+#scala/meta/pc/PresentationCompiler#EXTENDW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala/
+ /(2™
+Bscala/meta/internal/pc/ScalaPresentationCompiler#executionContext.DECLARATIONW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala0 0(2ï
+4scala/meta/internal/pc/ScalaPresentationCompiler#ec.CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala0< 0(>2¶
+>scala/meta/internal/pc/ScalaPresentationCompiler#scalaVersion.DECLARATIONW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala2 2(2Ö
+$scala/meta/internal/mtags/BuildInfo.CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala2 2(2ö
+9scala/meta/internal/mtags/BuildInfo.scalaCompilerVersion.CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala2 2(32†
+8scala/meta/internal/pc/ScalaPresentationCompiler#logger.DECLARATIONW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala4 4(2x
+scala/Predef.classOf().CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala5 5(2{
+java/lang/Class#getName().CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala58 5(?2z
+java/util/logging/Logger#CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala5 5(
+2Ü
+%java/util/logging/Logger#getLogger().CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala5 5(2®
+@scala/meta/internal/pc/ScalaPresentationCompiler#compilerAccess.DECLARATIONW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaN N(2å
++scala/meta/internal/pc/ScalaCompilerAccess#CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaO O(2ó
+6scala/meta/internal/pc/ScalaCompilerAccess#`<init>`().CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaO O(2ô
+8scala/meta/internal/pc/ScalaPresentationCompiler#config.CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaP P(2ï
+4scala/meta/internal/pc/ScalaPresentationCompiler#sh.CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaQ Q(2ç
+,scala/meta/internal/pc/ScalaCompilerWrapper#CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaR R($2ò
+7scala/meta/internal/pc/ScalaCompilerWrapper#`<init>`().CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaR$ R($2†
+?scala/meta/internal/pc/ScalaPresentationCompiler#newCompiler().CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaR% R(02ï
+4scala/meta/internal/pc/ScalaPresentationCompiler#ec.CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaT T(∏
+Ulocal10:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal10"
+package "
+accessEmpty"
+displayNamex$3"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$32;
+3scala/reflect/internal/annotations/uncheckedBounds#TYPE2
+scala/collection/Seq#TYPE2
+java/nio/file/Path#TYPEå
+Mscala/meta/internal/pc/ScalaPresentationCompiler#withConfiguration().(config)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaH H("
+endLine72"
+isVarfalse"W
+symbolMscala/meta/internal/pc/ScalaPresentationCompiler#withConfiguration().(config)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNameconfig"
+kind	PARAMETER"
+	startLine72"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*config2ä
+)scala/meta/pc/PresentationCompilerConfig#TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaH H((«
+9scala/meta/internal/pc/ScalaPresentationCompiler#hover().METHODY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala∞ ∞("
+endLine176"
+isVarfalse"C
+symbol9scala/meta/internal/pc/ScalaPresentationCompiler#hover()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamehover"
+kindMETHOD"
+	startLine176"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter15"
+isFinalfalse"	
+LOC11*hover27
++scala/meta/pc/PresentationCompiler#hover().OVERRIDE2©
+Ascala/meta/internal/pc/ScalaPresentationCompiler#hover().(params)	PARAMETERY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala± ±(2ë
+'java/util/concurrent/CompletableFuture#RETURN_TYPEY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala≤ ≤(2}
+java/util/Optional#RETURN_TYPEY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala≤ ≤(2Ç
+org/eclipse/lsp4j/Hover#RETURN_TYPEY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala≤  ≤(%2Ω
+Ulocal48:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala	PARAMETERY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala∂ ∂(
+2à
+%scala/meta/internal/pc/HoverProvider#CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala∏ ∏(2ì
+0scala/meta/internal/pc/HoverProvider#`<init>`().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala∏ ∏(2∏
+Ulocal48:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaCALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala∏ ∏(2ï
+2scala/meta/internal/pc/CompilerWrapper#compiler().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala∏ ∏(%2§
+Ascala/meta/internal/pc/ScalaPresentationCompiler#hover().(params)CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala∏) ∏(/2ê
+-scala/meta/internal/pc/HoverProvider#hover().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala∏1 ∏(62y
+scala/Option#orNull().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala∏9 ∏(?2v
+java/util/Optional#CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala∑ ∑(2É
+ java/util/Optional#ofNullable().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala∑ ∑(2{
+org/eclipse/lsp4j/Hover#CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala¥ ¥(2v
+java/util/Optional#CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala¥ ¥(2~
+java/util/Optional#empty().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala¥ ¥(2§
+Ascala/meta/internal/pc/ScalaPresentationCompiler#hover().(params)CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaµ µ(2ã
+(scala/meta/pc/VirtualFileParams#token().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaµ µ(2£
+@scala/meta/internal/pc/ScalaPresentationCompiler#compilerAccess.CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala≥ ≥(2®
+Escala/meta/internal/pc/CompilerAccess#withNonInterruptableCompiler().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala≥ ≥(/Ô
+Ulocal64:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal64"
+package "
+accessPublicAccess()"
+displayNamecase6"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case62
+scala/Boolean#RETURN_TYPEù
+Cscala/meta/internal/pc/ScalaPresentationCompiler.apply$default$5().METHOD"
+endLine0"
+isVarfalse"M
+symbolCscala/meta/internal/pc/ScalaPresentationCompiler.apply$default$5()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameapply$default$5"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply$default$52<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE29
+*scala/concurrent/ExecutionContextExecutor#RETURN_TYPE¥
+@scala/meta/internal/pc/ScalaPresentationCompiler#`<init>`().(ec)	PARAMETER"
+endLine0"
+isVarfalse"J
+symbol@scala/meta/internal/pc/ScalaPresentationCompiler#`<init>`().(ec)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNameec"
+kind	PARAMETER"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*ec22
+*scala/concurrent/ExecutionContextExecutor#TYPEπ
+Ulocal42:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala	PARAMETERY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÅD Å(F"
+endLine129"
+isVarfalse"
+symbollocal42"
+package "
+accessEmpty"
+displayNamepc"
+kind	PARAMETER"
+	startLine129"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter70"
+startCharacter68"
+isFinalfalse*pc2/
+'scala/meta/internal/pc/CompilerWrapper#TYPE20
+(scala/tools/nsc/reporters/StoreReporter#TYPE2,
+$scala/meta/internal/pc/MetalsGlobal#TYPEπ
+1scala/meta/internal/pc/ScalaPresentationCompiler.OBJECTU
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala& &("
+endLine0"
+isVarfalse";
+symbol1scala/meta/internal/pc/ScalaPresentationCompiler."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"(
+displayNameScalaPresentationCompiler"
+kindOBJECT"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinaltrue*ScalaPresentationCompiler2K
+<scala/meta/internal/pc/ScalaPresentationCompiler.toString().DECLARATION2H
+9scala/meta/internal/pc/ScalaPresentationCompiler.apply().DECLARATION2R
+Cscala/meta/internal/pc/ScalaPresentationCompiler.apply$default$1().DECLARATION2R
+Cscala/meta/internal/pc/ScalaPresentationCompiler.apply$default$2().DECLARATION2R
+Cscala/meta/internal/pc/ScalaPresentationCompiler.apply$default$3().DECLARATION2R
+Cscala/meta/internal/pc/ScalaPresentationCompiler.apply$default$4().DECLARATION2R
+Cscala/meta/internal/pc/ScalaPresentationCompiler.apply$default$5().DECLARATION2R
+Cscala/meta/internal/pc/ScalaPresentationCompiler.apply$default$6().DECLARATION2R
+Cscala/meta/internal/pc/ScalaPresentationCompiler.apply$default$7().DECLARATION2R
+Cscala/meta/internal/pc/ScalaPresentationCompiler.apply$default$8().DECLARATION2J
+;scala/meta/internal/pc/ScalaPresentationCompiler.unapply().DECLARATION2U
+Fscala/meta/internal/pc/ScalaPresentationCompiler.`<init>$default$1`().DECLARATION2U
+Fscala/meta/internal/pc/ScalaPresentationCompiler.`<init>$default$2`().DECLARATION2U
+Fscala/meta/internal/pc/ScalaPresentationCompiler.`<init>$default$3`().DECLARATION2U
+Fscala/meta/internal/pc/ScalaPresentationCompiler.`<init>$default$4`().DECLARATION2U
+Fscala/meta/internal/pc/ScalaPresentationCompiler.`<init>$default$5`().DECLARATION2U
+Fscala/meta/internal/pc/ScalaPresentationCompiler.`<init>$default$6`().DECLARATION2U
+Fscala/meta/internal/pc/ScalaPresentationCompiler.`<init>$default$7`().DECLARATION2U
+Fscala/meta/internal/pc/ScalaPresentationCompiler.`<init>$default$8`().DECLARATION2N
+?scala/meta/internal/pc/ScalaPresentationCompiler.readResolve().DECLARATION2*
+ scala/runtime/AbstractFunction8#EXTEND2
+scala/Predef.String#EXTEND2
+scala/collection/Seq#EXTEND2
+java/nio/file/Path#EXTEND2
+scala/package.List#EXTEND2
+scala/Predef.String#EXTEND2%
+scala/meta/pc/SymbolSearch#EXTEND24
+*scala/concurrent/ExecutionContextExecutor#EXTEND2
+scala/Option#EXTEND28
+.java/util/concurrent/ScheduledExecutorService#EXTEND23
+)scala/meta/pc/PresentationCompilerConfig#EXTEND2
+scala/Option#EXTEND2
+java/nio/file/Path#EXTEND2;
+1scala/meta/internal/pc/ScalaPresentationCompiler#EXTEND2
+scala/Serializable#EXTEND‰
+Ulocal20:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal20"
+package "
+accessEmpty"
+displayNamex$5"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$52#
+scala/meta/pc/SymbolSearch#TYPE¨
+Fscala/meta/internal/pc/ScalaPresentationCompiler.`<init>$default$8`().METHOD"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/pc/ScalaPresentationCompiler.`<init>$default$8`()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayName<init>$default$8"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>$default$82<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+scala/Option#RETURN_TYPE2"
+java/nio/file/Path#RETURN_TYPE∑
+?scala/meta/internal/pc/ScalaPresentationCompiler.readResolve().METHOD"
+endLine0"
+isVarfalse"I
+symbol?scala/meta/internal/pc/ScalaPresentationCompiler.readResolve()."!
+packagescala.meta.internal.pc"
+accessPrivateAccess()"
+displayNamereadResolve"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*readResolve2 
+java/lang/Object#RETURN_TYPE‘
+Jscala/meta/internal/pc/ScalaPresentationCompiler#newInstance().(classpath)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalac c("
+endLine99"
+isVarfalse"T
+symbolJscala/meta/internal/pc/ScalaPresentationCompiler#newInstance().(classpath)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayName	classpath"
+kind	PARAMETER"
+	startLine99"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter15"
+startCharacter6"
+isFinalfalse*	classpath2k
+
+java/util/CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalac c(2p
+java/util/List#TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalac c(2t
+java/nio/file/Path#TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalac c(–
+Gscala/meta/internal/pc/ScalaPresentationCompiler#`<init>`().(workspace)	PARAMETER"
+endLine0"
+isVarfalse"Q
+symbolGscala/meta/internal/pc/ScalaPresentationCompiler#`<init>`().(workspace)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayName	workspace"
+kind	PARAMETER"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*	workspace2
+scala/Option#TYPE2
+java/nio/file/Path#TYPE€
+<scala/meta/internal/pc/ScalaPresentationCompiler#isLoaded().METHODW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala_ _("
+endLine95"
+isVarfalse"F
+symbol<scala/meta/internal/pc/ScalaPresentationCompiler#isLoaded()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameisLoaded"
+kindMETHOD"
+	startLine95"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter14"
+startCharacter6"
+isFinalfalse"
+LOC1*isLoaded2:
+.scala/meta/pc/PresentationCompiler#isLoaded().OVERRIDE2v
+scala/Boolean#RETURN_TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala_ _(2°
+@scala/meta/internal/pc/ScalaPresentationCompiler#compilerAccess.CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala_ _(*2í
+1scala/meta/internal/pc/CompilerAccess#isLoaded().CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala_+ _(3©
+Ulocal54:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal54"
+package "
+accessEmpty"
+displayNamex$1"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+scala/Tuple2#TYPE2
+scala/Boolean#TYPE2
+scala/package.List#TYPE2
+scala/Predef.String#TYPEà
+Gscala/meta/internal/pc/ScalaPresentationCompiler#buildTargetIdentifier.VALUEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala' '("
+endLine39"
+isVarfalse"Q
+symbolGscala/meta/internal/pc/ScalaPresentationCompiler#buildTargetIdentifier."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"$
+displayNamebuildTargetIdentifier"
+kindVALUE"
+	startLine39"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter25"
+startCharacter4"
+isFinalfalse*buildTargetIdentifier2u
+scala/Predef.String#TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala' '(!Ú
+Ulocal32:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal32"
+package "
+accessEmpty"
+displayNamex$1"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$121
+)scala/meta/pc/PresentationCompilerConfig#TYPEß
+Bscala/meta/internal/pc/ScalaPresentationCompiler#copy$default$3().METHOD"
+endLine0"
+isVarfalse"L
+symbolBscala/meta/internal/pc/ScalaPresentationCompiler#copy$default$3()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamecopy$default$3"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$32<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2"
+scala/package.List#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE£
+=scala/meta/internal/pc/ScalaPresentationCompiler#didChange().METHODW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalam m("
+endLine109"
+isVarfalse"G
+symbol=scala/meta/internal/pc/ScalaPresentationCompiler#didChange()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayName	didChange"
+kindMETHOD"
+	startLine109"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter24"
+startCharacter15"
+isFinalfalse"
+LOC5*	didChange2;
+/scala/meta/pc/PresentationCompiler#didChange().OVERRIDE2´
+Escala/meta/internal/pc/ScalaPresentationCompiler#didChange().(params)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalan n(2è
+'java/util/concurrent/CompletableFuture#RETURN_TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalao o(2k
+
+java/util/CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalao o(2w
+java/util/List#RETURN_TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalao o(2Ö
+org/eclipse/lsp4j/Diagnostic#RETURN_TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalao o()2Ä
+scala/collection/immutable/Nil.CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalap& p()2ï
+4scala/collection/convert/Decorators.AsJava#asJava().CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalap* p(02à
+'java/util/concurrent/CompletableFuture#CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalap p(2ö
+9java/util/concurrent/CompletableFuture#completedFuture().CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalap p(%ü
+<scala/meta/internal/pc/ScalaPresentationCompiler.toString().METHOD"
+endLine0"
+isVarfalse"F
+symbol<scala/meta/internal/pc/ScalaPresentationCompiler.toString()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNametoString"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinaltrue*toString2 
+java/lang/String#RETURN_TYPE2'
+scala/Function8#toString().OVERRIDE2(
+java/lang/Object#toString().OVERRIDE2!
+scala/Any#toString().OVERRIDE”
+8scala/meta/internal/pc/ScalaPresentationCompiler#search.VALUEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala* *(
+"
+endLine42"
+isVarfalse"B
+symbol8scala/meta/internal/pc/ScalaPresentationCompiler#search."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamesearch"
+kindVALUE"
+	startLine42"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter4"
+isFinalfalse*search2|
+scala/meta/pc/SymbolSearch#TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala* *(Õ
+Gscala/meta/internal/pc/ScalaPresentationCompiler#withExecutorService().METHODW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala= =(""
+endLine61"
+isVarfalse"Q
+symbolGscala/meta/internal/pc/ScalaPresentationCompiler#withExecutorService()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()""
+displayNamewithExecutorService"
+kindMETHOD"
+	startLine61"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter34"
+startCharacter15"
+isFinalfalse"
+LOC4*withExecutorService2E
+9scala/meta/pc/PresentationCompiler#withExecutorService().OVERRIDE2æ
+Xscala/meta/internal/pc/ScalaPresentationCompiler#withExecutorService().(executorService)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala> >(2ã
+#scala/meta/pc/PresentationCompiler#RETURN_TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala? ?(2π
+Xscala/meta/internal/pc/ScalaPresentationCompiler#withExecutorService().(executorService)CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala@3 @(B2É
+"scala/concurrent/ExecutionContext.CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala@ @(2õ
+:scala/concurrent/ExecutionContext.fromExecutorService(+1).CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala@ @(22ù
+<scala/meta/internal/pc/ScalaPresentationCompiler#copy().(ec)CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala@	 @(2ô
+8scala/meta/internal/pc/ScalaPresentationCompiler#copy().CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala@ @(Ø
+=scala/meta/internal/pc/ScalaPresentationCompiler.apply().(ec)	PARAMETER"
+endLine0"
+isVarfalse"G
+symbol=scala/meta/internal/pc/ScalaPresentationCompiler.apply().(ec)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNameec"
+kind	PARAMETER"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*ec22
+*scala/concurrent/ExecutionContextExecutor#TYPE∏
+Ulocal34:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal34"
+package "
+accessEmpty"
+displayNamex$3"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$32;
+3scala/reflect/internal/annotations/uncheckedBounds#TYPE2
+scala/collection/Seq#TYPE2
+java/nio/file/Path#TYPE∞
+Ulocal39:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal39"
+package "
+accessEmpty"
+displayNamex$8"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$82;
+3scala/reflect/internal/annotations/uncheckedBounds#TYPE2
+scala/Option#TYPE2
+java/nio/file/Path#TYPE∏
+Jscala/meta/internal/pc/ScalaPresentationCompiler#semanticdbTextDocument().METHODY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala√ √(%"
+endLine195"
+isVarfalse"T
+symbolJscala/meta/internal/pc/ScalaPresentationCompiler#semanticdbTextDocument()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"%
+displayNamesemanticdbTextDocument"
+kindMETHOD"
+	startLine195"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter37"
+startCharacter15"
+isFinalfalse"	
+LOC13*semanticdbTextDocument2H
+<scala/meta/pc/PresentationCompiler#semanticdbTextDocument().OVERRIDE2∑
+Oscala/meta/internal/pc/ScalaPresentationCompiler#semanticdbTextDocument().(uri)	PARAMETERY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaƒ ƒ(	2∏
+Pscala/meta/internal/pc/ScalaPresentationCompiler#semanticdbTextDocument().(code)	PARAMETERY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala≈ ≈(
+2ë
+'java/util/concurrent/CompletableFuture#RETURN_TYPEY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala∆ ∆(2v
+scala/Array#RETURN_TYPEY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala∆ ∆(2u
+scala/Byte#RETURN_TYPEY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala∆ ∆(!2Ω
+Ulocal50:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala	PARAMETERY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala   (
+2≤
+Oscala/meta/internal/pc/ScalaPresentationCompiler#semanticdbTextDocument().(uri)CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÃ Ã(2≥
+Pscala/meta/internal/pc/ScalaPresentationCompiler#semanticdbTextDocument().(code)CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÃ Ã(2ô
+6scala/meta/internal/pc/SemanticdbTextDocumentProvider#CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÀ
+ À((2§
+Ascala/meta/internal/pc/SemanticdbTextDocumentProvider#`<init>`().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÀ( À((2∏
+Ulocal50:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaCALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÀ) À(+2ï
+2scala/meta/internal/pc/CompilerWrapper#compiler().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÀ, À(42®
+Escala/meta/internal/pc/SemanticdbTextDocumentProvider#textDocument().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÃ	 Ã(2ä
+'scalapb/GeneratedMessage#toByteArray().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÕ	 Õ(2o
+scala/Array.CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala» »(2~
+scala/Array.emptyByteArray.CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala» »(2è
+,scala/meta/internal/metals/EmptyCancelToken.CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala… …(2£
+@scala/meta/internal/pc/ScalaPresentationCompiler#compilerAccess.CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala« «(2•
+Bscala/meta/internal/pc/CompilerAccess#withInterruptableCompiler().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala« «(,π
+Ulocal44:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala	PARAMETERY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaäD ä(F"
+endLine138"
+isVarfalse"
+symbollocal44"
+package "
+accessEmpty"
+displayNamepc"
+kind	PARAMETER"
+	startLine138"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter70"
+startCharacter68"
+isFinalfalse*pc2/
+'scala/meta/internal/pc/CompilerWrapper#TYPE20
+(scala/tools/nsc/reporters/StoreReporter#TYPE2,
+$scala/meta/internal/pc/MetalsGlobal#TYPEè
+Fscala/meta/internal/pc/ScalaPresentationCompiler.`<init>$default$1`().METHOD"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/pc/ScalaPresentationCompiler.`<init>$default$1`()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayName<init>$default$1"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>$default$12<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE‰
+Ulocal36:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal36"
+package "
+accessEmpty"
+displayNamex$5"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$52#
+scala/meta/pc/SymbolSearch#TYPE…
+Ulocal52:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUEY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala” ”(
+"
+endLine211"
+isVarfalse"
+symbollocal52"
+package "
+accessEmpty"
+displayNamevd"
+kindVALUE"
+	startLine211"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter8"
+isFinalfalse*vd2*
+"scala/reflect/io/VirtualDirectory#TYPE†
+Bscala/meta/internal/pc/ScalaPresentationCompiler#copy$default$8().METHOD"
+endLine0"
+isVarfalse"L
+symbolBscala/meta/internal/pc/ScalaPresentationCompiler#copy$default$8()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamecopy$default$8"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$82<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+scala/Option#RETURN_TYPE2"
+java/nio/file/Path#RETURN_TYPE— 
+Lscala/meta/internal/pc/ScalaPresentationCompiler#implementAbstractMembers().METHODW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala} }('"
+endLine125"
+isVarfalse"V
+symbolLscala/meta/internal/pc/ScalaPresentationCompiler#implementAbstractMembers()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"'
+displayNameimplementAbstractMembers"
+kindMETHOD"
+	startLine125"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter39"
+startCharacter15"
+isFinalfalse"
+LOC8*implementAbstractMembers2J
+>scala/meta/pc/PresentationCompiler#implementAbstractMembers().OVERRIDE2∫
+Tscala/meta/internal/pc/ScalaPresentationCompiler#implementAbstractMembers().(params)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala~ ~(2è
+'java/util/concurrent/CompletableFuture#RETURN_TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala (2k
+
+java/util/CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala (2w
+java/util/List#RETURN_TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala (2É
+org/eclipse/lsp4j/TextEdit#RETURN_TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala ('2ø
+Ulocal41:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaDECLARATIONY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÄ Ä(2m
+
+java/util/CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÄ' Ä()2w
+java/util/ArrayList#CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÄ* Ä(32~
+org/eclipse/lsp4j/TextEdit#CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÄ4 Ä(<2Ñ
+!java/util/ArrayList#`<init>`(+1).CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÄ= Ä(=2Ω
+Ulocal42:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala	PARAMETERY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÅD Å(F2ç
+*scala/meta/internal/pc/CompletionProvider#CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÇ
+ Ç(2ò
+5scala/meta/internal/pc/CompletionProvider#`<init>`().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÇ Ç(2∏
+Ulocal42:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaCALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÇ Ç(2ï
+2scala/meta/internal/pc/CompilerWrapper#compiler().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÇ  Ç((2∑
+Tscala/meta/internal/pc/ScalaPresentationCompiler#implementAbstractMembers().(params)CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÇ, Ç(22ú
+9scala/meta/internal/pc/CompletionProvider#implementAll().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÇ4 Ç(@2∏
+Ulocal41:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaCALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÅ- Å(22∑
+Tscala/meta/internal/pc/ScalaPresentationCompiler#implementAbstractMembers().(params)CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÅ4 Å(:2ã
+(scala/meta/pc/VirtualFileParams#token().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÅ; Å(@2£
+@scala/meta/internal/pc/ScalaPresentationCompiler#compilerAccess.CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÅ Å(2•
+Bscala/meta/internal/pc/CompilerAccess#withInterruptableCompiler().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÅ Å(,∏
+Ulocal50:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala	PARAMETERY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala   (
+"
+endLine202"
+isVarfalse"
+symbollocal50"
+package "
+accessEmpty"
+displayNamepc"
+kind	PARAMETER"
+	startLine202"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter8"
+isFinalfalse*pc2/
+'scala/meta/internal/pc/CompilerWrapper#TYPE20
+(scala/tools/nsc/reporters/StoreReporter#TYPE2,
+$scala/meta/internal/pc/MetalsGlobal#TYPEÖ
+Nscala/meta/internal/pc/ScalaPresentationCompiler#insertInferredType().(params)	PARAMETERY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaá á("
+endLine135"
+isVarfalse"X
+symbolNscala/meta/internal/pc/ScalaPresentationCompiler#insertInferredType().(params)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNameparams"
+kind	PARAMETER"
+	startLine135"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*params2~
+scala/meta/pc/OffsetParams#TYPEY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaá á(ò
+Cscala/meta/internal/pc/ScalaPresentationCompiler#productIterator().METHOD"
+endLine0"
+isVarfalse"M
+symbolCscala/meta/internal/pc/ScalaPresentationCompiler#productIterator()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameproductIterator"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productIterator2)
+scala/collection/Iterator#RETURN_TYPE2
+
+scala/Any#RETURN_TYPE2,
+ scala/Product#productIterator().OVERRIDE∏
+Ulocal49:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala	PARAMETERY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala¿ ¿(
+"
+endLine192"
+isVarfalse"
+symbollocal49"
+package "
+accessEmpty"
+displayNamepc"
+kind	PARAMETER"
+	startLine192"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter8"
+isFinalfalse*pc2/
+'scala/meta/internal/pc/CompilerWrapper#TYPE20
+(scala/tools/nsc/reporters/StoreReporter#TYPE2,
+$scala/meta/internal/pc/MetalsGlobal#TYPE˜
+Gscala/meta/internal/pc/ScalaPresentationCompiler#autoImports().(params)	PARAMETERY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaë ë("
+endLine145"
+isVarfalse"Q
+symbolGscala/meta/internal/pc/ScalaPresentationCompiler#autoImports().(params)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNameparams"
+kind	PARAMETER"
+	startLine145"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*params2~
+scala/meta/pc/OffsetParams#TYPEY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaë ë(À
+Dscala/meta/internal/pc/ScalaPresentationCompiler.apply().(workspace)	PARAMETER"
+endLine0"
+isVarfalse"N
+symbolDscala/meta/internal/pc/ScalaPresentationCompiler.apply().(workspace)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayName	workspace"
+kind	PARAMETER"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*	workspace2
+scala/Option#TYPE2
+java/nio/file/Path#TYPE÷
+Ulocal59:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal59"
+package "
+accessPublicAccess()"
+displayNamecase5"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case52
+scala/Tuple2#RETURN_TYPE2
+scala/Boolean#RETURN_TYPE2"
+scala/package.List#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPEá
+Cscala/meta/internal/pc/ScalaPresentationCompiler.apply$default$1().METHOD"
+endLine0"
+isVarfalse"M
+symbolCscala/meta/internal/pc/ScalaPresentationCompiler.apply$default$1()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameapply$default$1"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply$default$12<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPEÛ
+Ulocal37:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal37"
+package "
+accessEmpty"
+displayNamex$6"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$622
+*scala/concurrent/ExecutionContextExecutor#TYPE∞
+Ascala/meta/internal/pc/ScalaPresentationCompiler.apply().(search)	PARAMETER"
+endLine0"
+isVarfalse"K
+symbolAscala/meta/internal/pc/ScalaPresentationCompiler.apply().(search)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamesearch"
+kind	PARAMETER"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*search2#
+scala/meta/pc/SymbolSearch#TYPE‚
+8scala/meta/internal/pc/ScalaPresentationCompiler#config.VALUEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala- -(
+"
+endLine45"
+isVarfalse"B
+symbol8scala/meta/internal/pc/ScalaPresentationCompiler#config."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameconfig"
+kindVALUE"
+	startLine45"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter4"
+isFinalfalse*config2ä
+)scala/meta/pc/PresentationCompilerConfig#TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala- -(&√
+Dscala/meta/internal/pc/ScalaPresentationCompiler#`<init>`().(config)	PARAMETER"
+endLine0"
+isVarfalse"N
+symbolDscala/meta/internal/pc/ScalaPresentationCompiler#`<init>`().(config)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNameconfig"
+kind	PARAMETER"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*config21
+)scala/meta/pc/PresentationCompilerConfig#TYPE˙
+Lscala/meta/internal/pc/ScalaPresentationCompiler#withWorkspace().(workspace)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala: :(&"
+endLine58"
+isVarfalse"V
+symbolLscala/meta/internal/pc/ScalaPresentationCompiler#withWorkspace().(workspace)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayName	workspace"
+kind	PARAMETER"
+	startLine58"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter38"
+startCharacter29"
+isFinalfalse*	workspace2t
+java/nio/file/Path#TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala:( :(,§
+Fscala/meta/internal/pc/ScalaPresentationCompiler.`<init>$default$7`().METHOD"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/pc/ScalaPresentationCompiler.`<init>$default$7`()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayName<init>$default$7"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>$default$72<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE28
+)scala/meta/pc/PresentationCompilerConfig#RETURN_TYPE∏
+Ulocal47:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala	PARAMETERY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÆ Æ(
+"
+endLine174"
+isVarfalse"
+symbollocal47"
+package "
+accessEmpty"
+displayNamepc"
+kind	PARAMETER"
+	startLine174"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter8"
+isFinalfalse*pc2/
+'scala/meta/internal/pc/CompilerWrapper#TYPE20
+(scala/tools/nsc/reporters/StoreReporter#TYPE2,
+$scala/meta/internal/pc/MetalsGlobal#TYPEç
+Escala/meta/internal/pc/ScalaPresentationCompiler#withConfiguration().METHODW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaG G( "
+endLine71"
+isVarfalse"O
+symbolEscala/meta/internal/pc/ScalaPresentationCompiler#withConfiguration()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()" 
+displayNamewithConfiguration"
+kindMETHOD"
+	startLine71"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter32"
+startCharacter15"
+isFinalfalse"
+LOC4*withConfiguration2C
+7scala/meta/pc/PresentationCompiler#withConfiguration().OVERRIDE2≥
+Mscala/meta/internal/pc/ScalaPresentationCompiler#withConfiguration().(config)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaH H(2ã
+#scala/meta/pc/PresentationCompiler#RETURN_TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaI I(2Æ
+Mscala/meta/internal/pc/ScalaPresentationCompiler#withConfiguration().(config)CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaJ J(2°
+@scala/meta/internal/pc/ScalaPresentationCompiler#copy().(config)CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaJ	 J(2ô
+8scala/meta/internal/pc/ScalaPresentationCompiler#copy().CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaJ J(Ó
+>scala/meta/internal/pc/ScalaPresentationCompiler#`<init>`(+1).CONSTRUCTORW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaL L(
+"
+endLine76"
+isVarfalse"H
+symbol>scala/meta/internal/pc/ScalaPresentationCompiler#`<init>`(+1)."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine76"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter6"
+isFinalfalse*<init>™
+@scala/meta/internal/pc/ScalaPresentationCompiler#compilerAccess.VALUEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaN N("
+endLine78"
+isVarfalse"J
+symbol@scala/meta/internal/pc/ScalaPresentationCompiler#compilerAccess."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamecompilerAccess"
+kindVALUE"
+	startLine78"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter6"
+isFinalfalse*compilerAccess23
++scala/meta/internal/pc/ScalaCompilerAccess#TYPEÆ
+Tlocal7:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal7"
+package "
+accessEmpty"
+displayNamex$8"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$82;
+3scala/reflect/internal/annotations/uncheckedBounds#TYPE2
+scala/Option#TYPE2
+java/nio/file/Path#TYPE®
+Bscala/meta/internal/pc/ScalaPresentationCompiler#copy$default$2().METHOD"
+endLine0"
+isVarfalse"L
+symbolBscala/meta/internal/pc/ScalaPresentationCompiler#copy$default$2()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamecopy$default$2"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$22<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2$
+scala/collection/Seq#RETURN_TYPE2"
+java/nio/file/Path#RETURN_TYPEø
+Cscala/meta/internal/pc/ScalaPresentationCompiler.apply$default$6().METHOD"
+endLine0"
+isVarfalse"M
+symbolCscala/meta/internal/pc/ScalaPresentationCompiler.apply$default$6()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameapply$default$6"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply$default$62<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+scala/Option#RETURN_TYPE2=
+.java/util/concurrent/ScheduledExecutorService#RETURN_TYPE›
+Ulocal17:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal17"
+package "
+accessEmpty"
+displayNamex$2"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$22
+scala/Predef.String#TYPEπ
+Ulocal46:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala	PARAMETERY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala£0 £(2"
+endLine163"
+isVarfalse"
+symbollocal46"
+package "
+accessEmpty"
+displayNamepc"
+kind	PARAMETER"
+	startLine163"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter50"
+startCharacter48"
+isFinalfalse*pc2/
+'scala/meta/internal/pc/CompilerWrapper#TYPE20
+(scala/tools/nsc/reporters/StoreReporter#TYPE2,
+$scala/meta/internal/pc/MetalsGlobal#TYPE
+Tlocal6:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal6"
+package "
+accessEmpty"
+displayNamex$7"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$721
+)scala/meta/pc/PresentationCompilerConfig#TYPEº
+Pscala/meta/internal/pc/ScalaPresentationCompiler#withScheduledExecutorService().METHODW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaB B(+"
+endLine66"
+isVarfalse"Z
+symbolPscala/meta/internal/pc/ScalaPresentationCompiler#withScheduledExecutorService()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"+
+displayNamewithScheduledExecutorService"
+kindMETHOD"
+	startLine66"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter43"
+startCharacter15"
+isFinalfalse"
+LOC4*withScheduledExecutorService2N
+Bscala/meta/pc/PresentationCompiler#withScheduledExecutorService().OVERRIDE2∫
+Tscala/meta/internal/pc/ScalaPresentationCompiler#withScheduledExecutorService().(sh)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaC C(2ã
+#scala/meta/pc/PresentationCompiler#RETURN_TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaD D(2µ
+Tscala/meta/internal/pc/ScalaPresentationCompiler#withScheduledExecutorService().(sh)CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaE E(2l
+scala/Some.CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaE E(2ù
+<scala/meta/internal/pc/ScalaPresentationCompiler#copy().(sh)CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaE	 E(2ô
+8scala/meta/internal/pc/ScalaPresentationCompiler#copy().CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaE E(…
+Ulocal24:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal24"
+package "
+accessEmpty"
+displayNamex$1"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12;
+3scala/reflect/internal/annotations/uncheckedBounds#TYPE2
+scala/Some#TYPE26
+.java/util/concurrent/ScheduledExecutorService#TYPE˝
+<scala/meta/internal/pc/ScalaPresentationCompiler#complete().METHODW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalau u("
+endLine117"
+isVarfalse"F
+symbol<scala/meta/internal/pc/ScalaPresentationCompiler#complete()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamecomplete"
+kindMETHOD"
+	startLine117"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter15"
+isFinalfalse"
+LOC7*complete2:
+.scala/meta/pc/PresentationCompiler#complete().OVERRIDE2™
+Dscala/meta/internal/pc/ScalaPresentationCompiler#complete().(params)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalav v(2è
+'java/util/concurrent/CompletableFuture#RETURN_TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaw w(2â
+!org/eclipse/lsp4j/CompletionList#RETURN_TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaw w(%2ª
+Ulocal40:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala{ {(
+2ã
+*scala/meta/internal/pc/CompletionProvider#CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala{ {($2ñ
+5scala/meta/internal/pc/CompletionProvider#`<init>`().CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala{$ {($2∂
+Ulocal40:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaCALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala{% {('2ì
+2scala/meta/internal/pc/CompilerWrapper#compiler().CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala{( {(02•
+Dscala/meta/internal/pc/ScalaPresentationCompiler#complete().(params)CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala{4 {(:2ô
+8scala/meta/internal/pc/CompletionProvider#completions().CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala{< {(G2å
++scala/meta/internal/pc/EmptyCompletionList.CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalay y(2•
+Dscala/meta/internal/pc/ScalaPresentationCompiler#complete().(params)CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaz z(2â
+(scala/meta/pc/VirtualFileParams#token().CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaz z(2°
+@scala/meta/internal/pc/ScalaPresentationCompiler#compilerAccess.CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalax x(2£
+Bscala/meta/internal/pc/CompilerAccess#withInterruptableCompiler().CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalax x(,Â
+Pscala/meta/internal/pc/ScalaPresentationCompiler.apply().(buildTargetIdentifier)	PARAMETER"
+endLine0"
+isVarfalse"Z
+symbolPscala/meta/internal/pc/ScalaPresentationCompiler.apply().(buildTargetIdentifier)"!
+packagescala.meta.internal.pc"
+accessEmpty"$
+displayNamebuildTargetIdentifier"
+kind	PARAMETER"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*buildTargetIdentifier2
+scala/Predef.String#TYPE›
+?scala/meta/internal/pc/ScalaPresentationCompiler#newInstance().METHODW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaa a("
+endLine97"
+isVarfalse"I
+symbol?scala/meta/internal/pc/ScalaPresentationCompiler#newInstance()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamenewInstance"
+kindMETHOD"
+	startLine97"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter26"
+startCharacter15"
+isFinalfalse"	
+LOC11*newInstance2=
+1scala/meta/pc/PresentationCompiler#newInstance().OVERRIDE2º
+Vscala/meta/internal/pc/ScalaPresentationCompiler#newInstance().(buildTargetIdentifier)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalab b(2∞
+Jscala/meta/internal/pc/ScalaPresentationCompiler#newInstance().(classpath)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalac c(2Æ
+Hscala/meta/internal/pc/ScalaPresentationCompiler#newInstance().(options)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalad d(2ã
+#scala/meta/pc/PresentationCompiler#RETURN_TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalae e(2∑
+Vscala/meta/internal/pc/ScalaPresentationCompiler#newInstance().(buildTargetIdentifier)CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalag g(32∞
+Oscala/meta/internal/pc/ScalaPresentationCompiler#copy().(buildTargetIdentifier)CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalag g(2´
+Jscala/meta/internal/pc/ScalaPresentationCompiler#newInstance().(classpath)CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalah h(2ó
+6scala/collection/convert/Decorators.AsScala#asScala().CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalah h(#2§
+Cscala/meta/internal/pc/ScalaPresentationCompiler#copy().(classpath)CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalah h(2©
+Hscala/meta/internal/pc/ScalaPresentationCompiler#newInstance().(options)CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalai i(2ó
+6scala/collection/convert/Decorators.AsScala#asScala().CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalai i(2ã
+*scala/collection/TraversableOnce#toList().CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalai  i(&2¢
+Ascala/meta/internal/pc/ScalaPresentationCompiler#copy().(options)CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalai i(2ô
+8scala/meta/internal/pc/ScalaPresentationCompiler#copy().CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaf f(∞
+Xscala/meta/internal/pc/ScalaPresentationCompiler#withExecutorService().(executorService)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala> >("
+endLine62"
+isVarfalse"b
+symbolXscala/meta/internal/pc/ScalaPresentationCompiler#withExecutorService().(executorService)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNameexecutorService"
+kind	PARAMETER"
+	startLine62"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter6"
+isFinalfalse*executorService2Ü
+%java/util/concurrent/ExecutorService#TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala> >(&∂
+Ulocal40:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala{ {(
+"
+endLine123"
+isVarfalse"
+symbollocal40"
+package "
+accessEmpty"
+displayNamepc"
+kind	PARAMETER"
+	startLine123"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter8"
+isFinalfalse*pc2/
+'scala/meta/internal/pc/CompilerWrapper#TYPE20
+(scala/tools/nsc/reporters/StoreReporter#TYPE2,
+$scala/meta/internal/pc/MetalsGlobal#TYPEØ
+Cscala/meta/internal/pc/ScalaPresentationCompiler#copy().(classpath)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalah h("
+endLine104"
+isVarfalse"M
+symbolCscala/meta/internal/pc/ScalaPresentationCompiler#copy().(classpath)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayName	classpath"
+kind	PARAMETER"
+	startLine104"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter15"
+startCharacter6"
+isFinalfalse*	classpath2
+scala/collection/Seq#TYPE2
+java/nio/file/Path#TYPE«
+Sscala/meta/internal/pc/ScalaPresentationCompiler#`<init>`().(buildTargetIdentifier)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaL L()"
+endLine76"
+isVarfalse"]
+symbolSscala/meta/internal/pc/ScalaPresentationCompiler#`<init>`().(buildTargetIdentifier)"!
+packagescala.meta.internal.pc"
+accessEmpty"$
+displayNamebuildTargetIdentifier"
+kind	PARAMETER"
+	startLine76"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter41"
+startCharacter20"
+isFinalfalse*buildTargetIdentifier2
+scala/Predef.String#TYPEï
+?scala/meta/internal/pc/ScalaPresentationCompiler#equals().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"I
+symbol?scala/meta/internal/pc/ScalaPresentationCompiler#equals().(x$1)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Any#TYPEä
+Oscala/meta/internal/pc/ScalaPresentationCompiler#completionItemResolve().(item)	PARAMETERY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaü ü(
+"
+endLine159"
+isVarfalse"Y
+symbolOscala/meta/internal/pc/ScalaPresentationCompiler#completionItemResolve().(item)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNameitem"
+kind	PARAMETER"
+	startLine159"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter6"
+isFinalfalse*item2Ñ
+!org/eclipse/lsp4j/CompletionItem#TYPEY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaü ü(ò
+Bscala/meta/internal/pc/ScalaPresentationCompiler#copy$default$7().METHOD"
+endLine0"
+isVarfalse"L
+symbolBscala/meta/internal/pc/ScalaPresentationCompiler#copy$default$7()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamecopy$default$7"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$72<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE28
+)scala/meta/pc/PresentationCompilerConfig#RETURN_TYPE—
+Ulocal62:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal62"
+package "
+accessEmpty"
+displayNamex1"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x12
+
+scala/Any#TYPEÎ
+Ascala/meta/internal/pc/ScalaPresentationCompiler#hover().(params)	PARAMETERY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala± ±("
+endLine177"
+isVarfalse"K
+symbolAscala/meta/internal/pc/ScalaPresentationCompiler#hover().(params)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNameparams"
+kind	PARAMETER"
+	startLine177"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*params2~
+scala/meta/pc/OffsetParams#TYPEY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala± ±(•
+Gscala/meta/internal/pc/ScalaPresentationCompiler#productElement().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"Q
+symbolGscala/meta/internal/pc/ScalaPresentationCompiler#productElement().(x$1)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Int#TYPE÷
+Ulocal56:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal56"
+package "
+accessPublicAccess()"
+displayNamecase4"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case42
+scala/Tuple2#RETURN_TYPE2
+scala/Boolean#RETURN_TYPE2"
+scala/package.List#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPEú
+Cscala/meta/internal/pc/ScalaPresentationCompiler.apply$default$7().METHOD"
+endLine0"
+isVarfalse"M
+symbolCscala/meta/internal/pc/ScalaPresentationCompiler.apply$default$7()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameapply$default$7"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply$default$72<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE28
+)scala/meta/pc/PresentationCompilerConfig#RETURN_TYPE˜
+<scala/meta/internal/pc/ScalaPresentationCompiler#toString().METHOD"
+endLine0"
+isVarfalse"F
+symbol<scala/meta/internal/pc/ScalaPresentationCompiler#toString()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNametoString"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*toString2 
+java/lang/String#RETURN_TYPE2(
+java/lang/Object#toString().OVERRIDE2!
+scala/Any#toString().OVERRIDEô
+Ascala/meta/internal/pc/ScalaPresentationCompiler#canEqual().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"K
+symbolAscala/meta/internal/pc/ScalaPresentationCompiler#canEqual().(x$1)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Any#TYPE„
+;scala/meta/internal/pc/ScalaPresentationCompiler#restart().METHODW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala[ [("
+endLine91"
+isVarfalse"E
+symbol;scala/meta/internal/pc/ScalaPresentationCompiler#restart()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamerestart"
+kindMETHOD"
+	startLine91"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter15"
+isFinalfalse"
+LOC3*restart29
+-scala/meta/pc/PresentationCompiler#restart().OVERRIDE2s
+scala/Unit#RETURN_TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala[ [(2°
+@scala/meta/internal/pc/ScalaPresentationCompiler#compilerAccess.CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala\ \(2°
+@scala/meta/internal/pc/CompilerAccess#shutdownCurrentCompiler().CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala\ \(*±
+Bscala/meta/internal/pc/ScalaPresentationCompiler#executionContext.VALUEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala0 0("
+endLine48"
+isVarfalse"L
+symbolBscala/meta/internal/pc/ScalaPresentationCompiler#executionContext."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameexecutionContext"
+kindVALUE"
+	startLine48"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicittrue"
+endCharacter31"
+startCharacter15"
+isFinalfalse*executionContext22
+*scala/concurrent/ExecutionContextExecutor#TYPE™
+Ulocal66:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal66"
+package "
+accessEmpty"*
+displayNameScalaPresentationCompiler$1"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*ScalaPresentationCompiler$129
+1scala/meta/internal/pc/ScalaPresentationCompiler#TYPE§
+<scala/meta/internal/pc/ScalaPresentationCompiler#copy().(sh)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaE	 E("
+endLine69"
+isVarfalse"F
+symbol<scala/meta/internal/pc/ScalaPresentationCompiler#copy().(sh)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamesh"
+kind	PARAMETER"
+	startLine69"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter11"
+startCharacter9"
+isFinalfalse*sh2
+scala/Option#TYPE26
+.java/util/concurrent/ScheduledExecutorService#TYPE∆
+4scala/meta/internal/pc/ScalaPresentationCompiler#sh.VALUEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala, ,("
+endLine44"
+isVarfalse">
+symbol4scala/meta/internal/pc/ScalaPresentationCompiler#sh."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamesh"
+kindVALUE"
+	startLine44"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter6"
+startCharacter4"
+isFinalfalse*sh2n
+scala/Option#TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala, ,(2è
+.java/util/concurrent/ScheduledExecutorService#TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala, ,('¥
+Fscala/meta/internal/pc/ScalaPresentationCompiler.`<init>$default$2`().METHOD"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/pc/ScalaPresentationCompiler.`<init>$default$2`()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayName<init>$default$2"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>$default$22<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2$
+scala/collection/Seq#RETURN_TYPE2"
+java/nio/file/Path#RETURN_TYPEÀ
+<scala/meta/internal/pc/ScalaPresentationCompiler#didClose().METHODW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalas s("
+endLine115"
+isVarfalse"F
+symbol<scala/meta/internal/pc/ScalaPresentationCompiler#didClose()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamedidClose"
+kindMETHOD"
+	startLine115"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter14"
+startCharacter6"
+isFinalfalse"
+LOC1*didClose2:
+.scala/meta/pc/PresentationCompiler#didClose().OVERRIDE2ß
+Ascala/meta/internal/pc/ScalaPresentationCompiler#didClose().(uri)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalas s(2s
+scala/Unit#RETURN_TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalas s(Ú
+Ulocal30:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal30"
+package "
+accessEmpty"
+displayNamex$7"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$721
+)scala/meta/pc/PresentationCompilerConfig#TYPE‹
+>scala/meta/internal/pc/ScalaPresentationCompiler#withSearch().METHODW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala7 7("
+endLine55"
+isVarfalse"H
+symbol>scala/meta/internal/pc/ScalaPresentationCompiler#withSearch()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayName
+withSearch"
+kindMETHOD"
+	startLine55"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter25"
+startCharacter15"
+isFinalfalse"
+LOC2*
+withSearch2<
+0scala/meta/pc/PresentationCompiler#withSearch().OVERRIDE2¨
+Fscala/meta/internal/pc/ScalaPresentationCompiler#withSearch().(search)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala7 7( 2ã
+#scala/meta/pc/PresentationCompiler#RETURN_TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala71 7(E2ß
+Fscala/meta/internal/pc/ScalaPresentationCompiler#withSearch().(search)CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala8 8(2°
+@scala/meta/internal/pc/ScalaPresentationCompiler#copy().(search)CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala8	 8(2ô
+8scala/meta/internal/pc/ScalaPresentationCompiler#copy().CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala8 8(À
+Ulocal14:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal14"
+package "
+accessEmpty"
+displayNamex$7"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$72;
+3scala/reflect/internal/annotations/uncheckedBounds#TYPE2
+scala/Option#TYPE26
+.java/util/concurrent/ScheduledExecutorService#TYPEŸ
+<scala/meta/internal/pc/ScalaPresentationCompiler#shutdown().METHODW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaW W("
+endLine87"
+isVarfalse"F
+symbol<scala/meta/internal/pc/ScalaPresentationCompiler#shutdown()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameshutdown"
+kindMETHOD"
+	startLine87"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter15"
+isFinalfalse"
+LOC3*shutdown2:
+.scala/meta/pc/PresentationCompiler#shutdown().OVERRIDE2s
+scala/Unit#RETURN_TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaW W(2°
+@scala/meta/internal/pc/ScalaPresentationCompiler#compilerAccess.CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaX X(2í
+1scala/meta/internal/pc/CompilerAccess#shutdown().CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaX X(µ
+Tlocal3:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal3"
+package "
+accessEmpty"
+displayNamex$4"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$42;
+3scala/reflect/internal/annotations/uncheckedBounds#TYPE2
+scala/package.List#TYPE2
+scala/Predef.String#TYPEÿ
+Ascala/meta/internal/pc/ScalaPresentationCompiler#signatureHelp().METHODY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala® ®("
+endLine168"
+isVarfalse"K
+symbolAscala/meta/internal/pc/ScalaPresentationCompiler#signatureHelp()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamesignatureHelp"
+kindMETHOD"
+	startLine168"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter28"
+startCharacter15"
+isFinalfalse"
+LOC7*signatureHelp2?
+3scala/meta/pc/PresentationCompiler#signatureHelp().OVERRIDE2±
+Iscala/meta/internal/pc/ScalaPresentationCompiler#signatureHelp().(params)	PARAMETERY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala© ©(2ë
+'java/util/concurrent/CompletableFuture#RETURN_TYPEY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala™ ™(2ä
+ org/eclipse/lsp4j/SignatureHelp#RETURN_TYPEY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala™ ™($2Ω
+Ulocal47:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala	PARAMETERY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÆ Æ(
+2¨
+Iscala/meta/internal/pc/ScalaPresentationCompiler#signatureHelp().(params)CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÆE Æ(K2ê
+-scala/meta/internal/pc/SignatureHelpProvider#CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÆ Æ('2õ
+8scala/meta/internal/pc/SignatureHelpProvider#`<init>`().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÆ' Æ('2∏
+Ulocal47:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaCALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÆ( Æ(*2ï
+2scala/meta/internal/pc/CompilerWrapper#compiler().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÆ+ Æ(32†
+=scala/meta/internal/pc/SignatureHelpProvider#signatureHelp().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÆ7 Æ(D2É
+ org/eclipse/lsp4j/SignatureHelp#CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala¨
+ ¨(2é
++org/eclipse/lsp4j/SignatureHelp#`<init>`().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala¨ ¨(2¨
+Iscala/meta/internal/pc/ScalaPresentationCompiler#signatureHelp().(params)CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala≠ ≠(2ã
+(scala/meta/pc/VirtualFileParams#token().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala≠ ≠(2£
+@scala/meta/internal/pc/ScalaPresentationCompiler#compilerAccess.CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala´ ´(2®
+Escala/meta/internal/pc/CompilerAccess#withNonInterruptableCompiler().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala´ ´(/·
+Ulocal43:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUEY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaâ â("
+endLine137"
+isVarfalse"
+symbollocal43"
+package "
+accessEmpty"
+displayNameempty"
+kindVALUE"
+	startLine137"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter8"
+isFinalfalse*empty2
+java/util/List#TYPE2#
+org/eclipse/lsp4j/TextEdit#TYPEÚ	
+9scala/meta/internal/pc/ScalaPresentationCompiler.apply().METHOD"
+endLine0"
+isVarfalse"C
+symbol9scala/meta/internal/pc/ScalaPresentationCompiler.apply()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameapply"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply2]
+Pscala/meta/internal/pc/ScalaPresentationCompiler.apply().(buildTargetIdentifier)	PARAMETER2Q
+Dscala/meta/internal/pc/ScalaPresentationCompiler.apply().(classpath)	PARAMETER2O
+Bscala/meta/internal/pc/ScalaPresentationCompiler.apply().(options)	PARAMETER2N
+Ascala/meta/internal/pc/ScalaPresentationCompiler.apply().(search)	PARAMETER2J
+=scala/meta/internal/pc/ScalaPresentationCompiler.apply().(ec)	PARAMETER2J
+=scala/meta/internal/pc/ScalaPresentationCompiler.apply().(sh)	PARAMETER2N
+Ascala/meta/internal/pc/ScalaPresentationCompiler.apply().(config)	PARAMETER2Q
+Dscala/meta/internal/pc/ScalaPresentationCompiler.apply().(workspace)	PARAMETER2@
+1scala/meta/internal/pc/ScalaPresentationCompiler#RETURN_TYPE2$
+scala/Function8#apply().OVERRIDEË
+Escala/meta/internal/pc/ScalaPresentationCompiler#autoImports().(name)	PARAMETERY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaê ê(
+"
+endLine144"
+isVarfalse"O
+symbolEscala/meta/internal/pc/ScalaPresentationCompiler#autoImports().(name)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamename"
+kind	PARAMETER"
+	startLine144"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter6"
+isFinalfalse*name2w
+scala/Predef.String#TYPEY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaê ê(ä
+@scala/meta/internal/pc/ScalaPresentationCompiler#copy().(search)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala8	 8("
+endLine56"
+isVarfalse"J
+symbol@scala/meta/internal/pc/ScalaPresentationCompiler#copy().(search)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamesearch"
+kind	PARAMETER"
+	startLine56"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter15"
+startCharacter9"
+isFinalfalse*search2#
+scala/meta/pc/SymbolSearch#TYPE«
+;scala/meta/internal/pc/ScalaPresentationCompiler#workspace.VALUEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala. .("
+endLine46"
+isVarfalse"E
+symbol;scala/meta/internal/pc/ScalaPresentationCompiler#workspace."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayName	workspace"
+kindVALUE"
+	startLine46"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter4"
+isFinalfalse*	workspace2n
+scala/Option#TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala. .(2t
+java/nio/file/Path#TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala. .(∑
+Ulocal27:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal27"
+package "
+accessEmpty"
+displayNamex$4"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$42;
+3scala/reflect/internal/annotations/uncheckedBounds#TYPE2
+scala/package.List#TYPE2
+scala/Predef.String#TYPEÀ
+Ulocal21:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal21"
+package "
+accessEmpty"
+displayNamex$6"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$62;
+3scala/reflect/internal/annotations/uncheckedBounds#TYPE2
+scala/Option#TYPE26
+.java/util/concurrent/ScheduledExecutorService#TYPEæ
+Bscala/meta/internal/pc/ScalaPresentationCompiler#productElement().METHOD"
+endLine0"
+isVarfalse"L
+symbolBscala/meta/internal/pc/ScalaPresentationCompiler#productElement()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameproductElement"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productElement2T
+Gscala/meta/internal/pc/ScalaPresentationCompiler#productElement().(x$1)	PARAMETER2
+
+scala/Any#RETURN_TYPE2+
+scala/Product#productElement().OVERRIDEÉ
+Bscala/meta/internal/pc/ScalaPresentationCompiler#copy$default$1().METHOD"
+endLine0"
+isVarfalse"L
+symbolBscala/meta/internal/pc/ScalaPresentationCompiler#copy$default$1()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamecopy$default$1"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$12<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE§
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaFILE*Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÃ
+Ulocal53:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUEY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala‘ ‘("
+endLine212"
+isVarfalse"
+symbollocal53"
+package "
+accessEmpty"
+displayNamesettings"
+kindVALUE"
+	startLine212"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter8"
+isFinalfalse*settings2!
+scala/tools/nsc/Settings#TYPEÅ
+<scala/meta/internal/pc/ScalaPresentationCompiler#`<init>`().CONSTRUCTORW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala&$ &($"
+endLine38"
+isVarfalse"F
+symbol<scala/meta/internal/pc/ScalaPresentationCompiler#`<init>`()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine38"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter36"
+startCharacter36"
+isFinalfalse*<init>2π
+Sscala/meta/internal/pc/ScalaPresentationCompiler#`<init>`().(buildTargetIdentifier)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaL L()2T
+Gscala/meta/internal/pc/ScalaPresentationCompiler#`<init>`().(classpath)	PARAMETER2R
+Escala/meta/internal/pc/ScalaPresentationCompiler#`<init>`().(options)	PARAMETER2Q
+Dscala/meta/internal/pc/ScalaPresentationCompiler#`<init>`().(search)	PARAMETER2M
+@scala/meta/internal/pc/ScalaPresentationCompiler#`<init>`().(ec)	PARAMETER2M
+@scala/meta/internal/pc/ScalaPresentationCompiler#`<init>`().(sh)	PARAMETER2Q
+Dscala/meta/internal/pc/ScalaPresentationCompiler#`<init>`().(config)	PARAMETER2T
+Gscala/meta/internal/pc/ScalaPresentationCompiler#`<init>`().(workspace)	PARAMETER2≠
+Gscala/meta/internal/pc/ScalaPresentationCompiler#buildTargetIdentifier.	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala' '(2°
+;scala/meta/internal/pc/ScalaPresentationCompiler#classpath.	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala( ((2ü
+9scala/meta/internal/pc/ScalaPresentationCompiler#options.	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala) )(2û
+8scala/meta/internal/pc/ScalaPresentationCompiler#search.	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala* *(
+2ö
+4scala/meta/internal/pc/ScalaPresentationCompiler#ec.	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala+ +(2ö
+4scala/meta/internal/pc/ScalaPresentationCompiler#sh.	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala, ,(2û
+8scala/meta/internal/pc/ScalaPresentationCompiler#config.	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala- -(
+2°
+;scala/meta/internal/pc/ScalaPresentationCompiler#workspace.	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala. .(•
+Cscala/meta/internal/pc/ScalaPresentationCompiler#copy().(workspace)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala;	 ;("
+endLine59"
+isVarfalse"M
+symbolCscala/meta/internal/pc/ScalaPresentationCompiler#copy().(workspace)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayName	workspace"
+kind	PARAMETER"
+	startLine59"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter9"
+isFinalfalse*	workspace2
+scala/Option#TYPE2
+java/nio/file/Path#TYPE∞
+Ulocal31:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal31"
+package "
+accessEmpty"
+displayNamex$8"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$82;
+3scala/reflect/internal/annotations/uncheckedBounds#TYPE2
+scala/Option#TYPE2
+java/nio/file/Path#TYPEÍ
+Ascala/meta/internal/pc/ScalaPresentationCompiler#productPrefix().METHOD"
+endLine0"
+isVarfalse"K
+symbolAscala/meta/internal/pc/ScalaPresentationCompiler#productPrefix()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameproductPrefix"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productPrefix2 
+java/lang/String#RETURN_TYPE2*
+scala/Product#productPrefix().OVERRIDE
+Fscala/meta/internal/pc/ScalaPresentationCompiler#withSearch().(search)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala7 7( "
+endLine55"
+isVarfalse"P
+symbolFscala/meta/internal/pc/ScalaPresentationCompiler#withSearch().(search)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamesearch"
+kind	PARAMETER"
+	startLine55"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter32"
+startCharacter26"
+isFinalfalse*search2|
+scala/meta/pc/SymbolSearch#TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala7" 7(.Ì
+8scala/meta/internal/pc/ScalaPresentationCompiler#copy().METHODW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaf f("
+endLine102"
+isVarfalse"B
+symbol8scala/meta/internal/pc/ScalaPresentationCompiler#copy()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamecopy"
+kindMETHOD"
+	startLine102"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter8"
+startCharacter4"
+isFinalfalse*copy2µ
+Oscala/meta/internal/pc/ScalaPresentationCompiler#copy().(buildTargetIdentifier)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalag g(2©
+Cscala/meta/internal/pc/ScalaPresentationCompiler#copy().(classpath)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalah h(2ß
+Ascala/meta/internal/pc/ScalaPresentationCompiler#copy().(options)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalai i(2¶
+@scala/meta/internal/pc/ScalaPresentationCompiler#copy().(search)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala8	 8(2¢
+<scala/meta/internal/pc/ScalaPresentationCompiler#copy().(ec)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala@	 @(2¢
+<scala/meta/internal/pc/ScalaPresentationCompiler#copy().(sh)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaE	 E(2¶
+@scala/meta/internal/pc/ScalaPresentationCompiler#copy().(config)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaJ	 J(2©
+Cscala/meta/internal/pc/ScalaPresentationCompiler#copy().(workspace)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala;	 ;(2@
+1scala/meta/internal/pc/ScalaPresentationCompiler#RETURN_TYPEÔ
+Ulocal63:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal63"
+package "
+accessPublicAccess()"
+displayNamecase5"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case52
+scala/Boolean#RETURN_TYPEœ
+@scala/meta/internal/pc/ScalaPresentationCompiler#`<init>`().(sh)	PARAMETER"
+endLine0"
+isVarfalse"J
+symbol@scala/meta/internal/pc/ScalaPresentationCompiler#`<init>`().(sh)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamesh"
+kind	PARAMETER"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*sh2
+scala/Option#TYPE26
+.java/util/concurrent/ScheduledExecutorService#TYPE≥7
+Sscala/meta/internal/pc/ScalaPresentationCompiler#diagnosticsForDebuggingPurposes().METHODY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala¯ ¯(."
+endLine248"
+isVarfalse"]
+symbolSscala/meta/internal/pc/ScalaPresentationCompiler#diagnosticsForDebuggingPurposes()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()".
+displayNamediagnosticsForDebuggingPurposes"
+kindMETHOD"
+	startLine248"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter46"
+startCharacter15"
+isFinalfalse"	
+LOC19*diagnosticsForDebuggingPurposes2Q
+Escala/meta/pc/PresentationCompiler#diagnosticsForDebuggingPurposes().OVERRIDE2m
+
+java/util/CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala¯2 ¯(62y
+java/util/List#RETURN_TYPEY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala¯7 ¯(;2~
+scala/Predef.String#RETURN_TYPEY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala¯< ¯(B2
+java/lang/String#contains().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaá á(2Ω
+Ulocal61:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala	PARAMETERY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala˙ ˙(2∏
+Ulocal61:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaCALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÑ Ñ(2î
+1scala/tools/nsc/reporters/StoreReporter.Info#pos.CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÑ Ñ(2†
+=scala/reflect/internal/util/InternalPositionImpl#lineCaret().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÑ Ñ($2∏
+Ulocal61:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaCALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÇ Ç(2î
+1scala/tools/nsc/reporters/StoreReporter.Info#pos.CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÇ Ç(2¢
+?scala/reflect/internal/util/InternalPositionImpl#lineContent().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÇ Ç(&2∏
+Ulocal61:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaCALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÄ Ä(2î
+1scala/tools/nsc/reporters/StoreReporter.Info#msg.CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÄ Ä(2∏
+Ulocal61:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaCALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala˛ ˛(2î
+1scala/tools/nsc/reporters/StoreReporter.Info#pos.CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala˛ ˛(2ù
+:scala/reflect/internal/util/InternalPositionImpl#column().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala˛ ˛(!2∏
+Ulocal61:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaCALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala¸ ¸(2î
+1scala/tools/nsc/reporters/StoreReporter.Info#pos.CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala¸ ¸(2ë
+.scala/reflect/internal/util/Position#source().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala¸ ¸(!2ë
+.scala/reflect/internal/util/SourceFile#file().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala¸" ¸(&2à
+%scala/reflect/io/AbstractFile#path().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala¸' ¸(+2
+scala/package.StringBuilder#CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala˚ ˚(2ó
+4scala/collection/mutable/StringBuilder#`<init>`(+2).CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala˚ ˚(2ï
+2scala/collection/mutable/StringBuilder#append(+1).CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala¸ ¸(2ï
+2scala/collection/mutable/StringBuilder#append(+1).CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala˝ ˝(2ï
+2scala/collection/mutable/StringBuilder#append(+6).CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala˛ ˛(2ï
+2scala/collection/mutable/StringBuilder#append(+1).CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaˇ ˇ(2ï
+2scala/collection/mutable/StringBuilder#append(+1).CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÄ Ä(2ï
+2scala/collection/mutable/StringBuilder#append(+1).CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÅ Å(2ï
+2scala/collection/mutable/StringBuilder#append(+1).CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÇ Ç(2ï
+2scala/collection/mutable/StringBuilder#append(+1).CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÉ É(2ï
+2scala/collection/mutable/StringBuilder#append(+1).CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÑ Ñ(2ï
+2scala/collection/mutable/StringBuilder#toString().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÖ Ö(2£
+@scala/meta/internal/pc/ScalaPresentationCompiler#compilerAccess.CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala˘ ˘(2î
+1scala/meta/internal/pc/CompilerAccess#reporter().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala˘ ˘(2ë
+.scala/tools/nsc/reporters/StoreReporter#infos.CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala˘ ˘(!2ï
+2scala/collection/mutable/LinkedHashSet#iterator().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala˘" ˘(*2É
+ scala/collection/Iterator#map().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala˙ ˙(
+2â
+&scala/collection/Iterator#filterNot().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaá á(2ç
+*scala/collection/TraversableOnce#toList().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaà à(2ó
+4scala/collection/convert/Decorators.AsJava#asJava().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaâ â(ß
+Ulocal55:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal55"
+package "
+accessEmpty"
+displayNamex1"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x12
+scala/Tuple2#TYPE2
+scala/Boolean#TYPE2
+scala/package.List#TYPE2
+scala/Predef.String#TYPE›
+Ulocal33:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal33"
+package "
+accessEmpty"
+displayNamex$2"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$22
+scala/Predef.String#TYPEª
+Bscala/meta/internal/pc/ScalaPresentationCompiler#copy$default$6().METHOD"
+endLine0"
+isVarfalse"L
+symbolBscala/meta/internal/pc/ScalaPresentationCompiler#copy$default$6()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamecopy$default$6"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$62<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+scala/Option#RETURN_TYPE2=
+.java/util/concurrent/ScheduledExecutorService#RETURN_TYPE«
+Fscala/meta/internal/pc/ScalaPresentationCompiler.`<init>$default$6`().METHOD"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/pc/ScalaPresentationCompiler.`<init>$default$6`()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayName<init>$default$6"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>$default$62<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+scala/Option#RETURN_TYPE2=
+.java/util/concurrent/ScheduledExecutorService#RETURN_TYPE·
+Ulocal41:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUEY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÄ Ä("
+endLine128"
+isVarfalse"
+symbollocal41"
+package "
+accessEmpty"
+displayNameempty"
+kindVALUE"
+	startLine128"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter8"
+isFinalfalse*empty2
+java/util/List#TYPE2#
+org/eclipse/lsp4j/TextEdit#TYPE¨
+Cscala/meta/internal/pc/ScalaPresentationCompiler.apply$default$2().METHOD"
+endLine0"
+isVarfalse"M
+symbolCscala/meta/internal/pc/ScalaPresentationCompiler.apply$default$2()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameapply$default$2"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply$default$22<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2$
+scala/collection/Seq#RETURN_TYPE2"
+java/nio/file/Path#RETURN_TYPE∑
+Ulocal11:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal11"
+package "
+accessEmpty"
+displayNamex$4"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$42;
+3scala/reflect/internal/annotations/uncheckedBounds#TYPE2
+scala/package.List#TYPE2
+scala/Predef.String#TYPEË
+Ascala/meta/internal/pc/ScalaPresentationCompiler#withWorkspace().METHODW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala: :("
+endLine58"
+isVarfalse"K
+symbolAscala/meta/internal/pc/ScalaPresentationCompiler#withWorkspace()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamewithWorkspace"
+kindMETHOD"
+	startLine58"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter28"
+startCharacter15"
+isFinalfalse"
+LOC2*withWorkspace2?
+3scala/meta/pc/PresentationCompiler#withWorkspace().OVERRIDE2≤
+Lscala/meta/internal/pc/ScalaPresentationCompiler#withWorkspace().(workspace)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala: :(&2ã
+#scala/meta/pc/PresentationCompiler#RETURN_TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala:/ :(C2≠
+Lscala/meta/internal/pc/ScalaPresentationCompiler#withWorkspace().(workspace)CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala; ;(#2l
+scala/Some.CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala; ;(2§
+Cscala/meta/internal/pc/ScalaPresentationCompiler#copy().(workspace)CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala;	 ;(2ô
+8scala/meta/internal/pc/ScalaPresentationCompiler#copy().CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala; ;(‘
+Ascala/meta/internal/pc/ScalaPresentationCompiler#didClose().(uri)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalas s("
+endLine115"
+isVarfalse"K
+symbolAscala/meta/internal/pc/ScalaPresentationCompiler#didClose().(uri)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNameuri"
+kind	PARAMETER"
+	startLine115"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter15"
+isFinalfalse*uri2n
+java/net/URI#TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalas s(˛
+Pscala/meta/internal/pc/ScalaPresentationCompiler#semanticdbTextDocument().(code)	PARAMETERY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala≈ ≈(
+"
+endLine197"
+isVarfalse"Z
+symbolPscala/meta/internal/pc/ScalaPresentationCompiler#semanticdbTextDocument().(code)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamecode"
+kind	PARAMETER"
+	startLine197"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter6"
+isFinalfalse*code2w
+scala/Predef.String#TYPEY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala≈ ≈(‚
+Tlocal0:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal0"
+package "
+accessEmpty"
+displayNamex$1"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12#
+scala/meta/pc/SymbolSearch#TYPEÛ
+Ulocal13:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal13"
+package "
+accessEmpty"
+displayNamex$6"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$622
+*scala/concurrent/ExecutionContextExecutor#TYPE∏
+Ulocal18:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal18"
+package "
+accessEmpty"
+displayNamex$3"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$32;
+3scala/reflect/internal/annotations/uncheckedBounds#TYPE2
+scala/collection/Seq#TYPE2
+java/nio/file/Path#TYPE´
+Cscala/meta/internal/pc/ScalaPresentationCompiler.apply$default$3().METHOD"
+endLine0"
+isVarfalse"M
+symbolCscala/meta/internal/pc/ScalaPresentationCompiler.apply$default$3()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameapply$default$3"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply$default$32<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2"
+scala/package.List#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPEâU
+?scala/meta/internal/pc/ScalaPresentationCompiler#newCompiler().METHODY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala— —("
+endLine209"
+isVarfalse"I
+symbol?scala/meta/internal/pc/ScalaPresentationCompiler#newCompiler()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamenewCompiler"
+kindMETHOD"
+	startLine209"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter6"
+isFinalfalse"	
+LOC34*newCompiler2é
+$scala/meta/internal/pc/MetalsGlobal#RETURN_TYPEY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala— —(!2ø
+Ulocal51:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaDECLARATIONY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala“ “(2p
+java/io/File#CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala“, “(02~
+java/io/File#pathSeparator.CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala“1 “(>2û
+;scala/meta/internal/pc/ScalaPresentationCompiler#classpath.CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala“ “("2ë
+.scala/collection/TraversableOnce#mkString(+1).CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala“# “(+2ø
+Ulocal52:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaDECLARATIONY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala” ”(
+2Ö
+"scala/reflect/io/VirtualDirectory#CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala” ”(!2ê
+-scala/reflect/io/VirtualDirectory#`<init>`().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala”! ”(!2n
+scala/None.CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala”. ”(22ø
+Ulocal53:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaDECLARATIONY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala‘ ‘(2|
+scala/tools/nsc/Settings#CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala‘ ‘(2â
+&scala/tools/nsc/Settings#`<init>`(+2).CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala‘ ‘(2∏
+Ulocal53:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaCALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala’ ’(2ó
+4scala/tools/nsc/settings/ScalaSettings#Ymacroexpand.CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala’ ’(2¨
+Iscala/reflect/internal/settings/MutableSettings#SettingValue#`value_=`().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala’ ’(2∏
+Ulocal52:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaCALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala÷( ÷(*2∏
+Ulocal53:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaCALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala÷ ÷(2ó
+4scala/tools/nsc/settings/MutableSettings#outputDirs.CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala÷ ÷(2´
+Hscala/tools/nsc/settings/MutableSettings#OutputDirs#setSingleOutput(+1).CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala÷ ÷('2∏
+Ulocal51:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaCALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala◊ ◊((2∏
+Ulocal53:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaCALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala◊ ◊(2î
+1scala/tools/nsc/settings/ScalaSettings#classpath.CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala◊ ◊(2¨
+Iscala/reflect/internal/settings/MutableSettings#SettingValue#`value_=`().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala◊ ◊(2∏
+Ulocal53:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaCALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÿ ÿ(2°
+>scala/tools/nsc/settings/ScalaSettings#YpresentationAnyThread.CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÿ ÿ(#2¨
+Iscala/reflect/internal/settings/MutableSettings#SettingValue#`value_=`().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÿ$ ÿ()2}
+scala/Boolean#`unary_!`().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala⁄ ⁄(2x
+scala/Boolean#`&&`().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala⁄9 ⁄(;2á
+$scala/meta/internal/mtags/BuildInfo.CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala€ €(2ú
+9scala/meta/internal/mtags/BuildInfo.scalaCompilerVersion.CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala€ €($2{
+java/lang/Object#`!=`().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala€% €('2É
+ scala/collection/immutable/List.CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaﬁ ﬁ(2´
+Hscala/tools/nsc/settings/MutableSettings#processArguments().(processAll)CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaﬂ ﬂ(2∏
+Ulocal53:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaCALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala› ›(2ü
+<scala/tools/nsc/settings/MutableSettings#processArguments().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala› ›(2∏
+Ulocal51:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaCALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala‚ ‚(2~
+java/lang/String#isEmpty().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala‚ ‚(2∏
+Ulocal53:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaCALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala„ „(2ú
+9scala/tools/nsc/settings/StandardScalaSettings#usejavacp.CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala„ „(2¨
+Iscala/reflect/internal/settings/MutableSettings#SettingValue#`value_=`().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala„ „(2ø
+Ulocal57:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaDECLARATIONY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÂ	 Â(2ø
+Ulocal58:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaDECLARATIONY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÂ Â(2ú
+9scala/meta/internal/pc/ScalaPresentationCompiler#options.CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÊ  Ê('2´
+Hscala/tools/nsc/settings/MutableSettings#processArguments().(processAll)CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÊ) Ê(32∏
+Ulocal53:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaCALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÊ Ê(2ü
+<scala/tools/nsc/settings/MutableSettings#processArguments().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÊ Ê(2∏
+Ulocal58:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaCALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÁ Á(2è
+,scala/collection/TraversableOnce#nonEmpty().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÁ Á(2x
+scala/Boolean#`||`().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÁ Á(2}
+scala/Boolean#`unary_!`().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÁ  Á(!2∏
+Ulocal58:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaCALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaË3 Ë(>2ë
+.scala/collection/TraversableOnce#mkString(+1).CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaË? Ë(G2õ
+8scala/meta/internal/pc/ScalaPresentationCompiler#logger.CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaË Ë(2Ü
+#java/util/logging/Logger#warning().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaË Ë(2á
+$scala/meta/internal/pc/MetalsGlobal#CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÍ Í(2í
+/scala/meta/internal/pc/MetalsGlobal#`<init>`().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÍ Í(2∏
+Ulocal53:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaCALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÎ Î(2ã
+(scala/tools/nsc/reporters/StoreReporter#CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÏ
+ Ï(2ò
+5scala/tools/nsc/reporters/StoreReporter#`<init>`(+1).CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÏ Ï(2õ
+8scala/meta/internal/pc/ScalaPresentationCompiler#search.CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÌ Ì(2™
+Gscala/meta/internal/pc/ScalaPresentationCompiler#buildTargetIdentifier.CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÓ Ó(2õ
+8scala/meta/internal/pc/ScalaPresentationCompiler#config.CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÔ Ô(2û
+;scala/meta/internal/pc/ScalaPresentationCompiler#workspace.CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala (∞
+Ulocal23:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal23"
+package "
+accessEmpty"
+displayNamex$8"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$82;
+3scala/reflect/internal/annotations/uncheckedBounds#TYPE2
+scala/Option#TYPE2
+java/nio/file/Path#TYPEˆ
+Fscala/meta/internal/pc/ScalaPresentationCompiler#definition().(params)	PARAMETERY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaº º("
+endLine188"
+isVarfalse"P
+symbolFscala/meta/internal/pc/ScalaPresentationCompiler#definition().(params)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNameparams"
+kind	PARAMETER"
+	startLine188"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter17"
+isFinalfalse*params2~
+scala/meta/pc/OffsetParams#TYPEY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaº º(%≥
+Fscala/meta/internal/pc/ScalaPresentationCompiler.`<init>$default$3`().METHOD"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/pc/ScalaPresentationCompiler.`<init>$default$3`()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayName<init>$default$3"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>$default$32<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2"
+scala/package.List#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPEÒ
+Tlocal4:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal4"
+package "
+accessEmpty"
+displayNamex$5"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$522
+*scala/concurrent/ExecutionContextExecutor#TYPEç
+Tscala/meta/internal/pc/ScalaPresentationCompiler#implementAbstractMembers().(params)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala~ ~("
+endLine126"
+isVarfalse"^
+symbolTscala/meta/internal/pc/ScalaPresentationCompiler#implementAbstractMembers().(params)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNameparams"
+kind	PARAMETER"
+	startLine126"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*params2|
+scala/meta/pc/OffsetParams#TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala~ ~(⁄
+:scala/meta/internal/pc/ScalaPresentationCompiler#equals().METHOD"
+endLine0"
+isVarfalse"D
+symbol:scala/meta/internal/pc/ScalaPresentationCompiler#equals()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameequals"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*equals2L
+?scala/meta/internal/pc/ScalaPresentationCompiler#equals().(x$1)	PARAMETER2
+scala/Boolean#RETURN_TYPE2"
+scala/Equals#equals().OVERRIDE2&
+java/lang/Object#equals().OVERRIDE2
+scala/Any#equals().OVERRIDE‰
+Ulocal28:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal28"
+package "
+accessEmpty"
+displayNamex$5"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$52#
+scala/meta/pc/SymbolSearch#TYPEÌ
+Dscala/meta/internal/pc/ScalaPresentationCompiler#complete().(params)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalav v("
+endLine118"
+isVarfalse"N
+symbolDscala/meta/internal/pc/ScalaPresentationCompiler#complete().(params)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNameparams"
+kind	PARAMETER"
+	startLine118"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*params2|
+scala/meta/pc/OffsetParams#TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalav v(€
+Tlocal9:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal9"
+package "
+accessEmpty"
+displayNamex$2"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$22
+scala/Predef.String#TYPEæ
+@scala/meta/internal/pc/ScalaPresentationCompiler.unapply().(x$0)	PARAMETER"
+endLine0"
+isVarfalse"J
+symbol@scala/meta/internal/pc/ScalaPresentationCompiler.unapply().(x$0)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamex$0"
+kind	PARAMETER"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$029
+1scala/meta/internal/pc/ScalaPresentationCompiler#TYPE§
+Cscala/meta/internal/pc/ScalaPresentationCompiler.apply$default$8().METHOD"
+endLine0"
+isVarfalse"M
+symbolCscala/meta/internal/pc/ScalaPresentationCompiler.apply$default$8()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameapply$default$8"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply$default$82<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+scala/Option#RETURN_TYPE2"
+java/nio/file/Path#RETURN_TYPE∂
+Tlocal2:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal2"
+package "
+accessEmpty"
+displayNamex$3"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$32;
+3scala/reflect/internal/annotations/uncheckedBounds#TYPE2
+scala/collection/Seq#TYPE2
+java/nio/file/Path#TYPE‹
+Ulocal65:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal65"
+package "
+accessPublicAccess()"
+displayName	matchEnd4"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*	matchEnd42c
+Vlocal312:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala	PARAMETER2
+scala/Boolean#RETURN_TYPE
+<scala/meta/internal/pc/ScalaPresentationCompiler#hashCode().METHOD"
+endLine0"
+isVarfalse"F
+symbol<scala/meta/internal/pc/ScalaPresentationCompiler#hashCode()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamehashCode"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*hashCode2
+
+scala/Int#RETURN_TYPE2(
+java/lang/Object#hashCode().OVERRIDE2!
+scala/Any#hashCode().OVERRIDE¡
+Oscala/meta/internal/pc/ScalaPresentationCompiler#copy().(buildTargetIdentifier)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalag g("
+endLine103"
+isVarfalse"Y
+symbolOscala/meta/internal/pc/ScalaPresentationCompiler#copy().(buildTargetIdentifier)"!
+packagescala.meta.internal.pc"
+accessEmpty"$
+displayNamebuildTargetIdentifier"
+kind	PARAMETER"
+	startLine103"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter27"
+startCharacter6"
+isFinalfalse*buildTargetIdentifier2
+scala/Predef.String#TYPEù
+<scala/meta/internal/pc/ScalaPresentationCompiler#canEqual().METHOD"
+endLine0"
+isVarfalse"F
+symbol<scala/meta/internal/pc/ScalaPresentationCompiler#canEqual()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamecanEqual"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*canEqual2N
+Ascala/meta/internal/pc/ScalaPresentationCompiler#canEqual().(x$1)	PARAMETER2
+scala/Boolean#RETURN_TYPE2$
+scala/Equals#canEqual().OVERRIDE√
+Ulocal57:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUEY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÂ	 Â("
+endLine229"
+isVarfalse"
+symbollocal57"
+package "
+accessEmpty"
+displayName	isSuccess"
+kindVALUE"
+	startLine229"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter9"
+isFinalfalse*	isSuccess2
+scala/Boolean#TYPE∏
+Ulocal48:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala	PARAMETERY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala∂ ∂(
+"
+endLine182"
+isVarfalse"
+symbollocal48"
+package "
+accessEmpty"
+displayNamepc"
+kind	PARAMETER"
+	startLine182"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter8"
+isFinalfalse*pc2/
+'scala/meta/internal/pc/CompilerWrapper#TYPE20
+(scala/tools/nsc/reporters/StoreReporter#TYPE2,
+$scala/meta/internal/pc/MetalsGlobal#TYPEÕ
+>scala/meta/internal/pc/ScalaPresentationCompiler#definition().METHODY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaº º("
+endLine188"
+isVarfalse"H
+symbol>scala/meta/internal/pc/ScalaPresentationCompiler#definition()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayName
+definition"
+kindMETHOD"
+	startLine188"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter6"
+isFinalfalse"
+LOC6*
+definition2<
+0scala/meta/pc/PresentationCompiler#definition().OVERRIDE2Æ
+Fscala/meta/internal/pc/ScalaPresentationCompiler#definition().(params)	PARAMETERY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaº º(2ë
+'java/util/concurrent/CompletableFuture#RETURN_TYPEY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaº( º(92â
+scala/meta/pc/DefinitionResult#RETURN_TYPEY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaº: º(J2Ω
+Ulocal49:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala	PARAMETERY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala¿ ¿(
+2è
+,scala/meta/internal/pc/PcDefinitionProvider#CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala¿ ¿(&2ö
+7scala/meta/internal/pc/PcDefinitionProvider#`<init>`().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala¿& ¿(&2∏
+Ulocal49:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaCALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala¿' ¿()2ï
+2scala/meta/internal/pc/CompilerWrapper#compiler().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala¿* ¿(22©
+Fscala/meta/internal/pc/ScalaPresentationCompiler#definition().(params)CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala¿6 ¿(<2ú
+9scala/meta/internal/pc/PcDefinitionProvider#definition().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala¿> ¿(H2è
+,scala/meta/internal/pc/DefinitionResultImpl.CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaæ æ(2ó
+4scala/meta/internal/pc/DefinitionResultImpl.empty().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaæ æ( 2©
+Fscala/meta/internal/pc/ScalaPresentationCompiler#definition().(params)CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaø ø(2ã
+(scala/meta/pc/VirtualFileParams#token().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaø ø(2£
+@scala/meta/internal/pc/ScalaPresentationCompiler#compilerAccess.CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaΩ Ω(2®
+Escala/meta/internal/pc/CompilerAccess#withNonInterruptableCompiler().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaΩ Ω(/ô
+Bscala/meta/internal/pc/ScalaPresentationCompiler#copy$default$5().METHOD"
+endLine0"
+isVarfalse"L
+symbolBscala/meta/internal/pc/ScalaPresentationCompiler#copy$default$5()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamecopy$default$5"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$52<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE29
+*scala/concurrent/ExecutionContextExecutor#RETURN_TYPE¨
+Tlocal8:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal8"
+package "
+accessEmpty"
+displayNamex$1"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12;
+3scala/reflect/internal/annotations/uncheckedBounds#TYPE2
+scala/Some#TYPE2
+java/nio/file/Path#TYPE∏
+Ulocal26:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal26"
+package "
+accessEmpty"
+displayNamex$3"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$32;
+3scala/reflect/internal/annotations/uncheckedBounds#TYPE2
+scala/collection/Seq#TYPE2
+java/nio/file/Path#TYPE 
+=scala/meta/internal/pc/ScalaPresentationCompiler.apply().(sh)	PARAMETER"
+endLine0"
+isVarfalse"G
+symbol=scala/meta/internal/pc/ScalaPresentationCompiler.apply().(sh)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamesh"
+kind	PARAMETER"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*sh2
+scala/Option#TYPE26
+.java/util/concurrent/ScheduledExecutorService#TYPEı
+Escala/meta/internal/pc/ScalaPresentationCompiler#didChange().(params)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalan n("
+endLine110"
+isVarfalse"O
+symbolEscala/meta/internal/pc/ScalaPresentationCompiler#didChange().(params)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNameparams"
+kind	PARAMETER"
+	startLine110"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*params2Å
+ scala/meta/pc/VirtualFileParams#TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalan n(ﬁ
+@scala/meta/internal/pc/ScalaPresentationCompiler#productArity().METHOD"
+endLine0"
+isVarfalse"J
+symbol@scala/meta/internal/pc/ScalaPresentationCompiler#productArity()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameproductArity"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productArity2
+
+scala/Int#RETURN_TYPE2)
+scala/Product#productArity().OVERRIDEÚ
+Ulocal15:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal15"
+package "
+accessEmpty"
+displayNamex$8"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$821
+)scala/meta/pc/PresentationCompilerConfig#TYPE“!
+Fscala/meta/internal/pc/ScalaPresentationCompiler#insertInferredType().METHODY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÜ Ü(!"
+endLine134"
+isVarfalse"P
+symbolFscala/meta/internal/pc/ScalaPresentationCompiler#insertInferredType()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"!
+displayNameinsertInferredType"
+kindMETHOD"
+	startLine134"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter33"
+startCharacter15"
+isFinalfalse"
+LOC8*insertInferredType2D
+8scala/meta/pc/PresentationCompiler#insertInferredType().OVERRIDE2∂
+Nscala/meta/internal/pc/ScalaPresentationCompiler#insertInferredType().(params)	PARAMETERY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaá á(2ë
+'java/util/concurrent/CompletableFuture#RETURN_TYPEY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaà à(2m
+
+java/util/CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaà à(2y
+java/util/List#RETURN_TYPEY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaà à(2Ö
+org/eclipse/lsp4j/TextEdit#RETURN_TYPEY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaà à('2ø
+Ulocal43:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaDECLARATIONY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaâ â(2m
+
+java/util/CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaâ' â()2w
+java/util/ArrayList#CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaâ* â(32~
+org/eclipse/lsp4j/TextEdit#CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaâ4 â(<2Ñ
+!java/util/ArrayList#`<init>`(+1).CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaâ= â(=2Ω
+Ulocal44:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala	PARAMETERY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaäD ä(F2è
+,scala/meta/internal/pc/InferredTypeProvider#CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaã
+ ã(2ö
+7scala/meta/internal/pc/InferredTypeProvider#`<init>`().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaã ã(2∏
+Ulocal44:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaCALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaã ã(!2ï
+2scala/meta/internal/pc/CompilerWrapper#compiler().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaã" ã(*2±
+Nscala/meta/internal/pc/ScalaPresentationCompiler#insertInferredType().(params)CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaã. ã(42£
+@scala/meta/internal/pc/InferredTypeProvider#inferredTypeEdits().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaã6 ã(G2ó
+4scala/collection/convert/Decorators.AsJava#asJava().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaãJ ã(P2∏
+Ulocal43:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaCALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaä- ä(22±
+Nscala/meta/internal/pc/ScalaPresentationCompiler#insertInferredType().(params)CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaä4 ä(:2ã
+(scala/meta/pc/VirtualFileParams#token().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaä; ä(@2£
+@scala/meta/internal/pc/ScalaPresentationCompiler#compilerAccess.CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaä ä(2•
+Bscala/meta/internal/pc/CompilerAccess#withInterruptableCompiler().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaä ä(,œ
+Hscala/meta/internal/pc/ScalaPresentationCompiler#newInstance().(options)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalad d("
+endLine100"
+isVarfalse"R
+symbolHscala/meta/internal/pc/ScalaPresentationCompiler#newInstance().(options)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNameoptions"
+kind	PARAMETER"
+	startLine100"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter6"
+isFinalfalse*options2k
+
+java/util/CALLW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalad d(2p
+java/util/List#TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalad d(2u
+scala/Predef.String#TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalad d(√
+Ulocal60:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal60"
+package "
+accessPublicAccess()"
+displayName	matchEnd3"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*	matchEnd32c
+Vlocal311:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala	PARAMETER2
+scala/Tuple2#RETURN_TYPE2
+scala/Boolean#RETURN_TYPE2"
+scala/package.List#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPEÿ
+Gscala/meta/internal/pc/ScalaPresentationCompiler#`<init>`().(classpath)	PARAMETER"
+endLine0"
+isVarfalse"Q
+symbolGscala/meta/internal/pc/ScalaPresentationCompiler#`<init>`().(classpath)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayName	classpath"
+kind	PARAMETER"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*	classpath2
+scala/collection/Seq#TYPE2
+java/nio/file/Path#TYPEÎ
+Ulocal58:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUEY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaÂ Â("
+endLine229"
+isVarfalse"
+symbollocal58"
+package "
+accessEmpty"
+displayNameunprocessed"
+kindVALUE"
+	startLine229"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter31"
+startCharacter20"
+isFinalfalse*unprocessed2
+scala/package.List#TYPE2
+scala/Predef.String#TYPE›
+Ulocal25:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal25"
+package "
+accessEmpty"
+displayNamex$2"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$22
+scala/Predef.String#TYPEœ
+;scala/meta/internal/pc/ScalaPresentationCompiler#classpath.VALUEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala( (("
+endLine40"
+isVarfalse"E
+symbol;scala/meta/internal/pc/ScalaPresentationCompiler#classpath."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayName	classpath"
+kindVALUE"
+	startLine40"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter4"
+isFinalfalse*	classpath2v
+scala/collection/Seq#TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala( ((2t
+java/nio/file/Path#TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala( ((„
+Ulocal61:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala	PARAMETERY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala˙ ˙("
+endLine250"
+isVarfalse"
+symbollocal61"
+package "
+accessEmpty"
+displayNameinfo"
+kind	PARAMETER"
+	startLine250"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter13"
+isFinalfalse*info25
+-scala/tools/nsc/reporters/StoreReporter.Info#TYPE•
+Fscala/meta/internal/pc/ScalaPresentationCompiler.`<init>$default$5`().METHOD"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/pc/ScalaPresentationCompiler.`<init>$default$5`()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayName<init>$default$5"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>$default$52<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE29
+*scala/concurrent/ExecutionContextExecutor#RETURN_TYPEã
+>scala/meta/internal/pc/ScalaPresentationCompiler#scalaVersion.VALUEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala2 2("
+endLine50"
+isVarfalse"H
+symbol>scala/meta/internal/pc/ScalaPresentationCompiler#scalaVersion."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamescalaVersion"
+kindVALUE"
+	startLine50"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter6"
+isFinalfalse*scalaVersion2
+scala/Predef.String#TYPE˙
+Ulocal16:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal16"
+package "
+accessEmpty"
+displayNamex$1"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$129
+1scala/concurrent/ExecutionContextExecutorService#TYPEÀ
+Ulocal38:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal38"
+package "
+accessEmpty"
+displayNamex$7"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$72;
+3scala/reflect/internal/annotations/uncheckedBounds#TYPE2
+scala/Option#TYPE26
+.java/util/concurrent/ScheduledExecutorService#TYPE˚
+Iscala/meta/internal/pc/ScalaPresentationCompiler#signatureHelp().(params)	PARAMETERY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala© ©("
+endLine169"
+isVarfalse"S
+symbolIscala/meta/internal/pc/ScalaPresentationCompiler#signatureHelp().(params)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNameparams"
+kind	PARAMETER"
+	startLine169"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*params2~
+scala/meta/pc/OffsetParams#TYPEY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala© ©(Û
+Ulocal29:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal29"
+package "
+accessEmpty"
+displayNamex$6"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$622
+*scala/concurrent/ExecutionContextExecutor#TYPE…
+Ulocal51:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUEY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala“ “("
+endLine210"
+isVarfalse"
+symbollocal51"
+package "
+accessEmpty"
+displayName	classpath"
+kindVALUE"
+	startLine210"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter8"
+isFinalfalse*	classpath2
+scala/Predef.String#TYPE¶
+Ascala/meta/internal/pc/ScalaPresentationCompiler#copy().(options)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalai i("
+endLine105"
+isVarfalse"K
+symbolAscala/meta/internal/pc/ScalaPresentationCompiler#copy().(options)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNameoptions"
+kind	PARAMETER"
+	startLine105"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter6"
+isFinalfalse*options2
+scala/package.List#TYPE2
+scala/Predef.String#TYPEÄ
+Iscala/meta/internal/pc/ScalaPresentationCompiler#completionItemResolve().METHODY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaû û($"
+endLine158"
+isVarfalse"S
+symbolIscala/meta/internal/pc/ScalaPresentationCompiler#completionItemResolve()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"$
+displayNamecompletionItemResolve"
+kindMETHOD"
+	startLine158"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter36"
+startCharacter15"
+isFinalfalse"
+LOC9*completionItemResolve2G
+;scala/meta/pc/PresentationCompiler#completionItemResolve().OVERRIDE2∑
+Oscala/meta/internal/pc/ScalaPresentationCompiler#completionItemResolve().(item)	PARAMETERY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaü ü(
+2π
+Qscala/meta/internal/pc/ScalaPresentationCompiler#completionItemResolve().(symbol)	PARAMETERY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala† †(2ë
+'java/util/concurrent/CompletableFuture#RETURN_TYPEY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala° °(2ã
+!org/eclipse/lsp4j/CompletionItem#RETURN_TYPEY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala° °(%2Ω
+Ulocal46:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala	PARAMETERY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala£0 £(22≤
+Oscala/meta/internal/pc/ScalaPresentationCompiler#completionItemResolve().(item)CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala§: §(>2¥
+Qscala/meta/internal/pc/ScalaPresentationCompiler#completionItemResolve().(symbol)CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala§@ §(F2ë
+.scala/meta/internal/pc/CompletionItemResolver#CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala§ §("2ú
+9scala/meta/internal/pc/CompletionItemResolver#`<init>`().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala§" §("2∏
+Ulocal46:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaCALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala§# §(%2ï
+2scala/meta/internal/pc/CompilerWrapper#compiler().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala§& §(.2õ
+8scala/meta/internal/pc/CompletionItemResolver#resolve().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala§2 §(92≤
+Oscala/meta/internal/pc/ScalaPresentationCompiler#completionItemResolve().(item)CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala£( £(,2£
+@scala/meta/internal/pc/ScalaPresentationCompiler#compilerAccess.CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala£ £(2û
+;scala/meta/internal/pc/CompilerAccess#withSharedCompiler().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala£ £('2ä
+'java/util/concurrent/CompletableFuture#CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala¢ ¢(2ú
+9java/util/concurrent/CompletableFuture#completedFuture().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala¢ ¢(%æ
+Ascala/meta/internal/pc/ScalaPresentationCompiler.apply().(config)	PARAMETER"
+endLine0"
+isVarfalse"K
+symbolAscala/meta/internal/pc/ScalaPresentationCompiler.apply().(config)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNameconfig"
+kind	PARAMETER"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*config21
+)scala/meta/pc/PresentationCompilerConfig#TYPEñ
+Fscala/meta/internal/pc/ScalaPresentationCompiler.`<init>$default$4`().METHOD"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/pc/ScalaPresentationCompiler.`<init>$default$4`()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayName<init>$default$4"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>$default$42<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2*
+scala/meta/pc/SymbolSearch#RETURN_TYPE¯
+8scala/meta/internal/pc/ScalaPresentationCompiler#logger.VALUEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala4 4("
+endLine52"
+isVarfalse"B
+symbol8scala/meta/internal/pc/ScalaPresentationCompiler#logger."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamelogger"
+kindVALUE"
+	startLine52"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*logger2!
+java/util/logging/Logger#TYPE∏
+Ulocal45:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala	PARAMETERY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalañ ñ(
+"
+endLine150"
+isVarfalse"
+symbollocal45"
+package "
+accessEmpty"
+displayNamepc"
+kind	PARAMETER"
+	startLine150"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter8"
+isFinalfalse*pc2/
+'scala/meta/internal/pc/CompilerWrapper#TYPE20
+(scala/tools/nsc/reporters/StoreReporter#TYPE2,
+$scala/meta/internal/pc/MetalsGlobal#TYPE“
+4scala/meta/internal/pc/ScalaPresentationCompiler#ec.VALUEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala+ +("
+endLine43"
+isVarfalse">
+symbol4scala/meta/internal/pc/ScalaPresentationCompiler#ec."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameec"
+kindVALUE"
+	startLine43"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter6"
+startCharacter4"
+isFinalfalse*ec2ã
+*scala/concurrent/ExecutionContextExecutor#TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala+ +( Ñ
+Qscala/meta/internal/pc/ScalaPresentationCompiler#completionItemResolve().(symbol)	PARAMETERY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala† †("
+endLine160"
+isVarfalse"[
+symbolQscala/meta/internal/pc/ScalaPresentationCompiler#completionItemResolve().(symbol)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamesymbol"
+kind	PARAMETER"
+	startLine160"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*symbol2w
+scala/Predef.String#TYPEY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala† †(…
+Tlocal5:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal5"
+package "
+accessEmpty"
+displayNamex$6"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$62;
+3scala/reflect/internal/annotations/uncheckedBounds#TYPE2
+scala/Option#TYPE26
+.java/util/concurrent/ScheduledExecutorService#TYPE”
+Dscala/meta/internal/pc/ScalaPresentationCompiler.apply().(classpath)	PARAMETER"
+endLine0"
+isVarfalse"N
+symbolDscala/meta/internal/pc/ScalaPresentationCompiler.apply().(classpath)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayName	classpath"
+kind	PARAMETER"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*	classpath2
+scala/collection/Seq#TYPE2
+java/nio/file/Path#TYPE‰
+Ulocal12:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal12"
+package "
+accessEmpty"
+displayNamex$5"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$52#
+scala/meta/pc/SymbolSearch#TYPE 
+Bscala/meta/internal/pc/ScalaPresentationCompiler.apply().(options)	PARAMETER"
+endLine0"
+isVarfalse"L
+symbolBscala/meta/internal/pc/ScalaPresentationCompiler.apply().(options)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNameoptions"
+kind	PARAMETER"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*options2
+scala/package.List#TYPE2
+scala/Predef.String#TYPEµ
+Dscala/meta/internal/pc/ScalaPresentationCompiler#`<init>`().(search)	PARAMETER"
+endLine0"
+isVarfalse"N
+symbolDscala/meta/internal/pc/ScalaPresentationCompiler#`<init>`().(search)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamesearch"
+kind	PARAMETER"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*search2#
+scala/meta/pc/SymbolSearch#TYPE∆
+9scala/meta/internal/pc/ScalaPresentationCompiler#options.VALUEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala) )("
+endLine41"
+isVarfalse"C
+symbol9scala/meta/internal/pc/ScalaPresentationCompiler#options."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameoptions"
+kindVALUE"
+	startLine41"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter11"
+startCharacter4"
+isFinalfalse*options2t
+scala/package.List#TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala) )(2u
+scala/Predef.String#TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala) )(â
+<scala/meta/internal/pc/ScalaPresentationCompiler#copy().(ec)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala@	 @("
+endLine64"
+isVarfalse"F
+symbol<scala/meta/internal/pc/ScalaPresentationCompiler#copy().(ec)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNameec"
+kind	PARAMETER"
+	startLine64"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter11"
+startCharacter9"
+isFinalfalse*ec22
+*scala/concurrent/ExecutionContextExecutor#TYPE€
+Tlocal1:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal1"
+package "
+accessEmpty"
+displayNamex$2"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$22
+scala/Predef.String#TYPEä
+Bscala/meta/internal/pc/ScalaPresentationCompiler#copy$default$4().METHOD"
+endLine0"
+isVarfalse"L
+symbolBscala/meta/internal/pc/ScalaPresentationCompiler#copy$default$4()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamecopy$default$4"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$42<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2*
+scala/meta/pc/SymbolSearch#RETURN_TYPEñ
+Tscala/meta/internal/pc/ScalaPresentationCompiler#withScheduledExecutorService().(sh)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaC C("
+endLine67"
+isVarfalse"^
+symbolTscala/meta/internal/pc/ScalaPresentationCompiler#withScheduledExecutorService().(sh)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamesh"
+kind	PARAMETER"
+	startLine67"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter8"
+startCharacter6"
+isFinalfalse*sh2è
+.java/util/concurrent/ScheduledExecutorService#TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaC
+ C("Ú
+Ulocal22:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal22"
+package "
+accessEmpty"
+displayNamex$7"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$721
+)scala/meta/pc/PresentationCompilerConfig#TYPEé
+Cscala/meta/internal/pc/ScalaPresentationCompiler.apply$default$4().METHOD"
+endLine0"
+isVarfalse"M
+symbolCscala/meta/internal/pc/ScalaPresentationCompiler.apply$default$4()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameapply$default$4"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply$default$42<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2*
+scala/meta/pc/SymbolSearch#RETURN_TYPE¶
+Vscala/meta/internal/pc/ScalaPresentationCompiler#newInstance().(buildTargetIdentifier)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalab b("
+endLine98"
+isVarfalse"`
+symbolVscala/meta/internal/pc/ScalaPresentationCompiler#newInstance().(buildTargetIdentifier)"!
+packagescala.meta.internal.pc"
+accessEmpty"$
+displayNamebuildTargetIdentifier"
+kind	PARAMETER"
+	startLine98"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter27"
+startCharacter6"
+isFinalfalse*buildTargetIdentifier2u
+scala/Predef.String#TYPEW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalab b(#∫!
+?scala/meta/internal/pc/ScalaPresentationCompiler#autoImports().METHODY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaè è("
+endLine143"
+isVarfalse"I
+symbol?scala/meta/internal/pc/ScalaPresentationCompiler#autoImports()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameautoImports"
+kindMETHOD"
+	startLine143"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter26"
+startCharacter15"
+isFinalfalse"	
+LOC10*autoImports2=
+1scala/meta/pc/PresentationCompiler#autoImports().OVERRIDE2≠
+Escala/meta/internal/pc/ScalaPresentationCompiler#autoImports().(name)	PARAMETERY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaê ê(
+2Ø
+Gscala/meta/internal/pc/ScalaPresentationCompiler#autoImports().(params)	PARAMETERY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaë ë(2ë
+'java/util/concurrent/CompletableFuture#RETURN_TYPEY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaí í(2m
+
+java/util/CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaí í(2y
+java/util/List#RETURN_TYPEY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaí í(2ä
+ scala/meta/pc/AutoImportsResult#RETURN_TYPEY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaí í(02Ω
+Ulocal45:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala	PARAMETERY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalañ ñ(
+2é
++scala/meta/internal/pc/AutoImportsProvider#CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaó
+ ó(2ô
+6scala/meta/internal/pc/AutoImportsProvider#`<init>`().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaó ó(2∏
+Ulocal45:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaCALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaó ó( 2ï
+2scala/meta/internal/pc/CompilerWrapper#compiler().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaó! ó()2®
+Escala/meta/internal/pc/ScalaPresentationCompiler#autoImports().(name)CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaó- ó(12™
+Gscala/meta/internal/pc/ScalaPresentationCompiler#autoImports().(params)CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaó3 ó(92ú
+9scala/meta/internal/pc/AutoImportsProvider#autoImports().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaó; ó(F2ó
+4scala/collection/convert/Decorators.AsJava#asJava().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaóI ó(O2É
+ scala/meta/pc/AutoImportsResult#CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaî î("2É
+ scala/collection/immutable/List.CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaî î(
+2ã
+(scala/collection/immutable/List.empty().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaî î(2ó
+4scala/collection/convert/Decorators.AsJava#asJava().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaî$ î(*2™
+Gscala/meta/internal/pc/ScalaPresentationCompiler#autoImports().(params)CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaï ï(2ã
+(scala/meta/pc/VirtualFileParams#token().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaï ï(2£
+@scala/meta/internal/pc/ScalaPresentationCompiler#compilerAccess.CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaì ì(2•
+Bscala/meta/internal/pc/CompilerAccess#withInterruptableCompiler().CALLY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaì ì(,Ú
+Oscala/meta/internal/pc/ScalaPresentationCompiler#semanticdbTextDocument().(uri)	PARAMETERY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaƒ ƒ(	"
+endLine196"
+isVarfalse"Y
+symbolOscala/meta/internal/pc/ScalaPresentationCompiler#semanticdbTextDocument().(uri)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNameuri"
+kind	PARAMETER"
+	startLine196"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter9"
+startCharacter6"
+isFinalfalse*uri2p
+java/net/URI#TYPEY
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaƒ ƒ(ò
+@scala/meta/internal/pc/ScalaPresentationCompiler#copy().(config)	PARAMETERW
+Mmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaJ	 J("
+endLine74"
+isVarfalse"J
+symbol@scala/meta/internal/pc/ScalaPresentationCompiler#copy().(config)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNameconfig"
+kind	PARAMETER"
+	startLine74"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter15"
+startCharacter9"
+isFinalfalse*config21
+)scala/meta/pc/PresentationCompilerConfig#TYPE∑
+Ulocal35:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal35"
+package "
+accessEmpty"
+displayNamex$4"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$42;
+3scala/reflect/internal/annotations/uncheckedBounds#TYPE2
+scala/package.List#TYPE2
+scala/Predef.String#TYPEá	
+;scala/meta/internal/pc/ScalaPresentationCompiler.unapply().METHOD"
+endLine0"
+isVarfalse"E
+symbol;scala/meta/internal/pc/ScalaPresentationCompiler.unapply()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameunapply"
+kindMETHOD"
+	startLine0"
+isValfalse"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*unapply2M
+@scala/meta/internal/pc/ScalaPresentationCompiler.unapply().(x$0)	PARAMETER2
+scala/Option#RETURN_TYPE2
+scala/Tuple8#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE2$
+scala/collection/Seq#RETURN_TYPE2"
+java/nio/file/Path#RETURN_TYPE2"
+scala/package.List#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE2*
+scala/meta/pc/SymbolSearch#RETURN_TYPE29
+*scala/concurrent/ExecutionContextExecutor#RETURN_TYPE2
+scala/Option#RETURN_TYPE2=
+.java/util/concurrent/ScheduledExecutorService#RETURN_TYPE28
+)scala/meta/pc/PresentationCompilerConfig#RETURN_TYPE2
+scala/Option#RETURN_TYPE2"
+java/nio/file/Path#RETURN_TYPE∑
+Ulocal19:mtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal19"
+package "
+accessEmpty"
+displayNamex$4"
+kindVALUE"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$42;
+3scala/reflect/internal/annotations/uncheckedBounds#TYPE2
+scala/package.List#TYPE2
+scala/Predef.String#TYPEœ
+Escala/meta/internal/pc/ScalaPresentationCompiler#`<init>`().(options)	PARAMETER"
+endLine0"
+isVarfalse"O
+symbolEscala/meta/internal/pc/ScalaPresentationCompiler#`<init>`().(options)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNameoptions"
+kind	PARAMETER"
+	startLine0"
+isValtrue"T
+uriMmtags/src/main/scala-2/scala/meta/internal/pc/ScalaPresentationCompiler.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*options2
+scala/package.List#TYPE2
+scala/Predef.String#TYPE

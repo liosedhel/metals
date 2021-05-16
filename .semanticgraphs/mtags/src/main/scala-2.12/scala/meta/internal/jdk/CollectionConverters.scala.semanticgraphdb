@@ -1,0 +1,29 @@
+
+Lmtags/src/main/scala-2.12/scala/meta/internal/jdk/CollectionConverters.scala¢
+Lmtags/src/main/scala-2.12/scala/meta/internal/jdk/CollectionConverters.scalaFILE*Lmtags/src/main/scala-2.12/scala/meta/internal/jdk/CollectionConverters.scala˜
+-scala/meta/internal/jdk/CollectionConverters.OBJECTV
+Lmtags/src/main/scala-2.12/scala/meta/internal/jdk/CollectionConverters.scala ("
+endLine5"
+isVarfalse"7
+symbol-scala/meta/internal/jdk/CollectionConverters.""
+packagescala.meta.internal.jdk"
+accessPublicAccess()"#
+displayNameCollectionConverters"
+kindOBJECT"
+	startLine5"
+isValfalse"S
+uriLmtags/src/main/scala-2.12/scala/meta/internal/jdk/CollectionConverters.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter27"
+startCharacter7"
+isFinaltrue"
+LOC1*CollectionConverters2
+scala/AnyRef#EXTEND2Š
+(scala/collection/convert/DecorateAsJava#EXTENDV
+Lmtags/src/main/scala-2.12/scala/meta/internal/jdk/CollectionConverters.scala$ (22‹
+)scala/collection/convert/DecorateAsScala#EXTENDV
+Lmtags/src/main/scala-2.12/scala/meta/internal/jdk/CollectionConverters.scala8 (G

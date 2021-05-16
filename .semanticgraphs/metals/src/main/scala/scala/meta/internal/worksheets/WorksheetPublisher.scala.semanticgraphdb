@@ -1,0 +1,197 @@
+
+Mmetals/src/main/scala/scala/meta/internal/worksheets/WorksheetPublisher.scalaø
+Dscala/meta/internal/worksheets/WorksheetPublisher#hover().(position)	PARAMETERW
+Mmetals/src/main/scala/scala/meta/internal/worksheets/WorksheetPublisher.scala  (("
+endLine17"
+isVarfalse"N
+symbolDscala/meta/internal/worksheets/WorksheetPublisher#hover().(position)")
+packagescala.meta.internal.worksheets"
+accessEmpty"
+displayNameposition"
+kind	PARAMETER"
+	startLine17"
+isValfalse"T
+uriMmetals/src/main/scala/scala/meta/internal/worksheets/WorksheetPublisher.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter40"
+startCharacter32"
+isFinalfalse*position2|
+org/eclipse/lsp4j/Position#TYPEW
+Mmetals/src/main/scala/scala/meta/internal/worksheets/WorksheetPublisher.scala* (2©
+Lscala/meta/internal/worksheets/WorksheetPublisher#publish().(languageClient)	PARAMETERW
+Mmetals/src/main/scala/scala/meta/internal/worksheets/WorksheetPublisher.scala ("
+endLine12"
+isVarfalse"V
+symbolLscala/meta/internal/worksheets/WorksheetPublisher#publish().(languageClient)")
+packagescala.meta.internal.worksheets"
+accessEmpty"
+displayNamelanguageClient"
+kind	PARAMETER"
+	startLine12"
+isValfalse"T
+uriMmetals/src/main/scala/scala/meta/internal/worksheets/WorksheetPublisher.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter6"
+isFinalfalse*languageClient2‘
+0scala/meta/internal/metals/MetalsLanguageClient#TYPEW
+Mmetals/src/main/scala/scala/meta/internal/worksheets/WorksheetPublisher.scala (*±	
+:scala/meta/internal/worksheets/WorksheetPublisher#hover().METHODW
+Mmetals/src/main/scala/scala/meta/internal/worksheets/WorksheetPublisher.scala ("
+endLine17"
+isVarfalse"D
+symbol:scala/meta/internal/worksheets/WorksheetPublisher#hover().")
+packagescala.meta.internal.worksheets"
+accessPublicAccess()"
+displayNamehover"
+kindMETHOD"
+	startLine17"
+isValfalse"T
+uriMmetals/src/main/scala/scala/meta/internal/worksheets/WorksheetPublisher.scala"
+
+isAbstracttrue"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter11"
+startCharacter6"
+isFinalfalse*hover2¦
+@scala/meta/internal/worksheets/WorksheetPublisher#hover().(path)	PARAMETERW
+Mmetals/src/main/scala/scala/meta/internal/worksheets/WorksheetPublisher.scala (2ª
+Dscala/meta/internal/worksheets/WorksheetPublisher#hover().(position)	PARAMETERW
+Mmetals/src/main/scala/scala/meta/internal/worksheets/WorksheetPublisher.scala  ((2u
+scala/Option#RETURN_TYPEW
+Mmetals/src/main/scala/scala/meta/internal/worksheets/WorksheetPublisher.scala5 (;2€
+org/eclipse/lsp4j/Hover#RETURN_TYPEW
+Mmetals/src/main/scala/scala/meta/internal/worksheets/WorksheetPublisher.scala< (Aî	
+<scala/meta/internal/worksheets/WorksheetPublisher#publish().METHODW
+Mmetals/src/main/scala/scala/meta/internal/worksheets/WorksheetPublisher.scala ("
+endLine11"
+isVarfalse"F
+symbol<scala/meta/internal/worksheets/WorksheetPublisher#publish().")
+packagescala.meta.internal.worksheets"
+accessPublicAccess()"
+displayNamepublish"
+kindMETHOD"
+	startLine11"
+isValfalse"T
+uriMmetals/src/main/scala/scala/meta/internal/worksheets/WorksheetPublisher.scala"
+
+isAbstracttrue"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter6"
+isFinalfalse*publish2²
+Lscala/meta/internal/worksheets/WorksheetPublisher#publish().(languageClient)	PARAMETERW
+Mmetals/src/main/scala/scala/meta/internal/worksheets/WorksheetPublisher.scala (2¨
+Bscala/meta/internal/worksheets/WorksheetPublisher#publish().(path)	PARAMETERW
+Mmetals/src/main/scala/scala/meta/internal/worksheets/WorksheetPublisher.scala (
+2­
+Gscala/meta/internal/worksheets/WorksheetPublisher#publish().(worksheet)	PARAMETERW
+Mmetals/src/main/scala/scala/meta/internal/worksheets/WorksheetPublisher.scala (2s
+scala/Unit#RETURN_TYPEW
+Mmetals/src/main/scala/scala/meta/internal/worksheets/WorksheetPublisher.scala (	ë
+Bscala/meta/internal/worksheets/WorksheetPublisher#publish().(path)	PARAMETERW
+Mmetals/src/main/scala/scala/meta/internal/worksheets/WorksheetPublisher.scala (
+"
+endLine13"
+isVarfalse"L
+symbolBscala/meta/internal/worksheets/WorksheetPublisher#publish().(path)")
+packagescala.meta.internal.worksheets"
+accessEmpty"
+displayNamepath"
+kind	PARAMETER"
+	startLine13"
+isValfalse"T
+uriMmetals/src/main/scala/scala/meta/internal/worksheets/WorksheetPublisher.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter6"
+isFinalfalse*path2|
+scala/meta/io/AbsolutePath#TYPEW
+Mmetals/src/main/scala/scala/meta/internal/worksheets/WorksheetPublisher.scala (Ø
+2scala/meta/internal/worksheets/WorksheetPublisher#TRAITW
+Mmetals/src/main/scala/scala/meta/internal/worksheets/WorksheetPublisher.scala	 	("
+endLine9"
+isVarfalse"<
+symbol2scala/meta/internal/worksheets/WorksheetPublisher#")
+packagescala.meta.internal.worksheets"
+accessPublicAccess()"!
+displayNameWorksheetPublisher"
+kindTRAIT"
+	startLine9"
+isValfalse"T
+uriMmetals/src/main/scala/scala/meta/internal/worksheets/WorksheetPublisher.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter24"
+startCharacter6"
+isFinalfalse"	
+LOC11*WorksheetPublisher2¤
+<scala/meta/internal/worksheets/WorksheetPublisher#publish().DECLARATIONW
+Mmetals/src/main/scala/scala/meta/internal/worksheets/WorksheetPublisher.scala (2¢
+:scala/meta/internal/worksheets/WorksheetPublisher#hover().DECLARATIONW
+Mmetals/src/main/scala/scala/meta/internal/worksheets/WorksheetPublisher.scala (2
+scala/AnyRef#EXTEND¤
+Mmetals/src/main/scala/scala/meta/internal/worksheets/WorksheetPublisher.scalaFILE*Mmetals/src/main/scala/scala/meta/internal/worksheets/WorksheetPublisher.scalaè
+@scala/meta/internal/worksheets/WorksheetPublisher#hover().(path)	PARAMETERW
+Mmetals/src/main/scala/scala/meta/internal/worksheets/WorksheetPublisher.scala ("
+endLine17"
+isVarfalse"J
+symbol@scala/meta/internal/worksheets/WorksheetPublisher#hover().(path)")
+packagescala.meta.internal.worksheets"
+accessEmpty"
+displayNamepath"
+kind	PARAMETER"
+	startLine17"
+isValfalse"T
+uriMmetals/src/main/scala/scala/meta/internal/worksheets/WorksheetPublisher.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter12"
+isFinalfalse*path2|
+scala/meta/io/AbsolutePath#TYPEW
+Mmetals/src/main/scala/scala/meta/internal/worksheets/WorksheetPublisher.scala (ˆ
+Gscala/meta/internal/worksheets/WorksheetPublisher#publish().(worksheet)	PARAMETERW
+Mmetals/src/main/scala/scala/meta/internal/worksheets/WorksheetPublisher.scala ("
+endLine14"
+isVarfalse"Q
+symbolGscala/meta/internal/worksheets/WorksheetPublisher#publish().(worksheet)")
+packagescala.meta.internal.worksheets"
+accessEmpty"
+displayName	worksheet"
+kind	PARAMETER"
+	startLine14"
+isValfalse"T
+uriMmetals/src/main/scala/scala/meta/internal/worksheets/WorksheetPublisher.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter15"
+startCharacter6"
+isFinalfalse*	worksheet2„
+#mdoc/interfaces/EvaluatedWorksheet#TYPEW
+Mmetals/src/main/scala/scala/meta/internal/worksheets/WorksheetPublisher.scala (#

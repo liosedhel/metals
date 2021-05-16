@@ -1,0 +1,51 @@
+
+0tests/input/src/main/scala/example/Imports.scalaÞ
+example/Imports#`<init>`().CONSTRUCTOR:
+0tests/input/src/main/scala/example/Imports.scala ("
+endLine5"
+isVarfalse"%
+symbolexample/Imports#`<init>`()."
+packageexample"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine5"
+isValfalse"7
+uri0tests/input/src/main/scala/example/Imports.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter14"
+startCharacter14"
+isFinalfalse*<init>j
+0tests/input/src/main/scala/example/Imports.scalaFILE*0tests/input/src/main/scala/example/Imports.scala€
+example/Imports#CLASS:
+0tests/input/src/main/scala/example/Imports.scala ("
+endLine5"
+isVarfalse"
+symbolexample/Imports#"
+packageexample"
+accessPublicAccess()"
+displayNameImports"
+kindCLASS"
+	startLine5"
+isValfalse"7
+uri0tests/input/src/main/scala/example/Imports.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter6"
+isFinalfalse"
+LOC5*Imports2f
+example/Imports#`<init>`().DECLARATION:
+0tests/input/src/main/scala/example/Imports.scala (2
+scala/AnyRef#EXTEND2W
+scala/util/Failure.CALL:
+0tests/input/src/main/scala/example/Imports.scala (	2]
+scala/math/package.max().CALL:
+0tests/input/src/main/scala/example/Imports.scala (

@@ -1,0 +1,1296 @@
+
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala∂
+Ascala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#CLASSK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala$ $(+"
+endLine36"
+isVarfalse"K
+symbolAscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#"%
+packagescala.meta.internal.metals"
+accessPublicAccess()")
+displayNameXtensionSerializedAsOption"
+kindCLASS"
+	startLine36"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicittrue"
+endCharacter43"
+startCharacter17"
+isFinalfalse"	
+LOC17*XtensionSerializedAsOption2¢
+Fscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#json.DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala$, $(02®
+Lscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#`<init>`().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala$+ $(+2Ø
+Sscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#getStringOption().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala% %(2∞
+Tscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#getBooleanOption().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala) )(2¨
+Pscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#getIntOption().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala- -(2Ø
+Sscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#getObjectOption().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala1 1(2
+scala/AnyRef#EXTENDô
+<scala/meta/internal/metals/JsonParser.Of#Jsonized.unapply().METHODK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala:
+ :("
+endLine58"
+isVarfalse"F
+symbol<scala/meta/internal/metals/JsonParser.Of#Jsonized.unapply()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameunapply"
+kindMETHOD"
+	startLine58"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter10"
+isFinalfalse"
+LOC3*unapply2ú
+Bscala/meta/internal/metals/JsonParser.Of#Jsonized.unapply().(json)	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala: :(2i
+scala/Option#RETURN_TYPEK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala:& :(,2à
+,scala/meta/internal/metals/JsonParser.Of#[A]RETURN_TYPEK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala:- :(.2Å
+,scala/meta/internal/metals/JsonParser.Of#[A]CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala; ;(2ó
+Bscala/meta/internal/metals/JsonParser.Of#Jsonized.unapply().(json)CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala; ;(2ô
+Dscala/meta/internal/metals/JsonParser.XtensionSerializedAsJson#as().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala; ;(2o
+scala/util/Try#toOption().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala; ;(ß
+Pscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#getIntOption().METHODK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala- -("
+endLine45"
+isVarfalse"Z
+symbolPscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#getIntOption()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamegetIntOption"
+kindMETHOD"
+	startLine45"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter8"
+isFinalfalse"
+LOC3*getIntOption2Ø
+Uscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#getIntOption().(key)	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala- -(2i
+scala/Option#RETURN_TYPEK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala-# -()2f
+
+scala/Int#RETURN_TYPEK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala-* -(-2™
+Uscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#getIntOption().(key)CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala. .(2õ
+Fscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#json.CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala.
+ .(2v
+!com/google/gson/JsonObject#get().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala. .(2|
+'com/google/gson/JsonElement#getAsInt().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala. .( 2d
+scala/util/Try.CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala. .(	2o
+scala/util/Try#toOption().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala.$ .(,¿
+Fscala/meta/internal/metals/JsonParser.XtensionSerializableToJson#data.VALUEK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala, (0"
+endLine19"
+isVarfalse"P
+symbolFscala/meta/internal/metals/JsonParser.XtensionSerializableToJson#data."%
+packagescala.meta.internal.metals"
+accessPrivateThisAccess()"
+displayNamedata"
+kindVALUE"
+	startLine19"
+isValtrue"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter48"
+startCharacter44"
+isFinalfalse*data2_
+
+scala/Any#TYPEK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala2 (5Ù
+Sscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#getObjectOption().METHODK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala1 1("
+endLine49"
+isVarfalse"]
+symbolSscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#getObjectOption()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamegetObjectOption"
+kindMETHOD"
+	startLine49"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter8"
+isFinalfalse"
+LOC3*getObjectOption2≤
+Xscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#getObjectOption().(key)	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala1 1(2i
+scala/Option#RETURN_TYPEK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala1& 1(,2w
+com/google/gson/JsonObject#RETURN_TYPEK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala1- 1(72≠
+Xscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#getObjectOption().(key)CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala2 2(2õ
+Fscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#json.CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala2
+ 2(2v
+!com/google/gson/JsonObject#get().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala2 2(2•
+Pscala/meta/internal/metals/JsonParser.XtensionSerializableToJson#toJsonObject().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala2 2($2d
+scala/util/Try.CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala2 2(	2o
+scala/util/Try#toOption().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala2& 2(.Ô
+Hscala/meta/internal/metals/JsonParser.XtensionSerializedJson#`<init>`().CONSTRUCTORK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala' ('"
+endLine13"
+isVarfalse"R
+symbolHscala/meta/internal/metals/JsonParser.XtensionSerializedJson#`<init>`()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine13"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter39"
+startCharacter39"
+isFinalfalse*<init>2]
+Pscala/meta/internal/metals/JsonParser.XtensionSerializedJson#`<init>`().(string)	PARAMETER2û
+Dscala/meta/internal/metals/JsonParser.XtensionSerializedJson#string.	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala( (.Á
+Xscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#getObjectOption().(key)	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala1 1("
+endLine49"
+isVarfalse"b
+symbolXscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#getObjectOption().(key)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamekey"
+kind	PARAMETER"
+	startLine49"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter27"
+startCharacter24"
+isFinalfalse*key2i
+scala/Predef.String#TYPEK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala1 1(#ﬂ
+@scala/meta/internal/metals/JsonParser.Of#`<init>`().(evidence$2)	PARAMETER"
+endLine0"
+isVarfalse"J
+symbol@scala/meta/internal/metals/JsonParser.Of#`<init>`().(evidence$2)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayName
+evidence$2"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicittrue"
+endCharacter0"
+startCharacter0"
+isFinalfalse*
+evidence$22
+scala/reflect/ClassTag#TYPE24
+,scala/meta/internal/metals/JsonParser.Of#[A]TYPE≈
+4scala/meta/internal/metals/JsonParser.Of#`<init>`().CONSTRUCTOR"
+endLine0"
+isVarfalse">
+symbol4scala/meta/internal/metals/JsonParser.Of#`<init>`()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>2M
+@scala/meta/internal/metals/JsonParser.Of#`<init>`().(evidence$2)	PARAMETERÉ
+
+Jscala/meta/internal/metals/JsonParser.XtensionSerializableToJson#toJson().METHODK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala ("
+endLine20"
+isVarfalse"T
+symbolJscala/meta/internal/metals/JsonParser.XtensionSerializableToJson#toJson()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNametoJson"
+kindMETHOD"
+	startLine20"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter14"
+startCharacter8"
+isFinalfalse"
+LOC3*toJson2x
+com/google/gson/JsonElement#RETURN_TYPEK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala (2õ
+Fscala/meta/internal/metals/JsonParser.XtensionSerializableToJson#data.CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala! (%2{
+&scala/meta/internal/metals/JsonParser.CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala (2Ä
++scala/meta/internal/metals/JsonParser.gson.CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala (2w
+"com/google/gson/Gson#toJsonTree().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala ( Ü	
+?scala/meta/internal/metals/JsonParser.XtensionSerializedAsJson#CLASSK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala ()"
+endLine29"
+isVarfalse"I
+symbol?scala/meta/internal/metals/JsonParser.XtensionSerializedAsJson#"%
+packagescala.meta.internal.metals"
+accessPublicAccess()"'
+displayNameXtensionSerializedAsJson"
+kindCLASS"
+	startLine29"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicittrue"
+endCharacter41"
+startCharacter17"
+isFinalfalse"
+LOC6*XtensionSerializedAsJson2†
+Dscala/meta/internal/metals/JsonParser.XtensionSerializedAsJson#json.DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala* (.2¶
+Jscala/meta/internal/metals/JsonParser.XtensionSerializedAsJson#`<init>`().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala) ()2†
+Dscala/meta/internal/metals/JsonParser.XtensionSerializedAsJson#as().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala (
+2
+scala/AnyRef#EXTENDÅ	
+=scala/meta/internal/metals/JsonParser.XtensionSerializedJson#CLASSK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala ('"
+endLine13"
+isVarfalse"G
+symbol=scala/meta/internal/metals/JsonParser.XtensionSerializedJson#"%
+packagescala.meta.internal.metals"
+accessPublicAccess()"%
+displayNameXtensionSerializedJson"
+kindCLASS"
+	startLine13"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicittrue"
+endCharacter39"
+startCharacter17"
+isFinalfalse"
+LOC5*XtensionSerializedJson2†
+Dscala/meta/internal/metals/JsonParser.XtensionSerializedJson#string.DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala( (.2§
+Hscala/meta/internal/metals/JsonParser.XtensionSerializedJson#`<init>`().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala' ('2•
+Iscala/meta/internal/metals/JsonParser.XtensionSerializedJson#parseJson().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala (2
+scala/AnyRef#EXTEND€
+Cscala/meta/internal/metals/JsonParser.XtensionSerializableToJson().METHOD"
+endLine0"
+isVarfalse"M
+symbolCscala/meta/internal/metals/JsonParser.XtensionSerializableToJson()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()")
+displayNameXtensionSerializableToJson"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicittrue"
+endCharacter0"
+startCharacter0"
+isFinalfalse*XtensionSerializableToJson2V
+Iscala/meta/internal/metals/JsonParser.XtensionSerializableToJson().(data)	PARAMETER2P
+Ascala/meta/internal/metals/JsonParser.XtensionSerializableToJson#RETURN_TYPE«
+
+Ascala/meta/internal/metals/JsonParser.XtensionSerializableToJson#CLASSK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala (+"
+endLine19"
+isVarfalse"K
+symbolAscala/meta/internal/metals/JsonParser.XtensionSerializableToJson#"%
+packagescala.meta.internal.metals"
+accessPublicAccess()")
+displayNameXtensionSerializableToJson"
+kindCLASS"
+	startLine19"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicittrue"
+endCharacter43"
+startCharacter17"
+isFinalfalse"
+LOC9*XtensionSerializableToJson2¢
+Fscala/meta/internal/metals/JsonParser.XtensionSerializableToJson#data.DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala, (02®
+Lscala/meta/internal/metals/JsonParser.XtensionSerializableToJson#`<init>`().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala+ (+2¶
+Jscala/meta/internal/metals/JsonParser.XtensionSerializableToJson#toJson().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala (2¨
+Pscala/meta/internal/metals/JsonParser.XtensionSerializableToJson#toJsonObject().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala (2
+scala/AnyRef#EXTEND¥
+Iscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption().(json)	PARAMETER"
+endLine0"
+isVarfalse"S
+symbolIscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption().(json)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamejson"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*json2#
+com/google/gson/JsonObject#TYPE∆
+Sscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#getStringOption().METHODK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala% %("
+endLine37"
+isVarfalse"]
+symbolSscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#getStringOption()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamegetStringOption"
+kindMETHOD"
+	startLine37"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter8"
+isFinalfalse"
+LOC3*getStringOption2≤
+Xscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#getStringOption().(key)	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala% %(2i
+scala/Option#RETURN_TYPEK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala%& %(,2p
+scala/Predef.String#RETURN_TYPEK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala%- %(32≠
+Xscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#getStringOption().(key)CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala& &(2õ
+Fscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#json.CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala&
+ &(2v
+!com/google/gson/JsonObject#get().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala& &(2
+*com/google/gson/JsonElement#getAsString().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala& &(#2d
+scala/util/Try.CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala& &(	2o
+scala/util/Try#toOption().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala&' &(/∆
+Rscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#`<init>`().(json)	PARAMETER"
+endLine0"
+isVarfalse"\
+symbolRscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#`<init>`().(json)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamejson"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*json2#
+com/google/gson/JsonObject#TYPEÚ
+Hlocal0:metals/src/main/scala/scala/meta/internal/metals/JsonParser.scalaVALUEK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala
+ ("
+endLine31"
+isVarfalse"
+symbollocal0"
+package "
+accessEmpty"
+displayName
+targetType"
+kindVALUE"
+	startLine31"
+isValtrue"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter10"
+isFinalfalse*
+targetType2
+scala/Predef.Class#TYPE2O
+Gscala/meta/internal/metals/JsonParser.XtensionSerializedAsJson#as().[A]TYPEÈ
+Yscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#getBooleanOption().(key)	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala) )("
+endLine41"
+isVarfalse"c
+symbolYscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#getBooleanOption().(key)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamekey"
+kind	PARAMETER"
+	startLine41"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter28"
+startCharacter25"
+isFinalfalse*key2i
+scala/Predef.String#TYPEK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala) )($≠
+Gscala/meta/internal/metals/JsonParser.XtensionSerializedJson().(string)	PARAMETER"
+endLine0"
+isVarfalse"Q
+symbolGscala/meta/internal/metals/JsonParser.XtensionSerializedJson().(string)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamestring"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*string2
+scala/Predef.String#TYPE—
+Fscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#json.VALUEK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala$, $(0"
+endLine36"
+isVarfalse"P
+symbolFscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#json."%
+packagescala.meta.internal.metals"
+accessPrivateThisAccess()"
+displayNamejson"
+kindVALUE"
+	startLine36"
+isValtrue"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter48"
+startCharacter44"
+isFinalfalse*json2p
+com/google/gson/JsonObject#TYPEK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala$2 $(<Œ
+Dscala/meta/internal/metals/JsonParser.XtensionSerializedAsJson#json.VALUEK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala* (."
+endLine29"
+isVarfalse"N
+symbolDscala/meta/internal/metals/JsonParser.XtensionSerializedAsJson#json."%
+packagescala.meta.internal.metals"
+accessPrivateThisAccess()"
+displayNamejson"
+kindVALUE"
+	startLine29"
+isValtrue"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter46"
+startCharacter42"
+isFinalfalse*json2q
+com/google/gson/JsonElement#TYPEK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala0 (;å
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scalaFILE*Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scalaü
+Dscala/meta/internal/metals/JsonParser.XtensionSerializedAsJson#as().METHODK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala (
+"
+endLine30"
+isVarfalse"N
+symbolDscala/meta/internal/metals/JsonParser.XtensionSerializedAsJson#as()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameas"
+kindMETHOD"
+	startLine30"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter8"
+isFinalfalse"
+LOC4*as2]
+Pscala/meta/internal/metals/JsonParser.XtensionSerializedAsJson#as().(evidence$1)	PARAMETER2k
+scala/util/Try#RETURN_TYPEK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala (2£
+Gscala/meta/internal/metals/JsonParser.XtensionSerializedAsJson#as().[A]RETURN_TYPEK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala (2§
+Hlocal0:metals/src/main/scala/scala/meta/internal/metals/JsonParser.scalaDECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala
+ (2h
+scala/Predef.Class#CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala= (B2ú
+Gscala/meta/internal/metals/JsonParser.XtensionSerializedAsJson#as().[A]CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scalaC (D2ú
+Gscala/meta/internal/metals/JsonParser.XtensionSerializedAsJson#as().[A]CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala  (!2v
+!scala/reflect/package.classTag().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala (2{
+&scala/reflect/ClassTag#runtimeClass().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala# (/2n
+scala/Any#asInstanceOf().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala0 (<2ô
+Dscala/meta/internal/metals/JsonParser.XtensionSerializedAsJson#json.CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala #  ('2ù
+Hlocal0:metals/src/main/scala/scala/meta/internal/metals/JsonParser.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala )  (32{
+&scala/meta/internal/metals/JsonParser.CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala 
+  (2Ä
++scala/meta/internal/metals/JsonParser.gson.CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala   (2w
+"com/google/gson/Gson#fromJson(+5).CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala   ("2d
+scala/util/Try.CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala   (	£
+Iscala/meta/internal/metals/JsonParser.XtensionSerializableToJson().(data)	PARAMETER"
+endLine0"
+isVarfalse"S
+symbolIscala/meta/internal/metals/JsonParser.XtensionSerializableToJson().(data)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamedata"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*data2
+
+scala/Any#TYPEœ
+Ascala/meta/internal/metals/JsonParser.XtensionSerializedAsJson().METHOD"
+endLine0"
+isVarfalse"K
+symbolAscala/meta/internal/metals/JsonParser.XtensionSerializedAsJson()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"'
+displayNameXtensionSerializedAsJson"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicittrue"
+endCharacter0"
+startCharacter0"
+isFinalfalse*XtensionSerializedAsJson2T
+Gscala/meta/internal/metals/JsonParser.XtensionSerializedAsJson().(json)	PARAMETER2N
+?scala/meta/internal/metals/JsonParser.XtensionSerializedAsJson#RETURN_TYPE 
+Dscala/meta/internal/metals/JsonParser.XtensionSerializedJson#string.VALUEK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala( (."
+endLine13"
+isVarfalse"N
+symbolDscala/meta/internal/metals/JsonParser.XtensionSerializedJson#string."%
+packagescala.meta.internal.metals"
+accessPrivateThisAccess()"
+displayNamestring"
+kindVALUE"
+	startLine13"
+isValtrue"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter46"
+startCharacter40"
+isFinalfalse*string2i
+scala/Predef.String#TYPEK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala0 (6≈
+Bscala/meta/internal/metals/JsonParser.Of#Jsonized.unapply().(json)	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala: :("
+endLine58"
+isVarfalse"L
+symbolBscala/meta/internal/metals/JsonParser.Of#Jsonized.unapply().(json)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamejson"
+kind	PARAMETER"
+	startLine58"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter18"
+isFinalfalse*json2q
+com/google/gson/JsonElement#TYPEK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala: :(#˚
+Lscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#`<init>`().CONSTRUCTORK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala$+ $(+"
+endLine36"
+isVarfalse"V
+symbolLscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#`<init>`()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine36"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter43"
+startCharacter43"
+isFinalfalse*<init>2_
+Rscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#`<init>`().(json)	PARAMETER2†
+Fscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#json.	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala$, $(0˚
+Lscala/meta/internal/metals/JsonParser.XtensionSerializableToJson#`<init>`().CONSTRUCTORK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala+ (+"
+endLine19"
+isVarfalse"V
+symbolLscala/meta/internal/metals/JsonParser.XtensionSerializableToJson#`<init>`()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine19"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter43"
+startCharacter43"
+isFinalfalse*<init>2_
+Rscala/meta/internal/metals/JsonParser.XtensionSerializableToJson#`<init>`().(data)	PARAMETER2†
+Fscala/meta/internal/metals/JsonParser.XtensionSerializableToJson#data.	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala, (0Ë
+)scala/meta/internal/metals/JsonParser.Of#CLASSK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala8 8(
+"
+endLine56"
+isVarfalse"3
+symbol)scala/meta/internal/metals/JsonParser.Of#"%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameOf"
+kindCLASS"
+	startLine56"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter8"
+isFinalfalse"
+LOC7*Of2C
+4scala/meta/internal/metals/JsonParser.Of#evidence$2.DECLARATION2C
+4scala/meta/internal/metals/JsonParser.Of#`<init>`().DECLARATION2é
+2scala/meta/internal/metals/JsonParser.Of#Jsonized.DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala9 9(2ã
+,scala/meta/internal/metals/JsonParser.Of#[A]TYPE_PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala8 8(2
+scala/AnyRef#EXTENDÃ
+4scala/meta/internal/metals/JsonParser.Of#evidence$2.VALUE"
+endLine0"
+isVarfalse">
+symbol4scala/meta/internal/metals/JsonParser.Of#evidence$2."%
+packagescala.meta.internal.metals"
+accessPrivateThisAccess()"
+displayName
+evidence$2"
+kindVALUE"
+	startLine0"
+isValtrue"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicittrue"
+endCharacter0"
+startCharacter0"
+isFinalfalse*
+evidence$22
+scala/reflect/ClassTag#TYPE24
+,scala/meta/internal/metals/JsonParser.Of#[A]TYPE√
+Pscala/meta/internal/metals/JsonParser.XtensionSerializedAsJson#`<init>`().(json)	PARAMETER"
+endLine0"
+isVarfalse"Z
+symbolPscala/meta/internal/metals/JsonParser.XtensionSerializedAsJson#`<init>`().(json)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamejson"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*json2$
+com/google/gson/JsonElement#TYPE·
+Uscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#getIntOption().(key)	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala- -("
+endLine45"
+isVarfalse"_
+symbolUscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#getIntOption().(key)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamekey"
+kind	PARAMETER"
+	startLine45"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter24"
+startCharacter21"
+isFinalfalse*key2i
+scala/Predef.String#TYPEK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala- -( Í
+,scala/meta/internal/metals/JsonParser.Of#[A]TYPE_PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala8 8("
+endLine56"
+isVarfalse"6
+symbol,scala/meta/internal/metals/JsonParser.Of#[A]"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameA"
+kindTYPE_PARAMETER"
+	startLine56"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter11"
+isFinalfalse*A2
+
+scala/Any#TYPE_PARAMETER2 
+scala/Nothing#TYPE_PARAMETER˙
+2scala/meta/internal/metals/JsonParser.Of#Jsonized.OBJECTK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala9 9("
+endLine57"
+isVarfalse"<
+symbol2scala/meta/internal/metals/JsonParser.Of#Jsonized."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameJsonized"
+kindOBJECT"
+	startLine57"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter11"
+isFinaltrue"
+LOC5*Jsonized2ò
+<scala/meta/internal/metals/JsonParser.Of#Jsonized.unapply().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala:
+ :(2
+scala/AnyRef#EXTENDÑ
+&scala/meta/internal/metals/JsonParser.OBJECTK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala
+ 
+("
+endLine10"
+isVarfalse"0
+symbol&scala/meta/internal/metals/JsonParser."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName
+JsonParser"
+kindOBJECT"
+	startLine10"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter7"
+isFinaltrue"	
+LOC55*
+JsonParser2ô
+=scala/meta/internal/metals/JsonParser.XtensionSerializedJson#DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala ('2N
+?scala/meta/internal/metals/JsonParser.XtensionSerializedJson().DECLARATION2ù
+Ascala/meta/internal/metals/JsonParser.XtensionSerializableToJson#DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala (+2R
+Cscala/meta/internal/metals/JsonParser.XtensionSerializableToJson().DECLARATION2õ
+?scala/meta/internal/metals/JsonParser.XtensionSerializedAsJson#DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala ()2P
+Ascala/meta/internal/metals/JsonParser.XtensionSerializedAsJson().DECLARATION2ù
+Ascala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala$ $(+2R
+Cscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption().DECLARATION2Ö
+)scala/meta/internal/metals/JsonParser.Of#DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala8 8(
+2
+scala/AnyRef#EXTEND2á
++scala/meta/internal/metals/JsonParser.gson.DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala (2j
+com/google/gson/Gson#CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala (2u
+ com/google/gson/Gson#`<init>`().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala (ô
+Iscala/meta/internal/metals/JsonParser.XtensionSerializedJson#parseJson().METHODK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala ("
+endLine14"
+isVarfalse"S
+symbolIscala/meta/internal/metals/JsonParser.XtensionSerializedJson#parseJson()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName	parseJson"
+kindMETHOD"
+	startLine14"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter8"
+isFinalfalse"
+LOC3*	parseJson2x
+com/google/gson/JsonElement#RETURN_TYPEK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala (2ô
+Dscala/meta/internal/metals/JsonParser.XtensionSerializedJson#string.CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala- (32Y
+com/CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala
+ (2`
+com/google/CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala (2e
+com/google/gson/CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala (2p
+com/google/gson/JsonParser#CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala ($2{
+&com/google/gson/JsonParser#`<init>`().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala$ ($2x
+#com/google/gson/JsonParser#parse().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala' (,…	
+Pscala/meta/internal/metals/JsonParser.XtensionSerializableToJson#toJsonObject().METHODK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala ("
+endLine24"
+isVarfalse"Z
+symbolPscala/meta/internal/metals/JsonParser.XtensionSerializableToJson#toJsonObject()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNametoJsonObject"
+kindMETHOD"
+	startLine24"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter8"
+isFinalfalse"
+LOC3*toJsonObject2w
+com/google/gson/JsonObject#RETURN_TYPEK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala ( 2õ
+Fscala/meta/internal/metals/JsonParser.XtensionSerializableToJson#data.CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala (
+2ü
+Jscala/meta/internal/metals/JsonParser.XtensionSerializableToJson#toJson().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala (2É
+.com/google/gson/JsonElement#getAsJsonObject().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala (!ƒ
++scala/meta/internal/metals/JsonParser.gson.VALUEK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala ("
+endLine11"
+isVarfalse"5
+symbol+scala/meta/internal/metals/JsonParser.gson."%
+packagescala.meta.internal.metals"
+accessPrivateAccess()"
+displayNamegson"
+kindVALUE"
+	startLine11"
+isValtrue"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter14"
+isFinalfalse*gson2
+com/google/gson/Gson#TYPE»
+Tscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#getBooleanOption().METHODK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala) )("
+endLine41"
+isVarfalse"^
+symbolTscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#getBooleanOption()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamegetBooleanOption"
+kindMETHOD"
+	startLine41"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter24"
+startCharacter8"
+isFinalfalse"
+LOC3*getBooleanOption2≥
+Yscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#getBooleanOption().(key)	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala) )(2i
+scala/Option#RETURN_TYPEK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala)' )(-2j
+scala/Boolean#RETURN_TYPEK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala). )(52Æ
+Yscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#getBooleanOption().(key)CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala* *(2õ
+Fscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#json.CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala*
+ *(2v
+!com/google/gson/JsonObject#get().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala* *(2Ä
++com/google/gson/JsonElement#getAsBoolean().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala* *($2d
+scala/util/Try.CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala* *(	2o
+scala/util/Try#toOption().CALLK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala*( *(0±
+Gscala/meta/internal/metals/JsonParser.XtensionSerializedAsJson().(json)	PARAMETER"
+endLine0"
+isVarfalse"Q
+symbolGscala/meta/internal/metals/JsonParser.XtensionSerializedAsJson().(json)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamejson"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*json2$
+com/google/gson/JsonElement#TYPEµ
+Rscala/meta/internal/metals/JsonParser.XtensionSerializableToJson#`<init>`().(data)	PARAMETER"
+endLine0"
+isVarfalse"\
+symbolRscala/meta/internal/metals/JsonParser.XtensionSerializableToJson#`<init>`().(data)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamedata"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*data2
+
+scala/Any#TYPEö
+Pscala/meta/internal/metals/JsonParser.XtensionSerializedAsJson#as().(evidence$1)	PARAMETER"
+endLine0"
+isVarfalse"Z
+symbolPscala/meta/internal/metals/JsonParser.XtensionSerializedAsJson#as().(evidence$1)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayName
+evidence$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicittrue"
+endCharacter0"
+startCharacter0"
+isFinalfalse*
+evidence$12
+scala/reflect/ClassTag#TYPE2O
+Gscala/meta/internal/metals/JsonParser.XtensionSerializedAsJson#as().[A]TYPEø
+Pscala/meta/internal/metals/JsonParser.XtensionSerializedJson#`<init>`().(string)	PARAMETER"
+endLine0"
+isVarfalse"Z
+symbolPscala/meta/internal/metals/JsonParser.XtensionSerializedJson#`<init>`().(string)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamestring"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*string2
+scala/Predef.String#TYPE†
+Gscala/meta/internal/metals/JsonParser.XtensionSerializedAsJson#as().[A]TYPE_PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala ("
+endLine30"
+isVarfalse"Q
+symbolGscala/meta/internal/metals/JsonParser.XtensionSerializedAsJson#as().[A]"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameA"
+kindTYPE_PARAMETER"
+	startLine30"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter11"
+isFinalfalse*A2
+
+scala/Any#TYPE_PARAMETER2 
+scala/Nothing#TYPE_PARAMETERÛ
+Jscala/meta/internal/metals/JsonParser.XtensionSerializedAsJson#`<init>`().CONSTRUCTORK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala) ()"
+endLine29"
+isVarfalse"T
+symbolJscala/meta/internal/metals/JsonParser.XtensionSerializedAsJson#`<init>`()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine29"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter41"
+startCharacter41"
+isFinalfalse*<init>2]
+Pscala/meta/internal/metals/JsonParser.XtensionSerializedAsJson#`<init>`().(json)	PARAMETER2û
+Dscala/meta/internal/metals/JsonParser.XtensionSerializedAsJson#json.	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala* (.Á
+Xscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#getStringOption().(key)	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala% %("
+endLine37"
+isVarfalse"b
+symbolXscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#getStringOption().(key)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamekey"
+kind	PARAMETER"
+	startLine37"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter27"
+startCharacter24"
+isFinalfalse*key2i
+scala/Predef.String#TYPEK
+Ametals/src/main/scala/scala/meta/internal/metals/JsonParser.scala% %(#≈
+?scala/meta/internal/metals/JsonParser.XtensionSerializedJson().METHOD"
+endLine0"
+isVarfalse"I
+symbol?scala/meta/internal/metals/JsonParser.XtensionSerializedJson()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"%
+displayNameXtensionSerializedJson"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicittrue"
+endCharacter0"
+startCharacter0"
+isFinalfalse*XtensionSerializedJson2T
+Gscala/meta/internal/metals/JsonParser.XtensionSerializedJson().(string)	PARAMETER2L
+=scala/meta/internal/metals/JsonParser.XtensionSerializedJson#RETURN_TYPE€
+Cscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption().METHOD"
+endLine0"
+isVarfalse"M
+symbolCscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()")
+displayNameXtensionSerializedAsOption"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/metals/JsonParser.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicittrue"
+endCharacter0"
+startCharacter0"
+isFinalfalse*XtensionSerializedAsOption2V
+Iscala/meta/internal/metals/JsonParser.XtensionSerializedAsOption().(json)	PARAMETER2P
+Ascala/meta/internal/metals/JsonParser.XtensionSerializedAsOption#RETURN_TYPE

@@ -1,0 +1,447 @@
+
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaÅ¿
+-scala/meta/internal/mtags/InverseLegacyToken.OBJECTS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala ("
+endLine7"
+isVarfalse"7
+symbol-scala/meta/internal/mtags/InverseLegacyToken."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"!
+displayNameInverseLegacyToken"
+kindOBJECT"
+	startLine7"
+isValfalse"P
+uriImtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter25"
+startCharacter7"
+isFinaltrue"
+
+LOC118*InverseLegacyToken2
+scala/AnyRef#EXTEND2š
+6scala/meta/internal/mtags/InverseLegacyToken.category.DECLARATIONS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala (2Ž
+1scala/meta/internal/tokenizers/LegacyToken.EMPTY.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala	 	(	2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala	
+ 	(2Ž
+1scala/meta/internal/tokenizers/LegacyToken.UNDEF.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala
+ 
+(	2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala
+
+ 
+(2Ž
+1scala/meta/internal/tokenizers/LegacyToken.ERROR.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala (	2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala
+ (2Œ
+/scala/meta/internal/tokenizers/LegacyToken.EOF.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala (2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala (
+2
+3scala/meta/internal/tokenizers/LegacyToken.CHARLIT.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala (2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala (2
+2scala/meta/internal/tokenizers/LegacyToken.INTLIT.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala (
+2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala (2
+3scala/meta/internal/tokenizers/LegacyToken.LONGLIT.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala (2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala (2‘
+4scala/meta/internal/tokenizers/LegacyToken.FLOATLIT.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala (2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala (2’
+5scala/meta/internal/tokenizers/LegacyToken.DOUBLELIT.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala (2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala (2’
+5scala/meta/internal/tokenizers/LegacyToken.STRINGLIT.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala (2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala (2“
+6scala/meta/internal/tokenizers/LegacyToken.STRINGPART.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala (2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala (2’
+5scala/meta/internal/tokenizers/LegacyToken.SYMBOLLIT.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala (2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala (2˜
+;scala/meta/internal/tokenizers/LegacyToken.INTERPOLATIONID.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala (2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala (2
+2scala/meta/internal/tokenizers/LegacyToken.XMLLIT.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala (
+2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala (2’
+5scala/meta/internal/tokenizers/LegacyToken.XMLLITEND.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala (2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala (2“
+6scala/meta/internal/tokenizers/LegacyToken.IDENTIFIER.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala (2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala (2™
+<scala/meta/internal/tokenizers/LegacyToken.BACKQUOTED_IDENT.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala (2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala (2Œ
+/scala/meta/internal/tokenizers/LegacyToken.NEW.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala# #(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala# #(
+2
+0scala/meta/internal/tokenizers/LegacyToken.THIS.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala$ $(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala$	 $(2Ž
+1scala/meta/internal/tokenizers/LegacyToken.SUPER.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala% %(	2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala%
+ %(2
+0scala/meta/internal/tokenizers/LegacyToken.NULL.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala& &(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala&	 &(2
+0scala/meta/internal/tokenizers/LegacyToken.TRUE.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala' '(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala'	 '(2Ž
+1scala/meta/internal/tokenizers/LegacyToken.FALSE.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala( ((	2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala(
+ ((2‘
+4scala/meta/internal/tokenizers/LegacyToken.IMPLICIT.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala, ,(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala, ,(2‘
+4scala/meta/internal/tokenizers/LegacyToken.OVERRIDE.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala- -(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala- -(2’
+5scala/meta/internal/tokenizers/LegacyToken.PROTECTED.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala. .(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala. .(2
+3scala/meta/internal/tokenizers/LegacyToken.PRIVATE.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala/ /(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala/ /(2‘
+4scala/meta/internal/tokenizers/LegacyToken.ABSTRACT.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala0 0(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala0 0(2Ž
+1scala/meta/internal/tokenizers/LegacyToken.FINAL.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala1 1(	2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala1
+ 1(2
+2scala/meta/internal/tokenizers/LegacyToken.SEALED.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala2 2(
+2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala2 2(2
+0scala/meta/internal/tokenizers/LegacyToken.LAZY.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala3 3(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala3	 3(2Ž
+1scala/meta/internal/tokenizers/LegacyToken.MACRO.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala4 4(	2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala4
+ 4(2
+3scala/meta/internal/tokenizers/LegacyToken.PACKAGE.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala8 8(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala8 8(2
+2scala/meta/internal/tokenizers/LegacyToken.IMPORT.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala9 9(
+2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala9 9(2
+2scala/meta/internal/tokenizers/LegacyToken.EXPORT.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala: :(
+2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala: :(2Ž
+1scala/meta/internal/tokenizers/LegacyToken.CLASS.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala; ;(	2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala;
+ ;(2’
+5scala/meta/internal/tokenizers/LegacyToken.CASECLASS.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala< <(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala< <(2
+2scala/meta/internal/tokenizers/LegacyToken.OBJECT.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala= =(
+2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala= =(2“
+6scala/meta/internal/tokenizers/LegacyToken.CASEOBJECT.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala> >(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala> >(2Ž
+1scala/meta/internal/tokenizers/LegacyToken.TRAIT.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala? ?(	2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala?
+ ?(2
+3scala/meta/internal/tokenizers/LegacyToken.EXTENDS.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala@ @(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala@ @(2
+0scala/meta/internal/tokenizers/LegacyToken.WITH.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaA A(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaA	 A(2
+0scala/meta/internal/tokenizers/LegacyToken.TYPE.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaB B(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaB	 B(2
+3scala/meta/internal/tokenizers/LegacyToken.FORSOME.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaC C(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaC C(2Œ
+/scala/meta/internal/tokenizers/LegacyToken.DEF.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaD D(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaD D(
+2Œ
+/scala/meta/internal/tokenizers/LegacyToken.VAL.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaE E(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaE E(
+2Œ
+/scala/meta/internal/tokenizers/LegacyToken.VAR.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaF F(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaF F(
+2
+0scala/meta/internal/tokenizers/LegacyToken.ENUM.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaG G(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaG	 G(2Ž
+1scala/meta/internal/tokenizers/LegacyToken.GIVEN.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaH H(	2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaH
+ H(2‹
+.scala/meta/internal/tokenizers/LegacyToken.IF.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaL L(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaL L(	2
+0scala/meta/internal/tokenizers/LegacyToken.THEN.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaM M(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaM	 M(2
+0scala/meta/internal/tokenizers/LegacyToken.ELSE.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaN N(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaN	 N(2Ž
+1scala/meta/internal/tokenizers/LegacyToken.WHILE.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaO O(	2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaO
+ O(2‹
+.scala/meta/internal/tokenizers/LegacyToken.DO.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaP P(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaP P(	2Œ
+/scala/meta/internal/tokenizers/LegacyToken.FOR.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaQ Q(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaQ Q(
+2Ž
+1scala/meta/internal/tokenizers/LegacyToken.YIELD.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaR R(	2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaR
+ R(2Ž
+1scala/meta/internal/tokenizers/LegacyToken.THROW.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaS S(	2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaS
+ S(2Œ
+/scala/meta/internal/tokenizers/LegacyToken.TRY.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaT T(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaT T(
+2Ž
+1scala/meta/internal/tokenizers/LegacyToken.CATCH.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaU U(	2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaU
+ U(2
+3scala/meta/internal/tokenizers/LegacyToken.FINALLY.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaV V(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaV V(2
+0scala/meta/internal/tokenizers/LegacyToken.CASE.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaW W(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaW	 W(2
+2scala/meta/internal/tokenizers/LegacyToken.RETURN.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaX X(
+2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaX X(2Ž
+1scala/meta/internal/tokenizers/LegacyToken.MATCH.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaY Y(	2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaY
+ Y(2
+2scala/meta/internal/tokenizers/LegacyToken.LPAREN.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala] ](
+2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala] ](2
+2scala/meta/internal/tokenizers/LegacyToken.RPAREN.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala^ ^(
+2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala^ ^(2‘
+4scala/meta/internal/tokenizers/LegacyToken.LBRACKET.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala_ _(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala_ _(2‘
+4scala/meta/internal/tokenizers/LegacyToken.RBRACKET.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala` `(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala` `(2
+2scala/meta/internal/tokenizers/LegacyToken.LBRACE.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaa a(
+2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaa a(2
+2scala/meta/internal/tokenizers/LegacyToken.RBRACE.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalab b(
+2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalab b(2Ž
+1scala/meta/internal/tokenizers/LegacyToken.COMMA.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaf f(	2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaf
+ f(2
+0scala/meta/internal/tokenizers/LegacyToken.SEMI.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalag g(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalag	 g(2Œ
+/scala/meta/internal/tokenizers/LegacyToken.DOT.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalah h(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalah h(
+2Ž
+1scala/meta/internal/tokenizers/LegacyToken.COLON.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalai i(	2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalai
+ i(2
+2scala/meta/internal/tokenizers/LegacyToken.EQUALS.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaj j(
+2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaj j(2‹
+.scala/meta/internal/tokenizers/LegacyToken.AT.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalak k(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalak k(	2
+0scala/meta/internal/tokenizers/LegacyToken.HASH.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalao o(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalao	 o(2
+2scala/meta/internal/tokenizers/LegacyToken.USCORE.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalap p(
+2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalap p(2Ž
+1scala/meta/internal/tokenizers/LegacyToken.ARROW.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaq q(	2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaq
+ q(2
+2scala/meta/internal/tokenizers/LegacyToken.LARROW.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalar r(
+2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalar r(2
+3scala/meta/internal/tokenizers/LegacyToken.SUBTYPE.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalas s(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalas s(2’
+5scala/meta/internal/tokenizers/LegacyToken.SUPERTYPE.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalat t(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalat t(2’
+5scala/meta/internal/tokenizers/LegacyToken.VIEWBOUND.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalau u(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalau u(2“
+6scala/meta/internal/tokenizers/LegacyToken.WHITESPACE.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalav v(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalav v(2
+3scala/meta/internal/tokenizers/LegacyToken.COMMENT.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaw w(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaw w(2
+3scala/meta/internal/tokenizers/LegacyToken.UNQUOTE.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalax x(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalax x(2‘
+4scala/meta/internal/tokenizers/LegacyToken.ELLIPSIS.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalay y(2|
+scala/Predef.ArrowAssoc#`->`().CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalay y(2g
+
+scala/Int#CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala' (*2q
+scala/Predef.String#CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala, (22n
+scala/Predef.Map.CALLS
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala# (&œ
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scalaFILE*Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala›
+6scala/meta/internal/mtags/InverseLegacyToken.category.VALUES
+Imtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala ("
+endLine8"
+isVarfalse"@
+symbol6scala/meta/internal/mtags/InverseLegacyToken.category."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayNamecategory"
+kindVALUE"
+	startLine8"
+isValtrue"P
+uriImtags/src/main/scala-2/scala/meta/internal/mtags/InverseLegacyToken.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter14"
+startCharacter6"
+isFinalfalse*category2
+scala/Predef.Map#TYPE2
+
+scala/Int#TYPE2
+scala/Predef.String#TYPE

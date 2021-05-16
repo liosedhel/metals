@@ -1,0 +1,395 @@
+
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scalaÕ
+4scala/meta/internal/pc/MemberOrdering.IsNotAbstract.VALUEJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala ("
+endLine18"
+isVarfalse">
+symbol4scala/meta/internal/pc/MemberOrdering.IsNotAbstract."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameIsNotAbstract"
+kindVALUE"
+	startLine18"
+isValtrue"G
+uri@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter6"
+isFinalfalse*IsNotAbstract2
+
+scala/Int#TYPEï
+;scala/meta/internal/pc/MemberOrdering.IsImplicitConversion.VALUEJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala ("
+endLine5"
+isVarfalse"E
+symbol;scala/meta/internal/pc/MemberOrdering.IsImplicitConversion."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"#
+displayNameIsImplicitConversion"
+kindVALUE"
+	startLine5"
+isValtrue"G
+uri@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter26"
+startCharacter6"
+isFinalfalse*IsImplicitConversion2
+
+scala/Int#TYPEŠ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scalaFILE*@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scalaó
+<scala/meta/internal/pc/MemberOrdering.IsInheritedBaseMethod.VALUEJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala ("
+endLine4"
+isVarfalse"F
+symbol<scala/meta/internal/pc/MemberOrdering.IsInheritedBaseMethod."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"$
+displayNameIsInheritedBaseMethod"
+kindVALUE"
+	startLine4"
+isValtrue"G
+uri@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter27"
+startCharacter6"
+isFinalfalse*IsInheritedBaseMethod2
+
+scala/Int#TYPEÍ
+2scala/meta/internal/pc/MemberOrdering.IsNotPublic.VALUEJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala ("
+endLine12"
+isVarfalse"<
+symbol2scala/meta/internal/pc/MemberOrdering.IsNotPublic."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameIsNotPublic"
+kindVALUE"
+	startLine12"
+isValtrue"G
+uri@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter6"
+isFinalfalse*IsNotPublic2
+
+scala/Int#TYPEã
+8scala/meta/internal/pc/MemberOrdering.IsNotLocalByBlock.VALUEJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala ("
+endLine7"
+isVarfalse"B
+symbol8scala/meta/internal/pc/MemberOrdering.IsNotLocalByBlock."!
+packagescala.meta.internal.pc"
+accessPublicAccess()" 
+displayNameIsNotLocalByBlock"
+kindVALUE"
+	startLine7"
+isValtrue"G
+uri@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter6"
+isFinalfalse*IsNotLocalByBlock2
+
+scala/Int#TYPEç
+9scala/meta/internal/pc/MemberOrdering.IsNotDefinedInFile.VALUEJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala ("
+endLine8"
+isVarfalse"C
+symbol9scala/meta/internal/pc/MemberOrdering.IsNotDefinedInFile."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"!
+displayNameIsNotDefinedInFile"
+kindVALUE"
+	startLine8"
+isValtrue"G
+uri@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter24"
+startCharacter6"
+isFinalfalse*IsNotDefinedInFile2
+
+scala/Int#TYPEË
+2scala/meta/internal/pc/MemberOrdering.IsNotGetter.VALUEJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala	 	("
+endLine9"
+isVarfalse"<
+symbol2scala/meta/internal/pc/MemberOrdering.IsNotGetter."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameIsNotGetter"
+kindVALUE"
+	startLine9"
+isValtrue"G
+uri@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter6"
+isFinalfalse*IsNotGetter2
+
+scala/Int#TYPEÑ
+3scala/meta/internal/pc/MemberOrdering.IsDeprecated.VALUEJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala ("
+endLine14"
+isVarfalse"=
+symbol3scala/meta/internal/pc/MemberOrdering.IsDeprecated."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameIsDeprecated"
+kindVALUE"
+	startLine14"
+isValtrue"G
+uri@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter6"
+isFinalfalse*IsDeprecated2
+
+scala/Int#TYPEË
+2scala/meta/internal/pc/MemberOrdering.IsInherited.VALUEJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala ("
+endLine6"
+isVarfalse"<
+symbol2scala/meta/internal/pc/MemberOrdering.IsInherited."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameIsInherited"
+kindVALUE"
+	startLine6"
+isValtrue"G
+uri@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter6"
+isFinalfalse*IsInherited2
+
+scala/Int#TYPEå
+8scala/meta/internal/pc/MemberOrdering.IsNotCaseAccessor.VALUEJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala ("
+endLine11"
+isVarfalse"B
+symbol8scala/meta/internal/pc/MemberOrdering.IsNotCaseAccessor."!
+packagescala.meta.internal.pc"
+accessPublicAccess()" 
+displayNameIsNotCaseAccessor"
+kindVALUE"
+	startLine11"
+isValtrue"G
+uri@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter6"
+isFinalfalse*IsNotCaseAccessor2
+
+scala/Int#TYPEã
+8scala/meta/internal/pc/MemberOrdering.IsWorkspaceSymbol.VALUEJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala ("
+endLine3"
+isVarfalse"B
+symbol8scala/meta/internal/pc/MemberOrdering.IsWorkspaceSymbol."!
+packagescala.meta.internal.pc"
+accessPublicAccess()" 
+displayNameIsWorkspaceSymbol"
+kindVALUE"
+	startLine3"
+isValtrue"G
+uri@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter6"
+isFinalfalse*IsWorkspaceSymbol2
+
+scala/Int#TYPEû
+&scala/meta/internal/pc/MemberOrdering.OBJECTJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala ("
+endLine2"
+isVarfalse"0
+symbol&scala/meta/internal/pc/MemberOrdering."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameMemberOrdering"
+kindOBJECT"
+	startLine2"
+isValfalse"G
+uri@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter7"
+isFinaltrue"	
+LOC18*MemberOrdering2
+scala/AnyRef#EXTEND2“
+8scala/meta/internal/pc/MemberOrdering.IsWorkspaceSymbol.DECLARATIONJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala (2e
+scala/Int#`<<`().CALLJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala! (#2—
+<scala/meta/internal/pc/MemberOrdering.IsInheritedBaseMethod.DECLARATIONJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala (2e
+scala/Int#`<<`().CALLJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala% ('2–
+;scala/meta/internal/pc/MemberOrdering.IsImplicitConversion.DECLARATIONJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala (2e
+scala/Int#`<<`().CALLJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala$ (&2
+2scala/meta/internal/pc/MemberOrdering.IsInherited.DECLARATIONJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala (2e
+scala/Int#`<<`().CALLJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala (2“
+8scala/meta/internal/pc/MemberOrdering.IsNotLocalByBlock.DECLARATIONJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala (2e
+scala/Int#`<<`().CALLJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala! (#2”
+9scala/meta/internal/pc/MemberOrdering.IsNotDefinedInFile.DECLARATIONJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala (2e
+scala/Int#`<<`().CALLJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala" ($2
+2scala/meta/internal/pc/MemberOrdering.IsNotGetter.DECLARATIONJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala	 	(2e
+scala/Int#`<<`().CALLJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala	 	(2‹
+0scala/meta/internal/pc/MemberOrdering.IsPackage.DECLARATIONJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala
+ 
+(2e
+scala/Int#`<<`().CALLJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala
+ 
+(2“
+8scala/meta/internal/pc/MemberOrdering.IsNotCaseAccessor.DECLARATIONJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala (2e
+scala/Int#`<<`().CALLJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala! (#2
+2scala/meta/internal/pc/MemberOrdering.IsNotPublic.DECLARATIONJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala (2e
+scala/Int#`<<`().CALLJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala (2
+2scala/meta/internal/pc/MemberOrdering.IsSynthetic.DECLARATIONJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala (2e
+scala/Int#`<<`().CALLJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala (2Ž
+3scala/meta/internal/pc/MemberOrdering.IsDeprecated.DECLARATIONJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala (2e
+scala/Int#`<<`().CALLJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala (2Ž
+3scala/meta/internal/pc/MemberOrdering.IsEvilMethod.DECLARATIONJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala (2e
+scala/Int#`<<`().CALLJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala (2
+4scala/meta/internal/pc/MemberOrdering.IsNotAbstract.DECLARATIONJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala (2e
+scala/Int#`<<`().CALLJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala (Í
+2scala/meta/internal/pc/MemberOrdering.IsSynthetic.VALUEJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala ("
+endLine13"
+isVarfalse"<
+symbol2scala/meta/internal/pc/MemberOrdering.IsSynthetic."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameIsSynthetic"
+kindVALUE"
+	startLine13"
+isValtrue"G
+uri@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter6"
+isFinalfalse*IsSynthetic2
+
+scala/Int#TYPEÅ
+0scala/meta/internal/pc/MemberOrdering.IsPackage.VALUEJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala
+ 
+("
+endLine10"
+isVarfalse":
+symbol0scala/meta/internal/pc/MemberOrdering.IsPackage."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayName	IsPackage"
+kindVALUE"
+	startLine10"
+isValtrue"G
+uri@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter15"
+startCharacter6"
+isFinalfalse*	IsPackage2
+
+scala/Int#TYPEÑ
+3scala/meta/internal/pc/MemberOrdering.IsEvilMethod.VALUEJ
+@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala ("
+endLine15"
+isVarfalse"=
+symbol3scala/meta/internal/pc/MemberOrdering.IsEvilMethod."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameIsEvilMethod"
+kindVALUE"
+	startLine15"
+isValtrue"G
+uri@mtags/src/main/scala/scala/meta/internal/pc/MemberOrdering.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter6"
+isFinalfalse*IsEvilMethod2
+
+scala/Int#TYPE

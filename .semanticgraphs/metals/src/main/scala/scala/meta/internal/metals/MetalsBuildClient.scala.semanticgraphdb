@@ -1,0 +1,378 @@
+
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scalaÚ
+Fscala/meta/internal/metals/MetalsBuildClient#onBuildTargetDidChange().METHODR
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala ("
+endLine27"
+isVarfalse"P
+symbolFscala/meta/internal/metals/MetalsBuildClient#onBuildTargetDidChange()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"%
+displayNameonBuildTargetDidChange"
+kindMETHOD"
+	startLine27"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala"
+
+isAbstracttrue"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter28"
+startCharacter6"
+isFinalfalse*onBuildTargetDidChange2A
+4org/eclipse/lsp4j/jsonrpc/services/JsonNotification#	ANNOTATED2Ø
+Nscala/meta/internal/metals/MetalsBuildClient#onBuildTargetDidChange().(params)	PARAMETERR
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala (#2n
+scala/Unit#RETURN_TYPER
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala> (Bˆ
+Nscala/meta/internal/metals/MetalsBuildClient#onBuildTargetDidChange().(params)	PARAMETERR
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala (#"
+endLine27"
+isVarfalse"X
+symbolNscala/meta/internal/metals/MetalsBuildClient#onBuildTargetDidChange().(params)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameparams"
+kind	PARAMETER"
+	startLine27"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter35"
+startCharacter29"
+isFinalfalse*params2p
+ch/epfl/scala/bsp4j/CALLR
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala% (&2Ö
+)ch/epfl/scala/bsp4j/DidChangeBuildTarget#TYPER
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala' (;ë
+>scala/meta/internal/metals/MetalsBuildClient#buildHasErrors().METHODR
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala" "("
+endLine34"
+isVarfalse"H
+symbol>scala/meta/internal/metals/MetalsBuildClient#buildHasErrors()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamebuildHasErrors"
+kindMETHOD"
+	startLine34"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala"
+
+isAbstracttrue"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter6"
+isFinalfalse*buildHasErrors2Æ
+Mscala/meta/internal/metals/MetalsBuildClient#buildHasErrors().(buildTargetId)	PARAMETERR
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala" "("2q
+scala/Boolean#RETURN_TYPER
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala"> "(E¡
+-scala/meta/internal/metals/MetalsBuildClient#TRAITR
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala ("
+endLine15"
+isVarfalse"7
+symbol-scala/meta/internal/metals/MetalsBuildClient#"%
+packagescala.meta.internal.metals"
+accessPublicAccess()" 
+displayNameMetalsBuildClient"
+kindTRAIT"
+	startLine15"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter6"
+isFinalfalse"	
+LOC23*MetalsBuildClient2•
+Bscala/meta/internal/metals/MetalsBuildClient#onBuildShowMessage().DECLARATIONR
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala (2§
+Ascala/meta/internal/metals/MetalsBuildClient#onBuildLogMessage().DECLARATIONR
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala (2¨
+Iscala/meta/internal/metals/MetalsBuildClient#onBuildPublishDiagnostics().DECLARATIONR
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala (2©
+Fscala/meta/internal/metals/MetalsBuildClient#onBuildTargetDidChange().DECLARATIONR
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala (2≠
+Jscala/meta/internal/metals/MetalsBuildClient#onBuildTargetCompileReport().DECLARATIONR
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala ( 2¶
+Cscala/meta/internal/metals/MetalsBuildClient#ongoingCompilations().DECLARATIONR
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala   (2°
+>scala/meta/internal/metals/MetalsBuildClient#buildHasErrors().DECLARATIONR
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala" "(2£
+@scala/meta/internal/metals/MetalsBuildClient#buildHasErrors(+1).DECLARATIONR
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala$ $(2
+scala/AnyRef#EXTENDﬁ
+Bscala/meta/internal/metals/MetalsBuildClient#onBuildShowMessage().METHODR
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala ("
+endLine18"
+isVarfalse"L
+symbolBscala/meta/internal/metals/MetalsBuildClient#onBuildShowMessage()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"!
+displayNameonBuildShowMessage"
+kindMETHOD"
+	startLine18"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala"
+
+isAbstracttrue"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter24"
+startCharacter6"
+isFinalfalse*onBuildShowMessage2A
+4org/eclipse/lsp4j/jsonrpc/services/JsonNotification#	ANNOTATED2´
+Jscala/meta/internal/metals/MetalsBuildClient#onBuildShowMessage().(params)	PARAMETERR
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala (2n
+scala/Unit#RETURN_TYPER
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala3 (7‚
+Jscala/meta/internal/metals/MetalsBuildClient#onBuildShowMessage().(params)	PARAMETERR
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala ("
+endLine18"
+isVarfalse"T
+symbolJscala/meta/internal/metals/MetalsBuildClient#onBuildShowMessage().(params)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameparams"
+kind	PARAMETER"
+	startLine18"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter31"
+startCharacter25"
+isFinalfalse*params2n
+org/eclipse/lsp4j/CALLR
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala! ("2|
+ org/eclipse/lsp4j/MessageParams#TYPER
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala# (0Ÿ
+Ascala/meta/internal/metals/MetalsBuildClient#onBuildLogMessage().METHODR
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala ("
+endLine21"
+isVarfalse"K
+symbolAscala/meta/internal/metals/MetalsBuildClient#onBuildLogMessage()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()" 
+displayNameonBuildLogMessage"
+kindMETHOD"
+	startLine21"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala"
+
+isAbstracttrue"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter6"
+isFinalfalse*onBuildLogMessage2A
+4org/eclipse/lsp4j/jsonrpc/services/JsonNotification#	ANNOTATED2™
+Iscala/meta/internal/metals/MetalsBuildClient#onBuildLogMessage().(params)	PARAMETERR
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala (2n
+scala/Unit#RETURN_TYPER
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala2 (6Å
+Iscala/meta/internal/metals/MetalsBuildClient#onBuildPublishDiagnostics().METHODR
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala ("
+endLine24"
+isVarfalse"S
+symbolIscala/meta/internal/metals/MetalsBuildClient#onBuildPublishDiagnostics()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"(
+displayNameonBuildPublishDiagnostics"
+kindMETHOD"
+	startLine24"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala"
+
+isAbstracttrue"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter31"
+startCharacter6"
+isFinalfalse*onBuildPublishDiagnostics2A
+4org/eclipse/lsp4j/jsonrpc/services/JsonNotification#	ANNOTATED2≤
+Qscala/meta/internal/metals/MetalsBuildClient#onBuildPublishDiagnostics().(params)	PARAMETERR
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala  (&2n
+scala/Unit#RETURN_TYPER
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scalaE (IÜ
+Jscala/meta/internal/metals/MetalsBuildClient#onBuildTargetCompileReport().METHODR
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala ( "
+endLine30"
+isVarfalse"T
+symbolJscala/meta/internal/metals/MetalsBuildClient#onBuildTargetCompileReport()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()")
+displayNameonBuildTargetCompileReport"
+kindMETHOD"
+	startLine30"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala"
+
+isAbstracttrue"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter32"
+startCharacter6"
+isFinalfalse*onBuildTargetCompileReport2A
+4org/eclipse/lsp4j/jsonrpc/services/JsonNotification#	ANNOTATED2≥
+Rscala/meta/internal/metals/MetalsBuildClient#onBuildTargetCompileReport().(params)	PARAMETERR
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala! ('2n
+scala/Unit#RETURN_TYPER
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala; (?î
+Cscala/meta/internal/metals/MetalsBuildClient#ongoingCompilations().METHODR
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala   ("
+endLine32"
+isVarfalse"M
+symbolCscala/meta/internal/metals/MetalsBuildClient#ongoingCompilations()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()""
+displayNameongoingCompilations"
+kindMETHOD"
+	startLine32"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala"
+
+isAbstracttrue"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter25"
+startCharacter6"
+isFinalfalse*ongoingCompilations2ê
+-scala/meta/internal/tvp/TreeViewCompilations#RETURN_TYPER
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala   (1‰
+@scala/meta/internal/metals/MetalsBuildClient#buildHasErrors(+1).METHODR
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala$ $("
+endLine36"
+isVarfalse"J
+symbol@scala/meta/internal/metals/MetalsBuildClient#buildHasErrors(+1)."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamebuildHasErrors"
+kindMETHOD"
+	startLine36"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala"
+
+isAbstracttrue"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter6"
+isFinalfalse*buildHasErrors2q
+scala/Boolean#RETURN_TYPER
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala$ $(‡
+Iscala/meta/internal/metals/MetalsBuildClient#onBuildLogMessage().(params)	PARAMETERR
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala ("
+endLine21"
+isVarfalse"S
+symbolIscala/meta/internal/metals/MetalsBuildClient#onBuildLogMessage().(params)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameparams"
+kind	PARAMETER"
+	startLine21"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter30"
+startCharacter24"
+isFinalfalse*params2n
+org/eclipse/lsp4j/CALLR
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala  (!2|
+ org/eclipse/lsp4j/MessageParams#TYPER
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala" (/ˆ
+Rscala/meta/internal/metals/MetalsBuildClient#onBuildTargetCompileReport().(params)	PARAMETERR
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala! ('"
+endLine30"
+isVarfalse"\
+symbolRscala/meta/internal/metals/MetalsBuildClient#onBuildTargetCompileReport().(params)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameparams"
+kind	PARAMETER"
+	startLine30"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter39"
+startCharacter33"
+isFinalfalse*params2p
+ch/epfl/scala/bsp4j/CALLR
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala) (*2~
+"ch/epfl/scala/bsp4j/CompileReport#TYPER
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala+ (8É
+Mscala/meta/internal/metals/MetalsBuildClient#buildHasErrors().(buildTargetId)	PARAMETERR
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala" "(""
+endLine34"
+isVarfalse"W
+symbolMscala/meta/internal/metals/MetalsBuildClient#buildHasErrors().(buildTargetId)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamebuildTargetId"
+kind	PARAMETER"
+	startLine34"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter34"
+startCharacter21"
+isFinalfalse*buildTargetId2p
+ch/epfl/scala/bsp4j/CALLR
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala"$ "(%2Ü
+*ch/epfl/scala/bsp4j/BuildTargetIdentifier#TYPER
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala"& "(;ö
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scalaFILE*Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scalaÄ
+Qscala/meta/internal/metals/MetalsBuildClient#onBuildPublishDiagnostics().(params)	PARAMETERR
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala  (&"
+endLine24"
+isVarfalse"[
+symbolQscala/meta/internal/metals/MetalsBuildClient#onBuildPublishDiagnostics().(params)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameparams"
+kind	PARAMETER"
+	startLine24"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter38"
+startCharacter32"
+isFinalfalse*params2p
+ch/epfl/scala/bsp4j/CALLR
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala( ()2â
+-ch/epfl/scala/bsp4j/PublishDiagnosticsParams#TYPER
+Hmetals/src/main/scala/scala/meta/internal/metals/MetalsBuildClient.scala* (B

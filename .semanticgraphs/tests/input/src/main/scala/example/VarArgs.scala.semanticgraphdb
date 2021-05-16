@@ -1,0 +1,161 @@
+
+0tests/input/src/main/scala/example/VarArgs.scala˙
+example/VarArgs#add2().METHOD:
+0tests/input/src/main/scala/example/VarArgs.scala (
+"
+endLine4"
+isVarfalse"!
+symbolexample/VarArgs#add2()."
+packageexample"
+accessPublicAccess()"
+displayNameadd2"
+kindMETHOD"
+	startLine4"
+isValfalse"7
+uri0tests/input/src/main/scala/example/VarArgs.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter6"
+isFinalfalse"
+LOC1*add22$
+scala/collection/Seq#RETURN_TYPE2!
+scala/package.Seq#RETURN_TYPE2
+
+scala/Int#RETURN_TYPE2c
+example/VarArgs#add2().(a)	PARAMETER:
+0tests/input/src/main/scala/example/VarArgs.scala (2^
+example/VarArgs#add2().(a)CALL:
+0tests/input/src/main/scala/example/VarArgs.scala (ﬁ
+example/VarArgs#`<init>`().CONSTRUCTOR:
+0tests/input/src/main/scala/example/VarArgs.scala ("
+endLine2"
+isVarfalse"%
+symbolexample/VarArgs#`<init>`()."
+packageexample"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine2"
+isValfalse"7
+uri0tests/input/src/main/scala/example/VarArgs.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter14"
+startCharacter14"
+isFinalfalse*<init>j
+0tests/input/src/main/scala/example/VarArgs.scalaFILE*0tests/input/src/main/scala/example/VarArgs.scalaå
+example/VarArgs#add2().(a)	PARAMETER:
+0tests/input/src/main/scala/example/VarArgs.scala ("
+endLine4"
+isVarfalse"$
+symbolexample/VarArgs#add2().(a)"
+packageexample"
+accessEmpty"
+displayNamea"
+kind	PARAMETER"
+	startLine4"
+isValfalse"7
+uri0tests/input/src/main/scala/example/VarArgs.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter11"
+isFinalfalse*a2
+scala/package.Seq#TYPE2Y
+scala/collection/Seq#TYPE:
+0tests/input/src/main/scala/example/VarArgs.scala (2N
+
+scala/Int#TYPE:
+0tests/input/src/main/scala/example/VarArgs.scala (ì
+example/VarArgs#add().(a)	PARAMETER:
+0tests/input/src/main/scala/example/VarArgs.scala
+ ("
+endLine3"
+isVarfalse"#
+symbolexample/VarArgs#add().(a)"
+packageexample"
+accessEmpty"
+displayNamea"
+kind	PARAMETER"
+	startLine3"
+isValfalse"7
+uri0tests/input/src/main/scala/example/VarArgs.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter11"
+startCharacter10"
+isFinalfalse*a2N
+
+scala/Int#TYPE:
+0tests/input/src/main/scala/example/VarArgs.scala (–
+example/VarArgs#add().METHOD:
+0tests/input/src/main/scala/example/VarArgs.scala (	"
+endLine3"
+isVarfalse" 
+symbolexample/VarArgs#add()."
+packageexample"
+accessPublicAccess()"
+displayNameadd"
+kindMETHOD"
+	startLine3"
+isValfalse"7
+uri0tests/input/src/main/scala/example/VarArgs.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter9"
+startCharacter6"
+isFinalfalse"
+LOC1*add2$
+scala/collection/Seq#RETURN_TYPE2
+
+scala/Int#RETURN_TYPE2b
+example/VarArgs#add().(a)	PARAMETER:
+0tests/input/src/main/scala/example/VarArgs.scala
+ (2]
+example/VarArgs#add().(a)CALL:
+0tests/input/src/main/scala/example/VarArgs.scala (è
+example/VarArgs#CLASS:
+0tests/input/src/main/scala/example/VarArgs.scala ("
+endLine2"
+isVarfalse"
+symbolexample/VarArgs#"
+packageexample"
+accessPublicAccess()"
+displayNameVarArgs"
+kindCLASS"
+	startLine2"
+isValfalse"7
+uri0tests/input/src/main/scala/example/VarArgs.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter6"
+isFinalfalse"
+LOC4*VarArgs2f
+example/VarArgs#`<init>`().DECLARATION:
+0tests/input/src/main/scala/example/VarArgs.scala (2a
+example/VarArgs#add().DECLARATION:
+0tests/input/src/main/scala/example/VarArgs.scala (	2b
+example/VarArgs#add2().DECLARATION:
+0tests/input/src/main/scala/example/VarArgs.scala (
+2
+scala/AnyRef#EXTEND

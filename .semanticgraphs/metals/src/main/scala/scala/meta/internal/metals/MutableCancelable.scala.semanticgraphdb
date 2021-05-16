@@ -1,0 +1,325 @@
+
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scalaƒ
+-scala/meta/internal/metals/MutableCancelable#CLASSR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala	 	("
+endLine9"
+isVarfalse"7
+symbol-scala/meta/internal/metals/MutableCancelable#"%
+packagescala.meta.internal.metals"
+accessPublicAccess()" 
+displayNameMutableCancelable"
+kindCLASS"
+	startLine9"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter29"
+startCharacter12"
+isFinaltrue"	
+LOC18*MutableCancelable2õ
+8scala/meta/internal/metals/MutableCancelable#`<init>`().DECLARATIONR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala	 	(2ñ
+3scala/meta/internal/metals/MutableCancelable#add().DECLARATIONR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala (	2ô
+6scala/meta/internal/metals/MutableCancelable#addAll().DECLARATIONR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala (2ô
+6scala/meta/internal/metals/MutableCancelable#remove().DECLARATIONR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala (2ô
+6scala/meta/internal/metals/MutableCancelable#cancel().DECLARATIONR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala (2
+scala/AnyRef#EXTEND2Ñ
+&scala/meta/internal/metals/Cancelable#EXTENDR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala	& 	(02ô
+6scala/meta/internal/metals/MutableCancelable#toCancel.DECLARATIONR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala
+ 
+(2á
++java/util/concurrent/ConcurrentLinkedQueue#CALLR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala
+ 
+(22Ç
+&scala/meta/internal/metals/Cancelable#CALLR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala
+3 
+(=2í
+6java/util/concurrent/ConcurrentLinkedQueue#`<init>`().CALLR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala
+> 
+(>Õ
+6scala/meta/internal/metals/MutableCancelable#cancel().METHODR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala ("
+endLine23"
+isVarfalse"@
+symbol6scala/meta/internal/metals/MutableCancelable#cancel()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamecancel"
+kindMETHOD"
+	startLine23"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter15"
+isFinalfalse"
+LOC3*cancel2;
+/scala/meta/internal/metals/Cancelable#cancel().OVERRIDE2n
+scala/Unit#RETURN_TYPER
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala (2í
+6scala/meta/internal/metals/MutableCancelable#toCancel.CALLR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala1 (92Ü
+*scala/meta/internal/async/ConcurrentQueue.CALLR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala ((2ê
+4scala/meta/internal/async/ConcurrentQueue.pollAll().CALLR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala) (02Ç
+&scala/meta/internal/metals/Cancelable.CALLR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala (2é
+2scala/meta/internal/metals/Cancelable.cancelAll().CALLR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala (Ò
+Bscala/meta/internal/metals/MutableCancelable#remove().(cancelable)	PARAMETERR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala ("
+endLine19"
+isVarfalse"L
+symbolBscala/meta/internal/metals/MutableCancelable#remove().(cancelable)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayName
+cancelable"
+kind	PARAMETER"
+	startLine19"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter13"
+isFinalfalse*
+cancelable2Ç
+&scala/meta/internal/metals/Cancelable#TYPER
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala (#∂
+6scala/meta/internal/metals/MutableCancelable#toCancel.VALUER
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala
+ 
+("
+endLine10"
+isVarfalse"@
+symbol6scala/meta/internal/metals/MutableCancelable#toCancel."%
+packagescala.meta.internal.metals"
+accessPrivateAccess()"
+displayNametoCancel"
+kindVALUE"
+	startLine10"
+isValtrue"O
+uriHmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter14"
+isFinalfalse*toCancel23
++java/util/concurrent/ConcurrentLinkedQueue#TYPE2.
+&scala/meta/internal/metals/Cancelable#TYPEÍ
+Cscala/meta/internal/metals/MutableCancelable#addAll().(cancelables)	PARAMETERR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala ("
+endLine15"
+isVarfalse"M
+symbolCscala/meta/internal/metals/MutableCancelable#addAll().(cancelables)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamecancelables"
+kind	PARAMETER"
+	startLine15"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter24"
+startCharacter13"
+isFinalfalse*cancelables2s
+scala/package.Iterable#TYPER
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala ("2Ç
+&scala/meta/internal/metals/Cancelable#TYPER
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala# (-Ï
+6scala/meta/internal/metals/MutableCancelable#addAll().METHODR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala ("
+endLine15"
+isVarfalse"@
+symbol6scala/meta/internal/metals/MutableCancelable#addAll()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameaddAll"
+kindMETHOD"
+	startLine15"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse"
+LOC4*addAll2<
+-scala/meta/internal/metals/MutableCancelable#RETURN_TYPE2§
+Cscala/meta/internal/metals/MutableCancelable#addAll().(cancelables)	PARAMETERR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala (2∞
+Olocal0:metals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala	PARAMETERR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala ($2´
+Olocal0:metals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scalaCALLR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala5 (?2í
+6scala/meta/internal/metals/MutableCancelable#toCancel.CALLR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala( (02ç
+1java/util/concurrent/ConcurrentLinkedQueue#add().CALLR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala1 (42ü
+Cscala/meta/internal/metals/MutableCancelable#addAll().(cancelables)CALLR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala (2Ñ
+(scala/collection/IterableLike#foreach().CALLR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala (”
+Olocal0:metals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala	PARAMETERR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala ($"
+endLine16"
+isVarfalse"
+symbollocal0"
+package "
+accessEmpty"
+displayName
+cancelable"
+kind	PARAMETER"
+	startLine16"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter36"
+startCharacter26"
+isFinalfalse*
+cancelable2.
+&scala/meta/internal/metals/Cancelable#TYPE€
+8scala/meta/internal/metals/MutableCancelable#`<init>`().CONSTRUCTORR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala	 	("
+endLine9"
+isVarfalse"B
+symbol8scala/meta/internal/metals/MutableCancelable#`<init>`()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine9"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter30"
+startCharacter30"
+isFinalfalse*<init>Î
+?scala/meta/internal/metals/MutableCancelable#add().(cancelable)	PARAMETERR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala
+ ("
+endLine11"
+isVarfalse"I
+symbol?scala/meta/internal/metals/MutableCancelable#add().(cancelable)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayName
+cancelable"
+kind	PARAMETER"
+	startLine11"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter10"
+isFinalfalse*
+cancelable2Ç
+&scala/meta/internal/metals/Cancelable#TYPER
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala ( Ô	
+3scala/meta/internal/metals/MutableCancelable#add().METHODR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala (	"
+endLine11"
+isVarfalse"=
+symbol3scala/meta/internal/metals/MutableCancelable#add()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameadd"
+kindMETHOD"
+	startLine11"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter9"
+startCharacter6"
+isFinalfalse"
+LOC4*add2<
+-scala/meta/internal/metals/MutableCancelable#RETURN_TYPE2†
+?scala/meta/internal/metals/MutableCancelable#add().(cancelable)	PARAMETERR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala
+ (2õ
+?scala/meta/internal/metals/MutableCancelable#add().(cancelable)CALLR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala (2í
+6scala/meta/internal/metals/MutableCancelable#toCancel.CALLR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala (2ç
+1java/util/concurrent/ConcurrentLinkedQueue#add().CALLR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala (Ö
+
+6scala/meta/internal/metals/MutableCancelable#remove().METHODR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala ("
+endLine19"
+isVarfalse"@
+symbol6scala/meta/internal/metals/MutableCancelable#remove()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameremove"
+kindMETHOD"
+	startLine19"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse"
+LOC4*remove2<
+-scala/meta/internal/metals/MutableCancelable#RETURN_TYPE2£
+Bscala/meta/internal/metals/MutableCancelable#remove().(cancelable)	PARAMETERR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala (2û
+Bscala/meta/internal/metals/MutableCancelable#remove().(cancelable)CALLR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala (2í
+6scala/meta/internal/metals/MutableCancelable#toCancel.CALLR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala (2ê
+4java/util/concurrent/ConcurrentLinkedQueue#remove().CALLR
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala (ö
+Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scalaFILE*Hmetals/src/main/scala/scala/meta/internal/metals/MutableCancelable.scala

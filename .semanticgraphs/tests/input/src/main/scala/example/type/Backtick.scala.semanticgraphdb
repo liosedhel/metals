@@ -1,0 +1,47 @@
+
+6tests/input/src/main/scala/example/type/Backtick.scalaû
+!example/type/Backtick#`<init>`().CONSTRUCTOR@
+6tests/input/src/main/scala/example/type/Backtick.scala ("
+endLine2"
+isVarfalse"+
+symbol!example/type/Backtick#`<init>`()."
+packageexample.type"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine2"
+isValfalse"=
+uri6tests/input/src/main/scala/example/type/Backtick.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter15"
+startCharacter15"
+isFinalfalse*<init>ó
+example/type/Backtick#CLASS@
+6tests/input/src/main/scala/example/type/Backtick.scala ("
+endLine2"
+isVarfalse" 
+symbolexample/type/Backtick#"
+packageexample.type"
+accessPublicAccess()"
+displayNameBacktick"
+kindCLASS"
+	startLine2"
+isValfalse"=
+uri6tests/input/src/main/scala/example/type/Backtick.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter14"
+startCharacter6"
+isFinalfalse"
+LOC1*Backtick2r
+!example/type/Backtick#`<init>`().DECLARATION@
+6tests/input/src/main/scala/example/type/Backtick.scala (2
+scala/AnyRef#EXTENDv
+6tests/input/src/main/scala/example/type/Backtick.scalaFILE*6tests/input/src/main/scala/example/type/Backtick.scala

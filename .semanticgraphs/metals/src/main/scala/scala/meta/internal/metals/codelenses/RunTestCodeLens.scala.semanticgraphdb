@@ -1,0 +1,1782 @@
+
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala÷
+Hscala/meta/internal/metals/codelenses/RunTestCodeLens#`<init>`().(trees)	PARAMETER"
+endLine0"
+isVarfalse"R
+symbolHscala/meta/internal/metals/codelenses/RunTestCodeLens#`<init>`().(trees)"0
+package%scala.meta.internal.metals.codelenses"
+accessEmpty"
+displayNametrees"
+kind	PARAMETER"
+	startLine0"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*trees2*
+"scala/meta/internal/parsing/Trees#TYPEÿ<
+Cscala/meta/internal/metals/codelenses/RunTestCodeLens#codeLenses().METHOD[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala- -("
+endLine45"
+isVarfalse"M
+symbolCscala/meta/internal/metals/codelenses/RunTestCodeLens#codeLenses()."0
+package%scala.meta.internal.metals.codelenses"
+accessPublicAccess()"
+displayName
+codeLenses"
+kindMETHOD"
+	startLine45"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter25"
+startCharacter15"
+isFinalfalse"	
+LOC20*
+codeLenses2H
+<scala/meta/internal/metals/codelenses/CodeLens#codeLenses().OVERRIDE2√
+Yscala/meta/internal/metals/codelenses/RunTestCodeLens#codeLenses().(textDocumentWithPath)	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala. .(2~
+scala/package.Seq#RETURN_TYPE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala/ /(2w
+org/eclipse/lsp4j/CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala/	 /(
+2á
+org/eclipse/lsp4j/CodeLens#RETURN_TYPE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala/ /(2ƒ
+Xlocal0:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaDECLARATION[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala0 0(2æ
+Yscala/meta/internal/metals/codelenses/RunTestCodeLens#codeLenses().(textDocumentWithPath)CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala0 0(+2™
+Escala/meta/internal/implementation/TextDocumentWithPath#textDocument.CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala0, 0(82ƒ
+Xlocal1:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaDECLARATION[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala1 1(2æ
+Yscala/meta/internal/metals/codelenses/RunTestCodeLens#codeLenses().(textDocumentWithPath)CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala1 1(#2¶
+Ascala/meta/internal/implementation/TextDocumentWithPath#filePath.CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala1$ 1(,2Ω
+Xlocal1:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaCALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala2 2(2æ
+Yscala/meta/internal/mtags/CommonMtagsEnrichments#XtensionAbsolutePath#isAmmoniteScript().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala2 2(2z
+scala/Boolean#`||`().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala2 2( 2Ω
+Xlocal1:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaCALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala2! 2(%2π
+Tscala/meta/internal/mtags/CommonMtagsEnrichments#XtensionAbsolutePath#isWorksheet().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala2& 2(12z
+scala/collection/Seq.CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala3 3(	2ó
+2scala/collection/generic/GenericCompanion#empty().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala3
+ 3(2ƒ
+Xlocal2:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaDECLARATION[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala5
+ 5(2Ω
+Xlocal1:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaCALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala5/ 5(32Ω
+Xlocal0:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaCALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala55 5(A2ñ
+1scala/meta/internal/semanticdb/TextDocument#text.CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala5B 5(F2°
+<scala/meta/internal/metals/codelenses/RunTestCodeLens#trees.CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala5H 5(M2£
+>scala/meta/internal/metals/codelenses/RunTestCodeLens#buffers.CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala5 5(2ú
+7scala/meta/internal/metals/Buffers#tokenEditDistance().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala5 5(.2z
+scala/collection/Seq.CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala= =(2ó
+2scala/collection/generic/GenericCompanion#empty().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala= =(2¬
+Xlocal3:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala9 9(2ƒ
+Xlocal4:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaDECLARATION[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala: :(2Ω
+Xlocal3:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaCALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala:5 :(@2Æ
+Iscala/meta/internal/metals/codelenses/RunTestCodeLens#buildTargetClasses.CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala: :(*2•
+@scala/meta/internal/metals/debug/BuildTargetClasses#classesOf().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala:+ :(42Ω
+Xlocal0:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaCALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala; ;(!2Ω
+Xlocal3:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaCALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala;# ;(.2Ω
+Xlocal4:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaCALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala;0 ;(72Ω
+Xlocal2:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaCALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala;9 ;(A2™
+Escala/meta/internal/metals/codelenses/RunTestCodeLens#codeLenses(+1).CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala;
+ ;(2Ω
+Xlocal1:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaCALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala8 8(2®
+Cscala/meta/internal/metals/codelenses/RunTestCodeLens#buildTargets.CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala7 7(2û
+9scala/meta/internal/metals/BuildTargets#inverseSources().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala8	 8(2x
+scala/Option#map().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala9	 9(2~
+scala/Option#getOrElse().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala=	 =(Ô
+Fscala/meta/internal/metals/codelenses/RunTestCodeLens#sessionParams().METHOD]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaÄ Ä("
+endLine128"
+isVarfalse"P
+symbolFscala/meta/internal/metals/codelenses/RunTestCodeLens#sessionParams()."0
+package%scala.meta.internal.metals.codelenses"
+accessPrivateAccess()"
+displayNamesessionParams"
+kindMETHOD"
+	startLine128"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter27"
+startCharacter14"
+isFinalfalse"
+LOC7*sessionParams2∫
+Nscala/meta/internal/metals/codelenses/RunTestCodeLens#sessionParams().(target)	PARAMETER]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaÅ Å(2º
+Pscala/meta/internal/metals/codelenses/RunTestCodeLens#sessionParams().(dataKind)	PARAMETER]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaÇ Ç(2∏
+Lscala/meta/internal/metals/codelenses/RunTestCodeLens#sessionParams().(data)	PARAMETER]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaÉ É(
+2{
+ch/epfl/scala/bsp4j/CALL]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaÑ Ñ(2ï
+'ch/epfl/scala/bsp4j/DebugSessionParams#RETURN_TYPE]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaÑ Ñ(2{
+ch/epfl/scala/bsp4j/CALL]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaÖ Ö(	2é
+'ch/epfl/scala/bsp4j/DebugSessionParams#CALL]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaÖ
+ Ö(2ô
+2ch/epfl/scala/bsp4j/DebugSessionParams#`<init>`().CALL]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaÖ Ö(2µ
+Nscala/meta/internal/metals/codelenses/RunTestCodeLens#sessionParams().(target)CALL]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaÖ" Ö((2á
+ scala/collection/immutable/List.CALL]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaÖ Ö(!2õ
+4scala/collection/convert/Decorators.AsJava#asJava().CALL]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaÖ* Ö(02∑
+Pscala/meta/internal/metals/codelenses/RunTestCodeLens#sessionParams().(dataKind)CALL]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaÖ2 Ö(:2≥
+Lscala/meta/internal/metals/codelenses/RunTestCodeLens#sessionParams().(data)CALL]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaÖ< Ö(@£
+Cscala/meta/internal/metals/codelenses/RunTestCodeLens#buildTargets.VALUE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala$ $("
+endLine36"
+isVarfalse"M
+symbolCscala/meta/internal/metals/codelenses/RunTestCodeLens#buildTargets."0
+package%scala.meta.internal.metals.codelenses"
+accessPrivateThisAccess()"
+displayNamebuildTargets"
+kindVALUE"
+	startLine36"
+isValtrue"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter4"
+isFinalfalse*buildTargets2ç
+(scala/meta/internal/metals/BuildTargets#TYPE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala$ $(¯
+Oscala/meta/internal/metals/codelenses/RunTestCodeLens#`<init>`().(buildTargets)	PARAMETER"
+endLine0"
+isVarfalse"Y
+symbolOscala/meta/internal/metals/codelenses/RunTestCodeLens#`<init>`().(buildTargets)"0
+package%scala.meta.internal.metals.codelenses"
+accessEmpty"
+displayNamebuildTargets"
+kind	PARAMETER"
+	startLine0"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*buildTargets20
+(scala/meta/internal/metals/BuildTargets#TYPE«
+Iscala/meta/internal/metals/codelenses/RunTestCodeLens#buildTargetClasses.VALUE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala" "("
+endLine34"
+isVarfalse"S
+symbolIscala/meta/internal/metals/codelenses/RunTestCodeLens#buildTargetClasses."0
+package%scala.meta.internal.metals.codelenses"
+accessPrivateThisAccess()"!
+displayNamebuildTargetClasses"
+kindVALUE"
+	startLine34"
+isValtrue"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter4"
+isFinalfalse*buildTargetClasses2ô
+4scala/meta/internal/metals/debug/BuildTargetClasses#TYPE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala" "(*œ
+Ylocal21:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaVALUE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalae
+ e("
+endLine101"
+isVarfalse"
+symbollocal21"
+package "
+accessEmpty"
+displayNamedataKind"
+kindVALUE"
+	startLine101"
+isValtrue"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter10"
+isFinalfalse*dataKind2
+java/lang/String#TYPEÌ
+Xlocal0:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaVALUE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala0 0("
+endLine48"
+isVarfalse"
+symbollocal0"
+package "
+accessEmpty"
+displayNametextDocument"
+kindVALUE"
+	startLine48"
+isValtrue"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter8"
+isFinalfalse*textDocument24
+,scala/meta/internal/semanticdb/TextDocument#TYPE≠
+Nscala/meta/internal/metals/codelenses/RunTestCodeLens#sessionParams().(target)	PARAMETER]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaÅ Å("
+endLine129"
+isVarfalse"X
+symbolNscala/meta/internal/metals/codelenses/RunTestCodeLens#sessionParams().(target)"0
+package%scala.meta.internal.metals.codelenses"
+accessEmpty"
+displayNametarget"
+kind	PARAMETER"
+	startLine129"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*target2{
+ch/epfl/scala/bsp4j/CALL]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaÅ Å(2ë
+*ch/epfl/scala/bsp4j/BuildTargetIdentifier#TYPE]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaÅ Å(%®
+Mscala/meta/internal/metals/codelenses/RunTestCodeLens#codeLenses(+1).(target)	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaD D("
+endLine68"
+isVarfalse"W
+symbolMscala/meta/internal/metals/codelenses/RunTestCodeLens#codeLenses(+1).(target)"0
+package%scala.meta.internal.metals.codelenses"
+accessEmpty"
+displayNametarget"
+kind	PARAMETER"
+	startLine68"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*target2è
+*ch/epfl/scala/bsp4j/BuildTargetIdentifier#TYPE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaD D(#‡
+Ylocal23:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaVALUE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalat t("
+endLine116"
+isVarfalse"
+symbollocal23"
+package "
+accessEmpty"
+displayNameparams"
+kindVALUE"
+	startLine116"
+isValtrue"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter14"
+startCharacter8"
+isFinalfalse*params2/
+'ch/epfl/scala/bsp4j/DebugSessionParams#TYPEˇ
+Oscala/meta/internal/metals/codelenses/RunTestCodeLens#`<init>`().(clientConfig)	PARAMETER"
+endLine0"
+isVarfalse"Y
+symbolOscala/meta/internal/metals/codelenses/RunTestCodeLens#`<init>`().(clientConfig)"0
+package%scala.meta.internal.metals.codelenses"
+accessEmpty"
+displayNameclientConfig"
+kind	PARAMETER"
+	startLine0"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*clientConfig27
+/scala/meta/internal/metals/ClientConfiguration#TYPE°
+Iscala/meta/internal/metals/codelenses/RunTestCodeLens#command().(command)	PARAMETER]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaä ä("
+endLine138"
+isVarfalse"S
+symbolIscala/meta/internal/metals/codelenses/RunTestCodeLens#command().(command)"0
+package%scala.meta.internal.metals.codelenses"
+accessEmpty"
+displayNamecommand"
+kind	PARAMETER"
+	startLine138"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter6"
+isFinalfalse*command2ä
+#scala/meta/internal/metals/Command#TYPE]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaä ä(“
+Ylocal25:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaVALUE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalav
+ v("
+endLine118"
+isVarfalse"
+symbollocal25"
+package "
+accessEmpty"
+displayNamedata"
+kindVALUE"
+	startLine118"
+isValtrue"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter14"
+startCharacter10"
+isFinalfalse*data2$
+com/google/gson/JsonElement#TYPE¬
+Sscala/meta/internal/metals/codelenses/RunTestCodeLens#codeLenses(+1).(textDocument)	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaC C("
+endLine67"
+isVarfalse"]
+symbolSscala/meta/internal/metals/codelenses/RunTestCodeLens#codeLenses(+1).(textDocument)"0
+package%scala.meta.internal.metals.codelenses"
+accessEmpty"
+displayNametextDocument"
+kind	PARAMETER"
+	startLine67"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter6"
+isFinalfalse*textDocument2ë
+,scala/meta/internal/semanticdb/TextDocument#TYPE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaC C( Ë
+Xlocal2:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaVALUE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala5
+ 5("
+endLine53"
+isVarfalse"
+symbollocal2"
+package "
+accessEmpty"
+displayNamedistance"
+kindVALUE"
+	startLine53"
+isValtrue"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter10"
+isFinalfalse*distance26
+.scala/meta/internal/parsing/TokenEditDistance#TYPEÄ
+<scala/meta/internal/metals/codelenses/RunTestCodeLens#trees.VALUE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala' '(	"
+endLine39"
+isVarfalse"F
+symbol<scala/meta/internal/metals/codelenses/RunTestCodeLens#trees."0
+package%scala.meta.internal.metals.codelenses"
+accessPrivateThisAccess()"
+displayNametrees"
+kindVALUE"
+	startLine39"
+isValtrue"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter9"
+startCharacter4"
+isFinalfalse*trees2á
+"scala/meta/internal/parsing/Trees#TYPE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala' '(Ç
+Ylocal10:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal10"
+package "
+accessEmpty"
+displayNamex1"
+kindVALUE"
+	startLine0"
+isValtrue"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x12
+scala/Tuple3#TYPE28
+0scala/meta/internal/semanticdb/SymbolOccurrence#TYPE2
+scala/Predef.String#TYPE2(
+ scala/collection/immutable/List#TYPE2"
+org/eclipse/lsp4j/Command#TYPE°
+Pscala/meta/internal/metals/codelenses/RunTestCodeLens#sessionParams().(dataKind)	PARAMETER]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaÇ Ç("
+endLine130"
+isVarfalse"Z
+symbolPscala/meta/internal/metals/codelenses/RunTestCodeLens#sessionParams().(dataKind)"0
+package%scala.meta.internal.metals.codelenses"
+accessEmpty"
+displayNamedataKind"
+kind	PARAMETER"
+	startLine130"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter14"
+startCharacter6"
+isFinalfalse*dataKind2{
+scala/Predef.String#TYPE]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaÇ Ç(Ù
+Xlocal4:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaVALUE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala: :("
+endLine58"
+isVarfalse"
+symbollocal4"
+package "
+accessEmpty"
+displayNameclasses"
+kindVALUE"
+	startLine58"
+isValtrue"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter14"
+isFinalfalse*classes2D
+<scala/meta/internal/metals/debug/BuildTargetClasses.Classes#TYPE…
+Ylocal12:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaMETHOD[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaW W("
+endLine87"
+isVarfalse"
+symbollocal12"
+package "
+accessPublicAccess()"
+displayName	matchEnd3"
+kindMETHOD"
+	startLine87"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter26"
+startCharacter18"
+isFinalfalse*	matchEnd32g
+Zlocal654:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala	PARAMETER2
+scala/Boolean#RETURN_TYPE…
+Xlocal6:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaVALUE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaK K("
+endLine75"
+isVarfalse"
+symbollocal6"
+package "
+accessEmpty"
+displayNamesymbol"
+kindVALUE"
+	startLine75"
+isValtrue"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*symbol2
+scala/Predef.String#TYPEﬂ
+Bscala/meta/internal/metals/codelenses/RunTestCodeLens#isEnabled().METHOD[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala* *("
+endLine42"
+isVarfalse"L
+symbolBscala/meta/internal/metals/codelenses/RunTestCodeLens#isEnabled()."0
+package%scala.meta.internal.metals.codelenses"
+accessPublicAccess()"
+displayName	isEnabled"
+kindMETHOD"
+	startLine42"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter24"
+startCharacter15"
+isFinalfalse"
+LOC2*	isEnabled2G
+;scala/meta/internal/metals/codelenses/CodeLens#isEnabled().OVERRIDE2z
+scala/Boolean#RETURN_TYPE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala* *(!2®
+Cscala/meta/internal/metals/codelenses/RunTestCodeLens#clientConfig.CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala+ +(2™
+Escala/meta/internal/metals/ClientConfiguration#isDebuggingProvider().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala+ +($2z
+scala/Boolean#`&&`().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala+% +('2Ø
+Jscala/meta/internal/metals/codelenses/RunTestCodeLens#buildServerCanDebug.CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala+( +(;ﬂ
+Jscala/meta/internal/metals/codelenses/RunTestCodeLens#`<init>`().(buffers)	PARAMETER"
+endLine0"
+isVarfalse"T
+symbolJscala/meta/internal/metals/codelenses/RunTestCodeLens#`<init>`().(buffers)"0
+package%scala.meta.internal.metals.codelenses"
+accessEmpty"
+displayNamebuffers"
+kind	PARAMETER"
+	startLine0"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*buffers2+
+#scala/meta/internal/metals/Buffers#TYPE˚
+6scala/meta/internal/metals/codelenses/RunTestCodeLens#CLASS[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala! !("
+endLine33"
+isVarfalse"@
+symbol6scala/meta/internal/metals/codelenses/RunTestCodeLens#"0
+package%scala.meta.internal.metals.codelenses"
+accessPublicAccess()"
+displayNameRunTestCodeLens"
+kindCLASS"
+	startLine33"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter27"
+startCharacter12"
+isFinaltrue"
+
+LOC111*RunTestCodeLens2µ
+Iscala/meta/internal/metals/codelenses/RunTestCodeLens#buildTargetClasses.DECLARATION[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala" "(2™
+>scala/meta/internal/metals/codelenses/RunTestCodeLens#buffers.DECLARATION[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala# #(2Ø
+Cscala/meta/internal/metals/codelenses/RunTestCodeLens#buildTargets.DECLARATION[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala$ $(2Ø
+Cscala/meta/internal/metals/codelenses/RunTestCodeLens#clientConfig.DECLARATION[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala% %(2∂
+Jscala/meta/internal/metals/codelenses/RunTestCodeLens#buildServerCanDebug.DECLARATION[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala& &(2®
+<scala/meta/internal/metals/codelenses/RunTestCodeLens#trees.DECLARATION[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala' '(	2≠
+Ascala/meta/internal/metals/codelenses/RunTestCodeLens#`<init>`().DECLARATION[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala! !(2Æ
+Bscala/meta/internal/metals/codelenses/RunTestCodeLens#isEnabled().DECLARATION[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala* *(2Ø
+Cscala/meta/internal/metals/codelenses/RunTestCodeLens#codeLenses().DECLARATION[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala- -(2±
+Escala/meta/internal/metals/codelenses/RunTestCodeLens#codeLenses(+1).DECLARATION[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaB B(2∞
+Dscala/meta/internal/metals/codelenses/RunTestCodeLens#testCommand().DECLARATION[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala` `(2∞
+Dscala/meta/internal/metals/codelenses/RunTestCodeLens#mainCommand().DECLARATION[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalap p(2¥
+Fscala/meta/internal/metals/codelenses/RunTestCodeLens#sessionParams().DECLARATION]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaÄ Ä(2Æ
+@scala/meta/internal/metals/codelenses/RunTestCodeLens#command().DECLARATION]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaà à(2
+scala/AnyRef#EXTEND2ñ
+/scala/meta/internal/metals/codelenses/CodeLens#EXTEND[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala(
+ ((µ
+Ylocal18:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal18"
+package "
+accessPublicAccess()"
+displayNamecase5"
+kindMETHOD"
+	startLine0"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case52/
+ scala/collection/immutable/List#RETURN_TYPE2*
+org/eclipse/lsp4j/CodeLens#RETURN_TYPEµ
+Ylocal14:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal14"
+package "
+accessPublicAccess()"
+displayNamecase4"
+kindMETHOD"
+	startLine0"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case42/
+ scala/collection/immutable/List#RETURN_TYPE2*
+org/eclipse/lsp4j/CodeLens#RETURN_TYPEÈ
+Xlocal8:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaVALUE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaM M("
+endLine77"
+isVarfalse"
+symbollocal8"
+package "
+accessEmpty"
+displayNamemain"
+kindVALUE"
+	startLine77"
+isValtrue"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter12"
+isFinalfalse*main2
+scala/package.List#TYPE2"
+org/eclipse/lsp4j/Command#TYPE◊
+Ylocal16:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaX X("
+endLine88"
+isVarfalse"
+symbollocal16"
+package "
+accessEmpty"
+displayNamerange"
+kind	PARAMETER"
+	startLine88"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter11"
+startCharacter6"
+isFinalfalse*range2 
+org/eclipse/lsp4j/Range#TYPEö
+Lscala/meta/internal/metals/codelenses/RunTestCodeLens#sessionParams().(data)	PARAMETER]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaÉ É(
+"
+endLine131"
+isVarfalse"V
+symbolLscala/meta/internal/metals/codelenses/RunTestCodeLens#sessionParams().(data)"0
+package%scala.meta.internal.metals.codelenses"
+accessEmpty"
+displayNamedata"
+kind	PARAMETER"
+	startLine131"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter6"
+isFinalfalse*data2É
+com/google/gson/JsonElement#TYPE]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaÉ É(›
+Ylocal15:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaZ Z("
+endLine90"
+isVarfalse"
+symbollocal15"
+package "
+accessEmpty"
+displayNamer"
+kind	PARAMETER"
+	startLine90"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter19"
+isFinalfalse*r2-
+%scala/meta/internal/semanticdb/Range#TYPEú
+Uscala/meta/internal/metals/codelenses/RunTestCodeLens#`<init>`().(buildTargetClasses)	PARAMETER"
+endLine0"
+isVarfalse"_
+symbolUscala/meta/internal/metals/codelenses/RunTestCodeLens#`<init>`().(buildTargetClasses)"0
+package%scala.meta.internal.metals.codelenses"
+accessEmpty"!
+displayNamebuildTargetClasses"
+kind	PARAMETER"
+	startLine0"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*buildTargetClasses2<
+4scala/meta/internal/metals/debug/BuildTargetClasses#TYPEæ
+Jscala/meta/internal/metals/codelenses/RunTestCodeLens#buildServerCanDebug.VALUE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala& &("
+endLine38"
+isVarfalse"T
+symbolJscala/meta/internal/metals/codelenses/RunTestCodeLens#buildServerCanDebug."0
+package%scala.meta.internal.metals.codelenses"
+accessPrivateThisAccess()""
+displayNamebuildServerCanDebug"
+kindVALUE"
+	startLine38"
+isValtrue"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter4"
+isFinalfalse*buildServerCanDebug2
+scala/Function0#TYPE2s
+scala/Boolean#TYPE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala& &(&¨
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaFILE*Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala¥
+Oscala/meta/internal/metals/codelenses/RunTestCodeLens#codeLenses(+1).(distance)	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaF F("
+endLine70"
+isVarfalse"Y
+symbolOscala/meta/internal/metals/codelenses/RunTestCodeLens#codeLenses(+1).(distance)"0
+package%scala.meta.internal.metals.codelenses"
+accessEmpty"
+displayNamedistance"
+kind	PARAMETER"
+	startLine70"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter14"
+startCharacter6"
+isFinalfalse*distance2ì
+.scala/meta/internal/parsing/TokenEditDistance#TYPE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaF F(!ä
+>scala/meta/internal/metals/codelenses/RunTestCodeLens#buffers.VALUE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala# #("
+endLine35"
+isVarfalse"H
+symbol>scala/meta/internal/metals/codelenses/RunTestCodeLens#buffers."0
+package%scala.meta.internal.metals.codelenses"
+accessPrivateThisAccess()"
+displayNamebuffers"
+kindVALUE"
+	startLine35"
+isValtrue"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter11"
+startCharacter4"
+isFinalfalse*buffers2à
+#scala/meta/internal/metals/Buffers#TYPE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala# #(‡
+Ylocal20:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaVALUE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalad d("
+endLine100"
+isVarfalse"
+symbollocal20"
+package "
+accessEmpty"
+displayNameparams"
+kindVALUE"
+	startLine100"
+isValtrue"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter14"
+startCharacter8"
+isFinalfalse*params2/
+'ch/epfl/scala/bsp4j/DebugSessionParams#TYPE“
+Ylocal22:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaVALUE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaf
+ f("
+endLine102"
+isVarfalse"
+symbollocal22"
+package "
+accessEmpty"
+displayNamedata"
+kindVALUE"
+	startLine102"
+isValtrue"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter14"
+startCharacter10"
+isFinalfalse*data2$
+com/google/gson/JsonElement#TYPE‚
+Ascala/meta/internal/metals/codelenses/RunTestCodeLens#`<init>`().CONSTRUCTOR[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala! !("
+endLine33"
+isVarfalse"K
+symbolAscala/meta/internal/metals/codelenses/RunTestCodeLens#`<init>`()."0
+package%scala.meta.internal.metals.codelenses"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine33"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter27"
+startCharacter27"
+isFinalfalse*<init>2b
+Uscala/meta/internal/metals/codelenses/RunTestCodeLens#`<init>`().(buildTargetClasses)	PARAMETER2W
+Jscala/meta/internal/metals/codelenses/RunTestCodeLens#`<init>`().(buffers)	PARAMETER2\
+Oscala/meta/internal/metals/codelenses/RunTestCodeLens#`<init>`().(buildTargets)	PARAMETER2\
+Oscala/meta/internal/metals/codelenses/RunTestCodeLens#`<init>`().(clientConfig)	PARAMETER2c
+Vscala/meta/internal/metals/codelenses/RunTestCodeLens#`<init>`().(buildServerCanDebug)	PARAMETER2U
+Hscala/meta/internal/metals/codelenses/RunTestCodeLens#`<init>`().(trees)	PARAMETER2≥
+Iscala/meta/internal/metals/codelenses/RunTestCodeLens#buildTargetClasses.	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala" "(2®
+>scala/meta/internal/metals/codelenses/RunTestCodeLens#buffers.	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala# #(2≠
+Cscala/meta/internal/metals/codelenses/RunTestCodeLens#buildTargets.	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala$ $(2≠
+Cscala/meta/internal/metals/codelenses/RunTestCodeLens#clientConfig.	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala% %(2¥
+Jscala/meta/internal/metals/codelenses/RunTestCodeLens#buildServerCanDebug.	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala& &(2¶
+<scala/meta/internal/metals/codelenses/RunTestCodeLens#trees.	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala' '(	î
+Vscala/meta/internal/metals/codelenses/RunTestCodeLens#`<init>`().(buildServerCanDebug)	PARAMETER"
+endLine0"
+isVarfalse"`
+symbolVscala/meta/internal/metals/codelenses/RunTestCodeLens#`<init>`().(buildServerCanDebug)"0
+package%scala.meta.internal.metals.codelenses"
+accessEmpty""
+displayNamebuildServerCanDebug"
+kind	PARAMETER"
+	startLine0"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*buildServerCanDebug2
+scala/Function0#TYPE2
+scala/Boolean#TYPEÃ
+Xlocal1:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaVALUE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala1 1("
+endLine49"
+isVarfalse"
+symbollocal1"
+package "
+accessEmpty"
+displayNamepath"
+kindVALUE"
+	startLine49"
+isValtrue"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter8"
+isFinalfalse*path2#
+scala/meta/io/AbsolutePath#TYPEî
+Jscala/meta/internal/metals/codelenses/RunTestCodeLens#mainCommand().(main)	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalar r(
+"
+endLine114"
+isVarfalse"T
+symbolJscala/meta/internal/metals/codelenses/RunTestCodeLens#mainCommand().(main)"0
+package%scala.meta.internal.metals.codelenses"
+accessEmpty"
+displayNamemain"
+kind	PARAMETER"
+	startLine114"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter6"
+isFinalfalse*main2y
+ch/epfl/scala/bsp4j/CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalar r(2à
+#ch/epfl/scala/bsp4j/ScalaMainClass#TYPE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalar r(Ä
+@scala/meta/internal/metals/codelenses/RunTestCodeLens#command().METHOD]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaà à("
+endLine136"
+isVarfalse"J
+symbol@scala/meta/internal/metals/codelenses/RunTestCodeLens#command()."0
+package%scala.meta.internal.metals.codelenses"
+accessPrivateAccess()"
+displayNamecommand"
+kindMETHOD"
+	startLine136"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter14"
+isFinalfalse"
+LOC7*command2≤
+Fscala/meta/internal/metals/codelenses/RunTestCodeLens#command().(name)	PARAMETER]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaâ â(
+2µ
+Iscala/meta/internal/metals/codelenses/RunTestCodeLens#command().(command)	PARAMETER]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaä ä(2¥
+Hscala/meta/internal/metals/codelenses/RunTestCodeLens#command().(params)	PARAMETER]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaã ã(2y
+org/eclipse/lsp4j/CALL]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaå å(2à
+org/eclipse/lsp4j/Command#RETURN_TYPE]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaå å(2y
+org/eclipse/lsp4j/CALL]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaç ç(	2Å
+org/eclipse/lsp4j/Command#CALL]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaç
+ ç(2é
+'org/eclipse/lsp4j/Command#`<init>`(+2).CALL]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaç ç(2≠
+Fscala/meta/internal/metals/codelenses/RunTestCodeLens#command().(name)CALL]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaç ç(2∞
+Iscala/meta/internal/metals/codelenses/RunTestCodeLens#command().(command)CALL]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaç ç(2ç
+&scala/meta/internal/metals/Command#id.CALL]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaç  ç("2Ø
+Hscala/meta/internal/metals/codelenses/RunTestCodeLens#command().(params)CALL]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaç2 ç(82ç
+&java/util/Collections#singletonList().CALL]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaç$ ç(1œ
+Ylocal24:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaVALUE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalau
+ u("
+endLine117"
+isVarfalse"
+symbollocal24"
+package "
+accessEmpty"
+displayNamedataKind"
+kindVALUE"
+	startLine117"
+isValtrue"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter10"
+isFinalfalse*dataKind2
+java/lang/String#TYPEÙ
+Xlocal3:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala9 9("
+endLine57"
+isVarfalse"
+symbollocal3"
+package "
+accessEmpty"
+displayNamebuildTarget"
+kind	PARAMETER"
+	startLine57"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter26"
+startCharacter15"
+isFinalfalse*buildTarget22
+*ch/epfl/scala/bsp4j/BuildTargetIdentifier#TYPEõ
+Oscala/meta/internal/metals/codelenses/RunTestCodeLens#testCommand().(className)	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalab b("
+endLine98"
+isVarfalse"Y
+symbolOscala/meta/internal/metals/codelenses/RunTestCodeLens#testCommand().(className)"0
+package%scala.meta.internal.metals.codelenses"
+accessEmpty"
+displayName	className"
+kind	PARAMETER"
+	startLine98"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter15"
+startCharacter6"
+isFinalfalse*	className2y
+scala/Predef.String#TYPE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalab b(ç%
+Dscala/meta/internal/metals/codelenses/RunTestCodeLens#mainCommand().METHOD[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalap p("
+endLine112"
+isVarfalse"N
+symbolDscala/meta/internal/metals/codelenses/RunTestCodeLens#mainCommand()."0
+package%scala.meta.internal.metals.codelenses"
+accessPrivateAccess()"
+displayNamemainCommand"
+kindMETHOD"
+	startLine112"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter25"
+startCharacter14"
+isFinalfalse"	
+LOC15*mainCommand2∂
+Lscala/meta/internal/metals/codelenses/RunTestCodeLens#mainCommand().(target)	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaq q(2¥
+Jscala/meta/internal/metals/codelenses/RunTestCodeLens#mainCommand().(main)	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalar r(
+2
+scala/package.List#RETURN_TYPE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalas s(	2w
+org/eclipse/lsp4j/CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalas
+ s(2Ü
+org/eclipse/lsp4j/Command#RETURN_TYPE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalas s(2≈
+Ylocal23:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaDECLARATION[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalat t(2≈
+Ylocal24:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaDECLARATION[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalau
+ u(2y
+ch/epfl/scala/bsp4j/CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalau u(2î
+/ch/epfl/scala/bsp4j/DebugSessionParamsDataKind#CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalau u(12•
+@ch/epfl/scala/bsp4j/DebugSessionParamsDataKind#SCALA_MAIN_CLASS.CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalau2 u(B2≈
+Ylocal25:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaDECLARATION[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalav
+ v(2Ø
+Jscala/meta/internal/metals/codelenses/RunTestCodeLens#mainCommand().(main)CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalav v(2Ø
+Jscala/meta/internal/metals/JsonParser.XtensionSerializableToJson#toJson().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalav v(2±
+Lscala/meta/internal/metals/codelenses/RunTestCodeLens#mainCommand().(target)CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaw w(2æ
+Ylocal24:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaCALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaw w($2æ
+Ylocal25:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaCALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaw& w(*2´
+Fscala/meta/internal/metals/codelenses/RunTestCodeLens#sessionParams().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaw w(2ü
+:scala/meta/internal/metals/ClientCommands.StartRunSession.CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala{ {($2æ
+Ylocal23:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaCALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala{& {(,2•
+@scala/meta/internal/metals/codelenses/RunTestCodeLens#command().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala{ {(2°
+<scala/meta/internal/metals/ClientCommands.StartDebugSession.CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala| |((2æ
+Ylocal23:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaCALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala|* |(02•
+@scala/meta/internal/metals/codelenses/RunTestCodeLens#command().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala| |(2Ö
+ scala/collection/immutable/List.CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaz z(§&
+Dscala/meta/internal/metals/codelenses/RunTestCodeLens#testCommand().METHOD[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala` `("
+endLine96"
+isVarfalse"N
+symbolDscala/meta/internal/metals/codelenses/RunTestCodeLens#testCommand()."0
+package%scala.meta.internal.metals.codelenses"
+accessPrivateAccess()"
+displayNametestCommand"
+kindMETHOD"
+	startLine96"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter25"
+startCharacter14"
+isFinalfalse"	
+LOC15*testCommand2∂
+Lscala/meta/internal/metals/codelenses/RunTestCodeLens#testCommand().(target)	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaa a(2π
+Oscala/meta/internal/metals/codelenses/RunTestCodeLens#testCommand().(className)	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalab b(2
+scala/package.List#RETURN_TYPE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalac c(	2w
+org/eclipse/lsp4j/CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalac
+ c(2Ü
+org/eclipse/lsp4j/Command#RETURN_TYPE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalac c(2≈
+Ylocal20:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaDECLARATION[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalad d(2≈
+Ylocal21:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaDECLARATION[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalae
+ e(2y
+ch/epfl/scala/bsp4j/CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalae e(2î
+/ch/epfl/scala/bsp4j/DebugSessionParamsDataKind#CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalae e(12¶
+Ach/epfl/scala/bsp4j/DebugSessionParamsDataKind#SCALA_TEST_SUITES.CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalae2 e(C2≈
+Ylocal22:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaDECLARATION[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaf
+ f(2¥
+Oscala/meta/internal/metals/codelenses/RunTestCodeLens#testCommand().(className)CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaf f((2ã
+&java/util/Collections#singletonList().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaf f(2Ø
+Jscala/meta/internal/metals/JsonParser.XtensionSerializableToJson#toJson().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaf* f(02±
+Lscala/meta/internal/metals/codelenses/RunTestCodeLens#testCommand().(target)CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalag g(2æ
+Ylocal21:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaCALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalag g($2æ
+Ylocal22:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaCALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalag& g(*2´
+Fscala/meta/internal/metals/codelenses/RunTestCodeLens#sessionParams().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalag g(2ü
+:scala/meta/internal/metals/ClientCommands.StartRunSession.CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalak k(%2æ
+Ylocal20:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaCALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalak' k(-2•
+@scala/meta/internal/metals/codelenses/RunTestCodeLens#command().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalak k(2°
+<scala/meta/internal/metals/ClientCommands.StartDebugSession.CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalal l(-2æ
+Ylocal20:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaCALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalal/ l(52•
+@scala/meta/internal/metals/codelenses/RunTestCodeLens#command().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalal l(2Ö
+ scala/collection/immutable/List.CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaj j(Ì
+Xlocal5:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaVALUE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaI I("
+endLine73"
+isVarfalse"
+symbollocal5"
+package "
+accessEmpty"
+displayName
+occurrence"
+kindVALUE"
+	startLine73"
+isValtrue"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter6"
+isFinalfalse*
+occurrence28
+0scala/meta/internal/semanticdb/SymbolOccurrence#TYPEû
+Hscala/meta/internal/metals/codelenses/RunTestCodeLens#command().(params)	PARAMETER]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaã ã("
+endLine139"
+isVarfalse"R
+symbolHscala/meta/internal/metals/codelenses/RunTestCodeLens#command().(params)"0
+package%scala.meta.internal.metals.codelenses"
+accessEmpty"
+displayNameparams"
+kind	PARAMETER"
+	startLine139"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*params2{
+ch/epfl/scala/bsp4j/CALL]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaã ã(2é
+'ch/epfl/scala/bsp4j/DebugSessionParams#TYPE]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaã ã("Ö
+Fscala/meta/internal/metals/codelenses/RunTestCodeLens#command().(name)	PARAMETER]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaâ â(
+"
+endLine137"
+isVarfalse"P
+symbolFscala/meta/internal/metals/codelenses/RunTestCodeLens#command().(name)"0
+package%scala.meta.internal.metals.codelenses"
+accessEmpty"
+displayNamename"
+kind	PARAMETER"
+	startLine137"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter6"
+isFinalfalse*name2{
+scala/Predef.String#TYPE]
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaâ â(°
+Lscala/meta/internal/metals/codelenses/RunTestCodeLens#testCommand().(target)	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaa a("
+endLine97"
+isVarfalse"V
+symbolLscala/meta/internal/metals/codelenses/RunTestCodeLens#testCommand().(target)"0
+package%scala.meta.internal.metals.codelenses"
+accessEmpty"
+displayNametarget"
+kind	PARAMETER"
+	startLine97"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*target2y
+ch/epfl/scala/bsp4j/CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaa a(2è
+*ch/epfl/scala/bsp4j/BuildTargetIdentifier#TYPE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaa a(%˜
+Ylocal11:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal11"
+package "
+accessPublicAccess()"
+displayNamecase4"
+kindMETHOD"
+	startLine0"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case42
+scala/Boolean#RETURN_TYPE⁄
+Nscala/meta/internal/metals/codelenses/RunTestCodeLens#codeLenses(+1).(classes)	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaE E("
+endLine69"
+isVarfalse"X
+symbolNscala/meta/internal/metals/codelenses/RunTestCodeLens#codeLenses(+1).(classes)"0
+package%scala.meta.internal.metals.codelenses"
+accessEmpty"
+displayNameclasses"
+kind	PARAMETER"
+	startLine69"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter6"
+isFinalfalse*classes2ô
+4scala/meta/internal/metals/debug/BuildTargetClasses.CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaE E(!2°
+<scala/meta/internal/metals/debug/BuildTargetClasses.Classes#TYPE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaE" E()˝
+Xlocal7:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaVALUE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaL L("
+endLine76"
+isVarfalse"
+symbollocal7"
+package "
+accessEmpty"
+displayNamecommands"
+kindVALUE"
+	startLine76"
+isValtrue"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter14"
+startCharacter6"
+isFinalfalse*commands2(
+ scala/collection/immutable/List#TYPE2"
+org/eclipse/lsp4j/Command#TYPE¶
+Ylocal19:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal19"
+package "
+accessPublicAccess()"
+displayName	matchEnd3"
+kindMETHOD"
+	startLine0"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*	matchEnd32g
+Zlocal655:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala	PARAMETER2/
+ scala/collection/immutable/List#RETURN_TYPE2*
+org/eclipse/lsp4j/CodeLens#RETURN_TYPEÃS
+Escala/meta/internal/metals/codelenses/RunTestCodeLens#codeLenses(+1).METHOD[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaB B("
+endLine66"
+isVarfalse"O
+symbolEscala/meta/internal/metals/codelenses/RunTestCodeLens#codeLenses(+1)."0
+package%scala.meta.internal.metals.codelenses"
+accessPrivateAccess()"
+displayName
+codeLenses"
+kindMETHOD"
+	startLine66"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter24"
+startCharacter14"
+isFinalfalse"	
+LOC29*
+codeLenses2Ω
+Sscala/meta/internal/metals/codelenses/RunTestCodeLens#codeLenses(+1).(textDocument)	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaC C(2∑
+Mscala/meta/internal/metals/codelenses/RunTestCodeLens#codeLenses(+1).(target)	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaD D(2∏
+Nscala/meta/internal/metals/codelenses/RunTestCodeLens#codeLenses(+1).(classes)	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaE E(2π
+Oscala/meta/internal/metals/codelenses/RunTestCodeLens#codeLenses(+1).(distance)	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaF F(2~
+scala/package.Seq#RETURN_TYPE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaG G(2w
+org/eclipse/lsp4j/CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaG	 G(
+2á
+org/eclipse/lsp4j/CodeLens#RETURN_TYPE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaG G(2ƒ
+Xlocal5:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaDECLARATION[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaI I(2∏
+Sscala/meta/internal/metals/codelenses/RunTestCodeLens#codeLenses(+1).(textDocument)CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaI I( 2ù
+8scala/meta/internal/semanticdb/TextDocument#occurrences.CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaI! I(,2Ω
+Xlocal5:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaCALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaJ	 J(2ö
+5scala/meta/internal/semanticdb/SymbolOccurrence#role.CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaJ J(2©
+Dscala/meta/internal/semanticdb/SymbolOccurrence.Role#isDefinition().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaJ J(%2ƒ
+Xlocal6:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaDECLARATION[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaK K(2Ω
+Xlocal5:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaCALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaK K(2ú
+7scala/meta/internal/semanticdb/SymbolOccurrence#symbol.CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaK K( 2ƒ
+Xlocal7:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaDECLARATION[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaL L(2ƒ
+Xlocal8:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaDECLARATION[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaM M(2Ñ
+scala/collection/immutable/Nil.CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaP P(2≤
+Mscala/meta/internal/metals/codelenses/RunTestCodeLens#codeLenses(+1).(target)CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaO O(!2©
+Dscala/meta/internal/metals/codelenses/RunTestCodeLens#mainCommand().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaO O(2Ω
+Xlocal6:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaCALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaN N(2≥
+Nscala/meta/internal/metals/codelenses/RunTestCodeLens#codeLenses(+1).(classes)CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaM M(2≠
+Hscala/meta/internal/metals/debug/BuildTargetClasses.Classes#mainClasses.CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaM M(&2è
+*scala/collection/concurrent/TrieMap#get().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaN N(2x
+scala/Option#map().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaO O(2~
+scala/Option#getOrElse().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaP P(2ƒ
+Xlocal9:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaDECLARATION[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaQ Q(2Ñ
+scala/collection/immutable/Nil.CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaT T(2≤
+Mscala/meta/internal/metals/codelenses/RunTestCodeLens#codeLenses(+1).(target)CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaS S(!2©
+Dscala/meta/internal/metals/codelenses/RunTestCodeLens#testCommand().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaS S(2Ω
+Xlocal6:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaCALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaR R(2≥
+Nscala/meta/internal/metals/codelenses/RunTestCodeLens#codeLenses(+1).(classes)CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaQ Q(2≠
+Hscala/meta/internal/metals/debug/BuildTargetClasses.Classes#testClasses.CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaQ Q('2è
+*scala/collection/concurrent/TrieMap#get().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaR R(2x
+scala/Option#map().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaS S(2~
+scala/Option#getOrElse().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaT T(2Ω
+Xlocal8:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaCALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaU U(2å
+'scala/collection/immutable/List#`++`().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaU U(2Ω
+Xlocal9:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaCALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaU U(2Ω
+Xlocal7:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaCALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaW	 W(2æ
+Ylocal12:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaCALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaW W(2≈
+Ylocal16:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaDECLARATION[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaX X(2√
+Ylocal15:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaZ Z(2æ
+Ylocal15:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaCALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaZ+ Z(,2∂
+Qscala/meta/internal/mtags/CommonMtagsEnrichments#XtensionSemanticdbRange#toLSP().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaZ- Z(22¥
+Oscala/meta/internal/metals/codelenses/RunTestCodeLens#codeLenses(+1).(distance)CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaZ Z( 2ü
+:scala/meta/internal/parsing/TokenEditDistance#toRevised().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaZ! Z(*2Ω
+Xlocal5:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaCALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaY Y(2õ
+6scala/meta/internal/semanticdb/SymbolOccurrence#range.CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaY Y(2|
+scala/Option#flatMap().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaZ Z(2{
+scala/Option#toList().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala[ [(2≈
+Ylocal17:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaDECLARATION[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala\ \(2Ω
+Xlocal7:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaCALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala\ \(2w
+org/eclipse/lsp4j/CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala] ](2Ä
+org/eclipse/lsp4j/CodeLens#CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala] ](2ç
+(org/eclipse/lsp4j/CodeLens#`<init>`(+2).CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala] ](2æ
+Ylocal16:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaCALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala] ]( 2æ
+Ylocal17:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaCALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala]" ]()˜
+Ylocal13:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal13"
+package "
+accessPublicAccess()"
+displayNamecase5"
+kindMETHOD"
+	startLine0"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case52
+scala/Boolean#RETURN_TYPE›
+Ylocal17:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala\ \("
+endLine92"
+isVarfalse"
+symbollocal17"
+package "
+accessEmpty"
+displayNamecommand"
+kind	PARAMETER"
+	startLine92"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter6"
+isFinalfalse*command2"
+org/eclipse/lsp4j/Command#TYPEÍ
+Yscala/meta/internal/metals/codelenses/RunTestCodeLens#codeLenses().(textDocumentWithPath)	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala. .("
+endLine46"
+isVarfalse"c
+symbolYscala/meta/internal/metals/codelenses/RunTestCodeLens#codeLenses().(textDocumentWithPath)"0
+package%scala.meta.internal.metals.codelenses"
+accessEmpty"#
+displayNametextDocumentWithPath"
+kind	PARAMETER"
+	startLine46"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter26"
+startCharacter6"
+isFinalfalse*textDocumentWithPath2ù
+8scala/meta/internal/implementation/TextDocumentWithPath#TYPE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala. .(0£
+Lscala/meta/internal/metals/codelenses/RunTestCodeLens#mainCommand().(target)	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaq q("
+endLine113"
+isVarfalse"V
+symbolLscala/meta/internal/metals/codelenses/RunTestCodeLens#mainCommand().(target)"0
+package%scala.meta.internal.metals.codelenses"
+accessEmpty"
+displayNametarget"
+kind	PARAMETER"
+	startLine113"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*target2y
+ch/epfl/scala/bsp4j/CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaq q(2è
+*ch/epfl/scala/bsp4j/BuildTargetIdentifier#TYPE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaq q(%Î
+Xlocal9:metals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaVALUE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scalaQ Q("
+endLine81"
+isVarfalse"
+symbollocal9"
+package "
+accessEmpty"
+displayNametests"
+kindVALUE"
+	startLine81"
+isValtrue"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter12"
+isFinalfalse*tests2
+scala/package.List#TYPE2"
+org/eclipse/lsp4j/Command#TYPE™
+Cscala/meta/internal/metals/codelenses/RunTestCodeLens#clientConfig.VALUE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala% %("
+endLine37"
+isVarfalse"M
+symbolCscala/meta/internal/metals/codelenses/RunTestCodeLens#clientConfig."0
+package%scala.meta.internal.metals.codelenses"
+accessPrivateThisAccess()"
+displayNameclientConfig"
+kindVALUE"
+	startLine37"
+isValtrue"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter4"
+isFinalfalse*clientConfig2î
+/scala/meta/internal/metals/ClientConfiguration#TYPE[
+Qmetals/src/main/scala/scala/meta/internal/metals/codelenses/RunTestCodeLens.scala% %(%

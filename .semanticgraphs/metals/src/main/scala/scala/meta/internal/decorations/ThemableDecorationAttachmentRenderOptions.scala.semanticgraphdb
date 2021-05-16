@@ -1,0 +1,2947 @@
+
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scalaƒ+
+Uscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().CONSTRUCTORo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala4 (4"
+endLine4"
+isVarfalse"_
+symbolUscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine4"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter52"
+startCharacter52"
+isFinalfalse*<init>2o
+bscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(contentText)	PARAMETER2s
+fscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(contentIconPath)	PARAMETER2j
+]scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(border)	PARAMETER2o
+bscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(borderColor)	PARAMETER2m
+`scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(fontStyle)	PARAMETER2n
+ascala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(fontWeight)	PARAMETER2r
+escala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(textDecoration)	PARAMETER2i
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(color)	PARAMETER2s
+fscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(backgroundColor)	PARAMETER2j
+]scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(margin)	PARAMETER2i
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(width)	PARAMETER2j
+]scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(height)	PARAMETER2k
+^scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(opacity)	PARAMETER2i
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(light)	PARAMETER2h
+[scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(dark)	PARAMETER2‘
+Vscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#contentText.	PARAMETERo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (2ÿ
+Zscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#contentIconPath.	PARAMETERo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (2œ
+Qscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#border.	PARAMETERo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (2‘
+Vscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#borderColor.	PARAMETERo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (2“
+Tscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#fontStyle.	PARAMETERo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala	 	(2”
+Uscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#fontWeight.	PARAMETERo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala
+ 
+(2◊
+Yscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#textDecoration.	PARAMETERo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (2Œ
+Pscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#color.	PARAMETERo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (2ÿ
+Zscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#backgroundColor.	PARAMETERo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (2œ
+Qscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#margin.	PARAMETERo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (2Œ
+Pscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#width.	PARAMETERo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (2œ
+Qscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#height.	PARAMETERo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (2–
+Rscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#opacity.	PARAMETERo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (2Œ
+Pscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#light.	PARAMETERo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (2Õ
+Oscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#dark.	PARAMETERo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (¯
+`scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#productElement().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"j
+symbol`scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#productElement().(x$1)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Int#TYPEà
+]scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(fontStyle)	PARAMETER"
+endLine0"
+isVarfalse"g
+symbol]scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(fontStyle)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayName	fontStyle"
+kind	PARAMETER"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*	fontStyle2
+scala/Predef.String#TYPE˙
+Yscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(margin)	PARAMETER"
+endLine0"
+isVarfalse"c
+symbolYscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(margin)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamemargin"
+kind	PARAMETER"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*margin2
+scala/Predef.String#TYPE˚
+Zscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(opacity)	PARAMETER"
+endLine0"
+isVarfalse"d
+symbolZscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(opacity)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNameopacity"
+kind	PARAMETER"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*opacity2
+java/lang/Double#TYPEˆ(
+Jscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.OBJECTm
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala ("
+endLine0"
+isVarfalse"T
+symbolJscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"8
+displayName)ThemableDecorationAttachmentRenderOptions"
+kindOBJECT"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinaltrue*)ThemableDecorationAttachmentRenderOptions2d
+Uscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.toString().DECLARATION2a
+Rscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().DECLARATION2k
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$1().DECLARATION2k
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$2().DECLARATION2k
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$3().DECLARATION2k
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$4().DECLARATION2k
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$5().DECLARATION2k
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$6().DECLARATION2k
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$7().DECLARATION2k
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$8().DECLARATION2k
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$9().DECLARATION2l
+]scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$10().DECLARATION2l
+]scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$11().DECLARATION2l
+]scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$12().DECLARATION2l
+]scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$13().DECLARATION2l
+]scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$14().DECLARATION2l
+]scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$15().DECLARATION2c
+Tscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.unapply().DECLARATION2n
+_scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$1`().DECLARATION2n
+_scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$2`().DECLARATION2n
+_scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$3`().DECLARATION2n
+_scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$4`().DECLARATION2n
+_scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$5`().DECLARATION2n
+_scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$6`().DECLARATION2n
+_scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$7`().DECLARATION2n
+_scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$8`().DECLARATION2n
+_scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$9`().DECLARATION2o
+`scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$10`().DECLARATION2o
+`scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$11`().DECLARATION2o
+`scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$12`().DECLARATION2o
+`scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$13`().DECLARATION2o
+`scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$14`().DECLARATION2o
+`scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$15`().DECLARATION2g
+Xscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.readResolve().DECLARATION2+
+!scala/runtime/AbstractFunction15#EXTEND2
+scala/Predef.String#EXTEND2
+scala/Predef.String#EXTEND2
+scala/Predef.String#EXTEND2
+scala/Predef.String#EXTEND2
+scala/Predef.String#EXTEND2
+scala/Predef.String#EXTEND2
+scala/Predef.String#EXTEND2
+scala/Predef.String#EXTEND2
+scala/Predef.String#EXTEND2
+scala/Predef.String#EXTEND2
+scala/Predef.String#EXTEND2
+scala/Predef.String#EXTEND2
+java/lang/Double#EXTEND2T
+Jscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#EXTEND2T
+Jscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#EXTEND2T
+Jscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#EXTEND2
+scala/Serializable#EXTEND€
+]scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$13().METHOD"
+endLine0"
+isVarfalse"g
+symbol]scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$13()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameapply$default$13"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply$default$132<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2 
+java/lang/Double#RETURN_TYPEé
+^scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(borderColor)	PARAMETER"
+endLine0"
+isVarfalse"h
+symbol^scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(borderColor)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNameborderColor"
+kind	PARAMETER"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*borderColor2
+scala/Predef.String#TYPEú
+`scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$14`().METHOD"
+endLine0"
+isVarfalse"j
+symbol`scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$14`()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()" 
+displayName<init>$default$14"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>$default$142<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2Y
+Jscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#RETURN_TYPE√
+Uscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#hashCode().METHOD"
+endLine0"
+isVarfalse"_
+symbolUscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#hashCode()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamehashCode"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*hashCode2
+
+scala/Int#RETURN_TYPE2(
+java/lang/Object#hashCode().OVERRIDE2!
+scala/Any#hashCode().OVERRIDE⁄
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$12().METHOD"
+endLine0"
+isVarfalse"f
+symbol\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$12()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamecopy$default$12"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$122<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE¿5
+Jscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#CLASSo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (4"
+endLine4"
+isVarfalse"T
+symbolJscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#"*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"8
+displayName)ThemableDecorationAttachmentRenderOptions"
+kindCLASS"
+	startLine4"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter52"
+startCharacter11"
+isFinalfalse"	
+LOC17*)ThemableDecorationAttachmentRenderOptions2÷
+Vscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#contentText.DECLARATIONo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (2⁄
+Zscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#contentIconPath.DECLARATIONo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (2—
+Qscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#border.DECLARATIONo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (2÷
+Vscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#borderColor.DECLARATIONo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (2‘
+Tscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#fontStyle.DECLARATIONo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala	 	(2’
+Uscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#fontWeight.DECLARATIONo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala
+ 
+(2Ÿ
+Yscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#textDecoration.DECLARATIONo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (2–
+Pscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#color.DECLARATIONo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (2⁄
+Zscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#backgroundColor.DECLARATIONo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (2—
+Qscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#margin.DECLARATIONo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (2–
+Pscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#width.DECLARATIONo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (2—
+Qscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#height.DECLARATIONo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (2“
+Rscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#opacity.DECLARATIONo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (2–
+Pscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#light.DECLARATIONo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (2œ
+Oscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#dark.DECLARATIONo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (2’
+Uscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().DECLARATIONo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala4 (42`
+Qscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().DECLARATION2j
+[scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$1().DECLARATION2j
+[scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$2().DECLARATION2j
+[scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$3().DECLARATION2j
+[scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$4().DECLARATION2j
+[scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$5().DECLARATION2j
+[scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$6().DECLARATION2j
+[scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$7().DECLARATION2j
+[scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$8().DECLARATION2j
+[scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$9().DECLARATION2k
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$10().DECLARATION2k
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$11().DECLARATION2k
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$12().DECLARATION2k
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$13().DECLARATION2k
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$14().DECLARATION2k
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$15().DECLARATION2i
+Zscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#productPrefix().DECLARATION2h
+Yscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#productArity().DECLARATION2j
+[scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#productElement().DECLARATION2k
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#productIterator().DECLARATION2d
+Uscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#canEqual().DECLARATION2d
+Uscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#hashCode().DECLARATION2d
+Uscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#toString().DECLARATION2b
+Sscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#equals().DECLARATION2
+scala/AnyRef#EXTEND2
+scala/Product#EXTEND2
+scala/Serializable#EXTENDå
+^scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(fontWeight)	PARAMETER"
+endLine0"
+isVarfalse"h
+symbol^scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(fontWeight)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayName
+fontWeight"
+kind	PARAMETER"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*
+fontWeight2
+scala/Predef.String#TYPEÛ
+Zscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#contentIconPath.VALUEo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala ("
+endLine6"
+isVarfalse"d
+symbolZscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#contentIconPath."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamecontentIconPath"
+kindVALUE"
+	startLine6"
+isValtrue"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter29"
+startCharacter14"
+isFinalfalse*contentIconPath2ç
+scala/Predef.String#TYPEo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (%¨
+Xscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(light)	PARAMETER"
+endLine0"
+isVarfalse"b
+symbolXscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(light)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamelight"
+kind	PARAMETER"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*light2R
+Jscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#TYPE÷
+[scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$5().METHOD"
+endLine0"
+isVarfalse"e
+symbol[scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$5()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamecopy$default$5"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$52<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE⁄
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$2().METHOD"
+endLine0"
+isVarfalse"f
+symbol\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$2()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameapply$default$2"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply$default$22<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPEÊ
+`scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$12`().METHOD"
+endLine0"
+isVarfalse"j
+symbol`scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$12`()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()" 
+displayName<init>$default$12"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>$default$122<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPEı
+Zscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#backgroundColor.VALUEo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala ("
+endLine13"
+isVarfalse"d
+symbolZscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#backgroundColor."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamebackgroundColor"
+kindVALUE"
+	startLine13"
+isValtrue"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter29"
+startCharacter14"
+isFinalfalse*backgroundColor2ç
+scala/Predef.String#TYPEo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (%‹
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(light)	PARAMETER"
+endLine0"
+isVarfalse"f
+symbol\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(light)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamelight"
+kind	PARAMETER"
+	startLine0"
+isValtrue"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*light2'
+javax/annotation/Nullable#	ANNOTATED2R
+Jscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#TYPEÿ
+[scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(dark)	PARAMETER"
+endLine0"
+isVarfalse"e
+symbol[scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(dark)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamedark"
+kind	PARAMETER"
+	startLine0"
+isValtrue"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*dark2'
+javax/annotation/Nullable#	ANNOTATED2R
+Jscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#TYPE„
+Vscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#contentText.VALUEo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala ("
+endLine5"
+isVarfalse"`
+symbolVscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#contentText."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamecontentText"
+kindVALUE"
+	startLine5"
+isValtrue"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter25"
+startCharacter14"
+isFinalfalse*contentText2ç
+scala/Predef.String#TYPEo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (!œ
+Qscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#border.VALUEo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala ("
+endLine7"
+isVarfalse"[
+symbolQscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#border."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameborder"
+kindVALUE"
+	startLine7"
+isValtrue"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter14"
+isFinalfalse*border2ç
+scala/Predef.String#TYPEo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (‚
+_scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$9`().METHOD"
+endLine0"
+isVarfalse"i
+symbol_scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$9`()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayName<init>$default$9"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>$default$92<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE´
+^scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(opacity)	PARAMETER"
+endLine0"
+isVarfalse"h
+symbol^scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(opacity)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNameopacity"
+kind	PARAMETER"
+	startLine0"
+isValtrue"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*opacity2'
+javax/annotation/Nullable#	ANNOTATED2
+java/lang/Double#TYPEê
+Tscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.unapply().METHOD"
+endLine0"
+isVarfalse"^
+symbolTscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.unapply()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameunapply"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*unapply2f
+Yscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.unapply().(x$0)	PARAMETER2
+scala/Option#RETURN_TYPE2
+scala/Tuple15#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE2 
+java/lang/Double#RETURN_TYPE2Y
+Jscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#RETURN_TYPE2Y
+Jscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#RETURN_TYPE‚
+_scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$2`().METHOD"
+endLine0"
+isVarfalse"i
+symbol_scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$2`()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayName<init>$default$2"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>$default$22<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPEä
+Xscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.readResolve().METHOD"
+endLine0"
+isVarfalse"b
+symbolXscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.readResolve()."*
+packagescala.meta.internal.decorations"
+accessPrivateAccess()"
+displayNamereadResolve"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*readResolve2 
+java/lang/Object#RETURN_TYPEë
+llocal4:metals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal4"
+package "
+accessEmpty":
+displayName+ThemableDecorationAttachmentRenderOptions$1"
+kindVALUE"
+	startLine0"
+isValtrue"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*+ThemableDecorationAttachmentRenderOptions$12R
+Jscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#TYPE÷
+[scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$2().METHOD"
+endLine0"
+isVarfalse"e
+symbol[scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$2()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamecopy$default$2"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$22<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE⁄
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$5().METHOD"
+endLine0"
+isVarfalse"f
+symbol\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$5()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameapply$default$5"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply$default$52<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE 
+Uscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#toString().METHOD"
+endLine0"
+isVarfalse"_
+symbolUscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#toString()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNametoString"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*toString2 
+java/lang/String#RETURN_TYPE2(
+java/lang/Object#toString().OVERRIDE2!
+scala/Any#toString().OVERRIDEÆ
+Yscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(light)	PARAMETER"
+endLine0"
+isVarfalse"c
+symbolYscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(light)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamelight"
+kind	PARAMETER"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*light2R
+Jscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#TYPEˆ
+Xscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(color)	PARAMETER"
+endLine0"
+isVarfalse"b
+symbolXscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(color)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamecolor"
+kind	PARAMETER"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*color2
+scala/Predef.String#TYPEê
+_scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(borderColor)	PARAMETER"
+endLine0"
+isVarfalse"i
+symbol_scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(borderColor)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNameborderColor"
+kind	PARAMETER"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*borderColor2
+scala/Predef.String#TYPE⁄
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$1().METHOD"
+endLine0"
+isVarfalse"f
+symbol\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$1()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameapply$default$1"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply$default$12<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE¶
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(color)	PARAMETER"
+endLine0"
+isVarfalse"f
+symbol\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(color)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamecolor"
+kind	PARAMETER"
+	startLine0"
+isValtrue"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*color2'
+javax/annotation/Nullable#	ANNOTATED2
+scala/Predef.String#TYPEé
+^scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(contentText)	PARAMETER"
+endLine0"
+isVarfalse"h
+symbol^scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(contentText)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamecontentText"
+kind	PARAMETER"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*contentText2
+scala/Predef.String#TYPE˙
+Yscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(border)	PARAMETER"
+endLine0"
+isVarfalse"c
+symbolYscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(border)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNameborder"
+kind	PARAMETER"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*border2
+scala/Predef.String#TYPE‚
+_scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$6`().METHOD"
+endLine0"
+isVarfalse"i
+symbol_scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$6`()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayName<init>$default$6"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>$default$62<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPEÛ
+Uscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.toString().METHOD"
+endLine0"
+isVarfalse"_
+symbolUscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.toString()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNametoString"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinaltrue*toString2 
+java/lang/String#RETURN_TYPE2(
+scala/Function15#toString().OVERRIDE2(
+java/lang/Object#toString().OVERRIDE2!
+scala/Any#toString().OVERRIDEË
+Xscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#equals().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"b
+symbolXscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#equals().(x$1)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Any#TYPE„
+Vscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#borderColor.VALUEo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala ("
+endLine8"
+isVarfalse"`
+symbolVscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#borderColor."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameborderColor"
+kindVALUE"
+	startLine8"
+isValtrue"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter25"
+startCharacter14"
+isFinalfalse*borderColor2ç
+scala/Predef.String#TYPEo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (!÷
+[scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$7().METHOD"
+endLine0"
+isVarfalse"e
+symbol[scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$7()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamecopy$default$7"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$72<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE¸
+Zscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(margin)	PARAMETER"
+endLine0"
+isVarfalse"d
+symbolZscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(margin)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamemargin"
+kind	PARAMETER"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*margin2
+scala/Predef.String#TYPE∆
+Sscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#equals().METHOD"
+endLine0"
+isVarfalse"]
+symbolSscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#equals()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameequals"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*equals2e
+Xscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#equals().(x$1)	PARAMETER2
+scala/Boolean#RETURN_TYPE2"
+scala/Equals#equals().OVERRIDE2&
+java/lang/Object#equals().OVERRIDE2
+scala/Any#equals().OVERRIDE—
+Qscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#margin.VALUEo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala ("
+endLine14"
+isVarfalse"[
+symbolQscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#margin."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamemargin"
+kindVALUE"
+	startLine14"
+isValtrue"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter14"
+isFinalfalse*margin2ç
+scala/Predef.String#TYPEo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (™
+]scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(height)	PARAMETER"
+endLine0"
+isVarfalse"g
+symbol]scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(height)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNameheight"
+kind	PARAMETER"
+	startLine0"
+isValtrue"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*height2'
+javax/annotation/Nullable#	ANNOTATED2
+scala/Predef.String#TYPEÒ
+Yscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#textDecoration.VALUEo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala ("
+endLine11"
+isVarfalse"c
+symbolYscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#textDecoration."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNametextDecoration"
+kindVALUE"
+	startLine11"
+isValtrue"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter28"
+startCharacter14"
+isFinalfalse*textDecoration2ç
+scala/Predef.String#TYPEo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala ($Œ
+fscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(backgroundColor)	PARAMETER"
+endLine0"
+isVarfalse"p
+symbolfscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(backgroundColor)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamebackgroundColor"
+kind	PARAMETER"
+	startLine0"
+isValtrue"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*backgroundColor2'
+javax/annotation/Nullable#	ANNOTATED2
+scala/Predef.String#TYPEﬁ
+]scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$11().METHOD"
+endLine0"
+isVarfalse"g
+symbol]scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$11()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameapply$default$11"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply$default$112<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE⁄
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$10().METHOD"
+endLine0"
+isVarfalse"f
+symbol\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$10()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamecopy$default$10"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$102<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPEˇ
+llocal0:metals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal0"
+package "
+accessEmpty"
+displayNamex1"
+kindVALUE"
+	startLine0"
+isValtrue"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x12
+
+scala/Any#TYPEÊ
+`scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$10`().METHOD"
+endLine0"
+isVarfalse"j
+symbol`scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$10`()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()" 
+displayName<init>$default$10"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>$default$102<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE 
+escala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(textDecoration)	PARAMETER"
+endLine0"
+isVarfalse"o
+symbolescala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(textDecoration)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNametextDecoration"
+kind	PARAMETER"
+	startLine0"
+isValtrue"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*textDecoration2'
+javax/annotation/Nullable#	ANNOTATED2
+scala/Predef.String#TYPE⁄
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$4().METHOD"
+endLine0"
+isVarfalse"f
+symbol\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$4()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameapply$default$4"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply$default$42<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPEÏ
+Zscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#canEqual().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"d
+symbolZscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#canEqual().(x$1)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Any#TYPEâ
+Uscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#canEqual().METHOD"
+endLine0"
+isVarfalse"_
+symbolUscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#canEqual()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamecanEqual"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*canEqual2g
+Zscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#canEqual().(x$1)	PARAMETER2
+scala/Boolean#RETURN_TYPE2$
+scala/Equals#canEqual().OVERRIDE‚
+_scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$4`().METHOD"
+endLine0"
+isVarfalse"i
+symbol_scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$4`()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayName<init>$default$4"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>$default$42<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE¢
+llocal3:metals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal3"
+package "
+accessPublicAccess()"
+displayName	matchEnd4"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*	matchEnd42{
+nlocal128:metals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala	PARAMETER2
+scala/Boolean#RETURN_TYPEê
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$15().METHOD"
+endLine0"
+isVarfalse"f
+symbol\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$15()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamecopy$default$15"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$152<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2Y
+Jscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#RETURN_TYPEî
+]scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$14().METHOD"
+endLine0"
+isVarfalse"g
+symbol]scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$14()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameapply$default$14"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply$default$142<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2Y
+Jscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#RETURN_TYPE™
+Yscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.unapply().(x$0)	PARAMETER"
+endLine0"
+isVarfalse"c
+symbolYscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.unapply().(x$0)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamex$0"
+kind	PARAMETER"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$02R
+Jscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#TYPE÷
+[scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$4().METHOD"
+endLine0"
+isVarfalse"e
+symbol[scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$4()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamecopy$default$4"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$42<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE⁄
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$7().METHOD"
+endLine0"
+isVarfalse"f
+symbol\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$7()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameapply$default$7"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply$default$72<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE±
+Yscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#productArity().METHOD"
+endLine0"
+isVarfalse"c
+symbolYscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#productArity()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameproductArity"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productArity2
+
+scala/Int#RETURN_TYPE2)
+scala/Product#productArity().OVERRIDEÜ
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(fontStyle)	PARAMETER"
+endLine0"
+isVarfalse"f
+symbol\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(fontStyle)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayName	fontStyle"
+kind	PARAMETER"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*	fontStyle2
+scala/Predef.String#TYPEù
+llocal2:metals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal2"
+package "
+accessPublicAccess()"
+displayNamecase6"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case62
+scala/Boolean#RETURN_TYPE‚
+_scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$1`().METHOD"
+endLine0"
+isVarfalse"i
+symbol_scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$1`()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayName<init>$default$1"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>$default$12<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE€
+Tscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#fontStyle.VALUEo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala	 	("
+endLine9"
+isVarfalse"^
+symbolTscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#fontStyle."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayName	fontStyle"
+kindVALUE"
+	startLine9"
+isValtrue"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter14"
+isFinalfalse*	fontStyle2ç
+scala/Predef.String#TYPEo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala	 	(ú
+`scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$15`().METHOD"
+endLine0"
+isVarfalse"j
+symbol`scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$15`()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()" 
+displayName<init>$default$15"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>$default$152<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2Y
+Jscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#RETURN_TYPE®
+Wscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(dark)	PARAMETER"
+endLine0"
+isVarfalse"a
+symbolWscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(dark)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamedark"
+kind	PARAMETER"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*dark2R
+Jscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#TYPE¯
+Yscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(color)	PARAMETER"
+endLine0"
+isVarfalse"c
+symbolYscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(color)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamecolor"
+kind	PARAMETER"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*color2
+scala/Predef.String#TYPE™
+]scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(margin)	PARAMETER"
+endLine0"
+isVarfalse"g
+symbol]scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(margin)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamemargin"
+kind	PARAMETER"
+	startLine0"
+isValtrue"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*margin2'
+javax/annotation/Nullable#	ANNOTATED2
+scala/Predef.String#TYPEˆ
+Xscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(width)	PARAMETER"
+endLine0"
+isVarfalse"b
+symbolXscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(width)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamewidth"
+kind	PARAMETER"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*width2
+scala/Predef.String#TYPEˇ
+Oscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#dark.VALUEo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala ("
+endLine19"
+isVarfalse"Y
+symbolOscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#dark."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamedark"
+kindVALUE"
+	startLine19"
+isValtrue"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter14"
+isFinalfalse*dark2√
+Jscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#TYPEo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (=Â
+Qscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().METHOD"
+endLine0"
+isVarfalse"[
+symbolQscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamecopy"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy2k
+^scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(contentText)	PARAMETER2o
+bscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(contentIconPath)	PARAMETER2f
+Yscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(border)	PARAMETER2k
+^scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(borderColor)	PARAMETER2i
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(fontStyle)	PARAMETER2j
+]scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(fontWeight)	PARAMETER2n
+ascala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(textDecoration)	PARAMETER2e
+Xscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(color)	PARAMETER2o
+bscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(backgroundColor)	PARAMETER2f
+Yscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(margin)	PARAMETER2e
+Xscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(width)	PARAMETER2f
+Yscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(height)	PARAMETER2g
+Zscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(opacity)	PARAMETER2e
+Xscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(light)	PARAMETER2d
+Wscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(dark)	PARAMETER2Y
+Jscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#RETURN_TYPEæ
+bscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(contentText)	PARAMETER"
+endLine0"
+isVarfalse"l
+symbolbscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(contentText)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamecontentText"
+kind	PARAMETER"
+	startLine0"
+isValtrue"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*contentText2'
+javax/annotation/Nullable#	ANNOTATED2
+scala/Predef.String#TYPE∫
+ascala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(fontWeight)	PARAMETER"
+endLine0"
+isVarfalse"k
+symbolascala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(fontWeight)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayName
+fontWeight"
+kind	PARAMETER"
+	startLine0"
+isValtrue"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*
+fontWeight2'
+javax/annotation/Nullable#	ANNOTATED2
+scala/Predef.String#TYPE¶
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(width)	PARAMETER"
+endLine0"
+isVarfalse"f
+symbol\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(width)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamewidth"
+kind	PARAMETER"
+	startLine0"
+isValtrue"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*width2'
+javax/annotation/Nullable#	ANNOTATED2
+scala/Predef.String#TYPE·
+Uscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#fontWeight.VALUEo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala
+ 
+("
+endLine10"
+isVarfalse"_
+symbolUscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#fontWeight."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayName
+fontWeight"
+kindVALUE"
+	startLine10"
+isValtrue"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter24"
+startCharacter14"
+isFinalfalse*
+fontWeight2ç
+scala/Predef.String#TYPEo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala
+ 
+( ÿ
+Rscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#opacity.VALUEo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala ("
+endLine17"
+isVarfalse"\
+symbolRscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#opacity."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameopacity"
+kindVALUE"
+	startLine17"
+isValtrue"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter14"
+isFinalfalse*opacity2~
+java/CALLo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (2É
+
+java/lang/CALLo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala ( 2ä
+java/lang/Double#TYPEo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala! ('⁄
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$6().METHOD"
+endLine0"
+isVarfalse"f
+symbol\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$6()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameapply$default$6"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply$default$62<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE†
+cscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(contentIconPath)	PARAMETER"
+endLine0"
+isVarfalse"m
+symbolcscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(contentIconPath)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamecontentIconPath"
+kind	PARAMETER"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*contentIconPath2
+scala/Predef.String#TYPEö
+ascala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(textDecoration)	PARAMETER"
+endLine0"
+isVarfalse"k
+symbolascala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(textDecoration)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNametextDecoration"
+kind	PARAMETER"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*textDecoration2
+scala/Predef.String#TYPE÷
+[scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$1().METHOD"
+endLine0"
+isVarfalse"e
+symbol[scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$1()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamecopy$default$1"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$12<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE†
+cscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(backgroundColor)	PARAMETER"
+endLine0"
+isVarfalse"m
+symbolcscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(backgroundColor)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamebackgroundColor"
+kind	PARAMETER"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*backgroundColor2
+scala/Predef.String#TYPE÷
+[scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$9().METHOD"
+endLine0"
+isVarfalse"e
+symbol[scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$9()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamecopy$default$9"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$92<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE¸
+Zscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(height)	PARAMETER"
+endLine0"
+isVarfalse"d
+symbolZscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(height)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNameheight"
+kind	PARAMETER"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*height2
+scala/Predef.String#TYPE‚
+_scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$3`().METHOD"
+endLine0"
+isVarfalse"i
+symbol_scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$3`()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayName<init>$default$3"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>$default$32<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE‚
+_scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$8`().METHOD"
+endLine0"
+isVarfalse"i
+symbol_scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$8`()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayName<init>$default$8"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>$default$82<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPEΩ
+Zscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#productPrefix().METHOD"
+endLine0"
+isVarfalse"d
+symbolZscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#productPrefix()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameproductPrefix"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productPrefix2 
+java/lang/String#RETURN_TYPE2*
+scala/Product#productPrefix().OVERRIDE„
+`scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$13`().METHOD"
+endLine0"
+isVarfalse"j
+symbol`scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$13`()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()" 
+displayName<init>$default$13"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>$default$132<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2 
+java/lang/Double#RETURN_TYPEû
+bscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(backgroundColor)	PARAMETER"
+endLine0"
+isVarfalse"l
+symbolbscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(backgroundColor)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamebackgroundColor"
+kind	PARAMETER"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*backgroundColor2
+scala/Predef.String#TYPEû
+bscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(contentIconPath)	PARAMETER"
+endLine0"
+isVarfalse"l
+symbolbscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(contentIconPath)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamecontentIconPath"
+kind	PARAMETER"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*contentIconPath2
+scala/Predef.String#TYPEﬁ
+]scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$12().METHOD"
+endLine0"
+isVarfalse"g
+symbol]scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$12()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameapply$default$12"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply$default$122<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPEæ
+bscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(borderColor)	PARAMETER"
+endLine0"
+isVarfalse"l
+symbolbscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(borderColor)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNameborderColor"
+kind	PARAMETER"
+	startLine0"
+isValtrue"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*borderColor2'
+javax/annotation/Nullable#	ANNOTATED2
+scala/Predef.String#TYPEÕ
+Pscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#color.VALUEo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala ("
+endLine12"
+isVarfalse"Z
+symbolPscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#color."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamecolor"
+kindVALUE"
+	startLine12"
+isValtrue"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter14"
+isFinalfalse*color2ç
+scala/Predef.String#TYPEo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (ù
+llocal1:metals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal1"
+package "
+accessPublicAccess()"
+displayNamecase5"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case52
+scala/Boolean#RETURN_TYPEä
+]scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(fontWeight)	PARAMETER"
+endLine0"
+isVarfalse"g
+symbol]scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(fontWeight)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayName
+fontWeight"
+kind	PARAMETER"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*
+fontWeight2
+scala/Predef.String#TYPE◊
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$13().METHOD"
+endLine0"
+isVarfalse"f
+symbol\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$13()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamecopy$default$13"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$132<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2 
+java/lang/Double#RETURN_TYPE÷
+[scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$6().METHOD"
+endLine0"
+isVarfalse"e
+symbol[scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$6()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamecopy$default$6"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$62<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE⁄
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$9().METHOD"
+endLine0"
+isVarfalse"f
+symbol\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$9()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameapply$default$9"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply$default$92<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPEÉ
+Pscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#light.VALUEo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala ("
+endLine18"
+isVarfalse"Z
+symbolPscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#light."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamelight"
+kindVALUE"
+	startLine18"
+isValtrue"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter14"
+isFinalfalse*light2√
+Jscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#TYPEo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (>™
+]scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(border)	PARAMETER"
+endLine0"
+isVarfalse"g
+symbol]scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(border)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNameborder"
+kind	PARAMETER"
+	startLine0"
+isValtrue"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*border2'
+javax/annotation/Nullable#	ANNOTATED2
+scala/Predef.String#TYPEŒ
+fscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(contentIconPath)	PARAMETER"
+endLine0"
+isVarfalse"p
+symbolfscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(contentIconPath)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamecontentIconPath"
+kind	PARAMETER"
+	startLine0"
+isValtrue"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*contentIconPath2'
+javax/annotation/Nullable#	ANNOTATED2
+scala/Predef.String#TYPEú
+bscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(textDecoration)	PARAMETER"
+endLine0"
+isVarfalse"l
+symbolbscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(textDecoration)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNametextDecoration"
+kind	PARAMETER"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*textDecoration2
+scala/Predef.String#TYPEî
+]scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$15().METHOD"
+endLine0"
+isVarfalse"g
+symbol]scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$15()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameapply$default$15"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply$default$152<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2Y
+Jscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#RETURN_TYPE‚
+_scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$7`().METHOD"
+endLine0"
+isVarfalse"i
+symbol_scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$7`()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayName<init>$default$7"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>$default$72<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE˙
+Yscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(height)	PARAMETER"
+endLine0"
+isVarfalse"c
+symbolYscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy().(height)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNameheight"
+kind	PARAMETER"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*height2
+scala/Predef.String#TYPEÊ
+`scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$11`().METHOD"
+endLine0"
+isVarfalse"j
+symbol`scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$11`()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()" 
+displayName<init>$default$11"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>$default$112<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPEê
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$14().METHOD"
+endLine0"
+isVarfalse"f
+symbol\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$14()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamecopy$default$14"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$142<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2Y
+Jscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#RETURN_TYPE¯
+Yscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(width)	PARAMETER"
+endLine0"
+isVarfalse"c
+symbolYscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(width)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamewidth"
+kind	PARAMETER"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*width2
+scala/Predef.String#TYPE‘
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scalaFILE*emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala÷
+[scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$3().METHOD"
+endLine0"
+isVarfalse"e
+symbol[scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$3()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamecopy$default$3"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$32<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE⁄
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$8().METHOD"
+endLine0"
+isVarfalse"f
+symbol\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$8()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameapply$default$8"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply$default$82<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPEü
+Rscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().METHOD"
+endLine0"
+isVarfalse"\
+symbolRscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameapply"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply2l
+_scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(contentText)	PARAMETER2p
+cscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(contentIconPath)	PARAMETER2g
+Zscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(border)	PARAMETER2l
+_scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(borderColor)	PARAMETER2j
+]scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(fontStyle)	PARAMETER2k
+^scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(fontWeight)	PARAMETER2o
+bscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(textDecoration)	PARAMETER2f
+Yscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(color)	PARAMETER2p
+cscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(backgroundColor)	PARAMETER2g
+Zscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(margin)	PARAMETER2f
+Yscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(width)	PARAMETER2g
+Zscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(height)	PARAMETER2h
+[scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(opacity)	PARAMETER2f
+Yscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(light)	PARAMETER2e
+Xscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(dark)	PARAMETER2Y
+Jscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#RETURN_TYPE2%
+scala/Function15#apply().OVERRIDEê
+_scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(contentText)	PARAMETER"
+endLine0"
+isVarfalse"i
+symbol_scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(contentText)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamecontentText"
+kind	PARAMETER"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*contentText2
+scala/Predef.String#TYPE—
+Qscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#height.VALUEo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala ("
+endLine16"
+isVarfalse"[
+symbolQscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#height."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameheight"
+kindVALUE"
+	startLine16"
+isValtrue"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter14"
+isFinalfalse*height2ç
+scala/Predef.String#TYPEo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (¸
+Zscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(border)	PARAMETER"
+endLine0"
+isVarfalse"d
+symbolZscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(border)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNameborder"
+kind	PARAMETER"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*border2
+scala/Predef.String#TYPE∂
+`scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(fontStyle)	PARAMETER"
+endLine0"
+isVarfalse"j
+symbol`scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#`<init>`().(fontStyle)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayName	fontStyle"
+kind	PARAMETER"
+	startLine0"
+isValtrue"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*	fontStyle2'
+javax/annotation/Nullable#	ANNOTATED2
+scala/Predef.String#TYPE™
+Xscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(dark)	PARAMETER"
+endLine0"
+isVarfalse"b
+symbolXscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(dark)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNamedark"
+kind	PARAMETER"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*dark2R
+Jscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#TYPE÷
+[scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$8().METHOD"
+endLine0"
+isVarfalse"e
+symbol[scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$8()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamecopy$default$8"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$82<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE™
+[scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#productElement().METHOD"
+endLine0"
+isVarfalse"e
+symbol[scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#productElement()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameproductElement"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productElement2m
+`scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#productElement().(x$1)	PARAMETER2
+
+scala/Any#RETURN_TYPE2+
+scala/Product#productElement().OVERRIDE‚
+_scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$5`().METHOD"
+endLine0"
+isVarfalse"i
+symbol_scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.`<init>$default$5`()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayName<init>$default$5"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>$default$52<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPEÕ
+Pscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#width.VALUEo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala ("
+endLine15"
+isVarfalse"Z
+symbolPscala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#width."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamewidth"
+kindVALUE"
+	startLine15"
+isValtrue"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter14"
+isFinalfalse*width2ç
+scala/Predef.String#TYPEo
+emetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala (˝
+[scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(opacity)	PARAMETER"
+endLine0"
+isVarfalse"e
+symbol[scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply().(opacity)"*
+packagescala.meta.internal.decorations"
+accessEmpty"
+displayNameopacity"
+kind	PARAMETER"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*opacity2
+java/lang/Double#TYPE⁄
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$11().METHOD"
+endLine0"
+isVarfalse"f
+symbol\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#copy$default$11()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNamecopy$default$11"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$112<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPEﬁ
+]scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$10().METHOD"
+endLine0"
+isVarfalse"g
+symbol]scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$10()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameapply$default$10"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply$default$102<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE⁄
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$3().METHOD"
+endLine0"
+isVarfalse"f
+symbol\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.apply$default$3()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameapply$default$3"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply$default$32<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPEÎ
+\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#productIterator().METHOD"
+endLine0"
+isVarfalse"f
+symbol\scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions#productIterator()."*
+packagescala.meta.internal.decorations"
+accessPublicAccess()"
+displayNameproductIterator"
+kindMETHOD"
+	startLine0"
+isValfalse"l
+uriemetals/src/main/scala/scala/meta/internal/decorations/ThemableDecorationAttachmentRenderOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productIterator2)
+scala/collection/Iterator#RETURN_TYPE2
+
+scala/Any#RETURN_TYPE2,
+ scala/Product#productIterator().OVERRIDE

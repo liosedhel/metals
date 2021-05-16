@@ -1,0 +1,88 @@
+
+Cmtags/src/main/scala-2/scala/meta/internal/pc/CompletionFuzzy.scalaê
+Cmtags/src/main/scala-2/scala/meta/internal/pc/CompletionFuzzy.scalaFILE*Cmtags/src/main/scala-2/scala/meta/internal/pc/CompletionFuzzy.scalaÕ
+'scala/meta/internal/pc/CompletionFuzzy.OBJECTM
+Cmtags/src/main/scala-2/scala/meta/internal/pc/CompletionFuzzy.scala ("
+endLine7"
+isVarfalse"1
+symbol'scala/meta/internal/pc/CompletionFuzzy."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameCompletionFuzzy"
+kindOBJECT"
+	startLine7"
+isValfalse"J
+uriCmtags/src/main/scala-2/scala/meta/internal/pc/CompletionFuzzy.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter7"
+isFinaltrue"
+LOC6*CompletionFuzzy2ì
+5scala/meta/internal/pc/CompletionFuzzy.isDelimiter().DECLARATIONM
+Cmtags/src/main/scala-2/scala/meta/internal/pc/CompletionFuzzy.scala
+ 
+(2z
+!scala/meta/internal/metals/Fuzzy#EXTENDM
+Cmtags/src/main/scala-2/scala/meta/internal/pc/CompletionFuzzy.scala ($†
+9scala/meta/internal/pc/CompletionFuzzy.isDelimiter().(ch)	PARAMETERM
+Cmtags/src/main/scala-2/scala/meta/internal/pc/CompletionFuzzy.scala
+ 
+("
+endLine10"
+isVarfalse"C
+symbol9scala/meta/internal/pc/CompletionFuzzy.isDelimiter().(ch)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamech"
+kind	PARAMETER"
+	startLine10"
+isValfalse"J
+uriCmtags/src/main/scala-2/scala/meta/internal/pc/CompletionFuzzy.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter29"
+startCharacter27"
+isFinalfalse*ch2b
+scala/Char#TYPEM
+Cmtags/src/main/scala-2/scala/meta/internal/pc/CompletionFuzzy.scala
+ 
+(#ñ
+5scala/meta/internal/pc/CompletionFuzzy.isDelimiter().METHODM
+Cmtags/src/main/scala-2/scala/meta/internal/pc/CompletionFuzzy.scala
+ 
+("
+endLine10"
+isVarfalse"?
+symbol5scala/meta/internal/pc/CompletionFuzzy.isDelimiter()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameisDelimiter"
+kindMETHOD"
+	startLine10"
+isValfalse"J
+uriCmtags/src/main/scala-2/scala/meta/internal/pc/CompletionFuzzy.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter26"
+startCharacter15"
+isFinalfalse"
+LOC1*isDelimiter2;
+/scala/meta/internal/metals/Fuzzy#isDelimiter().OVERRIDE2ï
+9scala/meta/internal/pc/CompletionFuzzy.isDelimiter().(ch)	PARAMETERM
+Cmtags/src/main/scala-2/scala/meta/internal/pc/CompletionFuzzy.scala
+ 
+(2l
+scala/Boolean#RETURN_TYPEM
+Cmtags/src/main/scala-2/scala/meta/internal/pc/CompletionFuzzy.scala
+& 
+(-

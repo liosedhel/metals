@@ -1,0 +1,1656 @@
+
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scalaà
+Vscala/meta/internal/pc/CompilerInitializationOptions.apply().(isCompletionItemResolve)	PARAMETER"
+endLine0"
+isVarfalse"`
+symbolVscala/meta/internal/pc/CompilerInitializationOptions.apply().(isCompletionItemResolve)"!
+packagescala.meta.internal.pc"
+accessEmpty"&
+displayNameisCompletionItemResolve"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*isCompletionItemResolve2
+scala/Option#TYPE2
+scala/Boolean#TYPEË
+>scala/meta/internal/pc/CompilerInitializationOptions#equals().METHOD"
+endLine0"
+isVarfalse"H
+symbol>scala/meta/internal/pc/CompilerInitializationOptions#equals()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameequals"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*equals2P
+Cscala/meta/internal/pc/CompilerInitializationOptions#equals().(x$1)	PARAMETER2
+scala/Boolean#RETURN_TYPE2"
+scala/Equals#equals().OVERRIDE2&
+java/lang/Object#equals().OVERRIDE2
+scala/Any#equals().OVERRIDE®
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scalaFILE*Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scalaÜ
+Tscala/meta/internal/pc/CompilerInitializationOptions.apply().(parameterHintsCommand)	PARAMETER"
+endLine0"
+isVarfalse"^
+symbolTscala/meta/internal/pc/CompilerInitializationOptions.apply().(parameterHintsCommand)"!
+packagescala.meta.internal.pc"
+accessEmpty"$
+displayNameparameterHintsCommand"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*parameterHintsCommand2
+scala/Option#TYPE2
+scala/Predef.String#TYPEÓ
+Oscala/meta/internal/pc/CompilerInitializationOptions#copy().(snippetAutoIndent)	PARAMETER"
+endLine0"
+isVarfalse"Y
+symbolOscala/meta/internal/pc/CompilerInitializationOptions#copy().(snippetAutoIndent)"!
+packagescala.meta.internal.pc"
+accessEmpty" 
+displayNamesnippetAutoIndent"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*snippetAutoIndent2
+scala/Option#TYPE2
+scala/Boolean#TYPE´
+Fscala/meta/internal/pc/CompilerInitializationOptions#copy$default$8().METHOD"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/pc/CompilerInitializationOptions#copy$default$8()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamecopy$default$8"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$82<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+scala/Option#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPEµ
+@scala/meta/internal/pc/CompilerInitializationOptions#`<init>`().CONSTRUCTORY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala( (("
+endLine23"
+isVarfalse"J
+symbol@scala/meta/internal/pc/CompilerInitializationOptions#`<init>`()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine23"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter40"
+startCharacter40"
+isFinalfalse*<init>2`
+Sscala/meta/internal/pc/CompilerInitializationOptions#`<init>`().(completionCommand)	PARAMETER2l
+_scala/meta/internal/pc/CompilerInitializationOptions#`<init>`().(isCompletionItemDetailEnabled)	PARAMETER2s
+fscala/meta/internal/pc/CompilerInitializationOptions#`<init>`().(isCompletionItemDocumentationEnabled)	PARAMETER2f
+Yscala/meta/internal/pc/CompilerInitializationOptions#`<init>`().(isCompletionItemResolve)	PARAMETER2j
+]scala/meta/internal/pc/CompilerInitializationOptions#`<init>`().(isHoverDocumentationEnabled)	PARAMETER2r
+escala/meta/internal/pc/CompilerInitializationOptions#`<init>`().(isSignatureHelpDocumentationEnabled)	PARAMETER2`
+Sscala/meta/internal/pc/CompilerInitializationOptions#`<init>`().(overrideDefFormat)	PARAMETER2d
+Wscala/meta/internal/pc/CompilerInitializationOptions#`<init>`().(parameterHintsCommand)	PARAMETER2`
+Sscala/meta/internal/pc/CompilerInitializationOptions#`<init>`().(snippetAutoIndent)	PARAMETER2Ø
+Gscala/meta/internal/pc/CompilerInitializationOptions#completionCommand.	PARAMETERY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala (2ª
+Sscala/meta/internal/pc/CompilerInitializationOptions#isCompletionItemDetailEnabled.	PARAMETERY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala (!2¬
+Zscala/meta/internal/pc/CompilerInitializationOptions#isCompletionItemDocumentationEnabled.	PARAMETERY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala ((2µ
+Mscala/meta/internal/pc/CompilerInitializationOptions#isCompletionItemResolve.	PARAMETERY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala (2π
+Qscala/meta/internal/pc/CompilerInitializationOptions#isHoverDocumentationEnabled.	PARAMETERY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala (2¡
+Yscala/meta/internal/pc/CompilerInitializationOptions#isSignatureHelpDocumentationEnabled.	PARAMETERY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala ('2Ø
+Gscala/meta/internal/pc/CompilerInitializationOptions#overrideDefFormat.	PARAMETERY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala (2≥
+Kscala/meta/internal/pc/CompilerInitializationOptions#parameterHintsCommand.	PARAMETERY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala (2Ø
+Gscala/meta/internal/pc/CompilerInitializationOptions#snippetAutoIndent.	PARAMETERY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala   (•
+Fscala/meta/internal/pc/CompilerInitializationOptions#copy$default$4().METHOD"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/pc/CompilerInitializationOptions#copy$default$4()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamecopy$default$4"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$42<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+scala/Option#RETURN_TYPE2
+scala/Boolean#RETURN_TYPEç
+Yscala/meta/internal/pc/CompilerInitializationOptions#`<init>`().(isCompletionItemResolve)	PARAMETER"
+endLine0"
+isVarfalse"c
+symbolYscala/meta/internal/pc/CompilerInitializationOptions#`<init>`().(isCompletionItemResolve)"!
+packagescala.meta.internal.pc"
+accessEmpty"&
+displayNameisCompletionItemResolve"
+kind	PARAMETER"
+	startLine0"
+isValtrue"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*isCompletionItemResolve2
+scala/Option#TYPE2
+scala/Boolean#TYPE¯
+Gscala/meta/internal/pc/CompilerInitializationOptions#overrideDefFormat.VALUEY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala ("
+endLine30"
+isVarfalse"Q
+symbolGscala/meta/internal/pc/CompilerInitializationOptions#overrideDefFormat."!
+packagescala.meta.internal.pc"
+accessPublicAccess()" 
+displayNameoverrideDefFormat"
+kindVALUE"
+	startLine30"
+isValtrue"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter4"
+isFinalfalse*overrideDefFormat2p
+scala/Option#TYPEY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala (2w
+scala/Predef.String#TYPEY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala ($Ë
+=scala/meta/internal/pc/CompilerInitializationOptions.apply().METHOD"
+endLine0"
+isVarfalse"G
+symbol=scala/meta/internal/pc/CompilerInitializationOptions.apply()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameapply"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply2]
+Pscala/meta/internal/pc/CompilerInitializationOptions.apply().(completionCommand)	PARAMETER2i
+\scala/meta/internal/pc/CompilerInitializationOptions.apply().(isCompletionItemDetailEnabled)	PARAMETER2p
+cscala/meta/internal/pc/CompilerInitializationOptions.apply().(isCompletionItemDocumentationEnabled)	PARAMETER2c
+Vscala/meta/internal/pc/CompilerInitializationOptions.apply().(isCompletionItemResolve)	PARAMETER2g
+Zscala/meta/internal/pc/CompilerInitializationOptions.apply().(isHoverDocumentationEnabled)	PARAMETER2o
+bscala/meta/internal/pc/CompilerInitializationOptions.apply().(isSignatureHelpDocumentationEnabled)	PARAMETER2]
+Pscala/meta/internal/pc/CompilerInitializationOptions.apply().(overrideDefFormat)	PARAMETER2a
+Tscala/meta/internal/pc/CompilerInitializationOptions.apply().(parameterHintsCommand)	PARAMETER2]
+Pscala/meta/internal/pc/CompilerInitializationOptions.apply().(snippetAutoIndent)	PARAMETER2D
+5scala/meta/internal/pc/CompilerInitializationOptions#RETURN_TYPE•
+_scala/meta/internal/pc/CompilerInitializationOptions#`<init>`().(isCompletionItemDetailEnabled)	PARAMETER"
+endLine0"
+isVarfalse"i
+symbol_scala/meta/internal/pc/CompilerInitializationOptions#`<init>`().(isCompletionItemDetailEnabled)"!
+packagescala.meta.internal.pc"
+accessEmpty",
+displayNameisCompletionItemDetailEnabled"
+kind	PARAMETER"
+	startLine0"
+isValtrue"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*isCompletionItemDetailEnabled2
+scala/Option#TYPE2
+scala/Boolean#TYPE‘	
+?scala/meta/internal/pc/CompilerInitializationOptions.unapply().METHOD"
+endLine0"
+isVarfalse"I
+symbol?scala/meta/internal/pc/CompilerInitializationOptions.unapply()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameunapply"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*unapply2Q
+Dscala/meta/internal/pc/CompilerInitializationOptions.unapply().(x$0)	PARAMETER2
+scala/Option#RETURN_TYPE2
+scala/Tuple9#RETURN_TYPE2
+scala/Option#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE2
+scala/Option#RETURN_TYPE2
+scala/Boolean#RETURN_TYPE2
+scala/Option#RETURN_TYPE2
+scala/Boolean#RETURN_TYPE2
+scala/Option#RETURN_TYPE2
+scala/Boolean#RETURN_TYPE2
+scala/Option#RETURN_TYPE2
+scala/Boolean#RETURN_TYPE2
+scala/Option#RETURN_TYPE2
+scala/Boolean#RETURN_TYPE2
+scala/Option#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE2
+scala/Option#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE2
+scala/Option#RETURN_TYPE2
+scala/Boolean#RETURN_TYPE¡
+fscala/meta/internal/pc/CompilerInitializationOptions#`<init>`().(isCompletionItemDocumentationEnabled)	PARAMETER"
+endLine0"
+isVarfalse"p
+symbolfscala/meta/internal/pc/CompilerInitializationOptions#`<init>`().(isCompletionItemDocumentationEnabled)"!
+packagescala.meta.internal.pc"
+accessEmpty"3
+displayName$isCompletionItemDocumentationEnabled"
+kind	PARAMETER"
+	startLine0"
+isValtrue"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*$isCompletionItemDocumentationEnabled2
+scala/Option#TYPE2
+scala/Boolean#TYPE
+Pscala/meta/internal/pc/CompilerInitializationOptions.apply().(snippetAutoIndent)	PARAMETER"
+endLine0"
+isVarfalse"Z
+symbolPscala/meta/internal/pc/CompilerInitializationOptions.apply().(snippetAutoIndent)"!
+packagescala.meta.internal.pc"
+accessEmpty" 
+displayNamesnippetAutoIndent"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*snippetAutoIndent2
+scala/Option#TYPE2
+scala/Boolean#TYPEã
+Wscala/meta/internal/pc/CompilerInitializationOptions#`<init>`().(parameterHintsCommand)	PARAMETER"
+endLine0"
+isVarfalse"a
+symbolWscala/meta/internal/pc/CompilerInitializationOptions#`<init>`().(parameterHintsCommand)"!
+packagescala.meta.internal.pc"
+accessEmpty"$
+displayNameparameterHintsCommand"
+kind	PARAMETER"
+	startLine0"
+isValtrue"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*parameterHintsCommand2
+scala/Option#TYPE2
+scala/Predef.String#TYPEË
+Dscala/meta/internal/pc/CompilerInitializationOptions#productArity().METHOD"
+endLine0"
+isVarfalse"N
+symbolDscala/meta/internal/pc/CompilerInitializationOptions#productArity()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameproductArity"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productArity2
+
+scala/Int#RETURN_TYPE2)
+scala/Product#productArity().OVERRIDEû 
+5scala/meta/internal/pc/CompilerInitializationOptions#CLASSY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala (("
+endLine23"
+isVarfalse"?
+symbol5scala/meta/internal/pc/CompilerInitializationOptions#"!
+packagescala.meta.internal.pc"
+accessPublicAccess()",
+displayNameCompilerInitializationOptions"
+kindCLASS"
+	startLine23"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter40"
+startCharacter11"
+isFinalfalse"	
+LOC11*CompilerInitializationOptions2±
+Gscala/meta/internal/pc/CompilerInitializationOptions#completionCommand.DECLARATIONY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala (2Ω
+Sscala/meta/internal/pc/CompilerInitializationOptions#isCompletionItemDetailEnabled.DECLARATIONY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala (!2ƒ
+Zscala/meta/internal/pc/CompilerInitializationOptions#isCompletionItemDocumentationEnabled.DECLARATIONY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala ((2∑
+Mscala/meta/internal/pc/CompilerInitializationOptions#isCompletionItemResolve.DECLARATIONY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala (2ª
+Qscala/meta/internal/pc/CompilerInitializationOptions#isHoverDocumentationEnabled.DECLARATIONY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala (2√
+Yscala/meta/internal/pc/CompilerInitializationOptions#isSignatureHelpDocumentationEnabled.DECLARATIONY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala ('2±
+Gscala/meta/internal/pc/CompilerInitializationOptions#overrideDefFormat.DECLARATIONY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala (2µ
+Kscala/meta/internal/pc/CompilerInitializationOptions#parameterHintsCommand.DECLARATIONY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala (2±
+Gscala/meta/internal/pc/CompilerInitializationOptions#snippetAutoIndent.DECLARATIONY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala   (2™
+@scala/meta/internal/pc/CompilerInitializationOptions#`<init>`().DECLARATIONY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala( ((2K
+<scala/meta/internal/pc/CompilerInitializationOptions#copy().DECLARATION2U
+Fscala/meta/internal/pc/CompilerInitializationOptions#copy$default$1().DECLARATION2U
+Fscala/meta/internal/pc/CompilerInitializationOptions#copy$default$2().DECLARATION2U
+Fscala/meta/internal/pc/CompilerInitializationOptions#copy$default$3().DECLARATION2U
+Fscala/meta/internal/pc/CompilerInitializationOptions#copy$default$4().DECLARATION2U
+Fscala/meta/internal/pc/CompilerInitializationOptions#copy$default$5().DECLARATION2U
+Fscala/meta/internal/pc/CompilerInitializationOptions#copy$default$6().DECLARATION2U
+Fscala/meta/internal/pc/CompilerInitializationOptions#copy$default$7().DECLARATION2U
+Fscala/meta/internal/pc/CompilerInitializationOptions#copy$default$8().DECLARATION2U
+Fscala/meta/internal/pc/CompilerInitializationOptions#copy$default$9().DECLARATION2T
+Escala/meta/internal/pc/CompilerInitializationOptions#productPrefix().DECLARATION2S
+Dscala/meta/internal/pc/CompilerInitializationOptions#productArity().DECLARATION2U
+Fscala/meta/internal/pc/CompilerInitializationOptions#productElement().DECLARATION2V
+Gscala/meta/internal/pc/CompilerInitializationOptions#productIterator().DECLARATION2O
+@scala/meta/internal/pc/CompilerInitializationOptions#canEqual().DECLARATION2O
+@scala/meta/internal/pc/CompilerInitializationOptions#hashCode().DECLARATION2O
+@scala/meta/internal/pc/CompilerInitializationOptions#toString().DECLARATION2M
+>scala/meta/internal/pc/CompilerInitializationOptions#equals().DECLARATION2
+scala/AnyRef#EXTEND2
+scala/Product#EXTEND2
+scala/Serializable#EXTENDº
+cscala/meta/internal/pc/CompilerInitializationOptions.apply().(isCompletionItemDocumentationEnabled)	PARAMETER"
+endLine0"
+isVarfalse"m
+symbolcscala/meta/internal/pc/CompilerInitializationOptions.apply().(isCompletionItemDocumentationEnabled)"!
+packagescala.meta.internal.pc"
+accessEmpty"3
+displayName$isCompletionItemDocumentationEnabled"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*$isCompletionItemDocumentationEnabled2
+scala/Option#TYPE2
+scala/Boolean#TYPE¢
+Sscala/meta/internal/pc/CompilerInitializationOptions#isCompletionItemDetailEnabled.VALUEY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala (!"
+endLine25"
+isVarfalse"]
+symbolSscala/meta/internal/pc/CompilerInitializationOptions#isCompletionItemDetailEnabled."!
+packagescala.meta.internal.pc"
+accessPublicAccess()",
+displayNameisCompletionItemDetailEnabled"
+kindVALUE"
+	startLine25"
+isValtrue"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter33"
+startCharacter4"
+isFinalfalse*isCompletionItemDetailEnabled2p
+scala/Option#TYPEY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala# ()2q
+scala/Boolean#TYPEY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala* (1ˆ
+Pscala/meta/internal/pc/CompilerInitializationOptions.apply().(completionCommand)	PARAMETER"
+endLine0"
+isVarfalse"Z
+symbolPscala/meta/internal/pc/CompilerInitializationOptions.apply().(completionCommand)"!
+packagescala.meta.internal.pc"
+accessEmpty" 
+displayNamecompletionCommand"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*completionCommand2
+scala/Option#TYPE2
+scala/Predef.String#TYPEØ
+Kscala/meta/internal/pc/CompilerInitializationOptions#productElement().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"U
+symbolKscala/meta/internal/pc/CompilerInitializationOptions#productElement().(x$1)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Int#TYPEÃ
+Fscala/meta/internal/pc/CompilerInitializationOptions#productElement().METHOD"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/pc/CompilerInitializationOptions#productElement()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameproductElement"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productElement2X
+Kscala/meta/internal/pc/CompilerInitializationOptions#productElement().(x$1)	PARAMETER2
+
+scala/Any#RETURN_TYPE2+
+scala/Product#productElement().OVERRIDE´
+Fscala/meta/internal/pc/CompilerInitializationOptions#copy$default$7().METHOD"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/pc/CompilerInitializationOptions#copy$default$7()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamecopy$default$7"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$72<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+scala/Option#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE¯
+Gscala/meta/internal/pc/CompilerInitializationOptions#completionCommand.VALUEY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala ("
+endLine24"
+isVarfalse"Q
+symbolGscala/meta/internal/pc/CompilerInitializationOptions#completionCommand."!
+packagescala.meta.internal.pc"
+accessPublicAccess()" 
+displayNamecompletionCommand"
+kindVALUE"
+	startLine24"
+isValtrue"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter4"
+isFinalfalse*completionCommand2p
+scala/Option#TYPEY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala (2w
+scala/Predef.String#TYPEY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala ($•
+Fscala/meta/internal/pc/CompilerInitializationOptions#copy$default$3().METHOD"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/pc/CompilerInitializationOptions#copy$default$3()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamecopy$default$3"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$32<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+scala/Option#RETURN_TYPE2
+scala/Boolean#RETURN_TYPEˆ
+Pscala/meta/internal/pc/CompilerInitializationOptions.apply().(overrideDefFormat)	PARAMETER"
+endLine0"
+isVarfalse"Z
+symbolPscala/meta/internal/pc/CompilerInitializationOptions.apply().(overrideDefFormat)"!
+packagescala.meta.internal.pc"
+accessEmpty" 
+displayNameoverrideDefFormat"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*overrideDefFormat2
+scala/Option#TYPE2
+scala/Predef.String#TYPEÑ
+Sscala/meta/internal/pc/CompilerInitializationOptions#copy().(parameterHintsCommand)	PARAMETER"
+endLine0"
+isVarfalse"]
+symbolSscala/meta/internal/pc/CompilerInitializationOptions#copy().(parameterHintsCommand)"!
+packagescala.meta.internal.pc"
+accessEmpty"$
+displayNameparameterHintsCommand"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*parameterHintsCommand2
+scala/Option#TYPE2
+scala/Predef.String#TYPE§
+?scala/meta/internal/pc/CompilerInitializationOptions.default().METHODY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala$ $("
+endLine36"
+isVarfalse"I
+symbol?scala/meta/internal/pc/CompilerInitializationOptions.default()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamedefault"
+kindMETHOD"
+	startLine36"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter6"
+isFinalfalse"	
+LOC12*default2ü
+5scala/meta/internal/pc/CompilerInitializationOptions#RETURN_TYPEY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala$ $(,2n
+scala/None.CALLY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala& &(
+2n
+scala/None.CALLY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala' '(
+2n
+scala/None.CALLY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala( ((
+2n
+scala/None.CALLY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala) )(
+2n
+scala/None.CALLY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala* *(
+2n
+scala/None.CALLY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala+ +(
+2n
+scala/None.CALLY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala, ,(
+2n
+scala/None.CALLY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala- -(
+2n
+scala/None.CALLY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala. .(
+2ò
+5scala/meta/internal/pc/CompilerInitializationOptions.CALLY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala% %(!ı
+Sscala/meta/internal/pc/CompilerInitializationOptions#`<init>`().(snippetAutoIndent)	PARAMETER"
+endLine0"
+isVarfalse"]
+symbolSscala/meta/internal/pc/CompilerInitializationOptions#`<init>`().(snippetAutoIndent)"!
+packagescala.meta.internal.pc"
+accessEmpty" 
+displayNamesnippetAutoIndent"
+kind	PARAMETER"
+	startLine0"
+isValtrue"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*snippetAutoIndent2
+scala/Option#TYPE2
+scala/Boolean#TYPEÃ
+Dscala/meta/internal/pc/CompilerInitializationOptions.unapply().(x$0)	PARAMETER"
+endLine0"
+isVarfalse"N
+symbolDscala/meta/internal/pc/CompilerInitializationOptions.unapply().(x$0)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamex$0"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$02=
+5scala/meta/internal/pc/CompilerInitializationOptions#TYPE∏
+Vlocal4:mtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal4"
+package "
+accessEmpty".
+displayNameCompilerInitializationOptions$1"
+kindVALUE"
+	startLine0"
+isValtrue"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*CompilerInitializationOptions$12=
+5scala/meta/internal/pc/CompilerInitializationOptions#TYPE£
+Escala/meta/internal/pc/CompilerInitializationOptions#canEqual().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"O
+symbolEscala/meta/internal/pc/CompilerInitializationOptions#canEqual().(x$1)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Any#TYPE‰
+5scala/meta/internal/pc/CompilerInitializationOptions.OBJECTY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala# #($"
+endLine35"
+isVarfalse"?
+symbol5scala/meta/internal/pc/CompilerInitializationOptions."!
+packagescala.meta.internal.pc"
+accessPublicAccess()",
+displayNameCompilerInitializationOptions"
+kindOBJECT"
+	startLine35"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter36"
+startCharacter7"
+isFinaltrue"	
+LOC14*CompilerInitializationOptions2©
+?scala/meta/internal/pc/CompilerInitializationOptions.default().DECLARATIONY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala$ $(2L
+=scala/meta/internal/pc/CompilerInitializationOptions.apply().DECLARATION2N
+?scala/meta/internal/pc/CompilerInitializationOptions.unapply().DECLARATION2R
+Cscala/meta/internal/pc/CompilerInitializationOptions.readResolve().DECLARATION2
+scala/AnyRef#EXTEND2
+scala/Serializable#EXTENDÙ
+Oscala/meta/internal/pc/CompilerInitializationOptions#copy().(overrideDefFormat)	PARAMETER"
+endLine0"
+isVarfalse"Y
+symbolOscala/meta/internal/pc/CompilerInitializationOptions#copy().(overrideDefFormat)"!
+packagescala.meta.internal.pc"
+accessEmpty" 
+displayNameoverrideDefFormat"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*overrideDefFormat2
+scala/Option#TYPE2
+scala/Predef.String#TYPE‡
+Vlocal3:mtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal3"
+package "
+accessPublicAccess()"
+displayName	matchEnd4"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*	matchEnd42e
+Xlocal551:mtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala	PARAMETER2
+scala/Boolean#RETURN_TYPE∏
+bscala/meta/internal/pc/CompilerInitializationOptions.apply().(isSignatureHelpDocumentationEnabled)	PARAMETER"
+endLine0"
+isVarfalse"l
+symbolbscala/meta/internal/pc/CompilerInitializationOptions.apply().(isSignatureHelpDocumentationEnabled)"!
+packagescala.meta.internal.pc"
+accessEmpty"2
+displayName#isSignatureHelpDocumentationEnabled"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*#isSignatureHelpDocumentationEnabled2
+scala/Option#TYPE2
+scala/Boolean#TYPEû
+[scala/meta/internal/pc/CompilerInitializationOptions#copy().(isCompletionItemDetailEnabled)	PARAMETER"
+endLine0"
+isVarfalse"e
+symbol[scala/meta/internal/pc/CompilerInitializationOptions#copy().(isCompletionItemDetailEnabled)"!
+packagescala.meta.internal.pc"
+accessEmpty",
+displayNameisCompletionItemDetailEnabled"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*isCompletionItemDetailEnabled2
+scala/Option#TYPE2
+scala/Boolean#TYPEö
+Qscala/meta/internal/pc/CompilerInitializationOptions#isHoverDocumentationEnabled.VALUEY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala ("
+endLine28"
+isVarfalse"[
+symbolQscala/meta/internal/pc/CompilerInitializationOptions#isHoverDocumentationEnabled."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"*
+displayNameisHoverDocumentationEnabled"
+kindVALUE"
+	startLine28"
+isValtrue"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter31"
+startCharacter4"
+isFinalfalse*isHoverDocumentationEnabled2p
+scala/Option#TYPEY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala! ('2q
+scala/Boolean#TYPEY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala( (/˚
+Sscala/meta/internal/pc/CompilerInitializationOptions#`<init>`().(overrideDefFormat)	PARAMETER"
+endLine0"
+isVarfalse"]
+symbolSscala/meta/internal/pc/CompilerInitializationOptions#`<init>`().(overrideDefFormat)"!
+packagescala.meta.internal.pc"
+accessEmpty" 
+displayNameoverrideDefFormat"
+kind	PARAMETER"
+	startLine0"
+isValtrue"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*overrideDefFormat2
+scala/Option#TYPE2
+scala/Predef.String#TYPEÒ
+Vlocal2:mtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal2"
+package "
+accessPublicAccess()"
+displayNamecase6"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case62
+scala/Boolean#RETURN_TYPEù
+]scala/meta/internal/pc/CompilerInitializationOptions#`<init>`().(isHoverDocumentationEnabled)	PARAMETER"
+endLine0"
+isVarfalse"g
+symbol]scala/meta/internal/pc/CompilerInitializationOptions#`<init>`().(isHoverDocumentationEnabled)"!
+packagescala.meta.internal.pc"
+accessEmpty"*
+displayNameisHoverDocumentationEnabled"
+kind	PARAMETER"
+	startLine0"
+isValtrue"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*isHoverDocumentationEnabled2
+scala/Option#TYPE2
+scala/Boolean#TYPE•
+Fscala/meta/internal/pc/CompilerInitializationOptions#copy$default$6().METHOD"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/pc/CompilerInitializationOptions#copy$default$6()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamecopy$default$6"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$62<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+scala/Option#RETURN_TYPE2
+scala/Boolean#RETURN_TYPE∫
+Yscala/meta/internal/pc/CompilerInitializationOptions#isSignatureHelpDocumentationEnabled.VALUEY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala ('"
+endLine29"
+isVarfalse"c
+symbolYscala/meta/internal/pc/CompilerInitializationOptions#isSignatureHelpDocumentationEnabled."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"2
+displayName#isSignatureHelpDocumentationEnabled"
+kindVALUE"
+	startLine29"
+isValtrue"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter39"
+startCharacter4"
+isFinalfalse*#isSignatureHelpDocumentationEnabled2p
+scala/Option#TYPEY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala) (/2q
+scala/Boolean#TYPEY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala0 (7Ò
+Vlocal1:mtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal1"
+package "
+accessPublicAccess()"
+displayNamecase5"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case52
+scala/Boolean#RETURN_TYPEæ
+Zscala/meta/internal/pc/CompilerInitializationOptions#isCompletionItemDocumentationEnabled.VALUEY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala (("
+endLine26"
+isVarfalse"d
+symbolZscala/meta/internal/pc/CompilerInitializationOptions#isCompletionItemDocumentationEnabled."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"3
+displayName$isCompletionItemDocumentationEnabled"
+kindVALUE"
+	startLine26"
+isValtrue"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter40"
+startCharacter4"
+isFinalfalse*$isCompletionItemDocumentationEnabled2p
+scala/Option#TYPEY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala* (02q
+scala/Boolean#TYPEY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala1 (8”
+Vlocal0:mtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal0"
+package "
+accessEmpty"
+displayNamex1"
+kindVALUE"
+	startLine0"
+isValtrue"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x12
+
+scala/Any#TYPE•
+Fscala/meta/internal/pc/CompilerInitializationOptions#copy$default$2().METHOD"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/pc/CompilerInitializationOptions#copy$default$2()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamecopy$default$2"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$22<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+scala/Option#RETURN_TYPE2
+scala/Boolean#RETURN_TYPEÅ
+@scala/meta/internal/pc/CompilerInitializationOptions#toString().METHOD"
+endLine0"
+isVarfalse"J
+symbol@scala/meta/internal/pc/CompilerInitializationOptions#toString()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNametoString"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*toString2 
+java/lang/String#RETURN_TYPE2(
+java/lang/Object#toString().OVERRIDE2!
+scala/Any#toString().OVERRIDE˚
+Sscala/meta/internal/pc/CompilerInitializationOptions#`<init>`().(completionCommand)	PARAMETER"
+endLine0"
+isVarfalse"]
+symbolSscala/meta/internal/pc/CompilerInitializationOptions#`<init>`().(completionCommand)"!
+packagescala.meta.internal.pc"
+accessEmpty" 
+displayNamecompletionCommand"
+kind	PARAMETER"
+	startLine0"
+isValtrue"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*completionCommand2
+scala/Option#TYPE2
+scala/Predef.String#TYPE€
+<scala/meta/internal/pc/CompilerInitializationOptions#copy().METHOD"
+endLine0"
+isVarfalse"F
+symbol<scala/meta/internal/pc/CompilerInitializationOptions#copy()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamecopy"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy2\
+Oscala/meta/internal/pc/CompilerInitializationOptions#copy().(completionCommand)	PARAMETER2h
+[scala/meta/internal/pc/CompilerInitializationOptions#copy().(isCompletionItemDetailEnabled)	PARAMETER2o
+bscala/meta/internal/pc/CompilerInitializationOptions#copy().(isCompletionItemDocumentationEnabled)	PARAMETER2b
+Uscala/meta/internal/pc/CompilerInitializationOptions#copy().(isCompletionItemResolve)	PARAMETER2f
+Yscala/meta/internal/pc/CompilerInitializationOptions#copy().(isHoverDocumentationEnabled)	PARAMETER2n
+ascala/meta/internal/pc/CompilerInitializationOptions#copy().(isSignatureHelpDocumentationEnabled)	PARAMETER2\
+Oscala/meta/internal/pc/CompilerInitializationOptions#copy().(overrideDefFormat)	PARAMETER2`
+Sscala/meta/internal/pc/CompilerInitializationOptions#copy().(parameterHintsCommand)	PARAMETER2\
+Oscala/meta/internal/pc/CompilerInitializationOptions#copy().(snippetAutoIndent)	PARAMETER2D
+5scala/meta/internal/pc/CompilerInitializationOptions#RETURN_TYPEÙ
+Oscala/meta/internal/pc/CompilerInitializationOptions#copy().(completionCommand)	PARAMETER"
+endLine0"
+isVarfalse"Y
+symbolOscala/meta/internal/pc/CompilerInitializationOptions#copy().(completionCommand)"!
+packagescala.meta.internal.pc"
+accessEmpty" 
+displayNamecompletionCommand"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*completionCommand2
+scala/Option#TYPE2
+scala/Predef.String#TYPE¡
+Cscala/meta/internal/pc/CompilerInitializationOptions.readResolve().METHOD"
+endLine0"
+isVarfalse"M
+symbolCscala/meta/internal/pc/CompilerInitializationOptions.readResolve()."!
+packagescala.meta.internal.pc"
+accessPrivateAccess()"
+displayNamereadResolve"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*readResolve2 
+java/lang/Object#RETURN_TYPEü
+Cscala/meta/internal/pc/CompilerInitializationOptions#equals().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"M
+symbolCscala/meta/internal/pc/CompilerInitializationOptions#equals().(x$1)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Any#TYPEÙ
+Escala/meta/internal/pc/CompilerInitializationOptions#productPrefix().METHOD"
+endLine0"
+isVarfalse"O
+symbolEscala/meta/internal/pc/CompilerInitializationOptions#productPrefix()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameproductPrefix"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productPrefix2 
+java/lang/String#RETURN_TYPE2*
+scala/Product#productPrefix().OVERRIDEà
+Kscala/meta/internal/pc/CompilerInitializationOptions#parameterHintsCommand.VALUEY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala ("
+endLine31"
+isVarfalse"U
+symbolKscala/meta/internal/pc/CompilerInitializationOptions#parameterHintsCommand."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"$
+displayNameparameterHintsCommand"
+kindVALUE"
+	startLine31"
+isValtrue"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter25"
+startCharacter4"
+isFinalfalse*parameterHintsCommand2p
+scala/Option#TYPEY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala (!2w
+scala/Predef.String#TYPEY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala" ((ò
+Zscala/meta/internal/pc/CompilerInitializationOptions.apply().(isHoverDocumentationEnabled)	PARAMETER"
+endLine0"
+isVarfalse"d
+symbolZscala/meta/internal/pc/CompilerInitializationOptions.apply().(isHoverDocumentationEnabled)"!
+packagescala.meta.internal.pc"
+accessEmpty"*
+displayNameisHoverDocumentationEnabled"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*isHoverDocumentationEnabled2
+scala/Option#TYPE2
+scala/Boolean#TYPEÜ
+Uscala/meta/internal/pc/CompilerInitializationOptions#copy().(isCompletionItemResolve)	PARAMETER"
+endLine0"
+isVarfalse"_
+symbolUscala/meta/internal/pc/CompilerInitializationOptions#copy().(isCompletionItemResolve)"!
+packagescala.meta.internal.pc"
+accessEmpty"&
+displayNameisCompletionItemResolve"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*isCompletionItemResolve2
+scala/Option#TYPE2
+scala/Boolean#TYPEä
+Mscala/meta/internal/pc/CompilerInitializationOptions#isCompletionItemResolve.VALUEY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala ("
+endLine27"
+isVarfalse"W
+symbolMscala/meta/internal/pc/CompilerInitializationOptions#isCompletionItemResolve."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"&
+displayNameisCompletionItemResolve"
+kindVALUE"
+	startLine27"
+isValtrue"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter27"
+startCharacter4"
+isFinalfalse*isCompletionItemResolve2p
+scala/Option#TYPEY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala (#2q
+scala/Boolean#TYPEY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala$ (+•
+Fscala/meta/internal/pc/CompilerInitializationOptions#copy$default$5().METHOD"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/pc/CompilerInitializationOptions#copy$default$5()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamecopy$default$5"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$52<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+scala/Option#RETURN_TYPE2
+scala/Boolean#RETURN_TYPE∂
+ascala/meta/internal/pc/CompilerInitializationOptions#copy().(isSignatureHelpDocumentationEnabled)	PARAMETER"
+endLine0"
+isVarfalse"k
+symbolascala/meta/internal/pc/CompilerInitializationOptions#copy().(isSignatureHelpDocumentationEnabled)"!
+packagescala.meta.internal.pc"
+accessEmpty"2
+displayName#isSignatureHelpDocumentationEnabled"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*#isSignatureHelpDocumentationEnabled2
+scala/Option#TYPE2
+scala/Boolean#TYPE˙
+@scala/meta/internal/pc/CompilerInitializationOptions#hashCode().METHOD"
+endLine0"
+isVarfalse"J
+symbol@scala/meta/internal/pc/CompilerInitializationOptions#hashCode()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamehashCode"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*hashCode2
+
+scala/Int#RETURN_TYPE2(
+java/lang/Object#hashCode().OVERRIDE2!
+scala/Any#hashCode().OVERRIDEÚ
+Gscala/meta/internal/pc/CompilerInitializationOptions#snippetAutoIndent.VALUEY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala   ("
+endLine32"
+isVarfalse"Q
+symbolGscala/meta/internal/pc/CompilerInitializationOptions#snippetAutoIndent."!
+packagescala.meta.internal.pc"
+accessPublicAccess()" 
+displayNamesnippetAutoIndent"
+kindVALUE"
+	startLine32"
+isValtrue"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter4"
+isFinalfalse*snippetAutoIndent2p
+scala/Option#TYPEY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala   (2q
+scala/Boolean#TYPEY
+Omtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala   (%ñ
+Yscala/meta/internal/pc/CompilerInitializationOptions#copy().(isHoverDocumentationEnabled)	PARAMETER"
+endLine0"
+isVarfalse"c
+symbolYscala/meta/internal/pc/CompilerInitializationOptions#copy().(isHoverDocumentationEnabled)"!
+packagescala.meta.internal.pc"
+accessEmpty"*
+displayNameisHoverDocumentationEnabled"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*isHoverDocumentationEnabled2
+scala/Option#TYPE2
+scala/Boolean#TYPE†
+\scala/meta/internal/pc/CompilerInitializationOptions.apply().(isCompletionItemDetailEnabled)	PARAMETER"
+endLine0"
+isVarfalse"f
+symbol\scala/meta/internal/pc/CompilerInitializationOptions.apply().(isCompletionItemDetailEnabled)"!
+packagescala.meta.internal.pc"
+accessEmpty",
+displayNameisCompletionItemDetailEnabled"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*isCompletionItemDetailEnabled2
+scala/Option#TYPE2
+scala/Boolean#TYPE¢
+Gscala/meta/internal/pc/CompilerInitializationOptions#productIterator().METHOD"
+endLine0"
+isVarfalse"Q
+symbolGscala/meta/internal/pc/CompilerInitializationOptions#productIterator()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameproductIterator"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productIterator2)
+scala/collection/Iterator#RETURN_TYPE2
+
+scala/Any#RETURN_TYPE2,
+ scala/Product#productIterator().OVERRIDE´
+@scala/meta/internal/pc/CompilerInitializationOptions#canEqual().METHOD"
+endLine0"
+isVarfalse"J
+symbol@scala/meta/internal/pc/CompilerInitializationOptions#canEqual()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamecanEqual"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*canEqual2R
+Escala/meta/internal/pc/CompilerInitializationOptions#canEqual().(x$1)	PARAMETER2
+scala/Boolean#RETURN_TYPE2$
+scala/Equals#canEqual().OVERRIDE∫
+bscala/meta/internal/pc/CompilerInitializationOptions#copy().(isCompletionItemDocumentationEnabled)	PARAMETER"
+endLine0"
+isVarfalse"l
+symbolbscala/meta/internal/pc/CompilerInitializationOptions#copy().(isCompletionItemDocumentationEnabled)"!
+packagescala.meta.internal.pc"
+accessEmpty"3
+displayName$isCompletionItemDocumentationEnabled"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*$isCompletionItemDocumentationEnabled2
+scala/Option#TYPE2
+scala/Boolean#TYPE´
+Fscala/meta/internal/pc/CompilerInitializationOptions#copy$default$1().METHOD"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/pc/CompilerInitializationOptions#copy$default$1()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamecopy$default$1"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$12<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+scala/Option#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPEΩ
+escala/meta/internal/pc/CompilerInitializationOptions#`<init>`().(isSignatureHelpDocumentationEnabled)	PARAMETER"
+endLine0"
+isVarfalse"o
+symbolescala/meta/internal/pc/CompilerInitializationOptions#`<init>`().(isSignatureHelpDocumentationEnabled)"!
+packagescala.meta.internal.pc"
+accessEmpty"2
+displayName#isSignatureHelpDocumentationEnabled"
+kind	PARAMETER"
+	startLine0"
+isValtrue"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*#isSignatureHelpDocumentationEnabled2
+scala/Option#TYPE2
+scala/Boolean#TYPE•
+Fscala/meta/internal/pc/CompilerInitializationOptions#copy$default$9().METHOD"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/pc/CompilerInitializationOptions#copy$default$9()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamecopy$default$9"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/pc/CompilerInitializationOptions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$92<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+scala/Option#RETURN_TYPE2
+scala/Boolean#RETURN_TYPE

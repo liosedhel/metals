@@ -1,0 +1,100 @@
+
+-tests/input/src/main/scala/example/Vars.scalaœ
+example/Vars.`a_=`().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"$
+symbolexample/Vars.`a_=`().(x$1)"
+packageexample"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"4
+uri-tests/input/src/main/scala/example/Vars.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Int#TYPEÅ
+example/Vars.a().VARIABLE7
+-tests/input/src/main/scala/example/Vars.scala ("
+endLine3"
+isVartrue"
+symbolexample/Vars.a()."
+packageexample"
+accessPublicAccess()"
+displayNamea"
+kindVARIABLE"
+	startLine3"
+isValfalse"4
+uri-tests/input/src/main/scala/example/Vars.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter7"
+startCharacter6"
+isFinalfalse*a2
+
+scala/Int#TYPEd
+-tests/input/src/main/scala/example/Vars.scalaFILE*-tests/input/src/main/scala/example/Vars.scalaû
+example/Vars.`a_=`().VARIABLE7
+-tests/input/src/main/scala/example/Vars.scala ("
+endLine7"
+isVartrue"
+symbolexample/Vars.`a_=`()."
+packageexample"
+accessPublicAccess()"
+displayNamea_="
+kindVARIABLE"
+	startLine7"
+isValfalse"4
+uri-tests/input/src/main/scala/example/Vars.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter8"
+startCharacter7"
+isFinalfalse*a_=2'
+example/Vars.`a_=`().(x$1)	PARAMETER2
+scala/Unit#TYPE‰
+example/Vars.OBJECT7
+-tests/input/src/main/scala/example/Vars.scala ("
+endLine2"
+isVarfalse"
+symbolexample/Vars."
+packageexample"
+accessPublicAccess()"
+displayNameVars"
+kindOBJECT"
+	startLine2"
+isValfalse"4
+uri-tests/input/src/main/scala/example/Vars.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter11"
+startCharacter7"
+isFinaltrue"
+LOC7*Vars2]
+example/Vars.`a_=`().DECLARATION7
+-tests/input/src/main/scala/example/Vars.scala (2
+scala/AnyRef#EXTEND2Y
+example/Vars.a().DECLARATION7
+-tests/input/src/main/scala/example/Vars.scala (2V
+example/Vars.`a_=`().CALL7
+-tests/input/src/main/scala/example/Vars.scala (2N
+example/Vars.CALL7
+-tests/input/src/main/scala/example/Vars.scala (2V
+example/Vars.`a_=`().CALL7
+-tests/input/src/main/scala/example/Vars.scala (

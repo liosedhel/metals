@@ -1,0 +1,177 @@
+
+1tests/input/src/main/scala/example/Scalalib.scalaÅ
+example/Scalalib#nil.VALUE;
+1tests/input/src/main/scala/example/Scalalib.scala (	"
+endLine3"
+isVarfalse"
+symbolexample/Scalalib#nil."
+packageexample"
+accessPublicAccess()"
+displayNamenil"
+kindVALUE"
+	startLine3"
+isValtrue"8
+uri1tests/input/src/main/scala/example/Scalalib.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter9"
+startCharacter6"
+isFinalfalse*nil2(
+ scala/collection/immutable/List#TYPE2
+scala/Nothing#TYPE‚
+example/Scalalib#`<init>`().CONSTRUCTOR;
+1tests/input/src/main/scala/example/Scalalib.scala ("
+endLine2"
+isVarfalse"&
+symbolexample/Scalalib#`<init>`()."
+packageexample"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine2"
+isValfalse"8
+uri1tests/input/src/main/scala/example/Scalalib.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter15"
+startCharacter15"
+isFinalfalse*<init>Ó
+example/Scalalib#CLASS;
+1tests/input/src/main/scala/example/Scalalib.scala ("
+endLine2"
+isVarfalse"
+symbolexample/Scalalib#"
+packageexample"
+accessPublicAccess()"
+displayNameScalalib"
+kindCLASS"
+	startLine2"
+isValfalse"8
+uri1tests/input/src/main/scala/example/Scalalib.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter14"
+startCharacter6"
+isFinalfalse"	
+LOC24*Scalalib2h
+example/Scalalib#`<init>`().DECLARATION;
+1tests/input/src/main/scala/example/Scalalib.scala (2
+scala/AnyRef#EXTEND2a
+example/Scalalib#nil.DECLARATION;
+1tests/input/src/main/scala/example/Scalalib.scala (	2d
+scala/collection/immutable/Nil.CALL;
+1tests/input/src/main/scala/example/Scalalib.scala (2a
+example/Scalalib#lst.DECLARATION;
+1tests/input/src/main/scala/example/Scalalib.scala (	2S
+scala/Nothing#CALL;
+1tests/input/src/main/scala/example/Scalalib.scala (2P
+scala/Null#CALL;
+1tests/input/src/main/scala/example/Scalalib.scala (2U
+scala/Singleton#CALL;
+1tests/input/src/main/scala/example/Scalalib.scala (2O
+
+scala/Any#CALL;
+1tests/input/src/main/scala/example/Scalalib.scala	 	(2R
+scala/AnyRef#CALL;
+1tests/input/src/main/scala/example/Scalalib.scala
+ 
+(2R
+scala/AnyVal#CALL;
+1tests/input/src/main/scala/example/Scalalib.scala (2O
+
+scala/Int#CALL;
+1tests/input/src/main/scala/example/Scalalib.scala (2Q
+scala/Short#CALL;
+1tests/input/src/main/scala/example/Scalalib.scala (2R
+scala/Double#CALL;
+1tests/input/src/main/scala/example/Scalalib.scala (2Q
+scala/Float#CALL;
+1tests/input/src/main/scala/example/Scalalib.scala (2P
+scala/Char#CALL;
+1tests/input/src/main/scala/example/Scalalib.scala (2e
+ scala/collection/immutable/List.CALL;
+1tests/input/src/main/scala/example/Scalalib.scala (2O
+
+scala/Any#CALL;
+1tests/input/src/main/scala/example/Scalalib.scala (2Z
+example/Scalalib#lst.CALL;
+1tests/input/src/main/scala/example/Scalalib.scala (2^
+scala/Any#isInstanceOf().CALL;
+1tests/input/src/main/scala/example/Scalalib.scala (2O
+
+scala/Any#CALL;
+1tests/input/src/main/scala/example/Scalalib.scala (2Z
+example/Scalalib#lst.CALL;
+1tests/input/src/main/scala/example/Scalalib.scala (2^
+scala/Any#asInstanceOf().CALL;
+1tests/input/src/main/scala/example/Scalalib.scala (2Z
+example/Scalalib#lst.CALL;
+1tests/input/src/main/scala/example/Scalalib.scala
+ (2]
+java/lang/Object#`##`().CALL;
+1tests/input/src/main/scala/example/Scalalib.scala (2^
+scala/Predef.println(+1).CALL;
+1tests/input/src/main/scala/example/Scalalib.scala (	2Z
+example/Scalalib#lst.CALL;
+1tests/input/src/main/scala/example/Scalalib.scala (2[
+java/lang/Object#ne().CALL;
+1tests/input/src/main/scala/example/Scalalib.scala (2Z
+example/Scalalib#lst.CALL;
+1tests/input/src/main/scala/example/Scalalib.scala	 (2Z
+example/Scalalib#lst.CALL;
+1tests/input/src/main/scala/example/Scalalib.scala (2[
+java/lang/Object#eq().CALL;
+1tests/input/src/main/scala/example/Scalalib.scala (2Z
+example/Scalalib#lst.CALL;
+1tests/input/src/main/scala/example/Scalalib.scala	 (2Z
+example/Scalalib#lst.CALL;
+1tests/input/src/main/scala/example/Scalalib.scala (2]
+java/lang/Object#`==`().CALL;
+1tests/input/src/main/scala/example/Scalalib.scala (2Z
+example/Scalalib#lst.CALL;
+1tests/input/src/main/scala/example/Scalalib.scala	 (ˆ
+example/Scalalib#lst.VALUE;
+1tests/input/src/main/scala/example/Scalalib.scala (	"
+endLine4"
+isVarfalse"
+symbolexample/Scalalib#lst."
+packageexample"
+accessPublicAccess()"
+displayNamelst"
+kindVALUE"
+	startLine4"
+isValtrue"8
+uri1tests/input/src/main/scala/example/Scalalib.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter9"
+startCharacter6"
+isFinalfalse*lst2(
+ scala/collection/immutable/List#TYPE2
+scala/Tuple11#TYPE2
+scala/Nothing#TYPE2
+scala/Null#TYPE2
+scala/Singleton#TYPE2
+
+scala/Any#TYPE2
+scala/AnyRef#TYPE2
+scala/AnyVal#TYPE2
+
+scala/Int#TYPE2
+scala/Short#TYPE2
+scala/Double#TYPE2
+scala/Float#TYPE2
+scala/Char#TYPEl
+1tests/input/src/main/scala/example/Scalalib.scalaFILE*1tests/input/src/main/scala/example/Scalalib.scala

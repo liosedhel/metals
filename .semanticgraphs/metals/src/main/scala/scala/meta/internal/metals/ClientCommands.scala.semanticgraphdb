@@ -1,0 +1,454 @@
+
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaÑ
+7scala/meta/internal/metals/ClientCommands.GotoLocation.VALUEQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaù ù("
+endLine157"
+isVarfalse"A
+symbol7scala/meta/internal/metals/ClientCommands.GotoLocation."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameGotoLocation"
+kindVALUE"
+	startLine157"
+isValtrue"L
+uriEmetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter6"
+isFinalfalse*GotoLocation2+
+#scala/meta/internal/metals/Command#TYPEñ
+<scala/meta/internal/metals/ClientCommands.StartDebugSession.VALUEO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala ("
+endLine127"
+isVarfalse"F
+symbol<scala/meta/internal/metals/ClientCommands.StartDebugSession."%
+packagescala.meta.internal.metals"
+accessPublicAccess()" 
+displayNameStartDebugSession"
+kindVALUE"
+	startLine127"
+isValtrue"L
+uriEmetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter6"
+isFinalfalse*StartDebugSession2+
+#scala/meta/internal/metals/Command#TYPEî
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaFILE*Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaÙW
+*scala/meta/internal/metals/ClientCommands.OBJECTO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala ("
+endLine7"
+isVarfalse"4
+symbol*scala/meta/internal/metals/ClientCommands."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameClientCommands"
+kindOBJECT"
+	startLine7"
+isValfalse"L
+uriEmetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter7"
+isFinaltrue"
+
+LOC213*ClientCommands2í
+0scala/meta/internal/metals/ClientCommands.all().DECLARATIONQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala– –(	2
+scala/AnyRef#EXTEND2ñ
+6scala/meta/internal/metals/ClientCommands.EchoCommand.DECLARATIONO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala	 	(2|
+#scala/meta/internal/metals/Command#CALLO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala	 	(2á
+.scala/meta/internal/metals/Command#`<init>`().CALLO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala	 	(2è
+6scala/collection/immutable/StringLike#stripMargin(+1).CALLO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala (2è
+6scala/collection/immutable/StringLike#stripMargin(+1).CALLO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala? (J2í
+9scala/meta/internal/metals/Command#`<init>`().(arguments)CALLO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala (2î
+4scala/meta/internal/metals/ClientCommands.RunDoctor.DECLARATIONO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala (2|
+#scala/meta/internal/metals/Command#CALLO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala (2á
+.scala/meta/internal/metals/Command#`<init>`().CALLO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala (2è
+6scala/collection/immutable/StringLike#stripMargin(+1).CALLO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaI I(2è
+6scala/collection/immutable/StringLike#stripMargin(+1).CALLO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaKA K(L2í
+9scala/meta/internal/metals/Command#`<init>`().(arguments)CALLO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaJ J(2ó
+7scala/meta/internal/metals/ClientCommands.ReloadDoctor.DECLARATIONO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaN N(2|
+#scala/meta/internal/metals/Command#CALLO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaN N( 2á
+.scala/meta/internal/metals/Command#`<init>`().CALLO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaN  N( 2ê
+6scala/collection/immutable/StringLike#stripMargin(+1).CALLP
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaRw R(Ç2è
+6scala/collection/immutable/StringLike#stripMargin(+1).CALLO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaTA T(L2í
+9scala/meta/internal/metals/Command#`<init>`().(arguments)CALLO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaS S(2ï
+5scala/meta/internal/metals/ClientCommands.ToggleLogs.DECLARATIONO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaW W(2|
+#scala/meta/internal/metals/Command#CALLO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaW W(2á
+.scala/meta/internal/metals/Command#`<init>`().CALLO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaW W(2è
+6scala/collection/immutable/StringLike#stripMargin(+1).CALLO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala] ](2õ
+;scala/meta/internal/metals/ClientCommands.FocusDiagnostics.DECLARATIONO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala` `(2|
+#scala/meta/internal/metals/Command#CALLO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala` `($2á
+.scala/meta/internal/metals/Command#`<init>`().CALLO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala`$ `($2è
+6scala/collection/immutable/StringLike#stripMargin(+1).CALLO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaf f(2ö
+:scala/meta/internal/metals/ClientCommands.StartRunSession.DECLARATIONO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalai i(2|
+#scala/meta/internal/metals/Command#CALLO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalai i(#2á
+.scala/meta/internal/metals/Command#`<init>`().CALLO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalai# i(#2É
+*scala/meta/internal/metals/ServerCommands.CALLO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalam m('2ï
+<scala/meta/internal/metals/ServerCommands.StartDebugAdapter.CALLO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalam( m(92
+&scala/meta/internal/metals/Command#id.CALLO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalam: m(<2è
+6scala/collection/immutable/StringLike#stripMargin(+1).CALLO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalao o(2É
+*scala/meta/internal/metals/ServerCommands.CALLO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaq q( 2ï
+<scala/meta/internal/metals/ServerCommands.StartDebugAdapter.CALLO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaq! q(22
+&scala/meta/internal/metals/Command#id.CALLO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaq3 q(52m
+ch/epfl/scala/bsp4j/CALLO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaw w(2à
+/ch/epfl/scala/bsp4j/DebugSessionParamsDataKind#CALLO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaw w(52ô
+@ch/epfl/scala/bsp4j/DebugSessionParamsDataKind#SCALA_MAIN_CLASS.CALLO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaw6 w(F2è
+6scala/collection/immutable/StringLike#stripMargin(+1).CALLO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala| |(2ú
+<scala/meta/internal/metals/ClientCommands.StartDebugSession.DECLARATIONO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala (2|
+#scala/meta/internal/metals/Command#CALLO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala (%2á
+.scala/meta/internal/metals/Command#`<init>`().CALLO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala% (%2Ö
+*scala/meta/internal/metals/ServerCommands.CALLQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaÉ É('2ó
+<scala/meta/internal/metals/ServerCommands.StartDebugAdapter.CALLQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaÉ( É(92Å
+&scala/meta/internal/metals/Command#id.CALLQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaÉ: É(<2ë
+6scala/collection/immutable/StringLike#stripMargin(+1).CALLQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaÖ Ö(2Ö
+*scala/meta/internal/metals/ServerCommands.CALLQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaá á( 2ó
+<scala/meta/internal/metals/ServerCommands.StartDebugAdapter.CALLQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaá! á(22Å
+&scala/meta/internal/metals/Command#id.CALLQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaá3 á(52o
+ch/epfl/scala/bsp4j/CALLQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaç ç(2ä
+/ch/epfl/scala/bsp4j/DebugSessionParamsDataKind#CALLQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaç ç(52õ
+@ch/epfl/scala/bsp4j/DebugSessionParamsDataKind#SCALA_MAIN_CLASS.CALLQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaç6 ç(F2ë
+6scala/collection/immutable/StringLike#stripMargin(+1).CALLQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaí í(2ô
+7scala/meta/internal/metals/ClientCommands.RefreshModel.DECLARATIONQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaï ï(2~
+#scala/meta/internal/metals/Command#CALLQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaï ï( 2â
+.scala/meta/internal/metals/Command#`<init>`().CALLQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaï  ï( 2ë
+6scala/collection/immutable/StringLike#stripMargin(+1).CALLQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaö ö(2ô
+7scala/meta/internal/metals/ClientCommands.GotoLocation.DECLARATIONQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaù ù(2~
+#scala/meta/internal/metals/Command#CALLQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaù ù( 2â
+.scala/meta/internal/metals/Command#`<init>`().CALLQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaù  ù( 2ë
+6scala/collection/immutable/StringLike#stripMargin(+1).CALLQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala± ±(2ó
+5scala/meta/internal/metals/ClientCommands.OpenFolder.DECLARATIONQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala¥ ¥(2~
+#scala/meta/internal/metals/Command#CALLQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala¥ ¥(2â
+.scala/meta/internal/metals/Command#`<init>`().CALLQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala¥ ¥(2ë
+6scala/collection/immutable/StringLike#stripMargin(+1).CALLQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala∑: ∑(E2ë
+6scala/collection/immutable/StringLike#stripMargin(+1).CALLQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala¿ ¿(2†
+>scala/meta/internal/metals/ClientCommands.CopyWorksheetOutput.DECLARATIONQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala√ √(2~
+#scala/meta/internal/metals/Command#CALLQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala√  √('2â
+.scala/meta/internal/metals/Command#`<init>`().CALLQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala√' √('2Ö
+*scala/meta/internal/metals/ServerCommands.CALLQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala»1 »(?2ô
+>scala/meta/internal/metals/ServerCommands.CopyWorksheetOutput.CALLQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala»@ »(S2Å
+&scala/meta/internal/metals/Command#id.CALLQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala»T »(V2ë
+6scala/collection/immutable/StringLike#stripMargin(+1).CALLQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaÃ Ã(Ù
+4scala/meta/internal/metals/ClientCommands.RunDoctor.VALUEO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala ("
+endLine21"
+isVarfalse">
+symbol4scala/meta/internal/metals/ClientCommands.RunDoctor."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName	RunDoctor"
+kindVALUE"
+	startLine21"
+isValtrue"L
+uriEmetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter15"
+startCharacter6"
+isFinalfalse*	RunDoctor2+
+#scala/meta/internal/metals/Command#TYPE‰
+0scala/meta/internal/metals/ClientCommands.all().METHODQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala– –(	"
+endLine208"
+isVarfalse":
+symbol0scala/meta/internal/metals/ClientCommands.all()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameall"
+kindMETHOD"
+	startLine208"
+isValfalse"L
+uriEmetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter9"
+startCharacter6"
+isFinalfalse"	
+LOC11*all2u
+scala/package.List#RETURN_TYPEQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala– –(2Ö
+#scala/meta/internal/metals/Command#RETURN_TYPEQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala– –(2ê
+5scala/meta/internal/metals/ClientCommands.OpenFolder.CALLQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala“ “(2è
+4scala/meta/internal/metals/ClientCommands.RunDoctor.CALLQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala” ”(2í
+7scala/meta/internal/metals/ClientCommands.ReloadDoctor.CALLQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala‘ ‘(2ê
+5scala/meta/internal/metals/ClientCommands.ToggleLogs.CALLQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala’ ’(2ñ
+;scala/meta/internal/metals/ClientCommands.FocusDiagnostics.CALLQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala÷ ÷(2í
+7scala/meta/internal/metals/ClientCommands.GotoLocation.CALLQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala◊ ◊(2ë
+6scala/meta/internal/metals/ClientCommands.EchoCommand.CALLQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaÿ ÿ(2í
+7scala/meta/internal/metals/ClientCommands.RefreshModel.CALLQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaŸ Ÿ(2{
+ scala/collection/immutable/List.CALLQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala— —(¸
+5scala/meta/internal/metals/ClientCommands.OpenFolder.VALUEQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala¥ ¥("
+endLine180"
+isVarfalse"?
+symbol5scala/meta/internal/metals/ClientCommands.OpenFolder."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName
+OpenFolder"
+kindVALUE"
+	startLine180"
+isValtrue"L
+uriEmetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter6"
+isFinalfalse*
+OpenFolder2+
+#scala/meta/internal/metals/Command#TYPE˙
+6scala/meta/internal/metals/ClientCommands.EchoCommand.VALUEO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala	 	("
+endLine9"
+isVarfalse"@
+symbol6scala/meta/internal/metals/ClientCommands.EchoCommand."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameEchoCommand"
+kindVALUE"
+	startLine9"
+isValtrue"L
+uriEmetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter6"
+isFinalfalse*EchoCommand2+
+#scala/meta/internal/metals/Command#TYPEÄ
+7scala/meta/internal/metals/ClientCommands.ReloadDoctor.VALUEO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaN N("
+endLine78"
+isVarfalse"A
+symbol7scala/meta/internal/metals/ClientCommands.ReloadDoctor."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameReloadDoctor"
+kindVALUE"
+	startLine78"
+isValtrue"L
+uriEmetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter6"
+isFinalfalse*ReloadDoctor2+
+#scala/meta/internal/metals/Command#TYPE¯
+5scala/meta/internal/metals/ClientCommands.ToggleLogs.VALUEO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaW W("
+endLine87"
+isVarfalse"?
+symbol5scala/meta/internal/metals/ClientCommands.ToggleLogs."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName
+ToggleLogs"
+kindVALUE"
+	startLine87"
+isValtrue"L
+uriEmetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter6"
+isFinalfalse*
+ToggleLogs2+
+#scala/meta/internal/metals/Command#TYPEÑ
+7scala/meta/internal/metals/ClientCommands.RefreshModel.VALUEQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalaï ï("
+endLine149"
+isVarfalse"A
+symbol7scala/meta/internal/metals/ClientCommands.RefreshModel."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameRefreshModel"
+kindVALUE"
+	startLine149"
+isValtrue"L
+uriEmetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter6"
+isFinalfalse*RefreshModel2+
+#scala/meta/internal/metals/Command#TYPE†
+>scala/meta/internal/metals/ClientCommands.CopyWorksheetOutput.VALUEQ
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala√ √("
+endLine195"
+isVarfalse"H
+symbol>scala/meta/internal/metals/ClientCommands.CopyWorksheetOutput."%
+packagescala.meta.internal.metals"
+accessPublicAccess()""
+displayNameCopyWorksheetOutput"
+kindVALUE"
+	startLine195"
+isValtrue"L
+uriEmetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter25"
+startCharacter6"
+isFinalfalse*CopyWorksheetOutput2+
+#scala/meta/internal/metals/Command#TYPEé
+:scala/meta/internal/metals/ClientCommands.StartRunSession.VALUEO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scalai i("
+endLine105"
+isVarfalse"D
+symbol:scala/meta/internal/metals/ClientCommands.StartRunSession."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameStartRunSession"
+kindVALUE"
+	startLine105"
+isValtrue"L
+uriEmetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter6"
+isFinalfalse*StartRunSession2+
+#scala/meta/internal/metals/Command#TYPEê
+;scala/meta/internal/metals/ClientCommands.FocusDiagnostics.VALUEO
+Emetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala` `("
+endLine96"
+isVarfalse"E
+symbol;scala/meta/internal/metals/ClientCommands.FocusDiagnostics."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameFocusDiagnostics"
+kindVALUE"
+	startLine96"
+isValtrue"L
+uriEmetals/src/main/scala/scala/meta/internal/metals/ClientCommands.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter6"
+isFinalfalse*FocusDiagnostics2+
+#scala/meta/internal/metals/Command#TYPE

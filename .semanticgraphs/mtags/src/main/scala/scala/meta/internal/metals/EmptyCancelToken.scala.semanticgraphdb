@@ -1,0 +1,95 @@
+
+Fmtags/src/main/scala/scala/meta/internal/metals/EmptyCancelToken.scala‘
+7scala/meta/internal/metals/EmptyCancelToken.onCancel().METHODP
+Fmtags/src/main/scala/scala/meta/internal/metals/EmptyCancelToken.scala ("
+endLine11"
+isVarfalse"A
+symbol7scala/meta/internal/metals/EmptyCancelToken.onCancel()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameonCancel"
+kindMETHOD"
+	startLine11"
+isValfalse"M
+uriFmtags/src/main/scala/scala/meta/internal/metals/EmptyCancelToken.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter15"
+isFinalfalse"
+LOC2*onCancel21
+%scala/meta/pc/CancelToken#onCancel().OVERRIDE2Ü
+%java/util/concurrent/CompletionStage#RETURN_TYPEP
+Fmtags/src/main/scala/scala/meta/internal/metals/EmptyCancelToken.scala (*2d
+
+java/lang/CALLP
+Fmtags/src/main/scala/scala/meta/internal/metals/EmptyCancelToken.scala+ (/2s
+java/lang/Boolean#RETURN_TYPEP
+Fmtags/src/main/scala/scala/meta/internal/metals/EmptyCancelToken.scala0 (72d
+
+java/lang/CALLP
+Fmtags/src/main/scala/scala/meta/internal/metals/EmptyCancelToken.scala& (*2l
+java/lang/Boolean#CALLP
+Fmtags/src/main/scala/scala/meta/internal/metals/EmptyCancelToken.scala+ (22r
+java/lang/Boolean#FALSE.CALLP
+Fmtags/src/main/scala/scala/meta/internal/metals/EmptyCancelToken.scala3 (82Å
+'java/util/concurrent/CompletableFuture#CALLP
+Fmtags/src/main/scala/scala/meta/internal/metals/EmptyCancelToken.scala (2ì
+9java/util/concurrent/CompletableFuture#completedFuture().CALLP
+Fmtags/src/main/scala/scala/meta/internal/metals/EmptyCancelToken.scala (%°
+<scala/meta/internal/metals/EmptyCancelToken.checkCanceled().METHODP
+Fmtags/src/main/scala/scala/meta/internal/metals/EmptyCancelToken.scala	 	("
+endLine9"
+isVarfalse"F
+symbol<scala/meta/internal/metals/EmptyCancelToken.checkCanceled()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamecheckCanceled"
+kindMETHOD"
+	startLine9"
+isValfalse"M
+uriFmtags/src/main/scala/scala/meta/internal/metals/EmptyCancelToken.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter28"
+startCharacter15"
+isFinalfalse"
+LOC1*checkCanceled2D
+8org/eclipse/lsp4j/jsonrpc/CancelChecker#checkCanceled().OVERRIDE2l
+scala/Unit#RETURN_TYPEP
+Fmtags/src/main/scala/scala/meta/internal/metals/EmptyCancelToken.scala	  	($ñ
+Fmtags/src/main/scala/scala/meta/internal/metals/EmptyCancelToken.scalaFILE*Fmtags/src/main/scala/scala/meta/internal/metals/EmptyCancelToken.scala°
+,scala/meta/internal/metals/EmptyCancelToken.OBJECTP
+Fmtags/src/main/scala/scala/meta/internal/metals/EmptyCancelToken.scala ("
+endLine8"
+isVarfalse"6
+symbol,scala/meta/internal/metals/EmptyCancelToken."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameEmptyCancelToken"
+kindOBJECT"
+	startLine8"
+isValfalse"M
+uriFmtags/src/main/scala/scala/meta/internal/metals/EmptyCancelToken.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter7"
+isFinaltrue"
+LOC6*EmptyCancelToken2ù
+<scala/meta/internal/metals/EmptyCancelToken.checkCanceled().DECLARATIONP
+Fmtags/src/main/scala/scala/meta/internal/metals/EmptyCancelToken.scala	 	(2ò
+7scala/meta/internal/metals/EmptyCancelToken.onCancel().DECLARATIONP
+Fmtags/src/main/scala/scala/meta/internal/metals/EmptyCancelToken.scala (2
+java/lang/Object#EXTEND2v
+scala/meta/pc/CancelToken#EXTENDP
+Fmtags/src/main/scala/scala/meta/internal/metals/EmptyCancelToken.scala  (+

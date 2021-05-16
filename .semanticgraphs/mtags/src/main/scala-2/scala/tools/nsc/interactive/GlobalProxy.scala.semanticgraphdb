@@ -1,0 +1,816 @@
+
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala≠
+=scala/tools/nsc/interactive/GlobalProxy#metalsScopeMembers().METHODN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala ("
+endLine20"
+isVarfalse"G
+symbol=scala/tools/nsc/interactive/GlobalProxy#metalsScopeMembers()."&
+packagescala.tools.nsc.interactive"
+accessPublicAccess()"!
+displayNamemetalsScopeMembers"
+kindMETHOD"
+	startLine20"
+isValfalse"K
+uriDmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter24"
+startCharacter6"
+isFinalfalse"
+LOC3*metalsScopeMembers2ü
+Bscala/tools/nsc/interactive/GlobalProxy#metalsScopeMembers().(pos)	PARAMETERN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala (2r
+scala/package.List#RETURN_TYPEN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala) (-2í
+3scala/tools/nsc/interactive/CompilerControl#Member#RETURN_TYPEN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala. (42®
+Klocal1:mtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala	PARAMETERN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala (2ö
+Bscala/tools/nsc/interactive/GlobalProxy#metalsScopeMembers().(pos)CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala4 (72£
+Klocal1:mtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scalaCALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala9 (:2ê
+8scala/tools/nsc/interactive/Global#getScopeCompletion().CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala! (32k
+scala/package.List#CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala (2ã
+3scala/tools/nsc/interactive/CompilerControl#Member#CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala (2å
+4scala/tools/nsc/interactive/GlobalProxy#metalsAsk().CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala (¶
+<scala/tools/nsc/interactive/GlobalProxy#metalsTypeMembers().METHODN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala ("
+endLine16"
+isVarfalse"F
+symbol<scala/tools/nsc/interactive/GlobalProxy#metalsTypeMembers()."&
+packagescala.tools.nsc.interactive"
+accessPublicAccess()" 
+displayNamemetalsTypeMembers"
+kindMETHOD"
+	startLine16"
+isValfalse"K
+uriDmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter6"
+isFinalfalse"
+LOC3*metalsTypeMembers2û
+Ascala/tools/nsc/interactive/GlobalProxy#metalsTypeMembers().(pos)	PARAMETERN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala (2r
+scala/package.List#RETURN_TYPEN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala( (,2í
+3scala/tools/nsc/interactive/CompilerControl#Member#RETURN_TYPEN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala- (32®
+Klocal0:mtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala	PARAMETERN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala (2ô
+Ascala/tools/nsc/interactive/GlobalProxy#metalsTypeMembers().(pos)CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala3 (62£
+Klocal0:mtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scalaCALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala8 (92è
+7scala/tools/nsc/interactive/Global#getTypeCompletion().CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala! (22k
+scala/package.List#CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala (2ã
+3scala/tools/nsc/interactive/CompilerControl#Member#CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala (2å
+4scala/tools/nsc/interactive/GlobalProxy#metalsAsk().CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala (Ï
+4scala/tools/nsc/interactive/GlobalProxy#metalsAsk().METHODN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala ("
+endLine24"
+isVarfalse">
+symbol4scala/tools/nsc/interactive/GlobalProxy#metalsAsk()."&
+packagescala.tools.nsc.interactive"
+accessPublicAccess()"
+displayName	metalsAsk"
+kindMETHOD"
+	startLine24"
+isValfalse"K
+uriDmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter15"
+startCharacter6"
+isFinalfalse"	
+LOC10*	metalsAsk2ï
+8scala/tools/nsc/interactive/GlobalProxy#metalsAsk().(fn)	PARAMETERN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala (2ñ
+7scala/tools/nsc/interactive/GlobalProxy#metalsAsk().[T]RETURN_TYPEN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala- (.2™
+Klocal2:mtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scalaDECLARATIONN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala (	2ç
+5scala/tools/nsc/interactive/CompilerControl#Response#CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala (2è
+7scala/tools/nsc/interactive/GlobalProxy#metalsAsk().[T]CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala (2à
+0scala/tools/nsc/interactive/Response#`<init>`().CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala (2£
+Klocal2:mtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scalaCALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala (2ê
+8scala/tools/nsc/interactive/GlobalProxy#metalsAsk().(fn)CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala (2£
+Klocal2:mtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scalaCALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala (2É
++scala/tools/nsc/interactive/Response#get().CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala (	2™
+Klocal6:mtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scalaDECLARATIONN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala (2£
+Klocal7:mtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scalaCALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala (2´
+Llocal10:mtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scalaDECLARATIONN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala (2§
+Llocal10:mtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scalaCALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala (‹
+Bscala/tools/nsc/interactive/GlobalProxy#metalsScopeMembers().(pos)	PARAMETERN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala ("
+endLine20"
+isVarfalse"L
+symbolBscala/tools/nsc/interactive/GlobalProxy#metalsScopeMembers().(pos)"&
+packagescala.tools.nsc.interactive"
+accessEmpty"
+displayNamepos"
+kind	PARAMETER"
+	startLine20"
+isValfalse"K
+uriDmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter28"
+startCharacter25"
+isFinalfalse*pos2Ç
+*scala/reflect/internal/Positions#Position#TYPEN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala (&‚
+8scala/tools/nsc/interactive/GlobalProxy#metalsAsk().(fn)	PARAMETERN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala ("
+endLine24"
+isVarfalse"B
+symbol8scala/tools/nsc/interactive/GlobalProxy#metalsAsk().(fn)"&
+packagescala.tools.nsc.interactive"
+accessEmpty"
+displayNamefn"
+kind	PARAMETER"
+	startLine24"
+isValfalse"K
+uriDmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter19"
+isFinalfalse*fn2
+scala/Function1#TYPE2ç
+5scala/tools/nsc/interactive/CompilerControl#Response#TYPEN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala (2è
+7scala/tools/nsc/interactive/GlobalProxy#metalsAsk().[T]TYPEN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala  (!2c
+scala/Unit#TYPEN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala& (*ó
+Escala/tools/nsc/interactive/GlobalProxy#presentationCompilerThread().METHODN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala
+ 
+( "
+endLine10"
+isVarfalse"O
+symbolEscala/tools/nsc/interactive/GlobalProxy#presentationCompilerThread()."&
+packagescala.tools.nsc.interactive"
+accessPublicAccess()")
+displayNamepresentationCompilerThread"
+kindMETHOD"
+	startLine10"
+isValfalse"K
+uriDmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter32"
+startCharacter6"
+isFinalfalse"
+LOC1*presentationCompilerThread2p
+java/lang/Thread#RETURN_TYPEN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala
+" 
+((2ã
+3scala/tools/nsc/interactive/Global#compileRunner().CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala
+0 
+(=á
+7scala/tools/nsc/interactive/GlobalProxy#metalsAsk().[T]TYPE_PARAMETERN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala ("
+endLine24"
+isVarfalse"A
+symbol7scala/tools/nsc/interactive/GlobalProxy#metalsAsk().[T]"&
+packagescala.tools.nsc.interactive"
+accessEmpty"
+displayNameT"
+kindTYPE_PARAMETER"
+	startLine24"
+isValfalse"K
+uriDmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter16"
+isFinalfalse*T2
+
+scala/Any#TYPE_PARAMETER2 
+scala/Nothing#TYPE_PARAMETER∞
+Kscala/tools/nsc/interactive/GlobalProxy#hijackPresentationCompilerThread().METHODN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala (&"
+endLine11"
+isVarfalse"U
+symbolKscala/tools/nsc/interactive/GlobalProxy#hijackPresentationCompilerThread()."&
+packagescala.tools.nsc.interactive"
+accessPublicAccess()"/
+displayName hijackPresentationCompilerThread"
+kindMETHOD"
+	startLine11"
+isValfalse"K
+uriDmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter38"
+startCharacter6"
+isFinalfalse"
+LOC1* hijackPresentationCompilerThread2j
+scala/Unit#RETURN_TYPEN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala* (.2í
+:scala/tools/nsc/interactive/GlobalProxy#newRunnerThread().CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala1 (@⁄
+Ascala/tools/nsc/interactive/GlobalProxy#metalsTypeMembers().(pos)	PARAMETERN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala ("
+endLine16"
+isVarfalse"K
+symbolAscala/tools/nsc/interactive/GlobalProxy#metalsTypeMembers().(pos)"&
+packagescala.tools.nsc.interactive"
+accessEmpty"
+displayNamepos"
+kind	PARAMETER"
+	startLine16"
+isValfalse"K
+uriDmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter27"
+startCharacter24"
+isFinalfalse*pos2Ç
+*scala/reflect/internal/Positions#Position#TYPEN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala (%ß
+Klocal9:mtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal9"
+package "
+accessEmpty"
+displayNamex3"
+kindVALUE"
+	startLine0"
+isValtrue"K
+uriDmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x32
+scala/util/Right#TYPE2?
+7scala/tools/nsc/interactive/GlobalProxy#metalsAsk().[T]TYPE2 
+scala/package.Throwable#TYPEÑ
+Klocal8:mtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal8"
+package "
+accessPublicAccess()"
+displayNamecase7"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case72F
+7scala/tools/nsc/interactive/GlobalProxy#metalsAsk().[T]RETURN_TYPEÜ
+Llocal11:mtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal11"
+package "
+accessPublicAccess()"
+displayNamecase8"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case82F
+7scala/tools/nsc/interactive/GlobalProxy#metalsAsk().[T]RETURN_TYPEﬁ
+Llocal12:mtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal12"
+package "
+accessPublicAccess()"
+displayNamewhile$1"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*while$12
+scala/Unit#RETURN_TYPEí
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scalaFILE*Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scalaß
+Llocal10:mtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scalaVALUEN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala ("
+endLine30"
+isVarfalse"
+symbollocal10"
+package "
+accessEmpty"
+displayNamevalue"
+kindVALUE"
+	startLine30"
+isValtrue"K
+uriDmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter17"
+isFinalfalse*value2 
+scala/package.Throwable#TYPE° 
+:scala/tools/nsc/interactive/GlobalProxy#newRunnerThread().METHODN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala& &("
+endLine38"
+isVarfalse"D
+symbol:scala/tools/nsc/interactive/GlobalProxy#newRunnerThread()."&
+packagescala.tools.nsc.interactive"
+accessPrivateAccess()"
+displayNamenewRunnerThread"
+kindMETHOD"
+	startLine38"
+isValfalse"K
+uriDmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter29"
+startCharacter14"
+isFinalfalse"	
+LOC20*newRunnerThread2p
+java/lang/Thread#RETURN_TYPEN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala&! &('2ã
+3scala/tools/nsc/interactive/Global#compileRunner().CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala' '(2s
+java/lang/Thread#isAlive().CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala' '(2í
+:scala/tools/nsc/interactive/CompilerControl#askShutdown().CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala) )(2ã
+3scala/tools/nsc/interactive/Global#compileRunner().CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala* *(2s
+java/lang/Thread#isAlive().CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala* *($2i
+java/lang/Thread#CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala*& *(,2q
+java/lang/Thread#sleep().CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala*- *(22§
+Llocal15:mtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scalaCALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala, ,(2´
+Llocal17:mtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scalaDECLARATIONN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala, ,(2p
+java/util/logging/Level#CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala. .(2u
+java/util/logging/Level#INFO.CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala. .(2§
+Llocal17:mtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scalaCALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala0 0(2É
++scala/meta/internal/pc/MetalsGlobal#logger.CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala-
+ -(2y
+!java/util/logging/Logger#log(+5).CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala- -(2{
+#scala/tools/nsc/util/WorkScheduler#CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala4 4(&2Ü
+.scala/tools/nsc/util/WorkScheduler#`<init>`().CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala4& 4(&2î
+<scala/tools/nsc/interactive/CompilerControl#`scheduler_=`().CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala4	 4(2á
+/scala/tools/nsc/interactive/MetalsGlobalThread#CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala5 5(*2í
+:scala/tools/nsc/interactive/MetalsGlobalThread#`<init>`().CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala5* 5(*2è
+7scala/tools/nsc/interactive/Global#`compileRunner_=`().CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala5 5(2ã
+3scala/tools/nsc/interactive/Global#compileRunner().CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala6 6(2u
+java/lang/Thread#setDaemon().CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala6 6(2ã
+3scala/tools/nsc/interactive/Global#compileRunner().CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala7 7(2q
+java/lang/Thread#start().CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala7 7(2ã
+3scala/tools/nsc/interactive/Global#compileRunner().CALLN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala8 8(ü
+Llocal17:mtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scalaVALUEN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala, ,("
+endLine44"
+isVarfalse"
+symbollocal17"
+package "
+accessEmpty"
+displayNamee"
+kindVALUE"
+	startLine44"
+isValtrue"K
+uriDmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter22"
+isFinalfalse*e2 
+scala/package.Throwable#TYPEû
+Klocal0:mtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala	PARAMETERN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala ("
+endLine17"
+isVarfalse"
+symbollocal0"
+package "
+accessEmpty"
+displayNamer"
+kind	PARAMETER"
+	startLine17"
+isValfalse"K
+uriDmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter29"
+startCharacter28"
+isFinalfalse*r2=
+5scala/tools/nsc/interactive/CompilerControl#Response#TYPE2
+scala/package.List#TYPE2;
+3scala/tools/nsc/interactive/CompilerControl#Member#TYPE‹
+Llocal18:mtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal18"
+package "
+accessPublicAccess()"
+displayNamecase10"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case102
+scala/Unit#RETURN_TYPEû
+Klocal1:mtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala	PARAMETERN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala ("
+endLine21"
+isVarfalse"
+symbollocal1"
+package "
+accessEmpty"
+displayNamer"
+kind	PARAMETER"
+	startLine21"
+isValfalse"K
+uriDmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter29"
+startCharacter28"
+isFinalfalse*r2=
+5scala/tools/nsc/interactive/CompilerControl#Response#TYPE2
+scala/package.List#TYPE2;
+3scala/tools/nsc/interactive/CompilerControl#Member#TYPEæ
+Llocal19:mtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal19"
+package "
+accessPublicAccess()"
+displayName	matchEnd8"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*	matchEnd82Z
+Mlocal488:mtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala	PARAMETER2
+scala/Unit#RETURN_TYPEÈ
+Klocal2:mtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scalaVALUEN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala (	"
+endLine25"
+isVarfalse"
+symbollocal2"
+package "
+accessEmpty"
+displayNamer"
+kindVALUE"
+	startLine25"
+isValtrue"K
+uriDmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter9"
+startCharacter8"
+isFinalfalse*r2-
+%scala/tools/nsc/interactive/Response#TYPE2?
+7scala/tools/nsc/interactive/GlobalProxy#metalsAsk().[T]TYPE´
+Klocal3:mtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal3"
+package "
+accessEmpty"
+displayNamex1"
+kindVALUE"
+	startLine0"
+isValtrue"K
+uriDmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x12
+scala/package.Either#TYPE2?
+7scala/tools/nsc/interactive/GlobalProxy#metalsAsk().[T]TYPE2 
+scala/package.Throwable#TYPEò
+(scala/tools/nsc/interactive/GlobalProxy#TRAITN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala	 	("
+endLine9"
+isVarfalse"2
+symbol(scala/tools/nsc/interactive/GlobalProxy#"&
+packagescala.tools.nsc.interactive"
+accessPublicAccess()"
+displayNameGlobalProxy"
+kindTRAIT"
+	startLine9"
+isValfalse"K
+uriDmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter6"
+isFinalfalse"	
+LOC50*GlobalProxy2§
+Escala/tools/nsc/interactive/GlobalProxy#presentationCompilerThread().DECLARATIONN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala
+ 
+( 2™
+Kscala/tools/nsc/interactive/GlobalProxy#hijackPresentationCompilerThread().DECLARATIONN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala (&2õ
+<scala/tools/nsc/interactive/GlobalProxy#metalsTypeMembers().DECLARATIONN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala (2ú
+=scala/tools/nsc/interactive/GlobalProxy#metalsScopeMembers().DECLARATIONN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala (2ì
+4scala/tools/nsc/interactive/GlobalProxy#metalsAsk().DECLARATIONN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala (2ô
+:scala/tools/nsc/interactive/GlobalProxy#newRunnerThread().DECLARATIONN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala& &(2
+scala/AnyRef#EXTENDÿ
+Llocal13:mtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal13"
+package "
+accessPublicAccess()"
+displayNameex6"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*ex62
+java/lang/Throwable#TYPEÊ
+Llocal16:mtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal16"
+package "
+accessEmpty"
+displayNameo11"
+kindVALUE"
+	startLine0"
+isValtrue"K
+uriDmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*o112
+scala/Option#TYPE2 
+scala/package.Throwable#TYPE…
+Llocal14:mtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal14"
+package "
+accessEmpty"
+displayNamex4"
+kindVALUE"
+	startLine0"
+isValtrue"K
+uriDmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x42
+java/lang/Throwable#TYPEÆ
+Llocal15:mtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scalaMETHODN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala, ,("
+endLine44"
+isVarfalse"
+symbollocal15"
+package "
+accessPublicAccess()"
+displayNamecase9"
+kindMETHOD"
+	startLine44"
+isValfalse"K
+uriDmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter13"
+isFinalfalse*case92
+scala/Unit#RETURN_TYPEƒ
+Klocal6:mtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scalaVALUEN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala ("
+endLine28"
+isVarfalse"
+symbollocal6"
+package "
+accessEmpty"
+displayNamevalue"
+kindVALUE"
+	startLine28"
+isValtrue"K
+uriDmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter16"
+isFinalfalse*value2?
+7scala/tools/nsc/interactive/GlobalProxy#metalsAsk().[T]TYPEª
+Klocal7:mtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scalaMETHODN
+Dmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala ("
+endLine29"
+isVarfalse"
+symbollocal7"
+package "
+accessPublicAccess()"
+displayName	matchEnd5"
+kindMETHOD"
+	startLine29"
+isValfalse"K
+uriDmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter8"
+isFinalfalse*	matchEnd52Z
+Mlocal487:mtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala	PARAMETER2F
+7scala/tools/nsc/interactive/GlobalProxy#metalsAsk().[T]RETURN_TYPE¶
+Klocal5:mtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal5"
+package "
+accessEmpty"
+displayNamex2"
+kindVALUE"
+	startLine0"
+isValtrue"K
+uriDmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x22
+scala/util/Left#TYPE2?
+7scala/tools/nsc/interactive/GlobalProxy#metalsAsk().[T]TYPE2 
+scala/package.Throwable#TYPEÑ
+Klocal4:mtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal4"
+package "
+accessPublicAccess()"
+displayNamecase6"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmtags/src/main/scala-2/scala/tools/nsc/interactive/GlobalProxy.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case62F
+7scala/tools/nsc/interactive/GlobalProxy#metalsAsk().[T]RETURN_TYPE

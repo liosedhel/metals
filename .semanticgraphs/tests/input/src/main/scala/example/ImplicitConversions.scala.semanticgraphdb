@@ -1,0 +1,291 @@
+
+<tests/input/src/main/scala/example/ImplicitConversions.scala³
+"example/ImplicitConversions#tuple.VALUEF
+<tests/input/src/main/scala/example/ImplicitConversions.scala ("
+endLine8"
+isVarfalse",
+symbol"example/ImplicitConversions#tuple."
+packageexample"
+accessPublicAccess()"
+displayNametuple"
+kindVALUE"
+	startLine8"
+isValtrue"C
+uri<tests/input/src/main/scala/example/ImplicitConversions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter11"
+startCharacter6"
+isFinalfalse*tuple2
+scala/Tuple2#TYPE2
+
+scala/Int#TYPE2
+
+scala/Int#TYPEŽ
+'example/ImplicitConversions#`<init>`().CONSTRUCTORF
+<tests/input/src/main/scala/example/ImplicitConversions.scala ("
+endLine2"
+isVarfalse"1
+symbol'example/ImplicitConversions#`<init>`()."
+packageexample"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine2"
+isValfalse"C
+uri<tests/input/src/main/scala/example/ImplicitConversions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter26"
+startCharacter26"
+isFinalfalse*<init>…
+!example/ImplicitConversions#char.VALUEF
+<tests/input/src/main/scala/example/ImplicitConversions.scala	 	(
+"
+endLine9"
+isVarfalse"+
+symbol!example/ImplicitConversions#char."
+packageexample"
+accessPublicAccess()"
+displayNamechar"
+kindVALUE"
+	startLine9"
+isValtrue"C
+uri<tests/input/src/main/scala/example/ImplicitConversions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter6"
+isFinalfalse*char2
+scala/Char#TYPEù
+example/ImplicitConversions#x.VALUEF
+<tests/input/src/main/scala/example/ImplicitConversions.scala ("
+endLine17"
+isVarfalse"(
+symbolexample/ImplicitConversions#x."
+packageexample"
+accessPublicAccess()"
+displayNamex"
+kindVALUE"
+	startLine17"
+isValtrue"C
+uri<tests/input/src/main/scala/example/ImplicitConversions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter7"
+startCharacter6"
+isFinalfalse*x2
+
+scala/Int#TYPE”
+,example/ImplicitConversions#string2Number().METHODF
+<tests/input/src/main/scala/example/ImplicitConversions.scala ("
+endLine3"
+isVarfalse"6
+symbol,example/ImplicitConversions#string2Number()."
+packageexample"
+accessPublicAccess()"
+displayNamestring2Number"
+kindMETHOD"
+	startLine3"
+isValfalse"C
+uri<tests/input/src/main/scala/example/ImplicitConversions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicittrue"
+endCharacter28"
+startCharacter15"
+isFinalfalse"
+LOC3*string2Number2‰
+4example/ImplicitConversions#string2Number().(string)	PARAMETERF
+<tests/input/src/main/scala/example/ImplicitConversions.scala (2a
+
+scala/Int#RETURN_TYPEF
+<tests/input/src/main/scala/example/ImplicitConversions.scala (‚
+<tests/input/src/main/scala/example/ImplicitConversions.scalaFILE*<tests/input/src/main/scala/example/ImplicitConversions.scalaù
+example/ImplicitConversions#a.VALUEF
+<tests/input/src/main/scala/example/ImplicitConversions.scala ("
+endLine25"
+isVarfalse"(
+symbolexample/ImplicitConversions#a."
+packageexample"
+accessPublicAccess()"
+displayNamea"
+kindVALUE"
+	startLine25"
+isValtrue"C
+uri<tests/input/src/main/scala/example/ImplicitConversions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter7"
+startCharacter6"
+isFinalfalse*a2
+
+scala/Int#TYPEŒ
+#example/ImplicitConversions#number.VALUEF
+<tests/input/src/main/scala/example/ImplicitConversions.scala ("
+endLine7"
+isVarfalse"-
+symbol#example/ImplicitConversions#number."
+packageexample"
+accessPublicAccess()"
+displayNamenumber"
+kindVALUE"
+	startLine7"
+isValtrue"C
+uri<tests/input/src/main/scala/example/ImplicitConversions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*number2
+
+scala/Int#TYPE—
+$example/ImplicitConversions#message.VALUEF
+<tests/input/src/main/scala/example/ImplicitConversions.scala ("
+endLine6"
+isVarfalse".
+symbol$example/ImplicitConversions#message."
+packageexample"
+accessPublicAccess()"
+displayNamemessage"
+kindVALUE"
+	startLine6"
+isValtrue"C
+uri<tests/input/src/main/scala/example/ImplicitConversions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter6"
+isFinalfalse*message2
+java/lang/String#TYPEú
+example/ImplicitConversions#b.VALUEF
+<tests/input/src/main/scala/example/ImplicitConversions.scala ("
+endLine26"
+isVarfalse"(
+symbolexample/ImplicitConversions#b."
+packageexample"
+accessPublicAccess()"
+displayNameb"
+kindVALUE"
+	startLine26"
+isValtrue"C
+uri<tests/input/src/main/scala/example/ImplicitConversions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter7"
+startCharacter6"
+isFinalfalse*b2
+scala/Long#TYPE†
+example/ImplicitConversions#CLASSF
+<tests/input/src/main/scala/example/ImplicitConversions.scala ("
+endLine2"
+isVarfalse"&
+symbolexample/ImplicitConversions#"
+packageexample"
+accessPublicAccess()""
+displayNameImplicitConversions"
+kindCLASS"
+	startLine2"
+isValfalse"C
+uri<tests/input/src/main/scala/example/ImplicitConversions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter25"
+startCharacter6"
+isFinalfalse"	
+LOC26*ImplicitConversions2~
+'example/ImplicitConversions#`<init>`().DECLARATIONF
+<tests/input/src/main/scala/example/ImplicitConversions.scala (2ƒ
+,example/ImplicitConversions#string2Number().DECLARATIONF
+<tests/input/src/main/scala/example/ImplicitConversions.scala (2
+scala/AnyRef#EXTEND2{
+$example/ImplicitConversions#message.DECLARATIONF
+<tests/input/src/main/scala/example/ImplicitConversions.scala (2z
+#example/ImplicitConversions#number.DECLARATIONF
+<tests/input/src/main/scala/example/ImplicitConversions.scala (2y
+"example/ImplicitConversions#tuple.DECLARATIONF
+<tests/input/src/main/scala/example/ImplicitConversions.scala (2x
+!example/ImplicitConversions#char.DECLARATIONF
+<tests/input/src/main/scala/example/ImplicitConversions.scala	 	(
+2t
+$example/ImplicitConversions#message.CALLF
+<tests/input/src/main/scala/example/ImplicitConversions.scala (	2„
+4scala/collection/immutable/StringLike#stripSuffix().CALLF
+<tests/input/src/main/scala/example/ImplicitConversions.scala (2r
+"example/ImplicitConversions#tuple.CALLF
+<tests/input/src/main/scala/example/ImplicitConversions.scala (2q
+!scala/Predef.any2stringadd#`+`().CALLF
+<tests/input/src/main/scala/example/ImplicitConversions.scala (	2u
+example/ImplicitConversions#x.DECLARATIONF
+<tests/input/src/main/scala/example/ImplicitConversions.scala (2t
+$example/ImplicitConversions#message.CALLF
+<tests/input/src/main/scala/example/ImplicitConversions.scala (2t
+$example/ImplicitConversions#message.CALLF
+<tests/input/src/main/scala/example/ImplicitConversions.scala (2s
+#example/ImplicitConversions#number.CALLF
+<tests/input/src/main/scala/example/ImplicitConversions.scala (2t
+$example/ImplicitConversions#message.CALLF
+<tests/input/src/main/scala/example/ImplicitConversions.scala (2s
+#example/ImplicitConversions#number.CALLF
+<tests/input/src/main/scala/example/ImplicitConversions.scala (2†
+6scala/collection/immutable/StringLike#stripMargin(+1).CALLF
+<tests/input/src/main/scala/example/ImplicitConversions.scala (2u
+example/ImplicitConversions#a.DECLARATIONF
+<tests/input/src/main/scala/example/ImplicitConversions.scala (2c
+scala/Char#toInt().CALLF
+<tests/input/src/main/scala/example/ImplicitConversions.scala (2u
+example/ImplicitConversions#b.DECLARATIONF
+<tests/input/src/main/scala/example/ImplicitConversions.scala (2d
+scala/Char#toLong().CALLF
+<tests/input/src/main/scala/example/ImplicitConversions.scala (€
+4example/ImplicitConversions#string2Number().(string)	PARAMETERF
+<tests/input/src/main/scala/example/ImplicitConversions.scala ("
+endLine4"
+isVarfalse">
+symbol4example/ImplicitConversions#string2Number().(string)"
+packageexample"
+accessEmpty"
+displayNamestring"
+kind	PARAMETER"
+	startLine4"
+isValfalse"C
+uri<tests/input/src/main/scala/example/ImplicitConversions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*string2d
+scala/Predef.String#TYPEF
+<tests/input/src/main/scala/example/ImplicitConversions.scala (

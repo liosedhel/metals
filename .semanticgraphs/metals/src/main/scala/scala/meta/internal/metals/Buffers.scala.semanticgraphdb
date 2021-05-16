@@ -1,0 +1,1182 @@
+
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scalaÃ
+3scala/meta/internal/metals/Buffers#productPrefix().METHOD"
+endLine0"
+isVarfalse"=
+symbol3scala/meta/internal/metals/Buffers#productPrefix()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameproductPrefix"
+kindMETHOD"
+	startLine0"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productPrefix2 
+java/lang/String#RETURN_TYPE2*
+scala/Product#productPrefix().OVERRIDE©	
+.scala/meta/internal/metals/Buffers#contains().METHODH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala ("
+endLine20"
+isVarfalse"8
+symbol.scala/meta/internal/metals/Buffers#contains()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamecontains"
+kindMETHOD"
+	startLine20"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter14"
+startCharacter6"
+isFinalfalse"
+LOC1*contains2Š
+3scala/meta/internal/metals/Buffers#contains().(key)	PARAMETERH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala (2g
+scala/Boolean#RETURN_TYPEH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala# (*2…
+3scala/meta/internal/metals/Buffers#contains().(key)CALLH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala: (=2y
+'scala/meta/internal/metals/Buffers#map.CALLH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala- (02v
+$scala/collection/MapLike#contains().CALLH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala1 (9À
+#scala/meta/internal/metals/Buffers#CLASSH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala ("
+endLine13"
+isVarfalse"-
+symbol#scala/meta/internal/metals/Buffers#"%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameBuffers"
+kindCLASS"
+	startLine13"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter11"
+isFinalfalse"	
+LOC19*Buffers2€
+'scala/meta/internal/metals/Buffers#map.DECLARATIONH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala (2‡
+.scala/meta/internal/metals/Buffers#`<init>`().DECLARATIONH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala (2ƒ
+*scala/meta/internal/metals/Buffers#open().DECLARATIONH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala (
+2‚
+)scala/meta/internal/metals/Buffers#put().DECLARATIONH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala (	2‚
+)scala/meta/internal/metals/Buffers#get().DECLARATIONH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala (	2…
+,scala/meta/internal/metals/Buffers#remove().DECLARATIONH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala (2‡
+.scala/meta/internal/metals/Buffers#contains().DECLARATIONH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala (2
+7scala/meta/internal/metals/Buffers#tokenEditDistance().DECLARATIONH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala (29
+*scala/meta/internal/metals/Buffers#copy().DECLARATION2C
+4scala/meta/internal/metals/Buffers#copy$default$1().DECLARATION2B
+3scala/meta/internal/metals/Buffers#productPrefix().DECLARATION2A
+2scala/meta/internal/metals/Buffers#productArity().DECLARATION2C
+4scala/meta/internal/metals/Buffers#productElement().DECLARATION2D
+5scala/meta/internal/metals/Buffers#productIterator().DECLARATION2=
+.scala/meta/internal/metals/Buffers#canEqual().DECLARATION2=
+.scala/meta/internal/metals/Buffers#hashCode().DECLARATION2=
+.scala/meta/internal/metals/Buffers#toString().DECLARATION2;
+,scala/meta/internal/metals/Buffers#equals().DECLARATION2
+scala/AnyRef#EXTEND2
+scala/Product#EXTEND2
+scala/Serializable#EXTENDþ	
+)scala/meta/internal/metals/Buffers#get().METHODH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala (	"
+endLine18"
+isVarfalse"3
+symbol)scala/meta/internal/metals/Buffers#get()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameget"
+kindMETHOD"
+	startLine18"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter9"
+startCharacter6"
+isFinalfalse"
+LOC1*get2…
+.scala/meta/internal/metals/Buffers#get().(key)	PARAMETERH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala
+ (2f
+scala/Option#RETURN_TYPEH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala ($2m
+scala/Predef.String#RETURN_TYPEH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala% (+2€
+.scala/meta/internal/metals/Buffers#get().(key)CALLH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala7 (:2y
+'scala/meta/internal/metals/Buffers#map.CALLH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala/ (22|
+*scala/collection/concurrent/TrieMap#get().CALLH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala3 (6‹	
+#scala/meta/internal/metals/Buffers.OBJECTF
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala ("
+endLine0"
+isVarfalse"-
+symbol#scala/meta/internal/metals/Buffers."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameBuffers"
+kindOBJECT"
+	startLine0"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinaltrue*Buffers2=
+.scala/meta/internal/metals/Buffers.toString().DECLARATION2:
++scala/meta/internal/metals/Buffers.apply().DECLARATION2D
+5scala/meta/internal/metals/Buffers.apply$default$1().DECLARATION2<
+-scala/meta/internal/metals/Buffers.unapply().DECLARATION2G
+8scala/meta/internal/metals/Buffers.`<init>$default$1`().DECLARATION2@
+1scala/meta/internal/metals/Buffers.readResolve().DECLARATION2*
+ scala/runtime/AbstractFunction1#EXTEND2.
+$scala/collection/concurrent/TrieMap#EXTEND2%
+scala/meta/io/AbsolutePath#EXTEND2
+scala/Predef.String#EXTEND2-
+#scala/meta/internal/metals/Buffers#EXTEND2
+scala/Serializable#EXTENDè
+.scala/meta/internal/metals/Buffers#canEqual().METHOD"
+endLine0"
+isVarfalse"8
+symbol.scala/meta/internal/metals/Buffers#canEqual()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamecanEqual"
+kindMETHOD"
+	startLine0"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*canEqual2@
+3scala/meta/internal/metals/Buffers#canEqual().(x$1)	PARAMETER2
+scala/Boolean#RETURN_TYPE2$
+scala/Equals#canEqual().OVERRIDE÷
+.scala/meta/internal/metals/Buffers#`<init>`().CONSTRUCTORH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala ("
+endLine13"
+isVarfalse"8
+symbol.scala/meta/internal/metals/Buffers#`<init>`()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine13"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter18"
+isFinalfalse*<init>2@
+3scala/meta/internal/metals/Buffers#`<init>`().(map)	PARAMETER2~
+'scala/meta/internal/metals/Buffers#map.	PARAMETERH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala (¸
+?scala/meta/internal/metals/Buffers#tokenEditDistance().(source)	PARAMETERH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala ("
+endLine23"
+isVarfalse"I
+symbol?scala/meta/internal/metals/Buffers#tokenEditDistance().(source)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamesource"
+kind	PARAMETER"
+	startLine23"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*source2m
+scala/meta/io/AbsolutePath#TYPEH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala (œ
+)scala/meta/internal/metals/Buffers#put().METHODH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala (	"
+endLine17"
+isVarfalse"3
+symbol)scala/meta/internal/metals/Buffers#put()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameput"
+kindMETHOD"
+	startLine17"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter9"
+startCharacter6"
+isFinalfalse"
+LOC1*put2…
+.scala/meta/internal/metals/Buffers#put().(key)	PARAMETERH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala
+ (2‡
+0scala/meta/internal/metals/Buffers#put().(value)	PARAMETERH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala ("2d
+scala/Unit#RETURN_TYPEH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala- (12€
+.scala/meta/internal/metals/Buffers#put().(key)CALLH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala< (?2‚
+0scala/meta/internal/metals/Buffers#put().(value)CALLH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scalaA (F2y
+'scala/meta/internal/metals/Buffers#map.CALLH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala4 (72|
+*scala/collection/concurrent/TrieMap#put().CALLH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala8 (;þ
+9scala/meta/internal/metals/Buffers#productElement().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"C
+symbol9scala/meta/internal/metals/Buffers#productElement().(x$1)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Int#TYPE
+1scala/meta/internal/metals/Buffers.readResolve().METHOD"
+endLine0"
+isVarfalse";
+symbol1scala/meta/internal/metals/Buffers.readResolve()."%
+packagescala.meta.internal.metals"
+accessPrivateAccess()"
+displayNamereadResolve"
+kindMETHOD"
+	startLine0"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*readResolve2 
+java/lang/Object#RETURN_TYPEî
+1scala/meta/internal/metals/Buffers#equals().(x$1)	PARAMETER"
+endLine0"
+isVarfalse";
+symbol1scala/meta/internal/metals/Buffers#equals().(x$1)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Any#TYPE‘
+.scala/meta/internal/metals/Buffers#get().(key)	PARAMETERH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala
+ ("
+endLine18"
+isVarfalse"8
+symbol.scala/meta/internal/metals/Buffers#get().(key)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamekey"
+kind	PARAMETER"
+	startLine18"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter10"
+isFinalfalse*key2m
+scala/meta/io/AbsolutePath#TYPEH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala (Ã
+*scala/meta/internal/metals/Buffers#copy().METHOD"
+endLine0"
+isVarfalse"4
+symbol*scala/meta/internal/metals/Buffers#copy()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamecopy"
+kindMETHOD"
+	startLine0"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy2<
+/scala/meta/internal/metals/Buffers#copy().(map)	PARAMETER22
+#scala/meta/internal/metals/Buffers#RETURN_TYPEî
++scala/meta/internal/metals/Buffers.apply().METHOD"
+endLine0"
+isVarfalse"5
+symbol+scala/meta/internal/metals/Buffers.apply()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameapply"
+kindMETHOD"
+	startLine0"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply2=
+0scala/meta/internal/metals/Buffers.apply().(map)	PARAMETER22
+#scala/meta/internal/metals/Buffers#RETURN_TYPE2$
+scala/Function1#apply().OVERRIDEÏ
+Elocal4:metals/src/main/scala/scala/meta/internal/metals/Buffers.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal4"
+package "
+accessPublicAccess()"
+displayNamecase6"
+kindMETHOD"
+	startLine0"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case62
+scala/Boolean#RETURN_TYPEØ
+Elocal6:metals/src/main/scala/scala/meta/internal/metals/Buffers.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal6"
+package "
+accessEmpty"
+displayName	Buffers$1"
+kindVALUE"
+	startLine0"
+isValtrue"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*	Buffers$12+
+#scala/meta/internal/metals/Buffers#TYPE²
+Elocal0:metals/src/main/scala/scala/meta/internal/metals/Buffers.scalaVALUEH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala ("
+endLine27"
+isVarfalse"
+symbollocal0"
+package "
+accessEmpty"
+displayNamebufferInput"
+kindVALUE"
+	startLine27"
+isValtrue"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter8"
+isFinalfalse*bufferInput24
+,scala/meta/inputs/Aliases#Input.VirtualFile#TYPE±
+Elocal2:metals/src/main/scala/scala/meta/internal/metals/Buffers.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal2"
+package "
+accessEmpty"
+displayNamex1"
+kindVALUE"
+	startLine0"
+isValtrue"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x12
+
+scala/Any#TYPEÿ
+*scala/meta/internal/metals/Buffers#open().METHODH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala (
+"
+endLine16"
+isVarfalse"4
+symbol*scala/meta/internal/metals/Buffers#open()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameopen"
+kindMETHOD"
+	startLine16"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter6"
+isFinalfalse"
+LOC1*open2p
+scala/package.Iterable#RETURN_TYPEH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala (2t
+scala/meta/io/AbsolutePath#RETURN_TYPEH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala (!2y
+'scala/meta/internal/metals/Buffers#map.CALLH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala% ((2r
+ scala/collection/MapLike#keys().CALLH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala) (-ò
+3scala/meta/internal/metals/Buffers#canEqual().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"=
+symbol3scala/meta/internal/metals/Buffers#canEqual().(x$1)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Any#TYPE¥
+,scala/meta/internal/metals/Buffers#equals().METHOD"
+endLine0"
+isVarfalse"6
+symbol,scala/meta/internal/metals/Buffers#equals()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameequals"
+kindMETHOD"
+	startLine0"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*equals2>
+1scala/meta/internal/metals/Buffers#equals().(x$1)	PARAMETER2
+scala/Boolean#RETURN_TYPE2"
+scala/Equals#equals().OVERRIDE2&
+java/lang/Object#equals().OVERRIDE2
+scala/Any#equals().OVERRIDE‰
+2scala/meta/internal/metals/Buffers.unapply().(x$0)	PARAMETER"
+endLine0"
+isVarfalse"<
+symbol2scala/meta/internal/metals/Buffers.unapply().(x$0)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamex$0"
+kind	PARAMETER"
+	startLine0"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$02+
+#scala/meta/internal/metals/Buffers#TYPE›
+3scala/meta/internal/metals/Buffers#contains().(key)	PARAMETERH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala ("
+endLine20"
+isVarfalse"=
+symbol3scala/meta/internal/metals/Buffers#contains().(key)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamekey"
+kind	PARAMETER"
+	startLine20"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter15"
+isFinalfalse*key2m
+scala/meta/io/AbsolutePath#TYPEH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala ( ‘
+.scala/meta/internal/metals/Buffers#put().(key)	PARAMETERH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala
+ ("
+endLine17"
+isVarfalse"8
+symbol.scala/meta/internal/metals/Buffers#put().(key)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamekey"
+kind	PARAMETER"
+	startLine17"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter10"
+isFinalfalse*key2m
+scala/meta/io/AbsolutePath#TYPEH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala (ñ
+5scala/meta/internal/metals/Buffers#productIterator().METHOD"
+endLine0"
+isVarfalse"?
+symbol5scala/meta/internal/metals/Buffers#productIterator()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameproductIterator"
+kindMETHOD"
+	startLine0"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productIterator2)
+scala/collection/Iterator#RETURN_TYPE2
+
+scala/Any#RETURN_TYPE2,
+ scala/Product#productIterator().OVERRIDEÁ
+5scala/meta/internal/metals/Buffers.apply$default$1().METHOD"
+endLine0"
+isVarfalse"?
+symbol5scala/meta/internal/metals/Buffers.apply$default$1()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameapply$default$1"
+kindMETHOD"
+	startLine0"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply$default$12<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE23
+$scala/collection/concurrent/TrieMap#RETURN_TYPE2*
+scala/meta/io/AbsolutePath#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPEÐ
+.scala/meta/internal/metals/Buffers#toString().METHOD"
+endLine0"
+isVarfalse"8
+symbol.scala/meta/internal/metals/Buffers#toString()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNametoString"
+kindMETHOD"
+	startLine0"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*toString2 
+java/lang/String#RETURN_TYPE2(
+java/lang/Object#toString().OVERRIDE2!
+scala/Any#toString().OVERRIDE»
+>scala/meta/internal/metals/Buffers#tokenEditDistance().(trees)	PARAMETERH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala ("
+endLine25"
+isVarfalse"H
+symbol>scala/meta/internal/metals/Buffers#tokenEditDistance().(trees)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNametrees"
+kind	PARAMETER"
+	startLine25"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter11"
+startCharacter6"
+isFinalfalse*trees2t
+"scala/meta/internal/parsing/Trees#TYPEH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala (á
+'scala/meta/internal/metals/Buffers#map.VALUEH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala ("
+endLine14"
+isVarfalse"1
+symbol'scala/meta/internal/metals/Buffers#map."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamemap"
+kindVALUE"
+	startLine14"
+isValtrue"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter7"
+startCharacter4"
+isFinalfalse*map2v
+$scala/collection/concurrent/TrieMap#TYPEH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala	 (2m
+scala/meta/io/AbsolutePath#TYPEH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala (2f
+scala/Predef.String#TYPEH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala (%£	
+,scala/meta/internal/metals/Buffers#remove().METHODH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala ("
+endLine19"
+isVarfalse"6
+symbol,scala/meta/internal/metals/Buffers#remove()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameremove"
+kindMETHOD"
+	startLine19"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse"
+LOC1*remove2ˆ
+1scala/meta/internal/metals/Buffers#remove().(key)	PARAMETERH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala (2d
+scala/Unit#RETURN_TYPEH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala! (%2ƒ
+1scala/meta/internal/metals/Buffers#remove().(key)CALLH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala3 (62y
+'scala/meta/internal/metals/Buffers#map.CALLH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala( (+2
+-scala/collection/concurrent/TrieMap#remove().CALLH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala, (2ø
+.scala/meta/internal/metals/Buffers.toString().METHOD"
+endLine0"
+isVarfalse"8
+symbol.scala/meta/internal/metals/Buffers.toString()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNametoString"
+kindMETHOD"
+	startLine0"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinaltrue*toString2 
+java/lang/String#RETURN_TYPE2'
+scala/Function1#toString().OVERRIDE2(
+java/lang/Object#toString().OVERRIDE2!
+scala/Any#toString().OVERRIDEÎ
+3scala/meta/internal/metals/Buffers#`<init>`().(map)	PARAMETER"
+endLine0"
+isVarfalse"=
+symbol3scala/meta/internal/metals/Buffers#`<init>`().(map)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamemap"
+kind	PARAMETER"
+	startLine0"
+isValtrue"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*map2,
+$scala/collection/concurrent/TrieMap#TYPE2#
+scala/meta/io/AbsolutePath#TYPE2
+scala/Predef.String#TYPE‰
+4scala/meta/internal/metals/Buffers#productElement().METHOD"
+endLine0"
+isVarfalse">
+symbol4scala/meta/internal/metals/Buffers#productElement()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameproductElement"
+kindMETHOD"
+	startLine0"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productElement2F
+9scala/meta/internal/metals/Buffers#productElement().(x$1)	PARAMETER2
+
+scala/Any#RETURN_TYPE2+
+scala/Product#productElement().OVERRIDE·
+2scala/meta/internal/metals/Buffers#productArity().METHOD"
+endLine0"
+isVarfalse"<
+symbol2scala/meta/internal/metals/Buffers#productArity()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameproductArity"
+kindMETHOD"
+	startLine0"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productArity2
+
+scala/Int#RETURN_TYPE2)
+scala/Product#productArity().OVERRIDEÏ
+Elocal3:metals/src/main/scala/scala/meta/internal/metals/Buffers.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal3"
+package "
+accessPublicAccess()"
+displayNamecase5"
+kindMETHOD"
+	startLine0"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case52
+scala/Boolean#RETURN_TYPEÉ
+0scala/meta/internal/metals/Buffers.apply().(map)	PARAMETER"
+endLine0"
+isVarfalse":
+symbol0scala/meta/internal/metals/Buffers.apply().(map)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamemap"
+kind	PARAMETER"
+	startLine0"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*map2,
+$scala/collection/concurrent/TrieMap#TYPE2#
+scala/meta/io/AbsolutePath#TYPE2
+scala/Predef.String#TYPEÇ
+/scala/meta/internal/metals/Buffers#copy().(map)	PARAMETER"
+endLine0"
+isVarfalse"9
+symbol/scala/meta/internal/metals/Buffers#copy().(map)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamemap"
+kind	PARAMETER"
+	startLine0"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*map2,
+$scala/collection/concurrent/TrieMap#TYPE2#
+scala/meta/io/AbsolutePath#TYPE2
+scala/Predef.String#TYPEÉ
+.scala/meta/internal/metals/Buffers#hashCode().METHOD"
+endLine0"
+isVarfalse"8
+symbol.scala/meta/internal/metals/Buffers#hashCode()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamehashCode"
+kindMETHOD"
+	startLine0"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*hashCode2
+
+scala/Int#RETURN_TYPE2(
+java/lang/Object#hashCode().OVERRIDE2!
+scala/Any#hashCode().OVERRIDE½
+4scala/meta/internal/metals/Buffers#copy$default$1().METHOD"
+endLine0"
+isVarfalse">
+symbol4scala/meta/internal/metals/Buffers#copy$default$1()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamecopy$default$1"
+kindMETHOD"
+	startLine0"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$12<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE23
+$scala/collection/concurrent/TrieMap#RETURN_TYPE2*
+scala/meta/io/AbsolutePath#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE­
+Elocal5:metals/src/main/scala/scala/meta/internal/metals/Buffers.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal5"
+package "
+accessPublicAccess()"
+displayName	matchEnd4"
+kindMETHOD"
+	startLine0"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*	matchEnd42T
+Glocal231:metals/src/main/scala/scala/meta/internal/metals/Buffers.scala	PARAMETER2
+scala/Boolean#RETURN_TYPE®
+Elocal1:metals/src/main/scala/scala/meta/internal/metals/Buffers.scalaVALUEH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala ("
+endLine28"
+isVarfalse"
+symbollocal1"
+package "
+accessEmpty"
+displayNamesnapshotInput"
+kindVALUE"
+	startLine28"
+isValtrue"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter8"
+isFinalfalse*snapshotInput2,
+$scala/meta/inputs/Input.VirtualFile#TYPE†
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scalaFILE*>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala’
+0scala/meta/internal/metals/Buffers#put().(value)	PARAMETERH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala (""
+endLine17"
+isVarfalse":
+symbol0scala/meta/internal/metals/Buffers#put().(value)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamevalue"
+kind	PARAMETER"
+	startLine17"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter34"
+startCharacter29"
+isFinalfalse*value2f
+scala/Predef.String#TYPEH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala$ (*¹
+Ascala/meta/internal/metals/Buffers#tokenEditDistance().(snapshot)	PARAMETERH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala ("
+endLine24"
+isVarfalse"K
+symbolAscala/meta/internal/metals/Buffers#tokenEditDistance().(snapshot)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamesnapshot"
+kind	PARAMETER"
+	startLine24"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter14"
+startCharacter6"
+isFinalfalse*snapshot2f
+scala/Predef.String#TYPEH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala (–
+7scala/meta/internal/metals/Buffers#tokenEditDistance().METHODH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala ("
+endLine22"
+isVarfalse"A
+symbol7scala/meta/internal/metals/Buffers#tokenEditDistance()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()" 
+displayNametokenEditDistance"
+kindMETHOD"
+	startLine22"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter6"
+isFinalfalse"
+LOC9*tokenEditDistance2–
+?scala/meta/internal/metals/Buffers#tokenEditDistance().(source)	PARAMETERH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala (2˜
+Ascala/meta/internal/metals/Buffers#tokenEditDistance().(snapshot)	PARAMETERH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala (2•
+>scala/meta/internal/metals/Buffers#tokenEditDistance().(trees)	PARAMETERH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala (2‡
+.scala/meta/internal/parsing/TokenEditDistance#RETURN_TYPEH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala (2ž
+Elocal0:metals/src/main/scala/scala/meta/internal/metals/Buffers.scalaDECLARATIONH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala (2‘
+?scala/meta/internal/metals/Buffers#tokenEditDistance().(source)CALLH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala (2°
+^scala/meta/internal/metals/MetalsEnrichments.XtensionAbsolutePathBuffers#toInputFromBuffers().CALLH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala (/2ž
+Elocal1:metals/src/main/scala/scala/meta/internal/metals/Buffers.scalaDECLARATIONH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala (2—
+Elocal0:metals/src/main/scala/scala/meta/internal/metals/Buffers.scalaCALLH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala* (52{
+)scala/meta/inputs/Input.VirtualFile#path.CALLH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala6 (:2“
+Ascala/meta/internal/metals/Buffers#tokenEditDistance().(snapshot)CALLH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala< (D2j
+scala/meta/inputs/Input.CALLH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala (2v
+$scala/meta/inputs/Input.VirtualFile.CALLH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala ()2—
+Elocal1:metals/src/main/scala/scala/meta/internal/metals/Buffers.scalaCALLH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala (#2—
+Elocal0:metals/src/main/scala/scala/meta/internal/metals/Buffers.scalaCALLH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala% (02
+>scala/meta/internal/metals/Buffers#tokenEditDistance().(trees)CALLH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala2 (72€
+.scala/meta/internal/parsing/TokenEditDistance.CALLH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala (É
+8scala/meta/internal/metals/Buffers.`<init>$default$1`().METHOD"
+endLine0"
+isVarfalse"B
+symbol8scala/meta/internal/metals/Buffers.`<init>$default$1`()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName<init>$default$1"
+kindMETHOD"
+	startLine0"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>$default$12<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE23
+$scala/collection/concurrent/TrieMap#RETURN_TYPE2*
+scala/meta/io/AbsolutePath#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE—
+1scala/meta/internal/metals/Buffers#remove().(key)	PARAMETERH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala ("
+endLine19"
+isVarfalse";
+symbol1scala/meta/internal/metals/Buffers#remove().(key)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamekey"
+kind	PARAMETER"
+	startLine19"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter13"
+isFinalfalse*key2m
+scala/meta/io/AbsolutePath#TYPEH
+>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala (Â
+-scala/meta/internal/metals/Buffers.unapply().METHOD"
+endLine0"
+isVarfalse"7
+symbol-scala/meta/internal/metals/Buffers.unapply()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameunapply"
+kindMETHOD"
+	startLine0"
+isValfalse"E
+uri>metals/src/main/scala/scala/meta/internal/metals/Buffers.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*unapply2?
+2scala/meta/internal/metals/Buffers.unapply().(x$0)	PARAMETER2
+scala/Option#RETURN_TYPE23
+$scala/collection/concurrent/TrieMap#RETURN_TYPE2*
+scala/meta/io/AbsolutePath#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE

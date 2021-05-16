@@ -1,0 +1,808 @@
+
+Ometals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scalaã
+4scala/meta/internal/metals/ResolvedSymbolOccurrence#CLASSY
+Ometals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala (#"
+endLine8"
+isVarfalse">
+symbol4scala/meta/internal/metals/ResolvedSymbolOccurrence#"%
+packagescala.meta.internal.metals"
+accessPublicAccess()"'
+displayNameResolvedSymbolOccurrence"
+kindCLASS"
+	startLine8"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter35"
+startCharacter11"
+isFinalfalse"
+LOC4*ResolvedSymbolOccurrence2§
+=scala/meta/internal/metals/ResolvedSymbolOccurrence#distance.DECLARATIONY
+Ometals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala	 	(2©
+?scala/meta/internal/metals/ResolvedSymbolOccurrence#occurrence.DECLARATIONY
+Ometals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala
+ 
+(2©
+?scala/meta/internal/metals/ResolvedSymbolOccurrence#`<init>`().DECLARATIONY
+Ometals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala# (#2J
+;scala/meta/internal/metals/ResolvedSymbolOccurrence#copy().DECLARATION2T
+Escala/meta/internal/metals/ResolvedSymbolOccurrence#copy$default$1().DECLARATION2T
+Escala/meta/internal/metals/ResolvedSymbolOccurrence#copy$default$2().DECLARATION2S
+Dscala/meta/internal/metals/ResolvedSymbolOccurrence#productPrefix().DECLARATION2R
+Cscala/meta/internal/metals/ResolvedSymbolOccurrence#productArity().DECLARATION2T
+Escala/meta/internal/metals/ResolvedSymbolOccurrence#productElement().DECLARATION2U
+Fscala/meta/internal/metals/ResolvedSymbolOccurrence#productIterator().DECLARATION2N
+?scala/meta/internal/metals/ResolvedSymbolOccurrence#canEqual().DECLARATION2N
+?scala/meta/internal/metals/ResolvedSymbolOccurrence#hashCode().DECLARATION2N
+?scala/meta/internal/metals/ResolvedSymbolOccurrence#toString().DECLARATION2L
+=scala/meta/internal/metals/ResolvedSymbolOccurrence#equals().DECLARATION2
+scala/AnyRef#EXTEND2
+scala/Product#EXTEND2
+scala/Serializable#EXTENDø
+Hscala/meta/internal/metals/ResolvedSymbolOccurrence.apply().(occurrence)	PARAMETER"
+endLine0"
+isVarfalse"R
+symbolHscala/meta/internal/metals/ResolvedSymbolOccurrence.apply().(occurrence)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayName
+occurrence"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*
+occurrence2
+scala/Option#TYPE28
+0scala/meta/internal/semanticdb/SymbolOccurrence#TYPEö
+Gscala/meta/internal/metals/ResolvedSymbolOccurrence#copy().(occurrence)	PARAMETER"
+endLine0"
+isVarfalse"Q
+symbolGscala/meta/internal/metals/ResolvedSymbolOccurrence#copy().(occurrence)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayName
+occurrence"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*
+occurrence2
+scala/Option#TYPE28
+0scala/meta/internal/semanticdb/SymbolOccurrence#TYPEÏ	
+4scala/meta/internal/metals/ResolvedSymbolOccurrence.OBJECTW
+Ometals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala ("
+endLine0"
+isVarfalse">
+symbol4scala/meta/internal/metals/ResolvedSymbolOccurrence."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"'
+displayNameResolvedSymbolOccurrence"
+kindOBJECT"
+	startLine0"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinaltrue*ResolvedSymbolOccurrence2N
+?scala/meta/internal/metals/ResolvedSymbolOccurrence.toString().DECLARATION2K
+<scala/meta/internal/metals/ResolvedSymbolOccurrence.apply().DECLARATION2M
+>scala/meta/internal/metals/ResolvedSymbolOccurrence.unapply().DECLARATION2Q
+Bscala/meta/internal/metals/ResolvedSymbolOccurrence.readResolve().DECLARATION2*
+ scala/runtime/AbstractFunction2#EXTEND28
+.scala/meta/internal/parsing/TokenEditDistance#EXTEND2
+scala/Option#EXTEND2:
+0scala/meta/internal/semanticdb/SymbolOccurrence#EXTEND2>
+4scala/meta/internal/metals/ResolvedSymbolOccurrence#EXTEND2
+scala/Serializable#EXTENDó
+;scala/meta/internal/metals/ResolvedSymbolOccurrence#copy().METHOD"
+endLine0"
+isVarfalse"E
+symbol;scala/meta/internal/metals/ResolvedSymbolOccurrence#copy()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamecopy"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy2R
+Escala/meta/internal/metals/ResolvedSymbolOccurrence#copy().(distance)	PARAMETER2T
+Gscala/meta/internal/metals/ResolvedSymbolOccurrence#copy().(occurrence)	PARAMETER2C
+4scala/meta/internal/metals/ResolvedSymbolOccurrence#RETURN_TYPE±
+Jscala/meta/internal/metals/ResolvedSymbolOccurrence#productElement().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"T
+symbolJscala/meta/internal/metals/ResolvedSymbolOccurrence#productElement().(x$1)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Int#TYPEý
+Kscala/meta/internal/metals/ResolvedSymbolOccurrence#`<init>`().(occurrence)	PARAMETER"
+endLine0"
+isVarfalse"U
+symbolKscala/meta/internal/metals/ResolvedSymbolOccurrence#`<init>`().(occurrence)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayName
+occurrence"
+kind	PARAMETER"
+	startLine0"
+isValtrue"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*
+occurrence2
+scala/Option#TYPE28
+0scala/meta/internal/semanticdb/SymbolOccurrence#TYPEê
+Cscala/meta/internal/metals/ResolvedSymbolOccurrence#productArity().METHOD"
+endLine0"
+isVarfalse"M
+symbolCscala/meta/internal/metals/ResolvedSymbolOccurrence#productArity()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameproductArity"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productArity2
+
+scala/Int#RETURN_TYPE2)
+scala/Product#productArity().OVERRIDE¡
+Bscala/meta/internal/metals/ResolvedSymbolOccurrence#equals().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"L
+symbolBscala/meta/internal/metals/ResolvedSymbolOccurrence#equals().(x$1)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Any#TYPEÉ
+Escala/meta/internal/metals/ResolvedSymbolOccurrence#copy$default$2().METHOD"
+endLine0"
+isVarfalse"O
+symbolEscala/meta/internal/metals/ResolvedSymbolOccurrence#copy$default$2()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamecopy$default$2"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$22<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+scala/Option#RETURN_TYPE2?
+0scala/meta/internal/semanticdb/SymbolOccurrence#RETURN_TYPE¤
+Fscala/meta/internal/metals/ResolvedSymbolOccurrence#productIterator().METHOD"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/metals/ResolvedSymbolOccurrence#productIterator()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameproductIterator"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productIterator2)
+scala/collection/Iterator#RETURN_TYPE2
+
+scala/Any#RETURN_TYPE2,
+ scala/Product#productIterator().OVERRIDEŸ
+<scala/meta/internal/metals/ResolvedSymbolOccurrence.apply().METHOD"
+endLine0"
+isVarfalse"F
+symbol<scala/meta/internal/metals/ResolvedSymbolOccurrence.apply()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameapply"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply2S
+Fscala/meta/internal/metals/ResolvedSymbolOccurrence.apply().(distance)	PARAMETER2U
+Hscala/meta/internal/metals/ResolvedSymbolOccurrence.apply().(occurrence)	PARAMETER2C
+4scala/meta/internal/metals/ResolvedSymbolOccurrence#RETURN_TYPE2$
+scala/Function2#apply().OVERRIDE¨
+Ometals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scalaFILE*Ometals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala×
+Fscala/meta/internal/metals/ResolvedSymbolOccurrence.apply().(distance)	PARAMETER"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/metals/ResolvedSymbolOccurrence.apply().(distance)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamedistance"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*distance26
+.scala/meta/internal/parsing/TokenEditDistance#TYPEö
+Dscala/meta/internal/metals/ResolvedSymbolOccurrence#productPrefix().METHOD"
+endLine0"
+isVarfalse"N
+symbolDscala/meta/internal/metals/ResolvedSymbolOccurrence#productPrefix()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameproductPrefix"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productPrefix2 
+java/lang/String#RETURN_TYPE2*
+scala/Product#productPrefix().OVERRIDE¥
+Dscala/meta/internal/metals/ResolvedSymbolOccurrence#canEqual().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"N
+symbolDscala/meta/internal/metals/ResolvedSymbolOccurrence#canEqual().(x$1)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Any#TYPEü
+?scala/meta/internal/metals/ResolvedSymbolOccurrence#hashCode().METHOD"
+endLine0"
+isVarfalse"I
+symbol?scala/meta/internal/metals/ResolvedSymbolOccurrence#hashCode()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamehashCode"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*hashCode2
+
+scala/Int#RETURN_TYPE2(
+java/lang/Object#hashCode().OVERRIDE2!
+scala/Any#hashCode().OVERRIDEÜ
+Iscala/meta/internal/metals/ResolvedSymbolOccurrence#`<init>`().(distance)	PARAMETER"
+endLine0"
+isVarfalse"S
+symbolIscala/meta/internal/metals/ResolvedSymbolOccurrence#`<init>`().(distance)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamedistance"
+kind	PARAMETER"
+	startLine0"
+isValtrue"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*distance26
+.scala/meta/internal/parsing/TokenEditDistance#TYPE¼
+>scala/meta/internal/metals/ResolvedSymbolOccurrence.unapply().METHOD"
+endLine0"
+isVarfalse"H
+symbol>scala/meta/internal/metals/ResolvedSymbolOccurrence.unapply()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameunapply"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*unapply2P
+Cscala/meta/internal/metals/ResolvedSymbolOccurrence.unapply().(x$0)	PARAMETER2
+scala/Option#RETURN_TYPE2
+scala/Tuple2#RETURN_TYPE2=
+.scala/meta/internal/parsing/TokenEditDistance#RETURN_TYPE2
+scala/Option#RETURN_TYPE2?
+0scala/meta/internal/semanticdb/SymbolOccurrence#RETURN_TYPEƒ
+?scala/meta/internal/metals/ResolvedSymbolOccurrence#toString().METHOD"
+endLine0"
+isVarfalse"I
+symbol?scala/meta/internal/metals/ResolvedSymbolOccurrence#toString()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNametoString"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*toString2 
+java/lang/String#RETURN_TYPE2(
+java/lang/Object#toString().OVERRIDE2!
+scala/Any#toString().OVERRIDEý
+=scala/meta/internal/metals/ResolvedSymbolOccurrence#distance.VALUEY
+Ometals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala	 	("
+endLine9"
+isVarfalse"G
+symbol=scala/meta/internal/metals/ResolvedSymbolOccurrence#distance."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamedistance"
+kindVALUE"
+	startLine9"
+isValtrue"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter4"
+isFinalfalse*distance2‘
+.scala/meta/internal/parsing/TokenEditDistance#TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala	 	(­
+Vlocal4:metals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal4"
+package "
+accessEmpty")
+displayNameResolvedSymbolOccurrence$1"
+kindVALUE"
+	startLine0"
+isValtrue"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*ResolvedSymbolOccurrence$12<
+4scala/meta/internal/metals/ResolvedSymbolOccurrence#TYPEÕ
+Escala/meta/internal/metals/ResolvedSymbolOccurrence#copy().(distance)	PARAMETER"
+endLine0"
+isVarfalse"O
+symbolEscala/meta/internal/metals/ResolvedSymbolOccurrence#copy().(distance)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamedistance"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*distance26
+.scala/meta/internal/parsing/TokenEditDistance#TYPEñ
+Vlocal2:metals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal2"
+package "
+accessPublicAccess()"
+displayNamecase6"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case62
+scala/Boolean#RETURN_TYPEà
+Vlocal3:metals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal3"
+package "
+accessPublicAccess()"
+displayName	matchEnd4"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*	matchEnd42e
+Xlocal529:metals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala	PARAMETER2
+scala/Boolean#RETURN_TYPEÍ
+Cscala/meta/internal/metals/ResolvedSymbolOccurrence.unapply().(x$0)	PARAMETER"
+endLine0"
+isVarfalse"M
+symbolCscala/meta/internal/metals/ResolvedSymbolOccurrence.unapply().(x$0)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamex$0"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$02<
+4scala/meta/internal/metals/ResolvedSymbolOccurrence#TYPEé
+=scala/meta/internal/metals/ResolvedSymbolOccurrence#equals().METHOD"
+endLine0"
+isVarfalse"G
+symbol=scala/meta/internal/metals/ResolvedSymbolOccurrence#equals()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameequals"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*equals2O
+Bscala/meta/internal/metals/ResolvedSymbolOccurrence#equals().(x$1)	PARAMETER2
+scala/Boolean#RETURN_TYPE2"
+scala/Equals#equals().OVERRIDE2&
+java/lang/Object#equals().OVERRIDE2
+scala/Any#equals().OVERRIDEñ
+Vlocal1:metals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal1"
+package "
+accessPublicAccess()"
+displayNamecase5"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case52
+scala/Boolean#RETURN_TYPEÍ
+Escala/meta/internal/metals/ResolvedSymbolOccurrence#productElement().METHOD"
+endLine0"
+isVarfalse"O
+symbolEscala/meta/internal/metals/ResolvedSymbolOccurrence#productElement()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameproductElement"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productElement2W
+Jscala/meta/internal/metals/ResolvedSymbolOccurrence#productElement().(x$1)	PARAMETER2
+
+scala/Any#RETURN_TYPE2+
+scala/Product#productElement().OVERRIDEÃ
+Bscala/meta/internal/metals/ResolvedSymbolOccurrence.readResolve().METHOD"
+endLine0"
+isVarfalse"L
+symbolBscala/meta/internal/metals/ResolvedSymbolOccurrence.readResolve()."%
+packagescala.meta.internal.metals"
+accessPrivateAccess()"
+displayNamereadResolve"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*readResolve2 
+java/lang/Object#RETURN_TYPEû
+?scala/meta/internal/metals/ResolvedSymbolOccurrence#occurrence.VALUEY
+Ometals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala
+ 
+("
+endLine10"
+isVarfalse"I
+symbol?scala/meta/internal/metals/ResolvedSymbolOccurrence#occurrence."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName
+occurrence"
+kindVALUE"
+	startLine10"
+isValtrue"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter14"
+startCharacter4"
+isFinalfalse*
+occurrence2p
+scala/Option#TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala
+ 
+(2“
+0scala/meta/internal/semanticdb/SymbolOccurrence#TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala
+ 
+('©
+Escala/meta/internal/metals/ResolvedSymbolOccurrence#copy$default$1().METHOD"
+endLine0"
+isVarfalse"O
+symbolEscala/meta/internal/metals/ResolvedSymbolOccurrence#copy$default$1()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamecopy$default$1"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$12<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2=
+.scala/meta/internal/parsing/TokenEditDistance#RETURN_TYPEû
+?scala/meta/internal/metals/ResolvedSymbolOccurrence#`<init>`().CONSTRUCTORY
+Ometals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala# (#"
+endLine8"
+isVarfalse"I
+symbol?scala/meta/internal/metals/ResolvedSymbolOccurrence#`<init>`()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine8"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter35"
+startCharacter35"
+isFinalfalse*<init>2V
+Iscala/meta/internal/metals/ResolvedSymbolOccurrence#`<init>`().(distance)	PARAMETER2X
+Kscala/meta/internal/metals/ResolvedSymbolOccurrence#`<init>`().(occurrence)	PARAMETER2¥
+=scala/meta/internal/metals/ResolvedSymbolOccurrence#distance.	PARAMETERY
+Ometals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala	 	(2§
+?scala/meta/internal/metals/ResolvedSymbolOccurrence#occurrence.	PARAMETERY
+Ometals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala
+ 
+(¬
+?scala/meta/internal/metals/ResolvedSymbolOccurrence#canEqual().METHOD"
+endLine0"
+isVarfalse"I
+symbol?scala/meta/internal/metals/ResolvedSymbolOccurrence#canEqual()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamecanEqual"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*canEqual2Q
+Dscala/meta/internal/metals/ResolvedSymbolOccurrence#canEqual().(x$1)	PARAMETER2
+scala/Boolean#RETURN_TYPE2$
+scala/Equals#canEqual().OVERRIDE«
+?scala/meta/internal/metals/ResolvedSymbolOccurrence.toString().METHOD"
+endLine0"
+isVarfalse"I
+symbol?scala/meta/internal/metals/ResolvedSymbolOccurrence.toString()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNametoString"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinaltrue*toString2 
+java/lang/String#RETURN_TYPE2'
+scala/Function2#toString().OVERRIDE2(
+java/lang/Object#toString().OVERRIDE2!
+scala/Any#toString().OVERRIDEÓ
+Vlocal0:metals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal0"
+package "
+accessEmpty"
+displayNamex1"
+kindVALUE"
+	startLine0"
+isValtrue"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/ResolvedSymbolOccurrence.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x12
+
+scala/Any#TYPE

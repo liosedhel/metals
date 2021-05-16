@@ -1,0 +1,33 @@
+
+Kmetals/src/main/scala/scala/meta/internal/metals/debug/RemoteEndpoint.scala§
+0scala/meta/internal/metals/debug/RemoteEndpoint#TRAITU
+Kmetals/src/main/scala/scala/meta/internal/metals/debug/RemoteEndpoint.scala ("
+endLine7"
+isVarfalse":
+symbol0scala/meta/internal/metals/debug/RemoteEndpoint#"+
+package scala.meta.internal.metals.debug"
+accessPublicAccess()"
+displayNameRemoteEndpoint"
+kindTRAIT"
+	startLine7"
+isValfalse"R
+uriKmetals/src/main/scala/scala/meta/internal/metals/debug/RemoteEndpoint.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter6"
+isFinalfalse"
+LOC4*RemoteEndpoint2
+java/lang/Object#EXTEND2‹
+*org/eclipse/lsp4j/jsonrpc/MessageConsumer#EXTENDU
+Kmetals/src/main/scala/scala/meta/internal/metals/debug/RemoteEndpoint.scala (2‹
+*org/eclipse/lsp4j/jsonrpc/MessageProducer#EXTENDU
+Kmetals/src/main/scala/scala/meta/internal/metals/debug/RemoteEndpoint.scala		 	(2‡
+&scala/meta/internal/metals/Cancelable#EXTENDU
+Kmetals/src/main/scala/scala/meta/internal/metals/debug/RemoteEndpoint.scala
+	 
+( 
+Kmetals/src/main/scala/scala/meta/internal/metals/debug/RemoteEndpoint.scalaFILE*Kmetals/src/main/scala/scala/meta/internal/metals/debug/RemoteEndpoint.scala

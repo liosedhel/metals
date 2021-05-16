@@ -1,0 +1,74 @@
+
+@mtags/src/main/scala/scala/meta/internal/pc/ReporterAccess.scalaŠ
+@mtags/src/main/scala/scala/meta/internal/pc/ReporterAccess.scalaFILE*@mtags/src/main/scala/scala/meta/internal/pc/ReporterAccess.scala¿
+1scala/meta/internal/pc/ReporterAccess#reporter().METHODJ
+@mtags/src/main/scala/scala/meta/internal/pc/ReporterAccess.scala ("
+endLine3"
+isVarfalse";
+symbol1scala/meta/internal/pc/ReporterAccess#reporter()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamereporter"
+kindMETHOD"
+	startLine3"
+isValfalse"G
+uri@mtags/src/main/scala/scala/meta/internal/pc/ReporterAccess.scala"
+
+isAbstracttrue"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter14"
+startCharacter6"
+isFinalfalse*reporter2‹
+0scala/meta/internal/pc/ReporterAccess#[Reporter]RETURN_TYPEJ
+@mtags/src/main/scala/scala/meta/internal/pc/ReporterAccess.scala (é
+&scala/meta/internal/pc/ReporterAccess#TRAITJ
+@mtags/src/main/scala/scala/meta/internal/pc/ReporterAccess.scala ("
+endLine2"
+isVarfalse"0
+symbol&scala/meta/internal/pc/ReporterAccess#"!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameReporterAccess"
+kindTRAIT"
+	startLine2"
+isValfalse"G
+uri@mtags/src/main/scala/scala/meta/internal/pc/ReporterAccess.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter6"
+isFinalfalse"
+LOC3*ReporterAccess2Œ
+1scala/meta/internal/pc/ReporterAccess#reporter().DECLARATIONJ
+@mtags/src/main/scala/scala/meta/internal/pc/ReporterAccess.scala (2
+scala/AnyRef#EXTEND2Ž
+0scala/meta/internal/pc/ReporterAccess#[Reporter]TYPE_PARAMETERJ
+@mtags/src/main/scala/scala/meta/internal/pc/ReporterAccess.scala (ø
+0scala/meta/internal/pc/ReporterAccess#[Reporter]TYPE_PARAMETERJ
+@mtags/src/main/scala/scala/meta/internal/pc/ReporterAccess.scala ("
+endLine2"
+isVarfalse":
+symbol0scala/meta/internal/pc/ReporterAccess#[Reporter]"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNameReporter"
+kindTYPE_PARAMETER"
+	startLine2"
+isValfalse"G
+uri@mtags/src/main/scala/scala/meta/internal/pc/ReporterAccess.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter29"
+startCharacter21"
+isFinalfalse*Reporter2
+
+scala/Any#TYPE_PARAMETER2 
+scala/Nothing#TYPE_PARAMETER

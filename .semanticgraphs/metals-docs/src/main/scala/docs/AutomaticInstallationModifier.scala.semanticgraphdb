@@ -1,0 +1,201 @@
+
+Cmetals-docs/src/main/scala/docs/AutomaticInstallationModifier.scalaì
+3docs/AutomaticInstallationModifier#process().(code)	PARAMETERM
+Cmetals-docs/src/main/scala/docs/AutomaticInstallationModifier.scala
+% 
+()"
+endLine10"
+isVarfalse"=
+symbol3docs/AutomaticInstallationModifier#process().(code)"
+packagedocs"
+accessEmpty"
+displayNamecode"
+kind	PARAMETER"
+	startLine10"
+isValfalse"J
+uriCmetals-docs/src/main/scala/docs/AutomaticInstallationModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter41"
+startCharacter37"
+isFinalfalse*code2o
+scala/meta/inputs/Input#TYPEM
+Cmetals-docs/src/main/scala/docs/AutomaticInstallationModifier.scala
++ 
+(0ê
+Cmetals-docs/src/main/scala/docs/AutomaticInstallationModifier.scalaFILE*Cmetals-docs/src/main/scala/docs/AutomaticInstallationModifier.scalaÎ
+#docs/AutomaticInstallationModifier#CLASSM
+Cmetals-docs/src/main/scala/docs/AutomaticInstallationModifier.scala (#"
+endLine7"
+isVarfalse"-
+symbol#docs/AutomaticInstallationModifier#"
+packagedocs"
+accessPublicAccess()",
+displayNameAutomaticInstallationModifier"
+kindCLASS"
+	startLine7"
+isValfalse"J
+uriCmetals-docs/src/main/scala/docs/AutomaticInstallationModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter35"
+startCharacter6"
+isFinalfalse"	
+LOC14*AutomaticInstallationModifier2å
+.docs/AutomaticInstallationModifier#`<init>`().DECLARATIONM
+Cmetals-docs/src/main/scala/docs/AutomaticInstallationModifier.scala$ ($2ã
+-docs/AutomaticInstallationModifier#process().DECLARATIONM
+Cmetals-docs/src/main/scala/docs/AutomaticInstallationModifier.scala
+ 
+(2
+scala/AnyRef#EXTEND2m
+mdoc/StringModifier#EXTENDM
+Cmetals-docs/src/main/scala/docs/AutomaticInstallationModifier.scala, (:2Ü
+(docs/AutomaticInstallationModifier#name.DECLARATIONM
+Cmetals-docs/src/main/scala/docs/AutomaticInstallationModifier.scala (
+ô
+7docs/AutomaticInstallationModifier#process().(reporter)	PARAMETERM
+Cmetals-docs/src/main/scala/docs/AutomaticInstallationModifier.scala
+2 
+(:"
+endLine10"
+isVarfalse"A
+symbol7docs/AutomaticInstallationModifier#process().(reporter)"
+packagedocs"
+accessEmpty"
+displayNamereporter"
+kind	PARAMETER"
+	startLine10"
+isValfalse"J
+uriCmetals-docs/src/main/scala/docs/AutomaticInstallationModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter58"
+startCharacter50"
+isFinalfalse*reporter2e
+mdoc/Reporter#TYPEM
+Cmetals-docs/src/main/scala/docs/AutomaticInstallationModifier.scala
+< 
+(Dè
+3docs/AutomaticInstallationModifier#process().(info)	PARAMETERM
+Cmetals-docs/src/main/scala/docs/AutomaticInstallationModifier.scala
+ 
+("
+endLine10"
+isVarfalse"=
+symbol3docs/AutomaticInstallationModifier#process().(info)"
+packagedocs"
+accessEmpty"
+displayNameinfo"
+kind	PARAMETER"
+	startLine10"
+isValfalse"J
+uriCmetals-docs/src/main/scala/docs/AutomaticInstallationModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter27"
+startCharacter23"
+isFinalfalse*info2k
+scala/Predef.String#TYPEM
+Cmetals-docs/src/main/scala/docs/AutomaticInstallationModifier.scala
+ 
+(#ß
+.docs/AutomaticInstallationModifier#`<init>`().CONSTRUCTORM
+Cmetals-docs/src/main/scala/docs/AutomaticInstallationModifier.scala$ ($"
+endLine7"
+isVarfalse"8
+symbol.docs/AutomaticInstallationModifier#`<init>`()."
+packagedocs"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine7"
+isValfalse"J
+uriCmetals-docs/src/main/scala/docs/AutomaticInstallationModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter36"
+startCharacter36"
+isFinalfalse*<init>°
+-docs/AutomaticInstallationModifier#process().METHODM
+Cmetals-docs/src/main/scala/docs/AutomaticInstallationModifier.scala
+ 
+("
+endLine10"
+isVarfalse"7
+symbol-docs/AutomaticInstallationModifier#process()."
+packagedocs"
+accessPublicAccess()"
+displayNameprocess"
+kindMETHOD"
+	startLine10"
+isValfalse"J
+uriCmetals-docs/src/main/scala/docs/AutomaticInstallationModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter15"
+isFinalfalse"	
+LOC10*process2*
+mdoc/StringModifier#process().OVERRIDE2è
+3docs/AutomaticInstallationModifier#process().(info)	PARAMETERM
+Cmetals-docs/src/main/scala/docs/AutomaticInstallationModifier.scala
+ 
+(2è
+3docs/AutomaticInstallationModifier#process().(code)	PARAMETERM
+Cmetals-docs/src/main/scala/docs/AutomaticInstallationModifier.scala
+% 
+()2ì
+7docs/AutomaticInstallationModifier#process().(reporter)	PARAMETERM
+Cmetals-docs/src/main/scala/docs/AutomaticInstallationModifier.scala
+2 
+(:2r
+scala/Predef.String#RETURN_TYPEM
+Cmetals-docs/src/main/scala/docs/AutomaticInstallationModifier.scala
+G 
+(M2ä
+3docs/AutomaticInstallationModifier#process().(info)CALLM
+Cmetals-docs/src/main/scala/docs/AutomaticInstallationModifier.scala1 (52ç
+6scala/collection/immutable/StringLike#stripMargin(+1).CALLM
+Cmetals-docs/src/main/scala/docs/AutomaticInstallationModifier.scala (À
+(docs/AutomaticInstallationModifier#name.VALUEM
+Cmetals-docs/src/main/scala/docs/AutomaticInstallationModifier.scala (
+"
+endLine8"
+isVarfalse"2
+symbol(docs/AutomaticInstallationModifier#name."
+packagedocs"
+accessPublicAccess()"
+displayNamename"
+kindVALUE"
+	startLine8"
+isValtrue"J
+uriCmetals-docs/src/main/scala/docs/AutomaticInstallationModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter6"
+isFinalfalse*name2
+java/lang/String#TYPE2%
+mdoc/StringModifier#name.OVERRIDE

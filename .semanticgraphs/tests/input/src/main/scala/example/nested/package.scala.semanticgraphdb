@@ -1,0 +1,114 @@
+
+7tests/input/src/main/scala/example/nested/package.scala­
+;example/nested/package.PackageObjectNestedClass#`<init>`().CONSTRUCTOR=
+7tests/input/src/main/scala/example/nested/package.scala "
+endLine6"
+isVarfalse"E
+symbol;example/nested/package.PackageObjectNestedClass#`<init>`()."
+packageexample.nested"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine6"
+isValfalse">
+uri7tests/input/src/main/scala/example/nested/package.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>ã
+0example/nested/package.PackageObjectNestedClass#CLASSA
+7tests/input/src/main/scala/example/nested/package.scala ( "
+endLine4"
+isVarfalse":
+symbol0example/nested/package.PackageObjectNestedClass#"
+packageexample.nested"
+accessPublicAccess()"'
+displayNamePackageObjectNestedClass"
+kindCLASS"
+	startLine4"
+isValfalse">
+uri7tests/input/src/main/scala/example/nested/package.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter32"
+startCharacter8"
+isFinalfalse"
+LOC1*PackageObjectNestedClass2‰
+;example/nested/package.PackageObjectNestedClass#`<init>`().DECLARATION=
+7tests/input/src/main/scala/example/nested/package.scala 2
+scala/AnyRef#EXTEND…
+example/nested/package.PACKAGE_OBJECTA
+7tests/input/src/main/scala/example/nested/package.scala ("
+endLine2"
+isVarfalse"!
+symbolexample/nested/package."
+packageexample.nested"
+accessEmpty"
+displayNamenested"
+kindPACKAGE_OBJECT"
+	startLine2"
+isValfalse">
+uri7tests/input/src/main/scala/example/nested/package.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter15"
+isFinaltrue*nested2‚
+0example/nested/package.PackageObjectNestedClass#DECLARATIONA
+7tests/input/src/main/scala/example/nested/package.scala ( 2
+scala/AnyRef#EXTENDÛ
+example/PackageObjectSibling#CLASSA
+7tests/input/src/main/scala/example/nested/package.scala ("
+endLine8"
+isVarfalse"'
+symbolexample/PackageObjectSibling#"
+packageexample"
+accessPublicAccess()"#
+displayNamePackageObjectSibling"
+kindCLASS"
+	startLine8"
+isValfalse">
+uri7tests/input/src/main/scala/example/nested/package.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter26"
+startCharacter6"
+isFinalfalse"
+LOC1*PackageObjectSibling27
+(example/PackageObjectSibling#`<init>`().DECLARATION2
+scala/AnyRef#EXTENDã
+7tests/input/src/main/scala/example/nested/package.scalaFILE*7tests/input/src/main/scala/example/nested/package.scala2i
+example/nested/package.DECLARATIONA
+7tests/input/src/main/scala/example/nested/package.scala (Á
+(example/PackageObjectSibling#`<init>`().CONSTRUCTOR"
+endLine0"
+isVarfalse"2
+symbol(example/PackageObjectSibling#`<init>`()."
+packageexample"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine0"
+isValfalse">
+uri7tests/input/src/main/scala/example/nested/package.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>

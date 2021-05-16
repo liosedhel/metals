@@ -1,0 +1,221 @@
+
+:metals-docs/src/main/scala/docs/RequirementsModifier.scalaë
+.docs/RequirementsModifier#process().(reporter)	PARAMETERD
+:metals-docs/src/main/scala/docs/RequirementsModifier.scala ("
+endLine18"
+isVarfalse"8
+symbol.docs/RequirementsModifier#process().(reporter)"
+packagedocs"
+accessEmpty"
+displayNamereporter"
+kind	PARAMETER"
+	startLine18"
+isValfalse"A
+uri:metals-docs/src/main/scala/docs/RequirementsModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter14"
+startCharacter6"
+isFinalfalse*reporter2\
+mdoc/Reporter#TYPED
+:metals-docs/src/main/scala/docs/RequirementsModifier.scala («
+docs/RequirementsModifier#name.VALUED
+:metals-docs/src/main/scala/docs/RequirementsModifier.scala	 	("
+endLine9"
+isVarfalse")
+symboldocs/RequirementsModifier#name."
+packagedocs"
+accessPublicAccess()"
+displayNamename"
+kindVALUE"
+	startLine9"
+isValtrue"A
+uri:metals-docs/src/main/scala/docs/RequirementsModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter15"
+isFinalfalse*name2
+scala/Predef.String#TYPE2%
+mdoc/StringModifier#name.OVERRIDE†
+3docs/RequirementsModifier#supportedScalaVersions().METHODD
+:metals-docs/src/main/scala/docs/RequirementsModifier.scala ("
+endLine11"
+isVarfalse"=
+symbol3docs/RequirementsModifier#supportedScalaVersions()."
+packagedocs"
+accessPublicAccess()"%
+displayNamesupportedScalaVersions"
+kindMETHOD"
+	startLine11"
+isValfalse"A
+uri:metals-docs/src/main/scala/docs/RequirementsModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter28"
+startCharacter6"
+isFinalfalse"
+LOC3*supportedScalaVersions2i
+scala/Predef.String#RETURN_TYPED
+:metals-docs/src/main/scala/docs/RequirementsModifier.scala ($2s
+%scala/meta/internal/metals/BuildInfo.CALLD
+:metals-docs/src/main/scala/docs/RequirementsModifier.scala (2Š
+<scala/meta/internal/metals/BuildInfo.supportedScalaVersions.CALLD
+:metals-docs/src/main/scala/docs/RequirementsModifier.scala ($2x
+*scala/collection/IterableLike#dropRight().CALLD
+:metals-docs/src/main/scala/docs/RequirementsModifier.scala% (.2|
+.scala/collection/TraversableOnce#mkString(+1).CALLD
+:metals-docs/src/main/scala/docs/RequirementsModifier.scala2 (:2e
+java/lang/String#`+`().CALLD
+:metals-docs/src/main/scala/docs/RequirementsModifier.scalaA (B2s
+%scala/meta/internal/metals/BuildInfo.CALLD
+:metals-docs/src/main/scala/docs/RequirementsModifier.scala (2Š
+<scala/meta/internal/metals/BuildInfo.supportedScalaVersions.CALLD
+:metals-docs/src/main/scala/docs/RequirementsModifier.scala (/2v
+(scala/collection/TraversableLike#last().CALLD
+:metals-docs/src/main/scala/docs/RequirementsModifier.scala0 (4ª
+
+$docs/RequirementsModifier#process().METHODD
+:metals-docs/src/main/scala/docs/RequirementsModifier.scala ("
+endLine15"
+isVarfalse".
+symbol$docs/RequirementsModifier#process()."
+packagedocs"
+accessPublicAccess()"
+displayNameprocess"
+kindMETHOD"
+	startLine15"
+isValfalse"A
+uri:metals-docs/src/main/scala/docs/RequirementsModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter15"
+isFinalfalse"	
+LOC20*process2*
+mdoc/StringModifier#process().OVERRIDE2}
+*docs/RequirementsModifier#process().(info)	PARAMETERD
+:metals-docs/src/main/scala/docs/RequirementsModifier.scala (
+2}
+*docs/RequirementsModifier#process().(code)	PARAMETERD
+:metals-docs/src/main/scala/docs/RequirementsModifier.scala (
+2
+.docs/RequirementsModifier#process().(reporter)	PARAMETERD
+:metals-docs/src/main/scala/docs/RequirementsModifier.scala (2i
+scala/Predef.String#RETURN_TYPED
+:metals-docs/src/main/scala/docs/RequirementsModifier.scala (2
+3docs/RequirementsModifier#supportedScalaVersions().CALLD
+:metals-docs/src/main/scala/docs/RequirementsModifier.scalaV (l2„
+6scala/collection/immutable/StringLike#stripMargin(+1).CALLD
+:metals-docs/src/main/scala/docs/RequirementsModifier.scala! !(å
+*docs/RequirementsModifier#process().(code)	PARAMETERD
+:metals-docs/src/main/scala/docs/RequirementsModifier.scala (
+"
+endLine17"
+isVarfalse"4
+symbol*docs/RequirementsModifier#process().(code)"
+packagedocs"
+accessEmpty"
+displayNamecode"
+kind	PARAMETER"
+	startLine17"
+isValfalse"A
+uri:metals-docs/src/main/scala/docs/RequirementsModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter6"
+isFinalfalse*code2f
+scala/meta/inputs/Input#TYPED
+:metals-docs/src/main/scala/docs/RequirementsModifier.scala (ƒ
+%docs/RequirementsModifier#`<init>`().CONSTRUCTORD
+:metals-docs/src/main/scala/docs/RequirementsModifier.scala ("
+endLine8"
+isVarfalse"/
+symbol%docs/RequirementsModifier#`<init>`()."
+packagedocs"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine8"
+isValfalse"A
+uri:metals-docs/src/main/scala/docs/RequirementsModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter27"
+startCharacter27"
+isFinalfalse*<init>á
+*docs/RequirementsModifier#process().(info)	PARAMETERD
+:metals-docs/src/main/scala/docs/RequirementsModifier.scala (
+"
+endLine16"
+isVarfalse"4
+symbol*docs/RequirementsModifier#process().(info)"
+packagedocs"
+accessEmpty"
+displayNameinfo"
+kind	PARAMETER"
+	startLine16"
+isValfalse"A
+uri:metals-docs/src/main/scala/docs/RequirementsModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter6"
+isFinalfalse*info2b
+scala/Predef.String#TYPED
+:metals-docs/src/main/scala/docs/RequirementsModifier.scala (~
+:metals-docs/src/main/scala/docs/RequirementsModifier.scalaFILE*:metals-docs/src/main/scala/docs/RequirementsModifier.scalaþ
+docs/RequirementsModifier#CLASSD
+:metals-docs/src/main/scala/docs/RequirementsModifier.scala ("
+endLine8"
+isVarfalse"$
+symboldocs/RequirementsModifier#"
+packagedocs"
+accessPublicAccess()"#
+displayNameRequirementsModifier"
+kindCLASS"
+	startLine8"
+isValfalse"A
+uri:metals-docs/src/main/scala/docs/RequirementsModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter26"
+startCharacter6"
+isFinalfalse"	
+LOC28*RequirementsModifier2z
+%docs/RequirementsModifier#`<init>`().DECLARATIOND
+:metals-docs/src/main/scala/docs/RequirementsModifier.scala (2ˆ
+3docs/RequirementsModifier#supportedScalaVersions().DECLARATIOND
+:metals-docs/src/main/scala/docs/RequirementsModifier.scala (2y
+$docs/RequirementsModifier#process().DECLARATIOND
+:metals-docs/src/main/scala/docs/RequirementsModifier.scala (2
+scala/AnyRef#EXTEND2d
+mdoc/StringModifier#EXTENDD
+:metals-docs/src/main/scala/docs/RequirementsModifier.scala# (12t
+docs/RequirementsModifier#name.DECLARATIOND
+:metals-docs/src/main/scala/docs/RequirementsModifier.scala	 	(

@@ -1,0 +1,45 @@
+
+-tests/input/src/main/scala/EmptyPackage.scalad
+-tests/input/src/main/scala/EmptyPackage.scalaFILE*-tests/input/src/main/scala/EmptyPackage.scala§
+ _empty_/EmptyPackage#`<init>`().CONSTRUCTOR"
+endLine0"
+isVarfalse"*
+symbol _empty_/EmptyPackage#`<init>`()."
+package_empty_"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine0"
+isValfalse"4
+uri-tests/input/src/main/scala/EmptyPackage.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>›
+_empty_/EmptyPackage#CLASS3
+-tests/input/src/main/scala/EmptyPackage.scala("
+endLine0"
+isVarfalse"
+symbol_empty_/EmptyPackage#"
+package_empty_"
+accessPublicAccess()"
+displayNameEmptyPackage"
+kindCLASS"
+	startLine0"
+isValfalse"4
+uri-tests/input/src/main/scala/EmptyPackage.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter6"
+isFinalfalse"
+LOC1*EmptyPackage2/
+ _empty_/EmptyPackage#`<init>`().DECLARATION2
+scala/AnyRef#EXTEND

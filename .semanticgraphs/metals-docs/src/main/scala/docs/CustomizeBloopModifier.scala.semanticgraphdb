@@ -1,0 +1,199 @@
+
+<metals-docs/src/main/scala/docs/CustomizeBloopModifier.scalaì
+,docs/CustomizeBloopModifier#process().(info)	PARAMETERF
+<metals-docs/src/main/scala/docs/CustomizeBloopModifier.scala
+ 
+("
+endLine10"
+isVarfalse"6
+symbol,docs/CustomizeBloopModifier#process().(info)"
+packagedocs"
+accessEmpty"
+displayNameinfo"
+kind	PARAMETER"
+	startLine10"
+isValfalse"C
+uri<metals-docs/src/main/scala/docs/CustomizeBloopModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter27"
+startCharacter23"
+isFinalfalse*info2d
+scala/Predef.String#TYPEF
+<metals-docs/src/main/scala/docs/CustomizeBloopModifier.scala
+ 
+(#
+docs/CustomizeBloopModifier#CLASSF
+<metals-docs/src/main/scala/docs/CustomizeBloopModifier.scala ("
+endLine7"
+isVarfalse"&
+symboldocs/CustomizeBloopModifier#"
+packagedocs"
+accessPublicAccess()"%
+displayNameCustomizeBloopModifier"
+kindCLASS"
+	startLine7"
+isValfalse"C
+uri<metals-docs/src/main/scala/docs/CustomizeBloopModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter28"
+startCharacter6"
+isFinalfalse"	
+LOC16*CustomizeBloopModifier2~
+'docs/CustomizeBloopModifier#`<init>`().DECLARATIONF
+<metals-docs/src/main/scala/docs/CustomizeBloopModifier.scala (2}
+&docs/CustomizeBloopModifier#process().DECLARATIONF
+<metals-docs/src/main/scala/docs/CustomizeBloopModifier.scala
+ 
+(2
+scala/AnyRef#EXTEND2f
+mdoc/StringModifier#EXTENDF
+<metals-docs/src/main/scala/docs/CustomizeBloopModifier.scala% (32x
+!docs/CustomizeBloopModifier#name.DECLARATIONF
+<metals-docs/src/main/scala/docs/CustomizeBloopModifier.scala (
+ð
+,docs/CustomizeBloopModifier#process().(code)	PARAMETERF
+<metals-docs/src/main/scala/docs/CustomizeBloopModifier.scala
+% 
+()"
+endLine10"
+isVarfalse"6
+symbol,docs/CustomizeBloopModifier#process().(code)"
+packagedocs"
+accessEmpty"
+displayNamecode"
+kind	PARAMETER"
+	startLine10"
+isValfalse"C
+uri<metals-docs/src/main/scala/docs/CustomizeBloopModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter41"
+startCharacter37"
+isFinalfalse*code2h
+scala/meta/inputs/Input#TYPEF
+<metals-docs/src/main/scala/docs/CustomizeBloopModifier.scala
++ 
+(0À	
+&docs/CustomizeBloopModifier#process().METHODF
+<metals-docs/src/main/scala/docs/CustomizeBloopModifier.scala
+ 
+("
+endLine10"
+isVarfalse"0
+symbol&docs/CustomizeBloopModifier#process()."
+packagedocs"
+accessPublicAccess()"
+displayNameprocess"
+kindMETHOD"
+	startLine10"
+isValfalse"C
+uri<metals-docs/src/main/scala/docs/CustomizeBloopModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter15"
+isFinalfalse"	
+LOC12*process2*
+mdoc/StringModifier#process().OVERRIDE2
+,docs/CustomizeBloopModifier#process().(info)	PARAMETERF
+<metals-docs/src/main/scala/docs/CustomizeBloopModifier.scala
+ 
+(2
+,docs/CustomizeBloopModifier#process().(code)	PARAMETERF
+<metals-docs/src/main/scala/docs/CustomizeBloopModifier.scala
+% 
+()2…
+0docs/CustomizeBloopModifier#process().(reporter)	PARAMETERF
+<metals-docs/src/main/scala/docs/CustomizeBloopModifier.scala
+2 
+(:2k
+scala/Predef.String#RETURN_TYPEF
+<metals-docs/src/main/scala/docs/CustomizeBloopModifier.scala
+G 
+(M2†
+6scala/collection/immutable/StringLike#stripMargin(+1).CALLF
+<metals-docs/src/main/scala/docs/CustomizeBloopModifier.scala (¯
+!docs/CustomizeBloopModifier#name.VALUEF
+<metals-docs/src/main/scala/docs/CustomizeBloopModifier.scala (
+"
+endLine8"
+isVarfalse"+
+symbol!docs/CustomizeBloopModifier#name."
+packagedocs"
+accessPublicAccess()"
+displayNamename"
+kindVALUE"
+	startLine8"
+isValtrue"C
+uri<metals-docs/src/main/scala/docs/CustomizeBloopModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter6"
+isFinalfalse*name2
+java/lang/String#TYPE2%
+mdoc/StringModifier#name.OVERRIDEö
+0docs/CustomizeBloopModifier#process().(reporter)	PARAMETERF
+<metals-docs/src/main/scala/docs/CustomizeBloopModifier.scala
+2 
+(:"
+endLine10"
+isVarfalse":
+symbol0docs/CustomizeBloopModifier#process().(reporter)"
+packagedocs"
+accessEmpty"
+displayNamereporter"
+kind	PARAMETER"
+	startLine10"
+isValfalse"C
+uri<metals-docs/src/main/scala/docs/CustomizeBloopModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter58"
+startCharacter50"
+isFinalfalse*reporter2^
+mdoc/Reporter#TYPEF
+<metals-docs/src/main/scala/docs/CustomizeBloopModifier.scala
+< 
+(D‚
+<metals-docs/src/main/scala/docs/CustomizeBloopModifier.scalaFILE*<metals-docs/src/main/scala/docs/CustomizeBloopModifier.scala‹
+'docs/CustomizeBloopModifier#`<init>`().CONSTRUCTORF
+<metals-docs/src/main/scala/docs/CustomizeBloopModifier.scala ("
+endLine7"
+isVarfalse"1
+symbol'docs/CustomizeBloopModifier#`<init>`()."
+packagedocs"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine7"
+isValfalse"C
+uri<metals-docs/src/main/scala/docs/CustomizeBloopModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter29"
+startCharacter29"
+isFinalfalse*<init>

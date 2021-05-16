@@ -1,0 +1,3161 @@
+
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaó
+Bscala/meta/internal/metals/WorkspaceSymbolQuery#productIterator().METHOD"
+endLine0"
+isVarfalse"L
+symbolBscala/meta/internal/metals/WorkspaceSymbolQuery#productIterator()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameproductIterator"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productIterator2)
+scala/collection/Iterator#RETURN_TYPE2
+
+scala/Any#RETURN_TYPE2,
+ scala/Product#productIterator().OVERRIDE€
+>scala/meta/internal/metals/WorkspaceSymbolQuery#isTrailingDot.VALUET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala ("
+endLine18"
+isVarfalse"H
+symbol>scala/meta/internal/metals/WorkspaceSymbolQuery#isTrailingDot."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameisTrailingDot"
+kindVALUE"
+	startLine18"
+isValtrue"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter4"
+isFinalfalse*isTrailingDot2l
+scala/Boolean#TYPET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala (Å
+7scala/meta/internal/metals/WorkspaceSymbolQuery#copy().METHOD"
+endLine0"
+isVarfalse"A
+symbol7scala/meta/internal/metals/WorkspaceSymbolQuery#copy()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamecopy"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy2K
+>scala/meta/internal/metals/WorkspaceSymbolQuery#copy().(query)	PARAMETER2R
+Escala/meta/internal/metals/WorkspaceSymbolQuery#copy().(alternatives)	PARAMETER2S
+Fscala/meta/internal/metals/WorkspaceSymbolQuery#copy().(isTrailingDot)	PARAMETER2Q
+Dscala/meta/internal/metals/WorkspaceSymbolQuery#copy().(isClasspath)	PARAMETER2?
+0scala/meta/internal/metals/WorkspaceSymbolQuery#RETURN_TYPEó
+Gscala/meta/internal/metals/WorkspaceSymbolQuery.apply().(isTrailingDot)	PARAMETERT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala& &("
+endLine38"
+isVarfalse"Q
+symbolGscala/meta/internal/metals/WorkspaceSymbolQuery.apply().(isTrailingDot)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameisTrailingDot"
+kind	PARAMETER"
+	startLine38"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter6"
+isFinalfalse*isTrailingDot2
+scala/Boolean#TYPEµ3
+Gscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.all().METHODT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaG G("
+endLine71"
+isVarfalse"Q
+symbolGscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.all()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameall"
+kindMETHOD"
+	startLine71"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter11"
+startCharacter8"
+isFinalfalse"	
+LOC24*all2±
+Nscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.all().(query)	PARAMETERT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaG G(2q
+scala/Array#RETURN_TYPET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaG G(!2¶
+Ascala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#RETURN_TYPET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaG" G(22∑
+Rlocal20:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaDECLARATIONT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaH
+ H(2
+!scala/runtime/RichChar#isLower().CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaH* H(12¨
+Nscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.all().(query)CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaH H( 2å
+.scala/collection/IndexedSeqOptimized#forall().CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaH! H('2∞
+Rlocal20:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaCALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaI
+ I(2∑
+Rlocal21:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaDECLARATIONT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaN N(2ü
+Ascala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaN# N(32j
+scala/Array.CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaN N(2w
+scala/Array.newBuilder().CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaN N("2∞
+Rlocal21:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaCALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaP P(2Ü
+(scala/collection/mutable/Builder#`+=`().CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaP P(2¨
+Nscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.all().(query)CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaP  P(%2ü
+Ascala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaP P(2∞
+Rlocal21:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaCALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaR R(2Ü
+(scala/collection/mutable/Builder#`+=`().CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaR R(2¨
+Nscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.all().(query)CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaR  R(%2
+!java/lang/String#toUpperCase(+1).CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaR& R(12ü
+Ascala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaR R(2∞
+Rlocal21:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaCALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaT T(2Ü
+(scala/collection/mutable/Builder#`+=`().CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaT T(2¨
+Nscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.all().(query)CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaT  T(%2ë
+3scala/collection/immutable/StringLike#capitalize().CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaT& T(02ü
+Ascala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaT T(2∞
+Rlocal21:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaCALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaW W(2à
+*scala/collection/generic/Growable#`++=`().CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaW W(2ü
+Ascala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaY Y(2¨
+Nscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.all().(query)CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaX X(2ã
+-scala/meta/internal/metals/TrigramSubstrings.CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaW W(!2ò
+:scala/meta/internal/metals/TrigramSubstrings.uppercased().CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaX X(2Ö
+'scala/collection/TraversableLike#map().CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaY Y(2∞
+Rlocal21:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaCALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaZ Z(2ê
+2scala/collection/mutable/ReusableBuilder#result().CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaZ Z(2¨
+Nscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.all().(query)CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala\ \($2ü
+Ascala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala\ \(2j
+scala/Array.CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala\ \(Ä
+Bscala/meta/internal/metals/WorkspaceSymbolQuery.apply$default$4().METHOD"
+endLine0"
+isVarfalse"L
+symbolBscala/meta/internal/metals/WorkspaceSymbolQuery.apply$default$4()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameapply$default$4"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply$default$42<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+scala/Boolean#RETURN_TYPEà
+Escala/meta/internal/metals/WorkspaceSymbolQuery.`<init>$default$4`().METHOD"
+endLine0"
+isVarfalse"O
+symbolEscala/meta/internal/metals/WorkspaceSymbolQuery.`<init>$default$4`()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName<init>$default$4"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>$default$42<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+scala/Boolean#RETURN_TYPEƒ
+Oscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#copy().(query)	PARAMETER"
+endLine0"
+isVarfalse"Y
+symbolOscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#copy().(query)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamequery"
+kind	PARAMETER"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*query2
+scala/Predef.String#TYPEÅ
+Escala/meta/internal/metals/WorkspaceSymbolQuery#copy().(alternatives)	PARAMETER"
+endLine0"
+isVarfalse"O
+symbolEscala/meta/internal/metals/WorkspaceSymbolQuery#copy().(alternatives)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamealternatives"
+kind	PARAMETER"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*alternatives2
+scala/Array#TYPE2I
+Ascala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#TYPE¢
+Rlocal15:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal15"
+package "
+accessEmpty"!
+displayNameAlternativeQuery$1"
+kindVALUE"
+	startLine0"
+isValtrue"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*AlternativeQuery$12I
+Ascala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#TYPEó
+Qlocal6:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal6"
+package "
+accessEmpty"%
+displayNameWorkspaceSymbolQuery$1"
+kindVALUE"
+	startLine0"
+isValtrue"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*WorkspaceSymbolQuery$128
+0scala/meta/internal/metals/WorkspaceSymbolQuery#TYPEë
+\scala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#copy().(bloomFilterQueries)	PARAMETER"
+endLine0"
+isVarfalse"f
+symbol\scala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#copy().(bloomFilterQueries)"%
+packagescala.meta.internal.metals"
+accessEmpty"!
+displayNamebloomFilterQueries"
+kind	PARAMETER"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*bloomFilterQueries2
+scala/Array#TYPE2
+java/lang/CharSequence#TYPE∂
+>scala/meta/internal/metals/WorkspaceSymbolQuery.readResolve().METHOD"
+endLine0"
+isVarfalse"H
+symbol>scala/meta/internal/metals/WorkspaceSymbolQuery.readResolve()."%
+packagescala.meta.internal.metals"
+accessPrivateAccess()"
+displayNamereadResolve"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*readResolve2 
+java/lang/Object#RETURN_TYPEÁ
+Qlocal3:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal3"
+package "
+accessPublicAccess()"
+displayNamecase5"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case52
+scala/Boolean#RETURN_TYPEã
+Qscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#productPrefix().METHOD"
+endLine0"
+isVarfalse"[
+symbolQscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#productPrefix()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameproductPrefix"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productPrefix2 
+java/lang/String#RETURN_TYPE2*
+scala/Product#productPrefix().OVERRIDEî
+>scala/meta/internal/metals/WorkspaceSymbolQuery#equals().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"H
+symbol>scala/meta/internal/metals/WorkspaceSymbolQuery#equals().(x$1)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Any#TYPEÎ
+Rlocal26:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal26"
+package "
+accessPublicAccess()"
+displayNamecase14"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case142
+scala/Boolean#RETURN_TYPEÚ
+Ascala/meta/internal/metals/WorkspaceSymbolQuery#matches().(bloom)	PARAMETERT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala ("
+endLine22"
+isVarfalse"K
+symbolAscala/meta/internal/metals/WorkspaceSymbolQuery#matches().(bloom)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamebloom"
+kind	PARAMETER"
+	startLine22"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter14"
+isFinalfalse*bloom2ã
+-scala/meta/internal/metals/StringBloomFilter#TYPET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala (&’
+Rlocal30:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal30"
+package "
+accessPublicAccess()"
+displayName
+matchEnd11"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*
+matchEnd112`
+Slocal516:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala	PARAMETER2
+scala/Boolean#RETURN_TYPE¢
+8scala/meta/internal/metals/WorkspaceSymbolQuery.exact().METHODT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala" "("
+endLine34"
+isVarfalse"B
+symbol8scala/meta/internal/metals/WorkspaceSymbolQuery.exact()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameexact"
+kindMETHOD"
+	startLine34"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter11"
+startCharacter6"
+isFinalfalse"
+LOC7*exact2¢
+?scala/meta/internal/metals/WorkspaceSymbolQuery.exact().(query)	PARAMETERT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala" "(2ï
+0scala/meta/internal/metals/WorkspaceSymbolQuery#RETURN_TYPET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala" "(02ù
+?scala/meta/internal/metals/WorkspaceSymbolQuery.exact().(query)CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala$ $(2ù
+?scala/meta/internal/metals/WorkspaceSymbolQuery.exact().(query)CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala% %("2ü
+Ascala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala% %(2j
+scala/Array.CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala% %(2•
+Gscala/meta/internal/metals/WorkspaceSymbolQuery.apply().(isTrailingDot)CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala& &(2é
+0scala/meta/internal/metals/WorkspaceSymbolQuery.CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala# #(ò
+\scala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#matches(+1).(isTrailingDot)	PARAMETERT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala<& <(3"
+endLine60"
+isVarfalse"f
+symbol\scala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#matches(+1).(isTrailingDot)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameisTrailingDot"
+kind	PARAMETER"
+	startLine60"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter51"
+startCharacter38"
+isFinalfalse*isTrailingDot2l
+scala/Boolean#TYPET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala<5 <(<∆
+Wscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#productElement().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"a
+symbolWscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#productElement().(x$1)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Int#TYPE‘
+?scala/meta/internal/metals/WorkspaceSymbolQuery.exact().(query)	PARAMETERT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala" "("
+endLine34"
+isVarfalse"I
+symbol?scala/meta/internal/metals/WorkspaceSymbolQuery.exact().(query)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamequery"
+kind	PARAMETER"
+	startLine34"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter12"
+isFinalfalse*query2r
+scala/Predef.String#TYPET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala" "(î
+@scala/meta/internal/metals/WorkspaceSymbolQuery.fromTextQuery().METHODT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala) )("
+endLine41"
+isVarfalse"J
+symbol@scala/meta/internal/metals/WorkspaceSymbolQuery.fromTextQuery()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamefromTextQuery"
+kindMETHOD"
+	startLine41"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter6"
+isFinalfalse"	
+LOC11*fromTextQuery2™
+Gscala/meta/internal/metals/WorkspaceSymbolQuery.fromTextQuery().(query)	PARAMETERT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala) )(2ï
+0scala/meta/internal/metals/WorkspaceSymbolQuery#RETURN_TYPET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala)$ )(82∂
+Qlocal7:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaDECLARATIONT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala* *(2•
+Gscala/meta/internal/metals/WorkspaceSymbolQuery.fromTextQuery().(query)CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala* *(2z
+java/lang/String#endsWith().CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala* *(&2∂
+Qlocal8:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaDECLARATIONT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala+ +(2•
+Gscala/meta/internal/metals/WorkspaceSymbolQuery.fromTextQuery().(query)CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala+ +(2z
+java/lang/String#contains().CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala+ +($2∂
+Qlocal9:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaDECLARATIONT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala, ,(2•
+Gscala/meta/internal/metals/WorkspaceSymbolQuery.fromTextQuery().(query)CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala, ,(2í
+4scala/collection/immutable/StringLike#stripSuffix().CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala, ,('2{
+java/lang/String#replace(+1).CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala,- ,(42Ø
+Qlocal9:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaCALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala. .(2Ø
+Qlocal9:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaCALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala/ /(&2ü
+Ascala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala/ /(2•
+Gscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.all().CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala/ /(2Ø
+Qlocal7:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaCALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala0 0(2Ø
+Qlocal8:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaCALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala1 1(2é
+0scala/meta/internal/metals/WorkspaceSymbolQuery.CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala- -(È
+Rlocal23:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal23"
+package "
+accessPublicAccess()"
+displayNamecase9"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case92
+scala/Boolean#RETURN_TYPEÃ
+Ascala/meta/internal/metals/WorkspaceSymbolQuery#copy$default$2().METHOD"
+endLine0"
+isVarfalse"K
+symbolAscala/meta/internal/metals/WorkspaceSymbolQuery#copy$default$2()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamecopy$default$2"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$22<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+scala/Array#RETURN_TYPE2P
+Ascala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#RETURN_TYPE¬
+Rlocal19:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala	PARAMETERT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaD  D(%"
+endLine68"
+isVarfalse"
+symbollocal19"
+package "
+accessEmpty"
+displayNamequery"
+kind	PARAMETER"
+	startLine68"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter37"
+startCharacter32"
+isFinalfalse*query2
+java/lang/CharSequence#TYPE…
+Qlocal2:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal2"
+package "
+accessEmpty"
+displayNamex1"
+kindVALUE"
+	startLine0"
+isValtrue"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x12
+
+scala/Any#TYPEÜ
+Tscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#bloomFilterQueries.VALUET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala7 7("
+endLine55"
+isVarfalse"^
+symbolTscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#bloomFilterQueries."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"!
+displayNamebloomFilterQueries"
+kindVALUE"
+	startLine55"
+isValtrue"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter24"
+startCharacter6"
+isFinalfalse*bloomFilterQueries2j
+scala/Array#TYPET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala7 7(2u
+java/lang/CharSequence#TYPET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala7  7(,Ì
+8scala/meta/internal/metals/WorkspaceSymbolQuery#isExact.VALUET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala ("
+endLine21"
+isVarfalse"B
+symbol8scala/meta/internal/metals/WorkspaceSymbolQuery#isExact."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameisExact"
+kindVALUE"
+	startLine21"
+isValtrue"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter6"
+isFinalfalse*isExact2
+scala/Boolean#TYPE˝
+:scala/meta/internal/metals/WorkspaceSymbolQuery#matches().METHODT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala ("
+endLine22"
+isVarfalse"D
+symbol:scala/meta/internal/metals/WorkspaceSymbolQuery#matches()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamematches"
+kindMETHOD"
+	startLine22"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter6"
+isFinalfalse"
+LOC2*matches2§
+Ascala/meta/internal/metals/WorkspaceSymbolQuery#matches().(bloom)	PARAMETERT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala (2s
+scala/Boolean#RETURN_TYPET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala) (02ü
+Ascala/meta/internal/metals/WorkspaceSymbolQuery#matches().(bloom)CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala" ('2©
+Kscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#matches().CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala (!2õ
+=scala/meta/internal/metals/WorkspaceSymbolQuery#alternatives.CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala (2å
+.scala/collection/IndexedSeqOptimized#exists().CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala (¶
+Mscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#matches(+1).METHODT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala< <("
+endLine60"
+isVarfalse"W
+symbolMscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#matches(+1)."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamematches"
+kindMETHOD"
+	startLine60"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter15"
+startCharacter8"
+isFinalfalse"
+LOC2*matches2∏
+Uscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#matches(+1).(symbol)	PARAMETERT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala< <(2ø
+\scala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#matches(+1).(isTrailingDot)	PARAMETERT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala<& <(32s
+scala/Boolean#RETURN_TYPET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala<? <(F2•
+Gscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#query.CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala= =(2≥
+Uscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#matches(+1).(symbol)CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala= =(!2∫
+\scala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#matches(+1).(isTrailingDot)CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala=' =(42
+!scala/meta/internal/metals/Fuzzy.CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala= =(2â
++scala/meta/internal/metals/Fuzzy#matches().CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala= =(À
+Rlocal11:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal11"
+package "
+accessEmpty"
+displayNamex1"
+kindVALUE"
+	startLine0"
+isValtrue"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x12
+
+scala/Any#TYPEû
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaFILE*Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaÎ
+Rlocal29:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal29"
+package "
+accessPublicAccess()"
+displayNamecase17"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case172
+scala/Boolean#RETURN_TYPEƒ
+Rscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#copy$default$2().METHOD"
+endLine0"
+isVarfalse"\
+symbolRscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#copy$default$2()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamecopy$default$2"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$22<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+scala/Array#RETURN_TYPE2&
+java/lang/CharSequence#RETURN_TYPEœ
+Rlocal22:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaVALUET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaa a("
+endLine97"
+isVarfalse"
+symbollocal22"
+package "
+accessEmpty"
+displayNamex1"
+kindVALUE"
+	startLine97"
+isValtrue"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter8"
+startCharacter4"
+isFinalfalse*x12>
+6scala/meta/internal/semanticdb/SymbolInformation.Kind#TYPE¡
+Rlocal20:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaVALUET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaH
+ H("
+endLine72"
+isVarfalse"
+symbollocal20"
+package "
+accessEmpty"
+displayNameisAllLowercase"
+kindVALUE"
+	startLine72"
+isValtrue"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter24"
+startCharacter10"
+isFinalfalse*isAllLowercase2
+scala/Boolean#TYPE◊
+Ascala/meta/internal/metals/WorkspaceSymbolQuery.isRelevantKind().METHODT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala` `("
+endLine96"
+isVarfalse"K
+symbolAscala/meta/internal/metals/WorkspaceSymbolQuery.isRelevantKind()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameisRelevantKind"
+kindMETHOD"
+	startLine96"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter6"
+isFinalfalse"
+LOC9*isRelevantKind2™
+Gscala/meta/internal/metals/WorkspaceSymbolQuery.isRelevantKind().(kind)	PARAMETERT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala` `(2s
+scala/Boolean#RETURN_TYPET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala`" `()2∞
+Rlocal22:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaCALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaa a(À
+Sscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#`<init>`().(query)	PARAMETER"
+endLine0"
+isVarfalse"]
+symbolSscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#`<init>`().(query)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamequery"
+kind	PARAMETER"
+	startLine0"
+isValtrue"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*query2
+scala/Predef.String#TYPEí
+Zscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#bloomFilterCachedQueries.VALUET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala8 8("
+endLine56"
+isVarfalse"d
+symbolZscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#bloomFilterCachedQueries."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"'
+displayNamebloomFilterCachedQueries"
+kindVALUE"
+	startLine56"
+isValtrue"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter30"
+startCharacter6"
+isFinalfalse*bloomFilterCachedQueries2j
+scala/Array#TYPET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala8  8(%2i
+scala/Long#TYPET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala8& 8(*Ô
+Rscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#productElement().METHOD"
+endLine0"
+isVarfalse"\
+symbolRscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#productElement()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameproductElement"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productElement2d
+Wscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#productElement().(x$1)	PARAMETER2
+
+scala/Any#RETURN_TYPE2+
+scala/Product#productElement().OVERRIDEà
+Iscala/meta/internal/metals/WorkspaceSymbolQuery#`<init>`().(alternatives)	PARAMETER"
+endLine0"
+isVarfalse"S
+symbolIscala/meta/internal/metals/WorkspaceSymbolQuery#`<init>`().(alternatives)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamealternatives"
+kind	PARAMETER"
+	startLine0"
+isValtrue"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*alternatives2
+scala/Array#TYPE2I
+Ascala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#TYPEó
+_scala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.apply(+1).(bloomFilterQueries)	PARAMETER"
+endLine0"
+isVarfalse"i
+symbol_scala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.apply(+1).(bloomFilterQueries)"%
+packagescala.meta.internal.metals"
+accessEmpty"!
+displayNamebloomFilterQueries"
+kind	PARAMETER"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*bloomFilterQueries2
+scala/Array#TYPE2
+java/lang/CharSequence#TYPEî
+Rscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#matches().(bloom)	PARAMETERT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala: :("
+endLine58"
+isVarfalse"\
+symbolRscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#matches().(bloom)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamebloom"
+kind	PARAMETER"
+	startLine58"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter16"
+isFinalfalse*bloom2ã
+-scala/meta/internal/metals/StringBloomFilter#TYPET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala: :((Î
+Rlocal27:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal27"
+package "
+accessPublicAccess()"
+displayNamecase15"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case152
+scala/Boolean#RETURN_TYPEˆ
+Pscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.apply().(query)	PARAMETERT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaA A("
+endLine65"
+isVarfalse"Z
+symbolPscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.apply().(query)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamequery"
+kind	PARAMETER"
+	startLine65"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter14"
+isFinalfalse*query2r
+scala/Predef.String#TYPET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaA A(„
+Dscala/meta/internal/metals/WorkspaceSymbolQuery#matches(+1).(symbol)	PARAMETERT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala ("
+endLine24"
+isVarfalse"N
+symbolDscala/meta/internal/metals/WorkspaceSymbolQuery#matches(+1).(symbol)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamesymbol"
+kind	PARAMETER"
+	startLine24"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter14"
+isFinalfalse*symbol2u
+java/lang/CharSequence#TYPET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala ("Ö
+Uscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#matches(+1).(symbol)	PARAMETERT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala< <("
+endLine60"
+isVarfalse"_
+symbolUscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#matches(+1).(symbol)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamesymbol"
+kind	PARAMETER"
+	startLine60"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter16"
+isFinalfalse*symbol2u
+java/lang/CharSequence#TYPET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala< <($¢
+>scala/meta/internal/metals/WorkspaceSymbolQuery#copy().(query)	PARAMETER"
+endLine0"
+isVarfalse"H
+symbol>scala/meta/internal/metals/WorkspaceSymbolQuery#copy().(query)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamequery"
+kind	PARAMETER"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*query2
+scala/Predef.String#TYPE∫
+Qscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#canEqual().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"[
+symbolQscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#canEqual().(x$1)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Any#TYPEÈ
+Rlocal13:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal13"
+package "
+accessPublicAccess()"
+displayNamecase6"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case62
+scala/Boolean#RETURN_TYPEã
+Jscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#equals().METHOD"
+endLine0"
+isVarfalse"T
+symbolJscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#equals()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameequals"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*equals2\
+Oscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#equals().(x$1)	PARAMETER2
+scala/Boolean#RETURN_TYPE2"
+scala/Equals#equals().OVERRIDE2&
+java/lang/Object#equals().OVERRIDE2
+scala/Any#equals().OVERRIDE∂
+Oscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#equals().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"Y
+symbolOscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#equals().(x$1)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Any#TYPE—
+Kscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#matches().METHODT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala: :("
+endLine58"
+isVarfalse"U
+symbolKscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#matches()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamematches"
+kindMETHOD"
+	startLine58"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter15"
+startCharacter8"
+isFinalfalse"
+LOC2*matches2µ
+Rscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#matches().(bloom)	PARAMETERT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala: :(2s
+scala/Boolean#RETURN_TYPET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala:+ :(22∞
+Rscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#matches().(bloom)CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala;& ;(+2ú
+>scala/meta/internal/metals/StringBloomFilter#mightContain(+1).CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala;, ;(82∏
+Zscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#bloomFilterCachedQueries.CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala; ;(2å
+.scala/collection/IndexedSeqOptimized#forall().CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala; ;(%”
+<scala/meta/internal/metals/WorkspaceSymbolQuery#isClasspath.VALUET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala ("
+endLine19"
+isVarfalse"F
+symbol<scala/meta/internal/metals/WorkspaceSymbolQuery#isClasspath."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameisClasspath"
+kindVALUE"
+	startLine19"
+isValtrue"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter15"
+startCharacter4"
+isFinalfalse*isClasspath2l
+scala/Boolean#TYPET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala (õ
+;scala/meta/internal/metals/WorkspaceSymbolQuery#canEqual().METHOD"
+endLine0"
+isVarfalse"E
+symbol;scala/meta/internal/metals/WorkspaceSymbolQuery#canEqual()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamecanEqual"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*canEqual2M
+@scala/meta/internal/metals/WorkspaceSymbolQuery#canEqual().(x$1)	PARAMETER2
+scala/Boolean#RETURN_TYPE2$
+scala/Equals#canEqual().OVERRIDE∂
+Kscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.apply(+1).METHOD"
+endLine0"
+isVarfalse"U
+symbolKscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.apply(+1)."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameapply"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply2_
+Rscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.apply(+1).(query)	PARAMETER2l
+_scala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.apply(+1).(bloomFilterQueries)	PARAMETER2r
+escala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.apply(+1).(bloomFilterCachedQueries)	PARAMETER2P
+Ascala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#RETURN_TYPE¸
+Ascala/meta/internal/metals/WorkspaceSymbolQuery#copy$default$4().METHOD"
+endLine0"
+isVarfalse"K
+symbolAscala/meta/internal/metals/WorkspaceSymbolQuery#copy$default$4()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamecopy$default$4"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$42<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+scala/Boolean#RETURN_TYPE§
+Fscala/meta/internal/metals/WorkspaceSymbolQuery#productElement().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/metals/WorkspaceSymbolQuery#productElement().(x$1)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Int#TYPE›
+?scala/meta/internal/metals/WorkspaceSymbolQuery#productArity().METHOD"
+endLine0"
+isVarfalse"I
+symbol?scala/meta/internal/metals/WorkspaceSymbolQuery#productArity()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameproductArity"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productArity2
+
+scala/Int#RETURN_TYPE2)
+scala/Product#productArity().OVERRIDEπ
+Sscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#productIterator().METHOD"
+endLine0"
+isVarfalse"]
+symbolSscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#productIterator()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameproductIterator"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productIterator2)
+scala/collection/Iterator#RETURN_TYPE2
+
+scala/Any#RETURN_TYPE2,
+ scala/Product#productIterator().OVERRIDE¿
+6scala/meta/internal/metals/WorkspaceSymbolQuery#query.VALUET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala (	"
+endLine16"
+isVarfalse"@
+symbol6scala/meta/internal/metals/WorkspaceSymbolQuery#query."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamequery"
+kindVALUE"
+	startLine16"
+isValtrue"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter9"
+startCharacter4"
+isFinalfalse*query2r
+scala/Predef.String#TYPET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala (ˆ
+Lscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#`<init>`().CONSTRUCTORT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala5 5("
+endLine53"
+isVarfalse"V
+symbolLscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#`<init>`()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine53"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter29"
+startCharacter29"
+isFinalfalse*<init>2`
+Sscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#`<init>`().(query)	PARAMETER2m
+`scala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#`<init>`().(bloomFilterQueries)	PARAMETER2s
+fscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#`<init>`().(bloomFilterCachedQueries)	PARAMETER2™
+Gscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#query.	PARAMETERT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala6 6(2∑
+Tscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#bloomFilterQueries.	PARAMETERT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala7 7(2Ω
+Zscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#bloomFilterCachedQueries.	PARAMETERT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala8 8(‚
+Rlocal10:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala	PARAMETER"
+endLine0"
+isVarfalse"
+symbollocal10"
+package "
+accessEmpty"
+displayNamehashCode"
+kind	PARAMETER"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*hashCode2
+scala/Long#TYPEé
+Rlocal21:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaVALUET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaN N("
+endLine78"
+isVarfalse"
+symbollocal21"
+package "
+accessEmpty"
+displayNamebuf"
+kindVALUE"
+	startLine78"
+isValtrue"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter15"
+startCharacter12"
+isFinalfalse*buf2.
+&scala/collection/mutable/ArrayBuilder#TYPE2I
+Ascala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#TYPE∏
+Qlocal8:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaVALUET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala+ +("
+endLine43"
+isVarfalse"
+symbollocal8"
+package "
+accessEmpty"
+displayNameisClasspath"
+kindVALUE"
+	startLine43"
+isValtrue"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter8"
+isFinalfalse*isClasspath2
+scala/Boolean#TYPE˜
+=scala/meta/internal/metals/WorkspaceSymbolQuery#alternatives.VALUET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala ("
+endLine17"
+isVarfalse"G
+symbol=scala/meta/internal/metals/WorkspaceSymbolQuery#alternatives."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamealternatives"
+kindVALUE"
+	startLine17"
+isValtrue"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter4"
+isFinalfalse*alternatives2j
+scala/Array#TYPET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala (2ü
+Ascala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#TYPET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala ((“
+Rlocal17:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaVALUET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaC
+ C("
+endLine67"
+isVarfalse"
+symbollocal17"
+package "
+accessEmpty"
+displayNamequeries"
+kindVALUE"
+	startLine67"
+isValtrue"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter10"
+isFinalfalse*queries2
+scala/Array#TYPE2
+java/lang/CharSequence#TYPE¥
+Dscala/meta/internal/metals/WorkspaceSymbolQuery#copy().(isClasspath)	PARAMETER"
+endLine0"
+isVarfalse"N
+symbolDscala/meta/internal/metals/WorkspaceSymbolQuery#copy().(isClasspath)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameisClasspath"
+kind	PARAMETER"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*isClasspath2
+scala/Boolean#TYPEº
+Ascala/meta/internal/metals/WorkspaceSymbolQuery#productElement().METHOD"
+endLine0"
+isVarfalse"K
+symbolAscala/meta/internal/metals/WorkspaceSymbolQuery#productElement()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameproductElement"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productElement2S
+Fscala/meta/internal/metals/WorkspaceSymbolQuery#productElement().(x$1)	PARAMETER2
+
+scala/Any#RETURN_TYPE2+
+scala/Product#productElement().OVERRIDE§
+fscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#`<init>`().(bloomFilterCachedQueries)	PARAMETER"
+endLine0"
+isVarfalse"p
+symbolfscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#`<init>`().(bloomFilterCachedQueries)"%
+packagescala.meta.internal.metals"
+accessEmpty"'
+displayNamebloomFilterCachedQueries"
+kind	PARAMETER"
+	startLine0"
+isValtrue"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*bloomFilterCachedQueries2
+scala/Array#TYPE2
+scala/Long#TYPEë
+Lscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#hashCode().METHOD"
+endLine0"
+isVarfalse"V
+symbolLscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#hashCode()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamehashCode"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*hashCode2
+
+scala/Int#RETURN_TYPE2(
+java/lang/Object#hashCode().OVERRIDE2!
+scala/Any#hashCode().OVERRIDE¬
+<scala/meta/internal/metals/WorkspaceSymbolQuery#matches(+2).METHODT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala ("
+endLine27"
+isVarfalse"F
+symbol<scala/meta/internal/metals/WorkspaceSymbolQuery#matches(+2)."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamematches"
+kindMETHOD"
+	startLine27"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter6"
+isFinalfalse"
+LOC4*matches2•
+Bscala/meta/internal/metals/WorkspaceSymbolQuery#matches(+2).(info)	PARAMETERT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala (2s
+scala/Boolean#RETURN_TYPET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala( (/2†
+Bscala/meta/internal/metals/WorkspaceSymbolQuery#matches(+2).(info)CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala( (,2î
+6scala/meta/internal/semanticdb/SymbolInformation#kind.CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala- (12é
+0scala/meta/internal/metals/WorkspaceSymbolQuery.CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala (2ü
+Ascala/meta/internal/metals/WorkspaceSymbolQuery.isRelevantKind().CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala ('2s
+scala/Boolean#`&&`().CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala3 (52†
+Bscala/meta/internal/metals/WorkspaceSymbolQuery#matches(+2).(info)CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala (2ñ
+8scala/meta/internal/semanticdb/SymbolInformation#symbol.CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala (2ö
+<scala/meta/internal/metals/WorkspaceSymbolQuery#matches(+1).CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala	 (√
+Jscala/meta/internal/metals/WorkspaceSymbolQuery#`<init>`().(isTrailingDot)	PARAMETER"
+endLine0"
+isVarfalse"T
+symbolJscala/meta/internal/metals/WorkspaceSymbolQuery#`<init>`().(isTrailingDot)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameisTrailingDot"
+kind	PARAMETER"
+	startLine0"
+isValtrue"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*isTrailingDot2
+scala/Boolean#TYPEÎ
+Rlocal28:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal28"
+package "
+accessPublicAccess()"
+displayNamecase16"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case162
+scala/Boolean#RETURN_TYPEÇ
+Ascala/meta/internal/metals/WorkspaceSymbolQuery#copy$default$1().METHOD"
+endLine0"
+isVarfalse"K
+symbolAscala/meta/internal/metals/WorkspaceSymbolQuery#copy$default$1()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamecopy$default$1"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$12<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPEÔ
+Pscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.unapply().(x$0)	PARAMETER"
+endLine0"
+isVarfalse"Z
+symbolPscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.unapply().(x$0)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamex$0"
+kind	PARAMETER"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$02I
+Ascala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#TYPEÔ
+;scala/meta/internal/metals/WorkspaceSymbolQuery#hashCode().METHOD"
+endLine0"
+isVarfalse"E
+symbol;scala/meta/internal/metals/WorkspaceSymbolQuery#hashCode()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamehashCode"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*hashCode2
+
+scala/Int#RETURN_TYPE2(
+java/lang/Object#hashCode().OVERRIDE2!
+scala/Any#hashCode().OVERRIDE”
+Rlocal32:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal32"
+package "
+accessPublicAccess()"
+displayName	matchEnd8"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*	matchEnd82`
+Slocal517:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala	PARAMETER2
+scala/Boolean#RETURN_TYPE©
+Bscala/meta/internal/metals/WorkspaceSymbolQuery#`<init>`().(query)	PARAMETER"
+endLine0"
+isVarfalse"L
+symbolBscala/meta/internal/metals/WorkspaceSymbolQuery#`<init>`().(query)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamequery"
+kind	PARAMETER"
+	startLine0"
+isValtrue"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*query2
+scala/Predef.String#TYPEÿ
+9scala/meta/internal/metals/WorkspaceSymbolQuery#equals().METHOD"
+endLine0"
+isVarfalse"C
+symbol9scala/meta/internal/metals/WorkspaceSymbolQuery#equals()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameequals"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*equals2K
+>scala/meta/internal/metals/WorkspaceSymbolQuery#equals().(x$1)	PARAMETER2
+scala/Boolean#RETURN_TYPE2"
+scala/Equals#equals().OVERRIDE2&
+java/lang/Object#equals().OVERRIDE2
+scala/Any#equals().OVERRIDEü
+Ascala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#CLASST
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala5 5("
+endLine53"
+isVarfalse"K
+symbolAscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#"%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameAlternativeQuery"
+kindCLASS"
+	startLine53"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter29"
+startCharacter13"
+isFinalfalse"	
+LOC10*AlternativeQuery2¨
+Gscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#query.DECLARATIONT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala6 6(2π
+Tscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#bloomFilterQueries.DECLARATIONT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala7 7(2ø
+Zscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#bloomFilterCachedQueries.DECLARATIONT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala8 8(2±
+Lscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#`<init>`().DECLARATIONT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala5 5(2∞
+Kscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#matches().DECLARATIONT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala: :(2≤
+Mscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#matches(+1).DECLARATIONT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala< <(2W
+Hscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#copy().DECLARATION2a
+Rscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#copy$default$1().DECLARATION2a
+Rscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#copy$default$2().DECLARATION2a
+Rscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#copy$default$3().DECLARATION2`
+Qscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#productPrefix().DECLARATION2_
+Pscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#productArity().DECLARATION2a
+Rscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#productElement().DECLARATION2b
+Sscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#productIterator().DECLARATION2[
+Lscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#canEqual().DECLARATION2[
+Lscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#hashCode().DECLARATION2[
+Lscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#toString().DECLARATION2Y
+Jscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#equals().DECLARATION2
+scala/AnyRef#EXTEND2
+scala/Product#EXTEND2
+scala/Serializable#EXTENDò
+`scala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#`<init>`().(bloomFilterQueries)	PARAMETER"
+endLine0"
+isVarfalse"j
+symbol`scala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#`<init>`().(bloomFilterQueries)"%
+packagescala.meta.internal.metals"
+accessEmpty"!
+displayNamebloomFilterQueries"
+kind	PARAMETER"
+	startLine0"
+isValtrue"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*bloomFilterQueries2
+scala/Array#TYPE2
+java/lang/CharSequence#TYPE∏
+Rscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#copy$default$3().METHOD"
+endLine0"
+isVarfalse"\
+symbolRscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#copy$default$3()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamecopy$default$3"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$32<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+scala/Array#RETURN_TYPE2
+scala/Long#RETURN_TYPEÎ
+Rlocal25:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal25"
+package "
+accessPublicAccess()"
+displayNamecase13"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case132
+scala/Boolean#RETURN_TYPE•
+Hscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#copy().METHOD"
+endLine0"
+isVarfalse"R
+symbolHscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#copy()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamecopy"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy2\
+Oscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#copy().(query)	PARAMETER2i
+\scala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#copy().(bloomFilterQueries)	PARAMETER2o
+bscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#copy().(bloomFilterCachedQueries)	PARAMETER2P
+Ascala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#RETURN_TYPEﬂ
+:scala/meta/internal/metals/WorkspaceSymbolQuery.unapply().METHOD"
+endLine0"
+isVarfalse"D
+symbol:scala/meta/internal/metals/WorkspaceSymbolQuery.unapply()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameunapply"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*unapply2L
+?scala/meta/internal/metals/WorkspaceSymbolQuery.unapply().(x$0)	PARAMETER2
+scala/Option#RETURN_TYPE2
+scala/Tuple4#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE2
+scala/Array#RETURN_TYPE2P
+Ascala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#RETURN_TYPE2
+scala/Boolean#RETURN_TYPE2
+scala/Boolean#RETURN_TYPEÁ
+Qlocal4:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal4"
+package "
+accessPublicAccess()"
+displayNamecase6"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case62
+scala/Boolean#RETURN_TYPEº
+Fscala/meta/internal/metals/WorkspaceSymbolQuery#copy().(isTrailingDot)	PARAMETER"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/metals/WorkspaceSymbolQuery#copy().(isTrailingDot)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameisTrailingDot"
+kind	PARAMETER"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*isTrailingDot2
+scala/Boolean#TYPE∂
+
+Ascala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.OBJECTT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala@	 @("
+endLine64"
+isVarfalse"K
+symbolAscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameAlternativeQuery"
+kindOBJECT"
+	startLine64"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter25"
+startCharacter9"
+isFinaltrue"	
+LOC32*AlternativeQuery2Æ
+Iscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.apply().DECLARATIONT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaA A(2¨
+Gscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.all().DECLARATIONT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaG G(2Z
+Kscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.apply(+1).DECLARATION2Z
+Kscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.unapply().DECLARATION2^
+Oscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.readResolve().DECLARATION2
+scala/AnyRef#EXTEND2
+scala/Serializable#EXTEND—
+Qlocal1:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaVARIABLE"
+endLine0"
+isVartrue"
+symbollocal1"
+package "
+accessEmpty"
+displayNameacc"
+kindVARIABLE"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*acc2
+
+scala/Int#TYPEù
+bscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#copy().(bloomFilterCachedQueries)	PARAMETER"
+endLine0"
+isVarfalse"l
+symbolbscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#copy().(bloomFilterCachedQueries)"%
+packagescala.meta.internal.metals"
+accessEmpty"'
+displayNamebloomFilterCachedQueries"
+kind	PARAMETER"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*bloomFilterCachedQueries2
+scala/Array#TYPE2
+scala/Long#TYPEˆ
+;scala/meta/internal/metals/WorkspaceSymbolQuery#toString().METHOD"
+endLine0"
+isVarfalse"E
+symbol;scala/meta/internal/metals/WorkspaceSymbolQuery#toString()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNametoString"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*toString2 
+java/lang/String#RETURN_TYPE2(
+java/lang/Object#toString().OVERRIDE2!
+scala/Any#toString().OVERRIDE≈
+;scala/meta/internal/metals/WorkspaceSymbolQuery#`<init>`().CONSTRUCTORT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala ("
+endLine15"
+isVarfalse"E
+symbol;scala/meta/internal/metals/WorkspaceSymbolQuery#`<init>`()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine15"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter31"
+startCharacter31"
+isFinalfalse*<init>2O
+Bscala/meta/internal/metals/WorkspaceSymbolQuery#`<init>`().(query)	PARAMETER2V
+Iscala/meta/internal/metals/WorkspaceSymbolQuery#`<init>`().(alternatives)	PARAMETER2W
+Jscala/meta/internal/metals/WorkspaceSymbolQuery#`<init>`().(isTrailingDot)	PARAMETER2U
+Hscala/meta/internal/metals/WorkspaceSymbolQuery#`<init>`().(isClasspath)	PARAMETER2ô
+6scala/meta/internal/metals/WorkspaceSymbolQuery#query.	PARAMETERT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala (	2†
+=scala/meta/internal/metals/WorkspaceSymbolQuery#alternatives.	PARAMETERT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala (2°
+>scala/meta/internal/metals/WorkspaceSymbolQuery#isTrailingDot.	PARAMETERT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala (2ü
+<scala/meta/internal/metals/WorkspaceSymbolQuery#isClasspath.	PARAMETERT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala (≈
+Rlocal24:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaMETHODT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalab b("
+endLine98"
+isVarfalse"
+symbollocal24"
+package "
+accessPublicAccess()"
+displayNamecase12"
+kindMETHOD"
+	startLine98"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter16"
+isFinalfalse*case122
+scala/Boolean#RETURN_TYPEÖ
+Gscala/meta/internal/metals/WorkspaceSymbolQuery.isRelevantKind().(kind)	PARAMETERT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala` `("
+endLine96"
+isVarfalse"Q
+symbolGscala/meta/internal/metals/WorkspaceSymbolQuery.isRelevantKind().(kind)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamekind"
+kind	PARAMETER"
+	startLine96"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter25"
+startCharacter21"
+isFinalfalse*kind2î
+6scala/meta/internal/semanticdb/SymbolInformation.Kind#TYPET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala` `(∂
+Escala/meta/internal/metals/WorkspaceSymbolQuery.apply().(isClasspath)	PARAMETER"
+endLine0"
+isVarfalse"O
+symbolEscala/meta/internal/metals/WorkspaceSymbolQuery.apply().(isClasspath)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameisClasspath"
+kind	PARAMETER"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*isClasspath2
+scala/Boolean#TYPEˆ
+Bscala/meta/internal/metals/WorkspaceSymbolQuery#matches(+2).(info)	PARAMETERT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala ("
+endLine27"
+isVarfalse"L
+symbolBscala/meta/internal/metals/WorkspaceSymbolQuery#matches(+2).(info)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameinfo"
+kind	PARAMETER"
+	startLine27"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter14"
+isFinalfalse*info2è
+1scala/meta/internal/semanticdb/SymbolInformation#TYPET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala (%¬
+Rlocal18:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaVALUET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaD
+ D("
+endLine68"
+isVarfalse"
+symbollocal18"
+package "
+accessEmpty"
+displayNamebytes"
+kindVALUE"
+	startLine68"
+isValtrue"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter15"
+startCharacter10"
+isFinalfalse*bytes2
+scala/Array#TYPE2
+scala/Long#TYPEº
+Qlocal7:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaVALUET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala* *("
+endLine42"
+isVarfalse"
+symbollocal7"
+package "
+accessEmpty"
+displayNameisTrailingDot"
+kindVALUE"
+	startLine42"
+isValtrue"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter8"
+isFinalfalse*isTrailingDot2
+scala/Boolean#TYPEò
+Lscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#toString().METHOD"
+endLine0"
+isVarfalse"V
+symbolLscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#toString()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNametoString"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*toString2 
+java/lang/String#RETURN_TYPE2(
+java/lang/Object#toString().OVERRIDE2!
+scala/Any#toString().OVERRIDE£
+escala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.apply(+1).(bloomFilterCachedQueries)	PARAMETER"
+endLine0"
+isVarfalse"o
+symbolescala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.apply(+1).(bloomFilterCachedQueries)"%
+packagescala.meta.internal.metals"
+accessEmpty"'
+displayNamebloomFilterCachedQueries"
+kind	PARAMETER"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*bloomFilterCachedQueries2
+scala/Array#TYPE2
+scala/Long#TYPE…
+Qlocal0:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal0"
+package "
+accessEmpty"
+displayNamex1"
+kindVALUE"
+	startLine0"
+isValtrue"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x12
+
+scala/Int#TYPEì
+0scala/meta/internal/metals/WorkspaceSymbolQuery#CLASST
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala ("
+endLine15"
+isVarfalse":
+symbol0scala/meta/internal/metals/WorkspaceSymbolQuery#"%
+packagescala.meta.internal.metals"
+accessPublicAccess()"#
+displayNameWorkspaceSymbolQuery"
+kindCLASS"
+	startLine15"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter31"
+startCharacter11"
+isFinalfalse"	
+LOC17*WorkspaceSymbolQuery2õ
+6scala/meta/internal/metals/WorkspaceSymbolQuery#query.DECLARATIONT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala (	2¢
+=scala/meta/internal/metals/WorkspaceSymbolQuery#alternatives.DECLARATIONT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala (2£
+>scala/meta/internal/metals/WorkspaceSymbolQuery#isTrailingDot.DECLARATIONT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala (2°
+<scala/meta/internal/metals/WorkspaceSymbolQuery#isClasspath.DECLARATIONT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala (2†
+;scala/meta/internal/metals/WorkspaceSymbolQuery#`<init>`().DECLARATIONT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala (2ü
+:scala/meta/internal/metals/WorkspaceSymbolQuery#matches().DECLARATIONT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala (2°
+<scala/meta/internal/metals/WorkspaceSymbolQuery#matches(+1).DECLARATIONT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala (2°
+<scala/meta/internal/metals/WorkspaceSymbolQuery#matches(+2).DECLARATIONT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala (2F
+7scala/meta/internal/metals/WorkspaceSymbolQuery#copy().DECLARATION2P
+Ascala/meta/internal/metals/WorkspaceSymbolQuery#copy$default$1().DECLARATION2P
+Ascala/meta/internal/metals/WorkspaceSymbolQuery#copy$default$2().DECLARATION2P
+Ascala/meta/internal/metals/WorkspaceSymbolQuery#copy$default$3().DECLARATION2P
+Ascala/meta/internal/metals/WorkspaceSymbolQuery#copy$default$4().DECLARATION2O
+@scala/meta/internal/metals/WorkspaceSymbolQuery#productPrefix().DECLARATION2N
+?scala/meta/internal/metals/WorkspaceSymbolQuery#productArity().DECLARATION2P
+Ascala/meta/internal/metals/WorkspaceSymbolQuery#productElement().DECLARATION2Q
+Bscala/meta/internal/metals/WorkspaceSymbolQuery#productIterator().DECLARATION2J
+;scala/meta/internal/metals/WorkspaceSymbolQuery#canEqual().DECLARATION2J
+;scala/meta/internal/metals/WorkspaceSymbolQuery#hashCode().DECLARATION2J
+;scala/meta/internal/metals/WorkspaceSymbolQuery#toString().DECLARATION2H
+9scala/meta/internal/metals/WorkspaceSymbolQuery#equals().DECLARATION2
+scala/AnyRef#EXTEND2
+scala/Product#EXTEND2
+scala/Serializable#EXTEND2ù
+8scala/meta/internal/metals/WorkspaceSymbolQuery#isExact.DECLARATIONT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala (2î
+6scala/meta/internal/metals/WorkspaceSymbolQuery#query.CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala (2x
+java/lang/String#length().CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala (%2p
+scala/Int#`<`(+3).CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala& ('2
+!scala/meta/internal/metals/Fuzzy.CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala( (-2ê
+2scala/meta/internal/metals/Fuzzy#ExactSearchLimit.CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala. (>®
+<scala/meta/internal/metals/WorkspaceSymbolQuery#matches(+1).METHODT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala ("
+endLine24"
+isVarfalse"F
+symbol<scala/meta/internal/metals/WorkspaceSymbolQuery#matches(+1)."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamematches"
+kindMETHOD"
+	startLine24"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter6"
+isFinalfalse"
+LOC2*matches2ß
+Dscala/meta/internal/metals/WorkspaceSymbolQuery#matches(+1).(symbol)	PARAMETERT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala (2s
+scala/Boolean#RETURN_TYPET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala% (,2¢
+Dscala/meta/internal/metals/WorkspaceSymbolQuery#matches(+1).(symbol)CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala" ((2ú
+>scala/meta/internal/metals/WorkspaceSymbolQuery#isTrailingDot.CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala* (72´
+Mscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#matches(+1).CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala (!2õ
+=scala/meta/internal/metals/WorkspaceSymbolQuery#alternatives.CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala (2å
+.scala/collection/IndexedSeqOptimized#exists().CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala (–
+Rlocal16:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaVALUET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaB
+ B("
+endLine66"
+isVarfalse"
+symbollocal16"
+package "
+accessEmpty"
+displayNamehasher"
+kindVALUE"
+	startLine66"
+isValtrue"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter10"
+isFinalfalse*hasher25
+-scala/meta/internal/metals/StringBloomFilter#TYPE 
+Rscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.apply(+1).(query)	PARAMETER"
+endLine0"
+isVarfalse"\
+symbolRscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.apply(+1).(query)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamequery"
+kind	PARAMETER"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*query2
+scala/Predef.String#TYPEª
+Hscala/meta/internal/metals/WorkspaceSymbolQuery#`<init>`().(isClasspath)	PARAMETER"
+endLine0"
+isVarfalse"R
+symbolHscala/meta/internal/metals/WorkspaceSymbolQuery#`<init>`().(isClasspath)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameisClasspath"
+kind	PARAMETER"
+	startLine0"
+isValtrue"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*isClasspath2
+scala/Boolean#TYPE„
+Gscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#query.VALUET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala6 6("
+endLine54"
+isVarfalse"Q
+symbolGscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#query."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamequery"
+kindVALUE"
+	startLine54"
+isValtrue"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter11"
+startCharacter6"
+isFinalfalse*query2r
+scala/Predef.String#TYPET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala6 6(Î
+Rlocal31:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal31"
+package "
+accessPublicAccess()"
+displayNamecase10"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case102
+scala/Boolean#RETURN_TYPE—
+Qlocal5:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal5"
+package "
+accessPublicAccess()"
+displayName	matchEnd4"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*	matchEnd42`
+Slocal514:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala	PARAMETER2
+scala/Boolean#RETURN_TYPE¸
+Ascala/meta/internal/metals/WorkspaceSymbolQuery#copy$default$3().METHOD"
+endLine0"
+isVarfalse"K
+symbolAscala/meta/internal/metals/WorkspaceSymbolQuery#copy$default$3()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamecopy$default$3"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$32<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+scala/Boolean#RETURN_TYPE„
+Kscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.unapply().METHOD"
+endLine0"
+isVarfalse"U
+symbolKscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.unapply()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameunapply"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*unapply2]
+Pscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.unapply().(x$0)	PARAMETER2
+scala/Option#RETURN_TYPE2
+scala/Tuple3#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE2
+scala/Array#RETURN_TYPE2&
+java/lang/CharSequence#RETURN_TYPE2
+scala/Array#RETURN_TYPE2
+scala/Long#RETURN_TYPEˇ
+Pscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#productArity().METHOD"
+endLine0"
+isVarfalse"Z
+symbolPscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#productArity()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameproductArity"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productArity2
+
+scala/Int#RETURN_TYPE2)
+scala/Product#productArity().OVERRIDE”
+Rlocal14:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal14"
+package "
+accessPublicAccess()"
+displayName	matchEnd4"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*	matchEnd42`
+Slocal515:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala	PARAMETER2
+scala/Boolean#RETURN_TYPE‡
+8scala/meta/internal/metals/WorkspaceSymbolQuery.apply().METHOD"
+endLine0"
+isVarfalse"B
+symbol8scala/meta/internal/metals/WorkspaceSymbolQuery.apply()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameapply"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply2L
+?scala/meta/internal/metals/WorkspaceSymbolQuery.apply().(query)	PARAMETER2S
+Fscala/meta/internal/metals/WorkspaceSymbolQuery.apply().(alternatives)	PARAMETER2™
+Gscala/meta/internal/metals/WorkspaceSymbolQuery.apply().(isTrailingDot)	PARAMETERT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala& &(2R
+Escala/meta/internal/metals/WorkspaceSymbolQuery.apply().(isClasspath)	PARAMETER2?
+0scala/meta/internal/metals/WorkspaceSymbolQuery#RETURN_TYPEÈ
+@scala/meta/internal/metals/WorkspaceSymbolQuery#productPrefix().METHOD"
+endLine0"
+isVarfalse"J
+symbol@scala/meta/internal/metals/WorkspaceSymbolQuery#productPrefix()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameproductPrefix"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productPrefix2 
+java/lang/String#RETURN_TYPE2*
+scala/Product#productPrefix().OVERRIDE¿ 
+Iscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.apply().METHODT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaA A("
+endLine65"
+isVarfalse"S
+symbolIscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.apply()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameapply"
+kindMETHOD"
+	startLine65"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter8"
+isFinalfalse"
+LOC6*apply2≥
+Pscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.apply().(query)	PARAMETERT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaA A(2¶
+Ascala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#RETURN_TYPET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaA A(.2∑
+Rlocal16:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaDECLARATIONT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaB
+ B(2ã
+-scala/meta/internal/metals/StringBloomFilter#CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaB B((2ñ
+8scala/meta/internal/metals/StringBloomFilter#`<init>`().CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaB( B((2∑
+Rlocal17:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaDECLARATIONT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaC
+ C(2Æ
+Pscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.apply().(query)CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaC2 C(72
+!scala/meta/internal/metals/Fuzzy.CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaC C(2ô
+;scala/meta/internal/metals/Fuzzy#bloomFilterQueryStrings().CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaC C(12â
++scala/collection/TraversableOnce#toArray().CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaC9 C(@2∑
+Rlocal18:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaDECLARATIONT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaD
+ D(2µ
+Rlocal19:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala	PARAMETERT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaD  D(%2∞
+Rlocal19:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaCALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaD@ D(E2∞
+Rlocal16:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaCALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaD) D(/2ù
+?scala/meta/internal/metals/StringBloomFilter#computeHashCode().CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaD0 D(?2∞
+Rlocal17:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaCALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaD D(2Ö
+'scala/collection/TraversableLike#map().CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaD D(2Æ
+Pscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.apply().(query)CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaE E(2∞
+Rlocal17:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaCALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaE E(%2∞
+Rlocal18:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaCALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaE' E(,2ü
+Ascala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.CALLT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaE E(Œ
+Lscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#canEqual().METHOD"
+endLine0"
+isVarfalse"V
+symbolLscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#canEqual()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamecanEqual"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*canEqual2^
+Qscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#canEqual().(x$1)	PARAMETER2
+scala/Boolean#RETURN_TYPE2$
+scala/Equals#canEqual().OVERRIDE§
+Rscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#copy$default$1().METHOD"
+endLine0"
+isVarfalse"\
+symbolRscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#copy$default$1()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamecopy$default$1"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$12<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPEò
+@scala/meta/internal/metals/WorkspaceSymbolQuery#canEqual().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"J
+symbol@scala/meta/internal/metals/WorkspaceSymbolQuery#canEqual().(x$1)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Any#TYPEÚ
+Nscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.all().(query)	PARAMETERT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaG G("
+endLine71"
+isVarfalse"X
+symbolNscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.all().(query)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamequery"
+kind	PARAMETER"
+	startLine71"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter12"
+isFinalfalse*query2r
+scala/Predef.String#TYPET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaG G(È
+Rlocal12:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal12"
+package "
+accessPublicAccess()"
+displayNamecase5"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case52
+scala/Boolean#RETURN_TYPEº
+?scala/meta/internal/metals/WorkspaceSymbolQuery.unapply().(x$0)	PARAMETER"
+endLine0"
+isVarfalse"I
+symbol?scala/meta/internal/metals/WorkspaceSymbolQuery.unapply().(x$0)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamex$0"
+kind	PARAMETER"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$028
+0scala/meta/internal/metals/WorkspaceSymbolQuery#TYPEÉ
+Fscala/meta/internal/metals/WorkspaceSymbolQuery.apply().(alternatives)	PARAMETER"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/metals/WorkspaceSymbolQuery.apply().(alternatives)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamealternatives"
+kind	PARAMETER"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*alternatives2
+scala/Array#TYPE2I
+Ascala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#TYPE‰
+Gscala/meta/internal/metals/WorkspaceSymbolQuery.fromTextQuery().(query)	PARAMETERT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala) )("
+endLine41"
+isVarfalse"Q
+symbolGscala/meta/internal/metals/WorkspaceSymbolQuery.fromTextQuery().(query)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamequery"
+kind	PARAMETER"
+	startLine41"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter25"
+startCharacter20"
+isFinalfalse*query2r
+scala/Predef.String#TYPET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala) )(!ª
+Qlocal9:mtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scalaVALUET
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala, ,("
+endLine44"
+isVarfalse"
+symbollocal9"
+package "
+accessEmpty"
+displayNameactualQuery"
+kindVALUE"
+	startLine44"
+isValtrue"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter8"
+isFinalfalse*actualQuery2
+java/lang/String#TYPE§
+?scala/meta/internal/metals/WorkspaceSymbolQuery.apply().(query)	PARAMETER"
+endLine0"
+isVarfalse"I
+symbol?scala/meta/internal/metals/WorkspaceSymbolQuery.apply().(query)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamequery"
+kind	PARAMETER"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*query2
+scala/Predef.String#TYPEÿ
+Oscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.readResolve().METHOD"
+endLine0"
+isVarfalse"Y
+symbolOscala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.readResolve()."%
+packagescala.meta.internal.metals"
+accessPrivateAccess()"
+displayNamereadResolve"
+kindMETHOD"
+	startLine0"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*readResolve2 
+java/lang/Object#RETURN_TYPEÛ
+0scala/meta/internal/metals/WorkspaceSymbolQuery.OBJECTT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala! !("
+endLine33"
+isVarfalse":
+symbol0scala/meta/internal/metals/WorkspaceSymbolQuery."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"#
+displayNameWorkspaceSymbolQuery"
+kindOBJECT"
+	startLine33"
+isValfalse"Q
+uriJmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter27"
+startCharacter7"
+isFinaltrue"	
+LOC73*WorkspaceSymbolQuery2ù
+8scala/meta/internal/metals/WorkspaceSymbolQuery.exact().DECLARATIONT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala" "(2•
+@scala/meta/internal/metals/WorkspaceSymbolQuery.fromTextQuery().DECLARATIONT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala) )(2¶
+Ascala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery#DECLARATIONT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala5 5(2¶
+Ascala/meta/internal/metals/WorkspaceSymbolQuery.AlternativeQuery.DECLARATIONT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala@	 @(2¶
+Ascala/meta/internal/metals/WorkspaceSymbolQuery.isRelevantKind().DECLARATIONT
+Jmtags/src/main/scala/scala/meta/internal/metals/WorkspaceSymbolQuery.scala` `(2G
+8scala/meta/internal/metals/WorkspaceSymbolQuery.apply().DECLARATION2Q
+Bscala/meta/internal/metals/WorkspaceSymbolQuery.apply$default$4().DECLARATION2I
+:scala/meta/internal/metals/WorkspaceSymbolQuery.unapply().DECLARATION2T
+Escala/meta/internal/metals/WorkspaceSymbolQuery.`<init>$default$4`().DECLARATION2M
+>scala/meta/internal/metals/WorkspaceSymbolQuery.readResolve().DECLARATION2
+scala/AnyRef#EXTEND2
+scala/Serializable#EXTEND

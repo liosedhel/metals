@@ -1,0 +1,211 @@
+
+1tests/input/src/main/scala/example/Comments.scalaå
+example/Comments#b().METHOD;
+1tests/input/src/main/scala/example/Comments.scala ("
+endLine6"
+isVarfalse"
+symbolexample/Comments#b()."
+packageexample"
+accessPublicAccess()"
+displayNameb"
+kindMETHOD"
+	startLine6"
+isValfalse"8
+uri1tests/input/src/main/scala/example/Comments.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter20"
+isFinalfalse"
+LOC1*b2
+
+scala/Int#RETURN_TYPEÝ
+example/Comments#A#TRAIT;
+1tests/input/src/main/scala/example/Comments.scala ("
+endLine4"
+isVarfalse"
+symbolexample/Comments#A#"
+packageexample"
+accessPublicAccess()"
+displayNameA"
+kindTRAIT"
+	startLine4"
+isValfalse"8
+uri1tests/input/src/main/scala/example/Comments.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter22"
+isFinalfalse"
+LOC1*A2
+scala/AnyRef#EXTENDâ
+example/Comments#`<init>`().CONSTRUCTOR;
+1tests/input/src/main/scala/example/Comments.scala ("
+endLine2"
+isVarfalse"&
+symbolexample/Comments#`<init>`()."
+packageexample"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine2"
+isValfalse"8
+uri1tests/input/src/main/scala/example/Comments.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter29"
+startCharacter29"
+isFinalfalse*<init>l
+1tests/input/src/main/scala/example/Comments.scalaFILE*1tests/input/src/main/scala/example/Comments.scala×
+example/Comments#c().VARIABLE;
+1tests/input/src/main/scala/example/Comments.scala ("
+endLine7"
+isVartrue"
+symbolexample/Comments#c()."
+packageexample"
+accessPublicAccess()"
+displayNamec"
+kindVARIABLE"
+	startLine7"
+isValfalse"8
+uri1tests/input/src/main/scala/example/Comments.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter20"
+isFinalfalse*c2
+
+scala/Int#TYPEä
+example/Comments#CLASS;
+1tests/input/src/main/scala/example/Comments.scala ("
+endLine2"
+isVarfalse"
+symbolexample/Comments#"
+packageexample"
+accessPublicAccess()"
+displayNameComments"
+kindCLASS"
+	startLine2"
+isValfalse"8
+uri1tests/input/src/main/scala/example/Comments.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter28"
+startCharacter20"
+isFinalfalse"
+LOC7*Comments2h
+example/Comments#`<init>`().DECLARATION;
+1tests/input/src/main/scala/example/Comments.scala (2_
+example/Comments#A.DECLARATION;
+1tests/input/src/main/scala/example/Comments.scala (2_
+example/Comments#A#DECLARATION;
+1tests/input/src/main/scala/example/Comments.scala (2a
+example/Comments#b().DECLARATION;
+1tests/input/src/main/scala/example/Comments.scala (2(
+example/Comments#`c_=`().DECLARATION2
+scala/AnyRef#EXTEND2_
+example/Comments#a.DECLARATION;
+1tests/input/src/main/scala/example/Comments.scala (2a
+example/Comments#c().DECLARATION;
+1tests/input/src/main/scala/example/Comments.scala (Ò
+example/Comments#`c_=`().VARIABLE"
+endLine0"
+isVartrue"#
+symbolexample/Comments#`c_=`()."
+packageexample"
+accessPublicAccess()"
+displayNamec_="
+kindVARIABLE"
+	startLine0"
+isValfalse"8
+uri1tests/input/src/main/scala/example/Comments.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*c_=2+
+example/Comments#`c_=`().(x$1)	PARAMETER2
+scala/Unit#TYPEÍ
+example/Comments#a.VALUE;
+1tests/input/src/main/scala/example/Comments.scala ("
+endLine5"
+isVarfalse"
+symbolexample/Comments#a."
+packageexample"
+accessPublicAccess()"
+displayNamea"
+kindVALUE"
+	startLine5"
+isValtrue"8
+uri1tests/input/src/main/scala/example/Comments.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter20"
+isFinalfalse*a2
+
+scala/Int#TYPEÞ
+example/Comments#A.OBJECT;
+1tests/input/src/main/scala/example/Comments.scala ("
+endLine3"
+isVarfalse"
+symbolexample/Comments#A."
+packageexample"
+accessPublicAccess()"
+displayNameA"
+kindOBJECT"
+	startLine3"
+isValfalse"8
+uri1tests/input/src/main/scala/example/Comments.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter24"
+startCharacter23"
+isFinaltrue"
+LOC1*A2
+scala/AnyRef#EXTEND¨
+example/Comments#`c_=`().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"(
+symbolexample/Comments#`c_=`().(x$1)"
+packageexample"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"8
+uri1tests/input/src/main/scala/example/Comments.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Int#TYPE

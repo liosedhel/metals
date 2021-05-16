@@ -1,0 +1,27 @@
+
+Hmetals/src/main/scala/scala/meta/internal/tvp/NoopTreeViewProvider.scalaÿ
+-scala/meta/internal/tvp/NoopTreeViewProvider.OBJECTR
+Hmetals/src/main/scala/scala/meta/internal/tvp/NoopTreeViewProvider.scala ("
+endLine2"
+isVarfalse"7
+symbol-scala/meta/internal/tvp/NoopTreeViewProvider.""
+packagescala.meta.internal.tvp"
+accessPublicAccess()"#
+displayNameNoopTreeViewProvider"
+kindOBJECT"
+	startLine2"
+isValfalse"O
+uriHmetals/src/main/scala/scala/meta/internal/tvp/NoopTreeViewProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter27"
+startCharacter7"
+isFinaltrue"
+LOC1*NoopTreeViewProvider2
+scala/AnyRef#EXTEND2‡
+)scala/meta/internal/tvp/TreeViewProvider#EXTENDR
+Hmetals/src/main/scala/scala/meta/internal/tvp/NoopTreeViewProvider.scala$ (4š
+Hmetals/src/main/scala/scala/meta/internal/tvp/NoopTreeViewProvider.scalaFILE*Hmetals/src/main/scala/scala/meta/internal/tvp/NoopTreeViewProvider.scala

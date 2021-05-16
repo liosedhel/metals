@@ -1,0 +1,32 @@
+
+5tests/input/src/test/scala/example/ExampleSuite.scala­
+example/ExampleSuite.OBJECT?
+5tests/input/src/test/scala/example/ExampleSuite.scala ("
+endLine2"
+isVarfalse"
+symbolexample/ExampleSuite."
+packageexample"
+accessPublicAccess()"
+displayNameExampleSuite"
+kindOBJECT"
+	startLine2"
+isValfalse"<
+uri5tests/input/src/test/scala/example/ExampleSuite.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter7"
+isFinaltrue"
+LOC3*ExampleSuite2
+scala/AnyRef#EXTEND2`
+example/NamedArguments.CALL?
+5tests/input/src/test/scala/example/ExampleSuite.scala
+ (2f
+example/NamedArguments.user2.CALL?
+5tests/input/src/test/scala/example/ExampleSuite.scala (2b
+scala/Predef.println(+1).CALL?
+5tests/input/src/test/scala/example/ExampleSuite.scala (	t
+5tests/input/src/test/scala/example/ExampleSuite.scalaFILE*5tests/input/src/test/scala/example/ExampleSuite.scala

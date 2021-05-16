@@ -1,0 +1,188 @@
+
+?mtags/src/main/scala-2/scala/meta/internal/pc/LogMessages.scala®
+/scala/meta/internal/pc/LogMessages.cancelled().METHODI
+?mtags/src/main/scala-2/scala/meta/internal/pc/LogMessages.scala ("
+endLine3"
+isVarfalse"9
+symbol/scala/meta/internal/pc/LogMessages.cancelled()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayName	cancelled"
+kindMETHOD"
+	startLine3"
+isValfalse"F
+uri?mtags/src/main/scala-2/scala/meta/internal/pc/LogMessages.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter15"
+startCharacter6"
+isFinalfalse"
+LOC1*	cancelled2n
+scala/Predef.String#RETURN_TYPEI
+?mtags/src/main/scala-2/scala/meta/internal/pc/LogMessages.scala (ˆ
+0scala/meta/internal/pc/LogMessages.pluralName().METHODI
+?mtags/src/main/scala-2/scala/meta/internal/pc/LogMessages.scala ("
+endLine4"
+isVarfalse":
+symbol0scala/meta/internal/pc/LogMessages.pluralName()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayName
+pluralName"
+kindMETHOD"
+	startLine4"
+isValfalse"F
+uri?mtags/src/main/scala-2/scala/meta/internal/pc/LogMessages.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter6"
+isFinalfalse"
+LOC2*
+pluralName2é
+6scala/meta/internal/pc/LogMessages.pluralName().(name)	PARAMETERI
+?mtags/src/main/scala-2/scala/meta/internal/pc/LogMessages.scala (2è
+7scala/meta/internal/pc/LogMessages.pluralName().(count)	PARAMETERI
+?mtags/src/main/scala-2/scala/meta/internal/pc/LogMessages.scala ($2n
+scala/Predef.String#RETURN_TYPEI
+?mtags/src/main/scala-2/scala/meta/internal/pc/LogMessages.scala, (22ä
+7scala/meta/internal/pc/LogMessages.pluralName().(count)CALLI
+?mtags/src/main/scala-2/scala/meta/internal/pc/LogMessages.scala (2â
+6scala/meta/internal/pc/LogMessages.pluralName().(name)CALLI
+?mtags/src/main/scala-2/scala/meta/internal/pc/LogMessages.scala (2ä
+7scala/meta/internal/pc/LogMessages.pluralName().(count)CALLI
+?mtags/src/main/scala-2/scala/meta/internal/pc/LogMessages.scala ($2
+,scala/meta/internal/pc/LogMessages.plural().CALLI
+?mtags/src/main/scala-2/scala/meta/internal/pc/LogMessages.scala (õ
+,scala/meta/internal/pc/LogMessages.plural().METHODI
+?mtags/src/main/scala-2/scala/meta/internal/pc/LogMessages.scala ("
+endLine6"
+isVarfalse"6
+symbol,scala/meta/internal/pc/LogMessages.plural()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameplural"
+kindMETHOD"
+	startLine6"
+isValfalse"F
+uri?mtags/src/main/scala-2/scala/meta/internal/pc/LogMessages.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse"
+LOC3*plural2ã
+3scala/meta/internal/pc/LogMessages.plural().(count)	PARAMETERI
+?mtags/src/main/scala-2/scala/meta/internal/pc/LogMessages.scala (2n
+scala/Predef.String#RETURN_TYPEI
+?mtags/src/main/scala-2/scala/meta/internal/pc/LogMessages.scala ( 2Ü
+3scala/meta/internal/pc/LogMessages.plural().(count)CALLI
+?mtags/src/main/scala-2/scala/meta/internal/pc/LogMessages.scala (2f
+scala/Int#`==`(+3).CALLI
+?mtags/src/main/scala-2/scala/meta/internal/pc/LogMessages.scala (ﬁ
+#scala/meta/internal/pc/LogMessages.OBJECTI
+?mtags/src/main/scala-2/scala/meta/internal/pc/LogMessages.scala ("
+endLine2"
+isVarfalse"-
+symbol#scala/meta/internal/pc/LogMessages."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameLogMessages"
+kindOBJECT"
+	startLine2"
+isValfalse"F
+uri?mtags/src/main/scala-2/scala/meta/internal/pc/LogMessages.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter7"
+isFinaltrue"
+LOC8*LogMessages2â
+/scala/meta/internal/pc/LogMessages.cancelled().DECLARATIONI
+?mtags/src/main/scala-2/scala/meta/internal/pc/LogMessages.scala (2ä
+0scala/meta/internal/pc/LogMessages.pluralName().DECLARATIONI
+?mtags/src/main/scala-2/scala/meta/internal/pc/LogMessages.scala (2Ü
+,scala/meta/internal/pc/LogMessages.plural().DECLARATIONI
+?mtags/src/main/scala-2/scala/meta/internal/pc/LogMessages.scala (2
+scala/AnyRef#EXTENDô
+6scala/meta/internal/pc/LogMessages.pluralName().(name)	PARAMETERI
+?mtags/src/main/scala-2/scala/meta/internal/pc/LogMessages.scala ("
+endLine4"
+isVarfalse"@
+symbol6scala/meta/internal/pc/LogMessages.pluralName().(name)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamename"
+kind	PARAMETER"
+	startLine4"
+isValfalse"F
+uri?mtags/src/main/scala-2/scala/meta/internal/pc/LogMessages.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter17"
+isFinalfalse*name2g
+scala/Predef.String#TYPEI
+?mtags/src/main/scala-2/scala/meta/internal/pc/LogMessages.scala (à
+?mtags/src/main/scala-2/scala/meta/internal/pc/LogMessages.scalaFILE*?mtags/src/main/scala-2/scala/meta/internal/pc/LogMessages.scalaã
+3scala/meta/internal/pc/LogMessages.plural().(count)	PARAMETERI
+?mtags/src/main/scala-2/scala/meta/internal/pc/LogMessages.scala ("
+endLine6"
+isVarfalse"=
+symbol3scala/meta/internal/pc/LogMessages.plural().(count)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamecount"
+kind	PARAMETER"
+	startLine6"
+isValfalse"F
+uri?mtags/src/main/scala-2/scala/meta/internal/pc/LogMessages.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter13"
+isFinalfalse*count2]
+
+scala/Int#TYPEI
+?mtags/src/main/scala-2/scala/meta/internal/pc/LogMessages.scala (ì
+7scala/meta/internal/pc/LogMessages.pluralName().(count)	PARAMETERI
+?mtags/src/main/scala-2/scala/meta/internal/pc/LogMessages.scala ($"
+endLine4"
+isVarfalse"A
+symbol7scala/meta/internal/pc/LogMessages.pluralName().(count)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamecount"
+kind	PARAMETER"
+	startLine4"
+isValfalse"F
+uri?mtags/src/main/scala-2/scala/meta/internal/pc/LogMessages.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter36"
+startCharacter31"
+isFinalfalse*count2]
+
+scala/Int#TYPEI
+?mtags/src/main/scala-2/scala/meta/internal/pc/LogMessages.scala& ()

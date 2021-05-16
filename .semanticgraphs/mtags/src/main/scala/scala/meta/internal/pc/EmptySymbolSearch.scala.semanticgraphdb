@@ -1,0 +1,365 @@
+
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala¡
+Escala/meta/internal/pc/EmptySymbolSearch.definitionSourceToplevels().METHODM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala ("
+endLine25"
+isVarfalse"O
+symbolEscala/meta/internal/pc/EmptySymbolSearch.definitionSourceToplevels()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"(
+displayNamedefinitionSourceToplevels"
+kindMETHOD"
+	startLine25"
+isValfalse"J
+uriCmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter31"
+startCharacter6"
+isFinalfalse"
+LOC6*definitionSourceToplevels2C
+7scala/meta/pc/SymbolSearch#definitionSourceToplevels().OVERRIDE2©
+Mscala/meta/internal/pc/EmptySymbolSearch.definitionSourceToplevels().(symbol)	PARAMETERM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala (2¨
+Pscala/meta/internal/pc/EmptySymbolSearch.definitionSourceToplevels().(sourceUri)	PARAMETERM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala (2a
+
+java/util/CALLM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala (2m
+java/util/List#RETURN_TYPEM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala (2r
+scala/Predef.String#RETURN_TYPEM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala (2a
+
+java/util/CALLM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala (2m
+java/util/Collections#CALLM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala (2y
+"java/util/Collections#emptyList().CALLM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala (é
+
+9scala/meta/internal/pc/EmptySymbolSearch.documentation().METHODM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala   ("
+endLine32"
+isVarfalse"C
+symbol9scala/meta/internal/pc/EmptySymbolSearch.documentation()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamedocumentation"
+kindMETHOD"
+	startLine32"
+isValfalse"J
+uriCmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter28"
+startCharacter15"
+isFinalfalse"
+LOC2*documentation27
++scala/meta/pc/SymbolSearch#documentation().OVERRIDE2ù
+Ascala/meta/internal/pc/EmptySymbolSearch.documentation().(symbol)	PARAMETERM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala   (#2q
+java/util/Optional#RETURN_TYPEM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala .  (62Ä
+"scala/meta/pc/SymbolDocumentation#RETURN_TYPEM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala 7  (J2j
+java/util/Optional#CALLM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala! !(2r
+java/util/Optional#empty().CALLM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala! !(›
+Pscala/meta/internal/pc/EmptySymbolSearch.definitionSourceToplevels().(sourceUri)	PARAMETERM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala ("
+endLine27"
+isVarfalse"Z
+symbolPscala/meta/internal/pc/EmptySymbolSearch.definitionSourceToplevels().(sourceUri)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayName	sourceUri"
+kind	PARAMETER"
+	startLine27"
+isValfalse"J
+uriCmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter15"
+startCharacter6"
+isFinalfalse*	sourceUri2d
+java/net/URI#TYPEM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala (Ó
+Iscala/meta/internal/pc/EmptySymbolSearch.search().(buildTargetIdentifier)	PARAMETERM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala ("
+endLine15"
+isVarfalse"S
+symbolIscala/meta/internal/pc/EmptySymbolSearch.search().(buildTargetIdentifier)"!
+packagescala.meta.internal.pc"
+accessEmpty"$
+displayNamebuildTargetIdentifier"
+kind	PARAMETER"
+	startLine15"
+isValfalse"J
+uriCmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter27"
+startCharacter6"
+isFinalfalse*buildTargetIdentifier2k
+scala/Predef.String#TYPEM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala (#√
+
+)scala/meta/internal/pc/EmptySymbolSearch.OBJECTM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala ("
+endLine12"
+isVarfalse"3
+symbol)scala/meta/internal/pc/EmptySymbolSearch."!
+packagescala.meta.internal.pc"
+accessPublicAccess()" 
+displayNameEmptySymbolSearch"
+kindOBJECT"
+	startLine12"
+isValfalse"J
+uriCmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter24"
+startCharacter7"
+isFinaltrue"	
+LOC23*EmptySymbolSearch2ê
+2scala/meta/internal/pc/EmptySymbolSearch.search().DECLARATIONM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala (2î
+6scala/meta/internal/pc/EmptySymbolSearch.definition().DECLARATIONM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala (2£
+Escala/meta/internal/pc/EmptySymbolSearch.definitionSourceToplevels().DECLARATIONM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala (2ó
+9scala/meta/internal/pc/EmptySymbolSearch.documentation().DECLARATIONM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala   (2
+java/lang/Object#EXTEND2t
+scala/meta/pc/SymbolSearch#EXTENDM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala! (-∫
+2scala/meta/internal/pc/EmptySymbolSearch.search().METHODM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala ("
+endLine13"
+isVarfalse"<
+symbol2scala/meta/internal/pc/EmptySymbolSearch.search()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamesearch"
+kindMETHOD"
+	startLine13"
+isValfalse"J
+uriCmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter15"
+isFinalfalse"
+LOC7*search20
+$scala/meta/pc/SymbolSearch#search().OVERRIDE2ï
+9scala/meta/internal/pc/EmptySymbolSearch.search().(query)	PARAMETERM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala (2•
+Iscala/meta/internal/pc/EmptySymbolSearch.search().(buildTargetIdentifier)	PARAMETERM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala (2ó
+;scala/meta/internal/pc/EmptySymbolSearch.search().(visitor)	PARAMETERM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala (2r
+scala/meta/pc/SymbolSearch#CALLM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala (2Ä
+"scala/meta/pc/SymbolSearch#Result#RETURN_TYPEM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala (2r
+scala/meta/pc/SymbolSearch#CALLM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala (2y
+"scala/meta/pc/SymbolSearch#Result#CALLM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala (2Ç
++scala/meta/pc/SymbolSearch#Result#COMPLETE.CALLM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala ( ‹
+6scala/meta/internal/pc/EmptySymbolSearch.definition().METHODM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala ("
+endLine21"
+isVarfalse"@
+symbol6scala/meta/internal/pc/EmptySymbolSearch.definition()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayName
+definition"
+kindMETHOD"
+	startLine21"
+isValfalse"J
+uriCmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter6"
+isFinalfalse"
+LOC3*
+definition24
+(scala/meta/pc/SymbolSearch#definition().OVERRIDE2ö
+>scala/meta/internal/pc/EmptySymbolSearch.definition().(symbol)	PARAMETERM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala (2ö
+>scala/meta/internal/pc/EmptySymbolSearch.definition().(source)	PARAMETERM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala! ('2a
+
+java/util/CALLM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala/ (12m
+java/util/List#RETURN_TYPEM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala2 (62y
+org/eclipse/lsp4j/Location#RETURN_TYPEM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala7 (?2a
+
+java/util/CALLM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala (2m
+java/util/Collections#CALLM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala (2y
+"java/util/Collections#emptyList().CALLM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala (ª
+>scala/meta/internal/pc/EmptySymbolSearch.definition().(symbol)	PARAMETERM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala ("
+endLine21"
+isVarfalse"H
+symbol>scala/meta/internal/pc/EmptySymbolSearch.definition().(symbol)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamesymbol"
+kind	PARAMETER"
+	startLine21"
+isValfalse"J
+uriCmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter17"
+isFinalfalse*symbol2k
+scala/Predef.String#TYPEM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala (ÿ
+Mscala/meta/internal/pc/EmptySymbolSearch.definitionSourceToplevels().(symbol)	PARAMETERM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala ("
+endLine26"
+isVarfalse"W
+symbolMscala/meta/internal/pc/EmptySymbolSearch.definitionSourceToplevels().(symbol)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamesymbol"
+kind	PARAMETER"
+	startLine26"
+isValfalse"J
+uriCmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*symbol2k
+scala/Predef.String#TYPEM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala (Æ
+9scala/meta/internal/pc/EmptySymbolSearch.search().(query)	PARAMETERM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala ("
+endLine14"
+isVarfalse"C
+symbol9scala/meta/internal/pc/EmptySymbolSearch.search().(query)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamequery"
+kind	PARAMETER"
+	startLine14"
+isValfalse"J
+uriCmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter11"
+startCharacter6"
+isFinalfalse*query2k
+scala/Predef.String#TYPEM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala (¡
+Ascala/meta/internal/pc/EmptySymbolSearch.documentation().(symbol)	PARAMETERM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala   (#"
+endLine32"
+isVarfalse"K
+symbolAscala/meta/internal/pc/EmptySymbolSearch.documentation().(symbol)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamesymbol"
+kind	PARAMETER"
+	startLine32"
+isValfalse"J
+uriCmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter35"
+startCharacter29"
+isFinalfalse*symbol2k
+scala/Predef.String#TYPEM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala %  (+ê
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scalaFILE*Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scalaƒ
+;scala/meta/internal/pc/EmptySymbolSearch.search().(visitor)	PARAMETERM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala ("
+endLine16"
+isVarfalse"E
+symbol;scala/meta/internal/pc/EmptySymbolSearch.search().(visitor)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamevisitor"
+kind	PARAMETER"
+	startLine16"
+isValfalse"J
+uriCmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter6"
+isFinalfalse*visitor2y
+"scala/meta/pc/SymbolSearchVisitor#TYPEM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala ("¥
+>scala/meta/internal/pc/EmptySymbolSearch.definition().(source)	PARAMETERM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala! ('"
+endLine21"
+isVarfalse"H
+symbol>scala/meta/internal/pc/EmptySymbolSearch.definition().(source)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamesource"
+kind	PARAMETER"
+	startLine21"
+isValfalse"J
+uriCmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter39"
+startCharacter33"
+isFinalfalse*source2d
+java/net/URI#TYPEM
+Cmtags/src/main/scala/scala/meta/internal/pc/EmptySymbolSearch.scala) (,

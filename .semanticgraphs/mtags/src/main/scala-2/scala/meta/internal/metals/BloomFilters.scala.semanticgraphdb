@@ -1,0 +1,108 @@
+
+Dmtags/src/main/scala-2/scala/meta/internal/metals/BloomFilters.scalaÈ
+(scala/meta/internal/metals/BloomFilters.OBJECTN
+Dmtags/src/main/scala-2/scala/meta/internal/metals/BloomFilters.scala ("
+endLine7"
+isVarfalse"2
+symbol(scala/meta/internal/metals/BloomFilters."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameBloomFilters"
+kindOBJECT"
+	startLine7"
+isValfalse"K
+uriDmtags/src/main/scala-2/scala/meta/internal/metals/BloomFilters.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter7"
+isFinaltrue"
+LOC9*BloomFilters2ê
+1scala/meta/internal/metals/BloomFilters.create().DECLARATIONN
+Dmtags/src/main/scala-2/scala/meta/internal/metals/BloomFilters.scala (2
+scala/AnyRef#EXTEND•
+7scala/meta/internal/metals/BloomFilters.create().(size)	PARAMETERN
+Dmtags/src/main/scala-2/scala/meta/internal/metals/BloomFilters.scala ("
+endLine8"
+isVarfalse"A
+symbol7scala/meta/internal/metals/BloomFilters.create().(size)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamesize"
+kind	PARAMETER"
+	startLine8"
+isValfalse"K
+uriDmtags/src/main/scala-2/scala/meta/internal/metals/BloomFilters.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter13"
+isFinalfalse*size2c
+scala/Long#TYPEN
+Dmtags/src/main/scala-2/scala/meta/internal/metals/BloomFilters.scala (í
+Dmtags/src/main/scala-2/scala/meta/internal/metals/BloomFilters.scalaFILE*Dmtags/src/main/scala-2/scala/meta/internal/metals/BloomFilters.scalaí
+1scala/meta/internal/metals/BloomFilters.create().METHODN
+Dmtags/src/main/scala-2/scala/meta/internal/metals/BloomFilters.scala ("
+endLine8"
+isVarfalse";
+symbol1scala/meta/internal/metals/BloomFilters.create()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamecreate"
+kindMETHOD"
+	startLine8"
+isValfalse"K
+uriDmtags/src/main/scala-2/scala/meta/internal/metals/BloomFilters.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse"
+LOC7*create2î
+7scala/meta/internal/metals/BloomFilters.create().(size)	PARAMETERN
+Dmtags/src/main/scala-2/scala/meta/internal/metals/BloomFilters.scala (2Ç
+#com/google/common/hash/BloomFilter#RETURN_TYPEN
+Dmtags/src/main/scala-2/scala/meta/internal/metals/BloomFilters.scala (%2v
+java/lang/CharSequence#RETURN_TYPEN
+Dmtags/src/main/scala-2/scala/meta/internal/metals/BloomFilters.scala& (22z
+"java/nio/charset/StandardCharsets#CALLN
+Dmtags/src/main/scala-2/scala/meta/internal/metals/BloomFilters.scala
+ 
+(+2Ä
+(java/nio/charset/StandardCharsets#UTF_8.CALLN
+Dmtags/src/main/scala-2/scala/meta/internal/metals/BloomFilters.scala
+, 
+(12w
+com/google/common/hash/Funnels#CALLN
+Dmtags/src/main/scala-2/scala/meta/internal/metals/BloomFilters.scala
+ 
+(2Ü
+.com/google/common/hash/Funnels#stringFunnel().CALLN
+Dmtags/src/main/scala-2/scala/meta/internal/metals/BloomFilters.scala
+ 
+(2è
+7scala/meta/internal/metals/BloomFilters.create().(size)CALLN
+Dmtags/src/main/scala-2/scala/meta/internal/metals/BloomFilters.scala (!2]
+java/CALLN
+Dmtags/src/main/scala-2/scala/meta/internal/metals/BloomFilters.scala (
+2b
+
+java/lang/CALLN
+Dmtags/src/main/scala-2/scala/meta/internal/metals/BloomFilters.scala (2g
+java/lang/Long#CALLN
+Dmtags/src/main/scala-2/scala/meta/internal/metals/BloomFilters.scala (2s
+java/lang/Long#valueOf(+2).CALLN
+Dmtags/src/main/scala-2/scala/meta/internal/metals/BloomFilters.scala (2{
+#com/google/common/hash/BloomFilter#CALLN
+Dmtags/src/main/scala-2/scala/meta/internal/metals/BloomFilters.scala	 	(2Ü
+.com/google/common/hash/BloomFilter#create(+1).CALLN
+Dmtags/src/main/scala-2/scala/meta/internal/metals/BloomFilters.scala	 	(

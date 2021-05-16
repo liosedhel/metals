@@ -1,0 +1,272 @@
+
+7tests/input/src/main/scala/example/TypeParameters.scala±
+$example/TypeParameters#TypeAlias#[E]TYPE_PARAMETERA
+7tests/input/src/main/scala/example/TypeParameters.scala ("
+endLine6"
+isVarfalse".
+symbol$example/TypeParameters#TypeAlias#[E]"
+packageexample"
+accessEmpty"
+displayNameE"
+kindTYPE_PARAMETER"
+	startLine6"
+isValfalse">
+uri7tests/input/src/main/scala/example/TypeParameters.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter17"
+isFinalfalse*E2
+
+scala/Any#TYPE_PARAMETER2 
+scala/Nothing#TYPE_PARAMETERÁ
+,example/TypeParameters#AbstractTypeAlias#[D]TYPE_PARAMETERA
+7tests/input/src/main/scala/example/TypeParameters.scala ("
+endLine5"
+isVarfalse"6
+symbol,example/TypeParameters#AbstractTypeAlias#[D]"
+packageexample"
+accessEmpty"
+displayNameD"
+kindTYPE_PARAMETER"
+	startLine5"
+isValfalse">
+uri7tests/input/src/main/scala/example/TypeParameters.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter26"
+startCharacter25"
+isFinalfalse*D2
+
+scala/Any#TYPE_PARAMETER2 
+scala/Nothing#TYPE_PARAMETER¯
+#example/TypeParameters#method().[B]TYPE_PARAMETERA
+7tests/input/src/main/scala/example/TypeParameters.scala ("
+endLine3"
+isVarfalse"-
+symbol#example/TypeParameters#method().[B]"
+packageexample"
+accessEmpty"
+displayNameB"
+kindTYPE_PARAMETER"
+	startLine3"
+isValfalse">
+uri7tests/input/src/main/scala/example/TypeParameters.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter14"
+startCharacter13"
+isFinalfalse*B2
+
+scala/Any#TYPE_PARAMETER2 
+scala/Nothing#TYPE_PARAMETER¨
+&example/TypeParameters#TraitParameter#TRAITA
+7tests/input/src/main/scala/example/TypeParameters.scala ("
+endLine4"
+isVarfalse"0
+symbol&example/TypeParameters#TraitParameter#"
+packageexample"
+accessPublicAccess()"
+displayNameTraitParameter"
+kindTRAIT"
+	startLine4"
+isValfalse">
+uri7tests/input/src/main/scala/example/TypeParameters.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter8"
+isFinalfalse"
+LOC1*TraitParameter2
+scala/AnyRef#EXTEND2~
+)example/TypeParameters#TraitParameter#[C]TYPE_PARAMETERA
+7tests/input/src/main/scala/example/TypeParameters.scala (ú
+"example/TypeParameters#`<init>`().CONSTRUCTORA
+7tests/input/src/main/scala/example/TypeParameters.scala ("
+endLine2"
+isVarfalse",
+symbol"example/TypeParameters#`<init>`()."
+packageexample"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine2"
+isValfalse">
+uri7tests/input/src/main/scala/example/TypeParameters.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter24"
+startCharacter24"
+isFinalfalse*<init>x
+7tests/input/src/main/scala/example/TypeParameters.scalaFILE*7tests/input/src/main/scala/example/TypeParameters.scalaÒ
+)example/TypeParameters#AbstractTypeAlias#TYPEA
+7tests/input/src/main/scala/example/TypeParameters.scala ("
+endLine5"
+isVarfalse"3
+symbol)example/TypeParameters#AbstractTypeAlias#"
+packageexample"
+accessPublicAccess()" 
+displayNameAbstractTypeAlias"
+kindTYPE"
+	startLine5"
+isValfalse">
+uri7tests/input/src/main/scala/example/TypeParameters.scala"
+
+isAbstracttrue"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter24"
+startCharacter7"
+isFinalfalse*AbstractTypeAlias2
+
+scala/Any#TYPE_PARAMETER2 
+scala/Nothing#TYPE_PARAMETER2
+,example/TypeParameters#AbstractTypeAlias#[D]TYPE_PARAMETERA
+7tests/input/src/main/scala/example/TypeParameters.scala (
+example/TypeParameters#[A]TYPE_PARAMETERA
+7tests/input/src/main/scala/example/TypeParameters.scala ("
+endLine2"
+isVarfalse"$
+symbolexample/TypeParameters#[A]"
+packageexample"
+accessEmpty"
+displayNameA"
+kindTYPE_PARAMETER"
+	startLine2"
+isValfalse">
+uri7tests/input/src/main/scala/example/TypeParameters.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter21"
+isFinalfalse*A2
+
+scala/Any#TYPE_PARAMETER2 
+scala/Nothing#TYPE_PARAMETER
+ example/TypeParameters#method().METHODA
+7tests/input/src/main/scala/example/TypeParameters.scala ("
+endLine3"
+isVarfalse"*
+symbol example/TypeParameters#method()."
+packageexample"
+accessPublicAccess()"
+displayNamemethod"
+kindMETHOD"
+	startLine3"
+isValfalse">
+uri7tests/input/src/main/scala/example/TypeParameters.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse"
+LOC1*method2
+
+scala/Int#RETURN_TYPEÑ	
+example/TypeParameters#CLASSA
+7tests/input/src/main/scala/example/TypeParameters.scala ("
+endLine2"
+isVarfalse"!
+symbolexample/TypeParameters#"
+packageexample"
+accessPublicAccess()"
+displayNameTypeParameters"
+kindCLASS"
+	startLine2"
+isValfalse">
+uri7tests/input/src/main/scala/example/TypeParameters.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter6"
+isFinalfalse"
+LOC6*TypeParameters2t
+"example/TypeParameters#`<init>`().DECLARATIONA
+7tests/input/src/main/scala/example/TypeParameters.scala (2r
+ example/TypeParameters#method().DECLARATIONA
+7tests/input/src/main/scala/example/TypeParameters.scala (2x
+&example/TypeParameters#TraitParameter#DECLARATIONA
+7tests/input/src/main/scala/example/TypeParameters.scala (2o
+example/TypeParameters#[A]TYPE_PARAMETERA
+7tests/input/src/main/scala/example/TypeParameters.scala (2
+scala/AnyRef#EXTEND2{
+)example/TypeParameters#AbstractTypeAlias#DECLARATIONA
+7tests/input/src/main/scala/example/TypeParameters.scala (2s
+!example/TypeParameters#TypeAlias#DECLARATIONA
+7tests/input/src/main/scala/example/TypeParameters.scala (»
+)example/TypeParameters#TraitParameter#[C]TYPE_PARAMETERA
+7tests/input/src/main/scala/example/TypeParameters.scala ("
+endLine4"
+isVarfalse"3
+symbol)example/TypeParameters#TraitParameter#[C]"
+packageexample"
+accessEmpty"
+displayNameC"
+kindTYPE_PARAMETER"
+	startLine4"
+isValfalse">
+uri7tests/input/src/main/scala/example/TypeParameters.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter24"
+startCharacter23"
+isFinalfalse*C2
+
+scala/Any#TYPE_PARAMETER2 
+scala/Nothing#TYPE_PARAMETER‰
+!example/TypeParameters#TypeAlias#TYPEA
+7tests/input/src/main/scala/example/TypeParameters.scala ("
+endLine6"
+isVarfalse"+
+symbol!example/TypeParameters#TypeAlias#"
+packageexample"
+accessPublicAccess()"
+displayName	TypeAlias"
+kindTYPE"
+	startLine6"
+isValfalse">
+uri7tests/input/src/main/scala/example/TypeParameters.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter7"
+isFinalfalse*	TypeAlias2%
+scala/package.List#TYPE_PARAMETER2%
+scala/package.List#TYPE_PARAMETER2y
+$example/TypeParameters#TypeAlias#[E]TYPE_PARAMETERA
+7tests/input/src/main/scala/example/TypeParameters.scala (2^
+scala/package.List#TYPEA
+7tests/input/src/main/scala/example/TypeParameters.scala (2o
+$example/TypeParameters#TypeAlias#[E]TYPEA
+7tests/input/src/main/scala/example/TypeParameters.scala (

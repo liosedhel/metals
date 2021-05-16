@@ -1,0 +1,705 @@
+
+Fmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scalaÜ
+9scala/meta/internal/metals/NonZeroExitCode#equals().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"C
+symbol9scala/meta/internal/metals/NonZeroExitCode#equals().(x$1)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"M
+uriFmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Any#TYPE©
+:scala/meta/internal/metals/NonZeroExitCode.unapply().(x$0)	PARAMETER"
+endLine0"
+isVarfalse"D
+symbol:scala/meta/internal/metals/NonZeroExitCode.unapply().(x$0)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamex$0"
+kind	PARAMETER"
+	startLine0"
+isValfalse"M
+uriFmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$023
++scala/meta/internal/metals/NonZeroExitCode#TYPE˜
+5scala/meta/internal/metals/NonZeroExitCode.unapply().METHOD"
+endLine0"
+isVarfalse"?
+symbol5scala/meta/internal/metals/NonZeroExitCode.unapply()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameunapply"
+kindMETHOD"
+	startLine0"
+isValfalse"M
+uriFmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*unapply2G
+:scala/meta/internal/metals/NonZeroExitCode.unapply().(x$0)	PARAMETER2
+scala/Option#RETURN_TYPE2
+
+scala/Int#RETURN_TYPEñ
+Ascala/meta/internal/metals/NonZeroExitCode#productElement().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"K
+symbolAscala/meta/internal/metals/NonZeroExitCode#productElement().(x$1)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"M
+uriFmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Int#TYPEÕ
++scala/meta/internal/metals/NonZeroExitCode#CLASSP
+Fmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala ("
+endLine2"
+isVarfalse"5
+symbol+scala/meta/internal/metals/NonZeroExitCode#"%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameNonZeroExitCode"
+kindCLASS"
+	startLine2"
+isValfalse"M
+uriFmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter26"
+startCharacter11"
+isFinalfalse"
+LOC2*NonZeroExitCode2ó
+6scala/meta/internal/metals/NonZeroExitCode#statusCode.DECLARATIONP
+Fmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala (%2ó
+6scala/meta/internal/metals/NonZeroExitCode#`<init>`().DECLARATIONP
+Fmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala (2A
+2scala/meta/internal/metals/NonZeroExitCode#copy().DECLARATION2K
+<scala/meta/internal/metals/NonZeroExitCode#copy$default$1().DECLARATION2J
+;scala/meta/internal/metals/NonZeroExitCode#productPrefix().DECLARATION2I
+:scala/meta/internal/metals/NonZeroExitCode#productArity().DECLARATION2K
+<scala/meta/internal/metals/NonZeroExitCode#productElement().DECLARATION2L
+=scala/meta/internal/metals/NonZeroExitCode#productIterator().DECLARATION2E
+6scala/meta/internal/metals/NonZeroExitCode#canEqual().DECLARATION2E
+6scala/meta/internal/metals/NonZeroExitCode#hashCode().DECLARATION2C
+4scala/meta/internal/metals/NonZeroExitCode#equals().DECLARATION2
+scala/Product#EXTEND2
+scala/Serializable#EXTEND2t
+scala/package.Exception#EXTENDP
+Fmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala (2Ö
++scala/meta/internal/metals/NonZeroExitCode#CALLP
+Fmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala? (I®
+9scala/meta/internal/metals/NonZeroExitCode.readResolve().METHOD"
+endLine0"
+isVarfalse"C
+symbol9scala/meta/internal/metals/NonZeroExitCode.readResolve()."%
+packagescala.meta.internal.metals"
+accessPrivateAccess()"
+displayNamereadResolve"
+kindMETHOD"
+	startLine0"
+isValfalse"M
+uriFmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*readResolve2 
+java/lang/Object#RETURN_TYPEº
+6scala/meta/internal/metals/NonZeroExitCode#`<init>`().CONSTRUCTORP
+Fmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala ("
+endLine2"
+isVarfalse"@
+symbol6scala/meta/internal/metals/NonZeroExitCode#`<init>`()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine2"
+isValfalse"M
+uriFmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter26"
+startCharacter26"
+isFinalfalse*<init>2O
+Bscala/meta/internal/metals/NonZeroExitCode#`<init>`().(statusCode)	PARAMETER2ï
+6scala/meta/internal/metals/NonZeroExitCode#statusCode.	PARAMETERP
+Fmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala (%à
+6scala/meta/internal/metals/NonZeroExitCode#canEqual().METHOD"
+endLine0"
+isVarfalse"@
+symbol6scala/meta/internal/metals/NonZeroExitCode#canEqual()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamecanEqual"
+kindMETHOD"
+	startLine0"
+isValfalse"M
+uriFmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*canEqual2H
+;scala/meta/internal/metals/NonZeroExitCode#canEqual().(x$1)	PARAMETER2
+scala/Boolean#RETURN_TYPE2$
+scala/Equals#canEqual().OVERRIDEù
+3scala/meta/internal/metals/NonZeroExitCode.apply().METHOD"
+endLine0"
+isVarfalse"=
+symbol3scala/meta/internal/metals/NonZeroExitCode.apply()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameapply"
+kindMETHOD"
+	startLine0"
+isValfalse"M
+uriFmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply2L
+?scala/meta/internal/metals/NonZeroExitCode.apply().(statusCode)	PARAMETER2:
++scala/meta/internal/metals/NonZeroExitCode#RETURN_TYPE2$
+scala/Function1#apply().OVERRIDEä
+;scala/meta/internal/metals/NonZeroExitCode#canEqual().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"E
+symbol;scala/meta/internal/metals/NonZeroExitCode#canEqual().(x$1)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"M
+uriFmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Any#TYPE†
+?scala/meta/internal/metals/NonZeroExitCode.apply().(statusCode)	PARAMETER"
+endLine0"
+isVarfalse"I
+symbol?scala/meta/internal/metals/NonZeroExitCode.apply().(statusCode)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayName
+statusCode"
+kind	PARAMETER"
+	startLine0"
+isValfalse"M
+uriFmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*
+statusCode2
+
+scala/Int#TYPE≈
+Mlocal5:metals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal5"
+package "
+accessPublicAccess()"
+displayName	matchEnd4"
+kindMETHOD"
+	startLine0"
+isValfalse"M
+uriFmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*	matchEnd42\
+Olocal509:metals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala	PARAMETER2
+scala/Boolean#RETURN_TYPE•
+Bscala/meta/internal/metals/NonZeroExitCode#`<init>`().(statusCode)	PARAMETER"
+endLine0"
+isVarfalse"L
+symbolBscala/meta/internal/metals/NonZeroExitCode#`<init>`().(statusCode)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayName
+statusCode"
+kind	PARAMETER"
+	startLine0"
+isValtrue"M
+uriFmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*
+statusCode2
+
+scala/Int#TYPE≈
+4scala/meta/internal/metals/NonZeroExitCode#equals().METHOD"
+endLine0"
+isVarfalse">
+symbol4scala/meta/internal/metals/NonZeroExitCode#equals()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameequals"
+kindMETHOD"
+	startLine0"
+isValfalse"M
+uriFmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*equals2F
+9scala/meta/internal/metals/NonZeroExitCode#equals().(x$1)	PARAMETER2
+scala/Boolean#RETURN_TYPE2"
+scala/Equals#equals().OVERRIDE2&
+java/lang/Object#equals().OVERRIDE2
+scala/Any#equals().OVERRIDE¡
+Mlocal2:metals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal2"
+package "
+accessEmpty"
+displayNamex1"
+kindVALUE"
+	startLine0"
+isValtrue"M
+uriFmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x12
+
+scala/Any#TYPEê
+6scala/meta/internal/metals/NonZeroExitCode.toString().METHOD"
+endLine0"
+isVarfalse"@
+symbol6scala/meta/internal/metals/NonZeroExitCode.toString()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNametoString"
+kindMETHOD"
+	startLine0"
+isValfalse"M
+uriFmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinaltrue*toString2 
+java/lang/String#RETURN_TYPE2'
+scala/Function1#toString().OVERRIDE2(
+java/lang/Object#toString().OVERRIDE2!
+scala/Any#toString().OVERRIDEâ
+=scala/meta/internal/metals/NonZeroExitCode#productIterator().METHOD"
+endLine0"
+isVarfalse"G
+symbol=scala/meta/internal/metals/NonZeroExitCode#productIterator()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameproductIterator"
+kindMETHOD"
+	startLine0"
+isValfalse"M
+uriFmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productIterator2)
+scala/collection/Iterator#RETURN_TYPE2
+
+scala/Any#RETURN_TYPE2,
+ scala/Product#productIterator().OVERRIDEœ
+:scala/meta/internal/metals/NonZeroExitCode#productArity().METHOD"
+endLine0"
+isVarfalse"D
+symbol:scala/meta/internal/metals/NonZeroExitCode#productArity()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameproductArity"
+kindMETHOD"
+	startLine0"
+isValfalse"M
+uriFmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productArity2
+
+scala/Int#RETURN_TYPE2)
+scala/Product#productArity().OVERRIDE©
+<scala/meta/internal/metals/NonZeroExitCode#productElement().METHOD"
+endLine0"
+isVarfalse"F
+symbol<scala/meta/internal/metals/NonZeroExitCode#productElement()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameproductElement"
+kindMETHOD"
+	startLine0"
+isValfalse"M
+uriFmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productElement2N
+Ascala/meta/internal/metals/NonZeroExitCode#productElement().(x$1)	PARAMETER2
+
+scala/Any#RETURN_TYPE2+
+scala/Product#productElement().OVERRIDEÍ
+<scala/meta/internal/metals/NonZeroExitCode#copy$default$1().METHOD"
+endLine0"
+isVarfalse"F
+symbol<scala/meta/internal/metals/NonZeroExitCode#copy$default$1()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamecopy$default$1"
+kindMETHOD"
+	startLine0"
+isValfalse"M
+uriFmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$12<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+
+scala/Int#RETURN_TYPEﬂ
+Mlocal4:metals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal4"
+package "
+accessPublicAccess()"
+displayNamecase6"
+kindMETHOD"
+	startLine0"
+isValfalse"M
+uriFmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case62
+scala/Boolean#RETURN_TYPEñ
+Fmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scalaFILE*Fmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala…
+Mlocal1:metals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scalaVARIABLE"
+endLine0"
+isVartrue"
+symbollocal1"
+package "
+accessEmpty"
+displayNameacc"
+kindVARIABLE"
+	startLine0"
+isValfalse"M
+uriFmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*acc2
+
+scala/Int#TYPEﬂ
+Mlocal3:metals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal3"
+package "
+accessPublicAccess()"
+displayNamecase5"
+kindMETHOD"
+	startLine0"
+isValfalse"M
+uriFmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case52
+scala/Boolean#RETURN_TYPE·
+6scala/meta/internal/metals/NonZeroExitCode#hashCode().METHOD"
+endLine0"
+isVarfalse"@
+symbol6scala/meta/internal/metals/NonZeroExitCode#hashCode()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamehashCode"
+kindMETHOD"
+	startLine0"
+isValfalse"M
+uriFmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*hashCode2
+
+scala/Int#RETURN_TYPE2(
+java/lang/Object#hashCode().OVERRIDE2!
+scala/Any#hashCode().OVERRIDE¡
+Mlocal0:metals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal0"
+package "
+accessEmpty"
+displayNamex1"
+kindVALUE"
+	startLine0"
+isValtrue"M
+uriFmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x12
+
+scala/Int#TYPE¥
+6scala/meta/internal/metals/NonZeroExitCode#statusCode.VALUEP
+Fmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala (%"
+endLine2"
+isVarfalse"@
+symbol6scala/meta/internal/metals/NonZeroExitCode#statusCode."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName
+statusCode"
+kindVALUE"
+	startLine2"
+isValtrue"M
+uriFmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter37"
+startCharacter27"
+isFinalfalse*
+statusCode2d
+
+scala/Int#TYPEP
+Fmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala' (*Û
++scala/meta/internal/metals/NonZeroExitCode.OBJECTN
+Fmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala ("
+endLine0"
+isVarfalse"5
+symbol+scala/meta/internal/metals/NonZeroExitCode."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameNonZeroExitCode"
+kindOBJECT"
+	startLine0"
+isValfalse"M
+uriFmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinaltrue*NonZeroExitCode2E
+6scala/meta/internal/metals/NonZeroExitCode.toString().DECLARATION2B
+3scala/meta/internal/metals/NonZeroExitCode.apply().DECLARATION2D
+5scala/meta/internal/metals/NonZeroExitCode.unapply().DECLARATION2H
+9scala/meta/internal/metals/NonZeroExitCode.readResolve().DECLARATION2*
+ scala/runtime/AbstractFunction1#EXTEND2
+
+scala/Int#EXTEND25
++scala/meta/internal/metals/NonZeroExitCode#EXTEND2
+scala/Serializable#EXTENDÄ
+Mlocal6:metals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal6"
+package "
+accessEmpty" 
+displayNameNonZeroExitCode$1"
+kindVALUE"
+	startLine0"
+isValtrue"M
+uriFmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*NonZeroExitCode$123
++scala/meta/internal/metals/NonZeroExitCode#TYPE€
+;scala/meta/internal/metals/NonZeroExitCode#productPrefix().METHOD"
+endLine0"
+isVarfalse"E
+symbol;scala/meta/internal/metals/NonZeroExitCode#productPrefix()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameproductPrefix"
+kindMETHOD"
+	startLine0"
+isValfalse"M
+uriFmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productPrefix2 
+java/lang/String#RETURN_TYPE2*
+scala/Product#productPrefix().OVERRIDEû
+>scala/meta/internal/metals/NonZeroExitCode#copy().(statusCode)	PARAMETER"
+endLine0"
+isVarfalse"H
+symbol>scala/meta/internal/metals/NonZeroExitCode#copy().(statusCode)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayName
+statusCode"
+kind	PARAMETER"
+	startLine0"
+isValfalse"M
+uriFmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*
+statusCode2
+
+scala/Int#TYPEÚ
+2scala/meta/internal/metals/NonZeroExitCode#copy().METHOD"
+endLine0"
+isVarfalse"<
+symbol2scala/meta/internal/metals/NonZeroExitCode#copy()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamecopy"
+kindMETHOD"
+	startLine0"
+isValfalse"M
+uriFmetals/src/main/scala/scala/meta/internal/metals/NonZeroExitCode.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy2K
+>scala/meta/internal/metals/NonZeroExitCode#copy().(statusCode)	PARAMETER2:
++scala/meta/internal/metals/NonZeroExitCode#RETURN_TYPE

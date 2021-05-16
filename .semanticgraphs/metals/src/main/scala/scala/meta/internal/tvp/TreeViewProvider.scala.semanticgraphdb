@@ -1,0 +1,646 @@
+
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scalaû
+Iscala/meta/internal/tvp/TreeViewProvider#onVisibilityDidChange().(params)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala ("
+endLine28"
+isVarfalse"S
+symbolIscala/meta/internal/tvp/TreeViewProvider#onVisibilityDidChange().(params)""
+packagescala.meta.internal.tvp"
+accessEmpty"
+displayNameparams"
+kind	PARAMETER"
+	startLine28"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*params2’
+:scala/meta/internal/tvp/TreeViewVisibilityDidChangeParams#TYPEN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala (/œ
+Cscala/meta/internal/tvp/TreeViewProvider#onBuildTargetDidCompile().METHODN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala ("
+endLine30"
+isVarfalse"M
+symbolCscala/meta/internal/tvp/TreeViewProvider#onBuildTargetDidCompile().""
+packagescala.meta.internal.tvp"
+accessPublicAccess()"&
+displayNameonBuildTargetDidCompile"
+kindMETHOD"
+	startLine30"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter29"
+startCharacter6"
+isFinalfalse"
+LOC3*onBuildTargetDidCompile2¤
+Gscala/meta/internal/tvp/TreeViewProvider#onBuildTargetDidCompile().(id)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala (2j
+scala/Unit#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala   (	Ó
+1scala/meta/internal/tvp/TreeViewProvider.Project.VALUEN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala$ $("
+endLine36"
+isVarfalse";
+symbol1scala/meta/internal/tvp/TreeViewProvider.Project.""
+packagescala.meta.internal.tvp"
+accessPublicAccess()"
+displayNameProject"
+kindVALUE"
+	startLine36"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter6"
+isFinalfalse*Project2
+java/lang/String#TYPEù
+Gscala/meta/internal/tvp/TreeViewProvider#onCollapseDidChange().(params)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala ("
+endLine22"
+isVarfalse"Q
+symbolGscala/meta/internal/tvp/TreeViewProvider#onCollapseDidChange().(params)""
+packagescala.meta.internal.tvp"
+accessEmpty"
+displayNameparams"
+kind	PARAMETER"
+	startLine22"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*params2”
+<scala/meta/internal/tvp/TreeViewNodeCollapseDidChangeParams#TYPEN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala (1Œ
+?scala/meta/internal/tvp/TreeViewProvider#onCollapseDidChange().METHODN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala ("
+endLine21"
+isVarfalse"I
+symbol?scala/meta/internal/tvp/TreeViewProvider#onCollapseDidChange().""
+packagescala.meta.internal.tvp"
+accessPublicAccess()""
+displayNameonCollapseDidChange"
+kindMETHOD"
+	startLine21"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter25"
+startCharacter6"
+isFinalfalse"
+LOC3*onCollapseDidChange2¤
+Gscala/meta/internal/tvp/TreeViewProvider#onCollapseDidChange().(params)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala (2j
+scala/Unit#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala (	©
+0scala/meta/internal/tvp/TreeViewProvider#init().METHODN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala (
+"
+endLine12"
+isVarfalse":
+symbol0scala/meta/internal/tvp/TreeViewProvider#init().""
+packagescala.meta.internal.tvp"
+accessPublicAccess()"
+displayNameinit"
+kindMETHOD"
+	startLine12"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter6"
+isFinalfalse"
+LOC1*init2j
+scala/Unit#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala (’
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scalaFILE*Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scalaÓ
+1scala/meta/internal/tvp/TreeViewProvider#Compile.VALUEN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala ("
+endLine11"
+isVarfalse";
+symbol1scala/meta/internal/tvp/TreeViewProvider#Compile.""
+packagescala.meta.internal.tvp"
+accessPublicAccess()"
+displayNameCompile"
+kindVALUE"
+	startLine11"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter6"
+isFinalfalse*Compile2
+java/lang/String#TYPEÐ
+:scala/meta/internal/tvp/TreeViewProvider#parent().(params)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala ("
+endLine25"
+isVarfalse"D
+symbol:scala/meta/internal/tvp/TreeViewProvider#parent().(params)""
+packagescala.meta.internal.tvp"
+accessEmpty"
+displayNameparams"
+kind	PARAMETER"
+	startLine25"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*params2…
+-scala/meta/internal/tvp/TreeViewParentParams#TYPEN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala ("ö
+2scala/meta/internal/tvp/TreeViewProvider#parent().METHODN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala ("
+endLine24"
+isVarfalse"<
+symbol2scala/meta/internal/tvp/TreeViewProvider#parent().""
+packagescala.meta.internal.tvp"
+accessPublicAccess()"
+displayNameparent"
+kindMETHOD"
+	startLine24"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse"
+LOC3*parent2—
+:scala/meta/internal/tvp/TreeViewProvider#parent().(params)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala (2Œ
+-scala/meta/internal/tvp/TreeViewParentResult#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala (2…
+-scala/meta/internal/tvp/TreeViewParentResult.CALLN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala (0«
+)scala/meta/internal/tvp/TreeViewProvider#TRAITN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala ("
+endLine7"
+isVarfalse"3
+symbol)scala/meta/internal/tvp/TreeViewProvider#""
+packagescala.meta.internal.tvp"
+accessPublicAccess()"
+displayNameTreeViewProvider"
+kindTRAIT"
+	startLine7"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter6"
+isFinalfalse"	
+LOC27*TreeViewProvider2
+0scala/meta/internal/tvp/TreeViewProvider#init().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala (
+2
+1scala/meta/internal/tvp/TreeViewProvider#reset().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala (2“
+4scala/meta/internal/tvp/TreeViewProvider#children().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala (2‘
+2scala/meta/internal/tvp/TreeViewProvider#reveal().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala (2ž
+?scala/meta/internal/tvp/TreeViewProvider#onCollapseDidChange().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala (2‘
+2scala/meta/internal/tvp/TreeViewProvider#parent().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala (2 
+Ascala/meta/internal/tvp/TreeViewProvider#onVisibilityDidChange().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala (2¢
+Cscala/meta/internal/tvp/TreeViewProvider#onBuildTargetDidCompile().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala (2
+scala/AnyRef#EXTEND2
+1scala/meta/internal/tvp/TreeViewProvider#Project.DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala (2
+)scala/meta/internal/tvp/TreeViewProvider.CALLN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala ( 2‰
+1scala/meta/internal/tvp/TreeViewProvider.Project.CALLN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala! ((2Ž
+/scala/meta/internal/tvp/TreeViewProvider#Build.DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala	 	(2
+)scala/meta/internal/tvp/TreeViewProvider.CALLN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala	 	(2‡
+/scala/meta/internal/tvp/TreeViewProvider.Build.CALLN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala	 	($2
+.scala/meta/internal/tvp/TreeViewProvider#Help.DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala
+ 
+(
+2
+)scala/meta/internal/tvp/TreeViewProvider.CALLN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala
+ 
+(2†
+.scala/meta/internal/tvp/TreeViewProvider.Help.CALLN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala
+ 
+("2
+1scala/meta/internal/tvp/TreeViewProvider#Compile.DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala (2
+)scala/meta/internal/tvp/TreeViewProvider.CALLN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala ( 2‰
+1scala/meta/internal/tvp/TreeViewProvider.Compile.CALLN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala! ((Þ
+Gscala/meta/internal/tvp/TreeViewProvider#onBuildTargetDidCompile().(id)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala ("
+endLine31"
+isVarfalse"Q
+symbolGscala/meta/internal/tvp/TreeViewProvider#onBuildTargetDidCompile().(id)""
+packagescala.meta.internal.tvp"
+accessEmpty"
+displayNameid"
+kind	PARAMETER"
+	startLine31"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter8"
+startCharacter6"
+isFinalfalse*id2‚
+*ch/epfl/scala/bsp4j/BuildTargetIdentifier#TYPEN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala
+ (ä	
+4scala/meta/internal/tvp/TreeViewProvider#children().METHODN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala ("
+endLine14"
+isVarfalse">
+symbol4scala/meta/internal/tvp/TreeViewProvider#children().""
+packagescala.meta.internal.tvp"
+accessPublicAccess()"
+displayNamechildren"
+kindMETHOD"
+	startLine14"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter14"
+startCharacter6"
+isFinalfalse"
+LOC3*children2™
+<scala/meta/internal/tvp/TreeViewProvider#children().(params)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala (2”
+5scala/meta/internal/tvp/MetalsTreeViewChildrenResult#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala (!2d
+scala/Array.CALLN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scalaA (F2l
+scala/Array.empty().CALLN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scalaG (L2
+5scala/meta/internal/tvp/MetalsTreeViewChildrenResult.CALLN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala$ (@µ
+8scala/meta/internal/tvp/TreeViewProvider#reveal().(path)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala (
+"
+endLine18"
+isVarfalse"B
+symbol8scala/meta/internal/tvp/TreeViewProvider#reveal().(path)""
+packagescala.meta.internal.tvp"
+accessEmpty"
+displayNamepath"
+kind	PARAMETER"
+	startLine18"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter6"
+isFinalfalse*path2s
+scala/meta/io/AbsolutePath#TYPEN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala (¦	
+)scala/meta/internal/tvp/TreeViewProvider.OBJECTN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala# #("
+endLine35"
+isVarfalse"3
+symbol)scala/meta/internal/tvp/TreeViewProvider.""
+packagescala.meta.internal.tvp"
+accessPublicAccess()"
+displayNameTreeViewProvider"
+kindOBJECT"
+	startLine35"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter7"
+isFinaltrue"
+LOC6*TreeViewProvider2
+scala/AnyRef#EXTEND2
+1scala/meta/internal/tvp/TreeViewProvider.Project.DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala$ $(2Ž
+/scala/meta/internal/tvp/TreeViewProvider.Build.DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala% %(2
+1scala/meta/internal/tvp/TreeViewProvider.Compile.DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala& &(2
+.scala/meta/internal/tvp/TreeViewProvider.Help.DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala' '(
+Ó
+1scala/meta/internal/tvp/TreeViewProvider.Compile.VALUEN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala& &("
+endLine38"
+isVarfalse";
+symbol1scala/meta/internal/tvp/TreeViewProvider.Compile.""
+packagescala.meta.internal.tvp"
+accessPublicAccess()"
+displayNameCompile"
+kindVALUE"
+	startLine38"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter6"
+isFinalfalse*Compile2
+java/lang/String#TYPEÇ
+.scala/meta/internal/tvp/TreeViewProvider.Help.VALUEN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala' '(
+"
+endLine39"
+isVarfalse"8
+symbol.scala/meta/internal/tvp/TreeViewProvider.Help.""
+packagescala.meta.internal.tvp"
+accessPublicAccess()"
+displayNameHelp"
+kindVALUE"
+	startLine39"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter6"
+isFinalfalse*Help2
+java/lang/String#TYPE­
+1scala/meta/internal/tvp/TreeViewProvider#reset().METHODN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala ("
+endLine13"
+isVarfalse";
+symbol1scala/meta/internal/tvp/TreeViewProvider#reset().""
+packagescala.meta.internal.tvp"
+accessPublicAccess()"
+displayNamereset"
+kindMETHOD"
+	startLine13"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter11"
+startCharacter6"
+isFinalfalse"
+LOC1*reset2j
+scala/Unit#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala (Ç
+.scala/meta/internal/tvp/TreeViewProvider#Help.VALUEN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala
+ 
+(
+"
+endLine10"
+isVarfalse"8
+symbol.scala/meta/internal/tvp/TreeViewProvider#Help.""
+packagescala.meta.internal.tvp"
+accessPublicAccess()"
+displayNameHelp"
+kindVALUE"
+	startLine10"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter6"
+isFinalfalse*Help2
+java/lang/String#TYPEœ
+7scala/meta/internal/tvp/TreeViewProvider#reveal().(pos)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala (	"
+endLine19"
+isVarfalse"A
+symbol7scala/meta/internal/tvp/TreeViewProvider#reveal().(pos)""
+packagescala.meta.internal.tvp"
+accessEmpty"
+displayNamepos"
+kind	PARAMETER"
+	startLine19"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter9"
+startCharacter6"
+isFinalfalse*pos2j
+org/eclipse/lsp4j/CALLN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala (2s
+org/eclipse/lsp4j/Position#TYPEN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala (Ö
+<scala/meta/internal/tvp/TreeViewProvider#children().(params)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala ("
+endLine15"
+isVarfalse"F
+symbol<scala/meta/internal/tvp/TreeViewProvider#children().(params)""
+packagescala.meta.internal.tvp"
+accessEmpty"
+displayNameparams"
+kind	PARAMETER"
+	startLine15"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*params2‡
+/scala/meta/internal/tvp/TreeViewChildrenParams#TYPEN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala ($Ñ
+1scala/meta/internal/tvp/TreeViewProvider#Project.VALUEN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala ("
+endLine8"
+isVarfalse";
+symbol1scala/meta/internal/tvp/TreeViewProvider#Project.""
+packagescala.meta.internal.tvp"
+accessPublicAccess()"
+displayNameProject"
+kindVALUE"
+	startLine8"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter6"
+isFinalfalse*Project2
+java/lang/String#TYPEÉ
+/scala/meta/internal/tvp/TreeViewProvider#Build.VALUEN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala	 	("
+endLine9"
+isVarfalse"9
+symbol/scala/meta/internal/tvp/TreeViewProvider#Build.""
+packagescala.meta.internal.tvp"
+accessPublicAccess()"
+displayNameBuild"
+kindVALUE"
+	startLine9"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter11"
+startCharacter6"
+isFinalfalse*Build2
+java/lang/String#TYPEË
+/scala/meta/internal/tvp/TreeViewProvider.Build.VALUEN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala% %("
+endLine37"
+isVarfalse"9
+symbol/scala/meta/internal/tvp/TreeViewProvider.Build.""
+packagescala.meta.internal.tvp"
+accessPublicAccess()"
+displayNameBuild"
+kindVALUE"
+	startLine37"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter11"
+startCharacter6"
+isFinalfalse*Build2
+java/lang/String#TYPEÚ	
+2scala/meta/internal/tvp/TreeViewProvider#reveal().METHODN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala ("
+endLine17"
+isVarfalse"<
+symbol2scala/meta/internal/tvp/TreeViewProvider#reveal().""
+packagescala.meta.internal.tvp"
+accessPublicAccess()"
+displayNamereveal"
+kindMETHOD"
+	startLine17"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse"
+LOC4*reveal2•
+8scala/meta/internal/tvp/TreeViewProvider#reveal().(path)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala (
+2”
+7scala/meta/internal/tvp/TreeViewProvider#reveal().(pos)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala (	2l
+scala/Option#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala (2
+1scala/meta/internal/tvp/TreeViewNodeRevealResult#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala ($2c
+scala/None.CALLN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala( (,–
+Ascala/meta/internal/tvp/TreeViewProvider#onVisibilityDidChange().METHODN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala ("
+endLine27"
+isVarfalse"K
+symbolAscala/meta/internal/tvp/TreeViewProvider#onVisibilityDidChange().""
+packagescala.meta.internal.tvp"
+accessPublicAccess()"$
+displayNameonVisibilityDidChange"
+kindMETHOD"
+	startLine27"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter27"
+startCharacter6"
+isFinalfalse"
+LOC3*onVisibilityDidChange2¦
+Iscala/meta/internal/tvp/TreeViewProvider#onVisibilityDidChange().(params)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala (2j
+scala/Unit#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/tvp/TreeViewProvider.scala (	

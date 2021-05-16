@@ -1,0 +1,778 @@
+
+Amtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scalaΩ
+4scala/meta/internal/mtags/IndexError#productArity().METHOD"
+endLine0"
+isVarfalse">
+symbol4scala/meta/internal/mtags/IndexError#productArity()."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayNameproductArity"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productArity2
+
+scala/Int#RETURN_TYPE2)
+scala/Product#productArity().OVERRIDEê
+,scala/meta/internal/mtags/IndexError#copy().METHOD"
+endLine0"
+isVarfalse"6
+symbol,scala/meta/internal/mtags/IndexError#copy()."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayNamecopy"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy2?
+2scala/meta/internal/mtags/IndexError#copy().(file)	PARAMETER2@
+3scala/meta/internal/mtags/IndexError#copy().(cause)	PARAMETER24
+%scala/meta/internal/mtags/IndexError#RETURN_TYPEÊ
+6scala/meta/internal/mtags/IndexError#copy$default$2().METHOD"
+endLine0"
+isVarfalse"@
+symbol6scala/meta/internal/mtags/IndexError#copy$default$2()."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayNamecopy$default$2"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$22<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2'
+scala/package.Throwable#RETURN_TYPE∑
+/scala/meta/internal/mtags/IndexError.unapply().METHOD"
+endLine0"
+isVarfalse"9
+symbol/scala/meta/internal/mtags/IndexError.unapply()."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayNameunapply"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*unapply2A
+4scala/meta/internal/mtags/IndexError.unapply().(x$0)	PARAMETER2
+scala/Option#RETURN_TYPE2
+scala/Tuple2#RETURN_TYPE2*
+scala/meta/io/AbsolutePath#RETURN_TYPE2'
+scala/package.Throwable#RETURN_TYPE≠
+.scala/meta/internal/mtags/IndexError#equals().METHOD"
+endLine0"
+isVarfalse"8
+symbol.scala/meta/internal/mtags/IndexError#equals()."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayNameequals"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*equals2@
+3scala/meta/internal/mtags/IndexError#equals().(x$1)	PARAMETER2
+scala/Boolean#RETURN_TYPE2"
+scala/Equals#equals().OVERRIDE2&
+java/lang/Object#equals().OVERRIDE2
+scala/Any#equals().OVERRIDEà
+4scala/meta/internal/mtags/IndexError.apply().(cause)	PARAMETER"
+endLine0"
+isVarfalse">
+symbol4scala/meta/internal/mtags/IndexError.apply().(cause)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNamecause"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*cause2 
+scala/package.Throwable#TYPEë
+*scala/meta/internal/mtags/IndexError#file.VALUEK
+Amtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala ("
+endLine6"
+isVarfalse"4
+symbol*scala/meta/internal/mtags/IndexError#file."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayNamefile"
+kindVALUE"
+	startLine6"
+isValtrue"H
+uriAmtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter26"
+startCharacter22"
+isFinalfalse*file2p
+scala/meta/io/AbsolutePath#TYPEK
+Amtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala ((ë
+4scala/meta/internal/mtags/IndexError.unapply().(x$0)	PARAMETER"
+endLine0"
+isVarfalse">
+symbol4scala/meta/internal/mtags/IndexError.unapply().(x$0)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNamex$0"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$02-
+%scala/meta/internal/mtags/IndexError#TYPE‹
+7scala/meta/internal/mtags/IndexError#`<init>`().(cause)	PARAMETERK
+Amtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala+ (0"
+endLine7"
+isVarfalse"A
+symbol7scala/meta/internal/mtags/IndexError#`<init>`().(cause)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNamecause"
+kind	PARAMETER"
+	startLine7"
+isValtrue"H
+uriAmtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter48"
+startCharacter43"
+isFinalfalse*cause2 
+scala/package.Throwable#TYPE…
+5scala/meta/internal/mtags/IndexError#productPrefix().METHOD"
+endLine0"
+isVarfalse"?
+symbol5scala/meta/internal/mtags/IndexError#productPrefix()."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayNameproductPrefix"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productPrefix2 
+java/lang/String#RETURN_TYPE2*
+scala/Product#productPrefix().OVERRIDE
+0scala/meta/internal/mtags/IndexError#canEqual().METHOD"
+endLine0"
+isVarfalse":
+symbol0scala/meta/internal/mtags/IndexError#canEqual()."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayNamecanEqual"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*canEqual2B
+5scala/meta/internal/mtags/IndexError#canEqual().(x$1)	PARAMETER2
+scala/Boolean#RETURN_TYPE2$
+scala/Equals#canEqual().OVERRIDE˛
+0scala/meta/internal/mtags/IndexError.toString().METHOD"
+endLine0"
+isVarfalse":
+symbol0scala/meta/internal/mtags/IndexError.toString()."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayNametoString"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinaltrue*toString2 
+java/lang/String#RETURN_TYPE2'
+scala/Function2#toString().OVERRIDE2(
+java/lang/Object#toString().OVERRIDE2!
+scala/Any#toString().OVERRIDEº
+-scala/meta/internal/mtags/IndexError.apply().METHOD"
+endLine0"
+isVarfalse"7
+symbol-scala/meta/internal/mtags/IndexError.apply()."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayNameapply"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply2@
+3scala/meta/internal/mtags/IndexError.apply().(file)	PARAMETER2A
+4scala/meta/internal/mtags/IndexError.apply().(cause)	PARAMETER24
+%scala/meta/internal/mtags/IndexError#RETURN_TYPE2$
+scala/Function2#apply().OVERRIDEÜ
+3scala/meta/internal/mtags/IndexError#copy().(cause)	PARAMETER"
+endLine0"
+isVarfalse"=
+symbol3scala/meta/internal/mtags/IndexError#copy().(cause)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNamecause"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*cause2 
+scala/package.Throwable#TYPE∂
+Hlocal3:mtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal3"
+package "
+accessPublicAccess()"
+displayName	matchEnd4"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*	matchEnd42W
+Jlocal146:mtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala	PARAMETER2
+scala/Boolean#RETURN_TYPEÊ
+Hlocal4:mtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal4"
+package "
+accessEmpty"
+displayNameIndexError$1"
+kindVALUE"
+	startLine0"
+isValtrue"H
+uriAmtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*IndexError$12-
+%scala/meta/internal/mtags/IndexError#TYPEá
+3scala/meta/internal/mtags/IndexError.apply().(file)	PARAMETER"
+endLine0"
+isVarfalse"=
+symbol3scala/meta/internal/mtags/IndexError.apply().(file)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNamefile"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*file2#
+scala/meta/io/AbsolutePath#TYPEÑ
+;scala/meta/internal/mtags/IndexError#productElement().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"E
+symbol;scala/meta/internal/mtags/IndexError#productElement().(x$1)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Int#TYPEë
+6scala/meta/internal/mtags/IndexError#productElement().METHOD"
+endLine0"
+isVarfalse"@
+symbol6scala/meta/internal/mtags/IndexError#productElement()."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayNameproductElement"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productElement2H
+;scala/meta/internal/mtags/IndexError#productElement().(x$1)	PARAMETER2
+
+scala/Any#RETURN_TYPE2+
+scala/Product#productElement().OVERRIDE’
+Hlocal2:mtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal2"
+package "
+accessPublicAccess()"
+displayNamecase6"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case62
+scala/Boolean#RETURN_TYPE’
+Hlocal1:mtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal1"
+package "
+accessPublicAccess()"
+displayNamecase5"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case52
+scala/Boolean#RETURN_TYPE∑
+Hlocal0:mtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal0"
+package "
+accessEmpty"
+displayNamex1"
+kindVALUE"
+	startLine0"
+isValtrue"H
+uriAmtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x12
+
+scala/Any#TYPEÖ
+2scala/meta/internal/mtags/IndexError#copy().(file)	PARAMETER"
+endLine0"
+isVarfalse"<
+symbol2scala/meta/internal/mtags/IndexError#copy().(file)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNamefile"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*file2#
+scala/meta/io/AbsolutePath#TYPEÚ
+0scala/meta/internal/mtags/IndexError#`<init>`().CONSTRUCTORK
+Amtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala ("
+endLine6"
+isVarfalse":
+symbol0scala/meta/internal/mtags/IndexError#`<init>`()."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine6"
+isValfalse"H
+uriAmtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter21"
+isFinalfalse*<init>2ê
+6scala/meta/internal/mtags/IndexError#`<init>`().(file)	PARAMETERK
+Amtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala (2ë
+7scala/meta/internal/mtags/IndexError#`<init>`().(cause)	PARAMETERK
+Amtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala+ (02Ñ
+*scala/meta/internal/mtags/IndexError#file.	PARAMETERK
+Amtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala (2Ö
++scala/meta/internal/mtags/IndexError#cause.	PARAMETERK
+Amtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala* (/¯
+5scala/meta/internal/mtags/IndexError#canEqual().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"?
+symbol5scala/meta/internal/mtags/IndexError#canEqual().(x$1)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Any#TYPEí
++scala/meta/internal/mtags/IndexError#cause.VALUEK
+Amtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala* (/"
+endLine6"
+isVarfalse"5
+symbol+scala/meta/internal/mtags/IndexError#cause."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayNamecause"
+kindVALUE"
+	startLine6"
+isValtrue"H
+uriAmtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter47"
+startCharacter42"
+isFinalfalse*cause2m
+scala/package.Throwable#TYPEK
+Amtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala1 (:Ù
+3scala/meta/internal/mtags/IndexError#equals().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"=
+symbol3scala/meta/internal/mtags/IndexError#equals().(x$1)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Any#TYPEÈ
+%scala/meta/internal/mtags/IndexError.OBJECTI
+Amtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala ("
+endLine0"
+isVarfalse"/
+symbol%scala/meta/internal/mtags/IndexError."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayName
+IndexError"
+kindOBJECT"
+	startLine0"
+isValfalse"H
+uriAmtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinaltrue*
+IndexError2?
+0scala/meta/internal/mtags/IndexError.toString().DECLARATION2<
+-scala/meta/internal/mtags/IndexError.apply().DECLARATION2>
+/scala/meta/internal/mtags/IndexError.unapply().DECLARATION2B
+3scala/meta/internal/mtags/IndexError.readResolve().DECLARATION2*
+ scala/runtime/AbstractFunction2#EXTEND2%
+scala/meta/io/AbsolutePath#EXTEND2"
+scala/package.Throwable#EXTEND2/
+%scala/meta/internal/mtags/IndexError#EXTEND2
+scala/Serializable#EXTENDå
+Amtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scalaFILE*Amtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scalaœ
+0scala/meta/internal/mtags/IndexError#hashCode().METHOD"
+endLine0"
+isVarfalse":
+symbol0scala/meta/internal/mtags/IndexError#hashCode()."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayNamehashCode"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*hashCode2
+
+scala/Int#RETURN_TYPE2(
+java/lang/Object#hashCode().OVERRIDE2!
+scala/Any#hashCode().OVERRIDEÈ
+6scala/meta/internal/mtags/IndexError#copy$default$1().METHOD"
+endLine0"
+isVarfalse"@
+symbol6scala/meta/internal/mtags/IndexError#copy$default$1()."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayNamecopy$default$1"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$12<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2*
+scala/meta/io/AbsolutePath#RETURN_TYPE€
+6scala/meta/internal/mtags/IndexError#`<init>`().(file)	PARAMETERK
+Amtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala ("
+endLine7"
+isVarfalse"@
+symbol6scala/meta/internal/mtags/IndexError#`<init>`().(file)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNamefile"
+kind	PARAMETER"
+	startLine7"
+isValtrue"H
+uriAmtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter26"
+startCharacter22"
+isFinalfalse*file2#
+scala/meta/io/AbsolutePath#TYPEñ
+3scala/meta/internal/mtags/IndexError.readResolve().METHOD"
+endLine0"
+isVarfalse"=
+symbol3scala/meta/internal/mtags/IndexError.readResolve()."$
+packagescala.meta.internal.mtags"
+accessPrivateAccess()"
+displayNamereadResolve"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*readResolve2 
+java/lang/Object#RETURN_TYPEù
+%scala/meta/internal/mtags/IndexError#CLASSK
+Amtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala ("
+endLine6"
+isVarfalse"/
+symbol%scala/meta/internal/mtags/IndexError#"$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayName
+IndexError"
+kindCLASS"
+	startLine6"
+isValfalse"H
+uriAmtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter11"
+isFinalfalse"
+LOC3*
+IndexError2Ü
+*scala/meta/internal/mtags/IndexError#file.DECLARATIONK
+Amtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala (2á
++scala/meta/internal/mtags/IndexError#cause.DECLARATIONK
+Amtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala* (/2å
+0scala/meta/internal/mtags/IndexError#`<init>`().DECLARATIONK
+Amtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala (2;
+,scala/meta/internal/mtags/IndexError#copy().DECLARATION2E
+6scala/meta/internal/mtags/IndexError#copy$default$1().DECLARATION2E
+6scala/meta/internal/mtags/IndexError#copy$default$2().DECLARATION2D
+5scala/meta/internal/mtags/IndexError#productPrefix().DECLARATION2C
+4scala/meta/internal/mtags/IndexError#productArity().DECLARATION2E
+6scala/meta/internal/mtags/IndexError#productElement().DECLARATION2F
+7scala/meta/internal/mtags/IndexError#productIterator().DECLARATION2?
+0scala/meta/internal/mtags/IndexError#canEqual().DECLARATION2?
+0scala/meta/internal/mtags/IndexError#hashCode().DECLARATION2=
+.scala/meta/internal/mtags/IndexError#equals().DECLARATION2
+scala/Product#EXTEND2
+scala/Serializable#EXTEND2o
+scala/package.Exception#EXTENDK
+Amtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala (2ã
+6scala/meta/internal/mtags/IndexError#`<init>`().(file)CALLK
+Amtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala (2x
+#scala/meta/io/AbsolutePath#toURI().CALLK
+Amtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala ( 2m
+java/net/URI#toString().CALLK
+Amtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala! ()2å
+7scala/meta/internal/mtags/IndexError#`<init>`().(cause)CALLK
+Amtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala+ (02w
+ scala/util/control/NoStackTrace#EXTENDK
+Amtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala	 (˜
+7scala/meta/internal/mtags/IndexError#productIterator().METHOD"
+endLine0"
+isVarfalse"A
+symbol7scala/meta/internal/mtags/IndexError#productIterator()."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayNameproductIterator"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmtags/src/main/scala-2/scala/meta/internal/mtags/IndexError.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productIterator2)
+scala/collection/Iterator#RETURN_TYPE2
+
+scala/Any#RETURN_TYPE2,
+ scala/Product#productIterator().OVERRIDE

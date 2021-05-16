@@ -1,0 +1,1795 @@
+
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaã
+;scala/meta/internal/metals/ScalaVersions.scalaVersionRegex.VALUEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalad d("
+endLine100"
+isVarfalse"E
+symbol;scala/meta/internal/metals/ScalaVersions.scalaVersionRegex."%
+packagescala.meta.internal.metals"
+accessPrivateAccess()" 
+displayNamescalaVersionRegex"
+kindVALUE"
+	startLine100"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter31"
+startCharacter14"
+isFinalfalse*scalaVersionRegex2"
+scala/util/matching/Regex#TYPE√+
+)scala/meta/internal/metals/ScalaVersions.OBJECTN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala ("
+endLine7"
+isVarfalse"3
+symbol)scala/meta/internal/metals/ScalaVersions."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameScalaVersions"
+kindOBJECT"
+	startLine7"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter7"
+isFinaltrue"
+
+LOC131*ScalaVersions2ú
+=scala/meta/internal/metals/ScalaVersions.isScala3Milestone().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala	 	(2õ
+<scala/meta/internal/metals/ScalaVersions.dropVendorSuffix().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala (2¢
+Cscala/meta/internal/metals/ScalaVersions.isSupportedScalaVersion().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala (2£
+Dscala/meta/internal/metals/ScalaVersions.isDeprecatedScalaVersion().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala (2®
+Iscala/meta/internal/metals/ScalaVersions.isSupportedScalaBinaryVersion().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala (#2ö
+;scala/meta/internal/metals/ScalaVersions.isScala3Version().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala" "(2¢
+Cscala/meta/internal/metals/ScalaVersions.supportedScala3Versions().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala% %(2°
+Bscala/meta/internal/metals/ScalaVersions.latestBinaryVersionFor().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala+ +(2ù
+>scala/meta/internal/metals/ScalaVersions.recommendedVersion().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala3 3(2ö
+;scala/meta/internal/metals/ScalaVersions.isFutureVersion().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala= =(2®
+Iscala/meta/internal/metals/ScalaVersions.isCurrentScalaCompilerVersion().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaM M(#2¨
+Mscala/meta/internal/metals/ScalaVersions.scalaBinaryVersionFromFullVersion().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaR R('2°
+Bscala/meta/internal/metals/ScalaVersions.dialectForScalaVersion().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaY Y(2®
+Iscala/meta/internal/metals/ScalaVersions.scalaBinaryVersionFromJarName().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalao o(#2§
+Cscala/meta/internal/metals/ScalaVersions.dialectForDependencyJar().DECLARATIONP
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaÜ Ü(2
+scala/AnyRef#EXTEND2¢
+Cscala/meta/internal/metals/ScalaVersions._isDeprecatedScalaVersion.DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala ('2}
+%scala/meta/internal/metals/BuildInfo.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala (2ï
+=scala/meta/internal/metals/BuildInfo.deprecatedScalaVersions.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala (%2Å
+)scala/collection/TraversableOnce#toSet().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala& (+2°
+Bscala/meta/internal/metals/ScalaVersions._isSupportedScalaVersion.DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala (&2}
+%scala/meta/internal/metals/BuildInfo.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala (2î
+<scala/meta/internal/metals/BuildInfo.supportedScalaVersions.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala ($2Å
+)scala/collection/TraversableOnce#toSet().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala% (*2ù
+>scala/meta/internal/metals/ScalaVersions.isLatestScalaVersion.DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala( ((2}
+%scala/meta/internal/metals/BuildInfo.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala) )(2Ü
+.scala/meta/internal/metals/BuildInfo.scala212.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala) )(2}
+%scala/meta/internal/metals/BuildInfo.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala) )(%2Ü
+.scala/meta/internal/metals/BuildInfo.scala213.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala)& )(.2}
+%scala/meta/internal/metals/BuildInfo.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala)0 )(92Ñ
+,scala/meta/internal/metals/BuildInfo.scala3.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala): )(@2i
+scala/Predef.Set.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala) )(2ö
+;scala/meta/internal/metals/ScalaVersions.scalaVersionRegex.DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalad d(2Ç
+*scala/collection/immutable/StringLike#r().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalae3 e(4Ú
+Pscala/meta/internal/metals/ScalaVersions.latestBinaryVersionFor().(scalaVersion)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala+ +()"
+endLine43"
+isVarfalse"Z
+symbolPscala/meta/internal/metals/ScalaVersions.latestBinaryVersionFor().(scalaVersion)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamescalaVersion"
+kind	PARAMETER"
+	startLine43"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter41"
+startCharacter29"
+isFinalfalse*scalaVersion2l
+scala/Predef.String#TYPEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala++ +(1Ú
+Pscala/meta/internal/metals/ScalaVersions.dialectForScalaVersion().(scalaVersion)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaY Y()"
+endLine89"
+isVarfalse"Z
+symbolPscala/meta/internal/metals/ScalaVersions.dialectForScalaVersion().(scalaVersion)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamescalaVersion"
+kind	PARAMETER"
+	startLine89"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter41"
+startCharacter29"
+isFinalfalse*scalaVersion2l
+scala/Predef.String#TYPEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaY+ Y(1Ç
+Cscala/meta/internal/metals/ScalaVersions.isSupportedScalaVersion().METHODN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala ("
+endLine23"
+isVarfalse"M
+symbolCscala/meta/internal/metals/ScalaVersions.isSupportedScalaVersion()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"&
+displayNameisSupportedScalaVersion"
+kindMETHOD"
+	startLine23"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter29"
+startCharacter6"
+isFinalfalse"
+LOC2*isSupportedScalaVersion2©
+Lscala/meta/internal/metals/ScalaVersions.isSupportedScalaVersion().(version)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala (%2m
+scala/Boolean#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala0 (72§
+Lscala/meta/internal/metals/ScalaVersions.isSupportedScalaVersion().(version)CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala. (52î
+<scala/meta/internal/metals/ScalaVersions.dropVendorSuffix().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala (-2ö
+Bscala/meta/internal/metals/ScalaVersions._isSupportedScalaVersion.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala (Í
+Mscala/meta/internal/metals/ScalaVersions.dialectForDependencyJar().(filename)	PARAMETERP
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaÜ Ü(&"
+endLine134"
+isVarfalse"W
+symbolMscala/meta/internal/metals/ScalaVersions.dialectForDependencyJar().(filename)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamefilename"
+kind	PARAMETER"
+	startLine134"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter38"
+startCharacter30"
+isFinalfalse*filename2n
+scala/Predef.String#TYPEP
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaÜ( Ü(.∂
+Bscala/meta/internal/metals/ScalaVersions.dialectForScalaVersion().METHODN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaY Y("
+endLine89"
+isVarfalse"L
+symbolBscala/meta/internal/metals/ScalaVersions.dialectForScalaVersion()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"%
+displayNamedialectForScalaVersion"
+kindMETHOD"
+	startLine89"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter28"
+startCharacter6"
+isFinalfalse"	
+LOC10*dialectForScalaVersion2≠
+Pscala/meta/internal/metals/ScalaVersions.dialectForScalaVersion().(scalaVersion)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaY Y()2r
+scala/meta/Dialect#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaY4 Y(;2™
+Klocal7:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaDECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaZ Z(2®
+Pscala/meta/internal/metals/ScalaVersions.dialectForScalaVersion().(scalaVersion)CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaZ? Z(K2•
+Mscala/meta/internal/metals/ScalaVersions.scalaBinaryVersionFromFullVersion().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaZ Z(>2£
+Klocal8:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala[ [(2§
+Llocal10:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala\ \(2§
+Llocal10:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala] ](2§
+Llocal10:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala^ ^(2£
+Klocal8:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala_ _(2x
+ java/lang/String#startsWith(+1).CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala_ _((2§
+Llocal10:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala_2 _(82§
+Llocal10:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala` `(¢	
+<scala/meta/internal/metals/ScalaVersions.dropVendorSuffix().METHODN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala ("
+endLine15"
+isVarfalse"F
+symbol<scala/meta/internal/metals/ScalaVersions.dropVendorSuffix()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamedropVendorSuffix"
+kindMETHOD"
+	startLine15"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter6"
+isFinalfalse"
+LOC2*dropVendorSuffix2¢
+Escala/meta/internal/metals/ScalaVersions.dropVendorSuffix().(version)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala (2s
+scala/Predef.String#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala) (/2ù
+Escala/meta/internal/metals/ScalaVersions.dropVendorSuffix().(version)CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala (2v
+java/lang/String#replaceAll().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala (ƒ
+Bscala/meta/internal/metals/ScalaVersions.latestBinaryVersionFor().METHODN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala+ +("
+endLine43"
+isVarfalse"L
+symbolBscala/meta/internal/metals/ScalaVersions.latestBinaryVersionFor()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"%
+displayNamelatestBinaryVersionFor"
+kindMETHOD"
+	startLine43"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter28"
+startCharacter6"
+isFinalfalse"
+LOC7*latestBinaryVersionFor2≠
+Pscala/meta/internal/metals/ScalaVersions.latestBinaryVersionFor().(scalaVersion)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala+ +()2l
+scala/Option#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala+4 +(:2s
+scala/Predef.String#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala+; +(A2™
+Klocal1:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaDECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala, ,(2®
+Pscala/meta/internal/metals/ScalaVersions.latestBinaryVersionFor().(scalaVersion)CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala,: ,(F2•
+Mscala/meta/internal/metals/ScalaVersions.scalaBinaryVersionFromFullVersion().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala, ,(92®
+Klocal2:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala. .(2£
+Klocal1:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala/ /(2p
+java/lang/Object#`==`().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala/ /(2£
+Klocal2:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala/; /(A2•
+Mscala/meta/internal/metals/ScalaVersions.scalaBinaryVersionFromFullVersion().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala/ /(:2ñ
+>scala/meta/internal/metals/ScalaVersions.isLatestScalaVersion.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala- -(2}
+%scala/collection/IterableLike#find().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala. .(‚
+Mscala/meta/internal/metals/ScalaVersions.isDeprecatedScalaVersion().(version)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala (&"
+endLine26"
+isVarfalse"W
+symbolMscala/meta/internal/metals/ScalaVersions.isDeprecatedScalaVersion().(version)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameversion"
+kind	PARAMETER"
+	startLine26"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter38"
+startCharacter31"
+isFinalfalse*version2l
+scala/Predef.String#TYPEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala( (.Ä
+Wscala/meta/internal/metals/ScalaVersions.isSupportedScalaBinaryVersion().(scalaVersion)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala$ (0"
+endLine29"
+isVarfalse"a
+symbolWscala/meta/internal/metals/ScalaVersions.isSupportedScalaBinaryVersion().(scalaVersion)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamescalaVersion"
+kind	PARAMETER"
+	startLine29"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter48"
+startCharacter36"
+isFinalfalse*scalaVersion2l
+scala/Predef.String#TYPEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala2 (8ß
+Klocal6:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaI I("
+endLine73"
+isVarfalse"
+symbollocal6"
+package "
+accessEmpty"
+displayNamever"
+kind	PARAMETER"
+	startLine73"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter27"
+startCharacter24"
+isFinalfalse*ver2
+scala/Predef.String#TYPE´
+Llocal25:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaVALUEP
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaÇ Ç("
+endLine130"
+isVarfalse"
+symbollocal25"
+package "
+accessEmpty"
+displayNameversion"
+kindVALUE"
+	startLine130"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter26"
+startCharacter19"
+isFinalfalse*version2
+scala/Predef.String#TYPE∫
+Klocal7:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaVALUEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaZ Z("
+endLine90"
+isVarfalse"
+symbollocal7"
+package "
+accessEmpty"!
+displayNamescalaBinaryVersion"
+kindVALUE"
+	startLine90"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter26"
+startCharacter8"
+isFinalfalse*scalaBinaryVersion2
+scala/Predef.String#TYPE„
+Llocal24:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal24"
+package "
+accessPublicAccess()"
+displayNamecase5"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case52#
+scala/Predef.String#RETURN_TYPEÍ
+Lscala/meta/internal/metals/ScalaVersions.recommendedVersion().(scalaVersion)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala3 3(%"
+endLine51"
+isVarfalse"V
+symbolLscala/meta/internal/metals/ScalaVersions.recommendedVersion().(scalaVersion)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamescalaVersion"
+kind	PARAMETER"
+	startLine51"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter37"
+startCharacter25"
+isFinalfalse*scalaVersion2l
+scala/Predef.String#TYPEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala3' 3(-Ü
+Llocal28:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala	PARAMETER"
+endLine0"
+isVarfalse"
+symbollocal28"
+package "
+accessEmpty"
+displayNamex0$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x0$12
+scala/Tuple2#TYPE2
+scala/Predef.String#TYPE2
+scala/Boolean#TYPE©
+Llocal22:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaVALUEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala{ {("
+endLine123"
+isVarfalse"
+symbollocal22"
+package "
+accessEmpty"
+displayNameversion"
+kindVALUE"
+	startLine123"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter12"
+isFinalfalse*version2
+scala/Predef.String#TYPE¯
+Llocal23:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal23"
+package "
+accessEmpty"
+displayNamex1"
+kindVALUE"
+	startLine0"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x12
+scala/Tuple2#TYPE2
+scala/Predef.String#TYPE2
+scala/Boolean#TYPEæ
+Cscala/meta/internal/metals/ScalaVersions._isDeprecatedScalaVersion.VALUEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala ('"
+endLine18"
+isVarfalse"M
+symbolCscala/meta/internal/metals/ScalaVersions._isDeprecatedScalaVersion."%
+packagescala.meta.internal.metals"
+accessPrivateAccess()"(
+displayName_isDeprecatedScalaVersion"
+kindVALUE"
+	startLine18"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter39"
+startCharacter14"
+isFinalfalse*_isDeprecatedScalaVersion2
+scala/Predef.Set#TYPE2
+scala/Predef.String#TYPE«
+Llocal27:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal27"
+package "
+accessPublicAccess()"
+displayName	matchEnd4"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*	matchEnd42Z
+Mlocal538:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala	PARAMETER2#
+scala/Predef.String#RETURN_TYPE„
+Llocal26:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal26"
+package "
+accessPublicAccess()"
+displayNamecase6"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case62#
+scala/Predef.String#RETURN_TYPE∏
+Klocal0:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala4 (A"
+endLine30"
+isVarfalse"
+symbollocal0"
+package "
+accessEmpty"
+displayNamebinaryVersion"
+kind	PARAMETER"
+	startLine30"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter65"
+startCharacter52"
+isFinalfalse*binaryVersion2
+java/lang/String#TYPE‰
+Iscala/meta/internal/metals/ScalaVersions.isSupportedScalaBinaryVersion().METHODN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala (#"
+endLine29"
+isVarfalse"S
+symbolIscala/meta/internal/metals/ScalaVersions.isSupportedScalaBinaryVersion()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()",
+displayNameisSupportedScalaBinaryVersion"
+kindMETHOD"
+	startLine29"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter35"
+startCharacter6"
+isFinalfalse"
+LOC4*isSupportedScalaBinaryVersion2¥
+Wscala/meta/internal/metals/ScalaVersions.isSupportedScalaBinaryVersion().(scalaVersion)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala$ (02m
+scala/Boolean#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala; (B2®
+Klocal0:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala4 (A2£
+Klocal0:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala (+2Ø
+Wscala/meta/internal/metals/ScalaVersions.isSupportedScalaBinaryVersion().(scalaVersion)CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala (2x
+ java/lang/String#startsWith(+1).CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala (2}
+%scala/meta/internal/metals/BuildInfo.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala (2ö
+Bscala/meta/internal/metals/BuildInfo.supportedScalaBinaryVersions.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala (*2
+'scala/collection/IterableLike#exists().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala+ (1∞
+Klocal1:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaVALUEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala, ,("
+endLine44"
+isVarfalse"
+symbollocal1"
+package "
+accessEmpty"
+displayNamebinaryVersion"
+kindVALUE"
+	startLine44"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter8"
+isFinalfalse*binaryVersion2
+scala/Predef.String#TYPEß
+Llocal20:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaVALUEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaz z("
+endLine122"
+isVarfalse"
+symbollocal20"
+package "
+accessEmpty"
+displayNameending"
+kindVALUE"
+	startLine122"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter12"
+isFinalfalse*ending2
+scala/Predef.String#TYPEß
+Llocal21:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaz, z(-"
+endLine122"
+isVarfalse"
+symbollocal21"
+package "
+accessEmpty"
+displayNames"
+kind	PARAMETER"
+	startLine122"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter45"
+startCharacter44"
+isFinalfalse*s2
+scala/Predef.String#TYPEà
+[scala/meta/internal/metals/ScalaVersions.scalaBinaryVersionFromFullVersion().(scalaVersion)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaR( R(4"
+endLine82"
+isVarfalse"e
+symbol[scala/meta/internal/metals/ScalaVersions.scalaBinaryVersionFromFullVersion().(scalaVersion)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamescalaVersion"
+kind	PARAMETER"
+	startLine82"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter52"
+startCharacter40"
+isFinalfalse*scalaVersion2l
+scala/Predef.String#TYPEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaR6 R(<‡
+Klocal9:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal9"
+package "
+accessPublicAccess()"
+displayNamecase7"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case72"
+scala/meta/Dialect#RETURN_TYPE≠
+Klocal3:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala? ?("
+endLine63"
+isVarfalse"
+symbollocal3"
+package "
+accessEmpty"
+displayNamelatest"
+kind	PARAMETER"
+	startLine63"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter11"
+isFinalfalse*latest2
+scala/Predef.String#TYPEõ
+Klocal8:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaVALUEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala_ _("
+endLine95"
+isVarfalse"
+symbollocal8"
+package "
+accessEmpty"
+displayNamex1"
+kindVALUE"
+	startLine95"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter29"
+startCharacter22"
+isFinalfalse*x12
+scala/Predef.String#TYPE≠
+Klocal2:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala. .("
+endLine46"
+isVarfalse"
+symbollocal2"
+package "
+accessEmpty"
+displayNamelatest"
+kind	PARAMETER"
+	startLine46"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter12"
+isFinalfalse*latest2
+scala/Predef.String#TYPE–
+Klocal4:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaVALUEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaD D("
+endLine68"
+isVarfalse"
+symbollocal4"
+package "
+accessEmpty"
+displayNameversions"
+kindVALUE"
+	startLine68"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter12"
+isFinalfalse*versions2'
+scala/collection/immutable/Set#TYPE2
+scala/Predef.String#TYPEÂ
+Klocal5:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala	PARAMETER"
+endLine0"
+isVarfalse"
+symbollocal5"
+package "
+accessEmpty"
+displayNamescalaVersion"
+kind	PARAMETER"
+	startLine0"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*scalaVersion2
+scala/Predef.String#TYPE‚
+Llocal11:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal11"
+package "
+accessPublicAccess()"
+displayNamecase8"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case82"
+scala/meta/Dialect#RETURN_TYPE‚
+Llocal12:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal12"
+package "
+accessPublicAccess()"
+displayNamecase9"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case92"
+scala/meta/Dialect#RETURN_TYPE„B
+Iscala/meta/internal/metals/ScalaVersions.scalaBinaryVersionFromJarName().METHODN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalao o(#"
+endLine111"
+isVarfalse"S
+symbolIscala/meta/internal/metals/ScalaVersions.scalaBinaryVersionFromJarName()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()",
+displayNamescalaBinaryVersionFromJarName"
+kindMETHOD"
+	startLine111"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter35"
+startCharacter6"
+isFinalfalse"	
+LOC22*scalaBinaryVersionFromJarName2∞
+Sscala/meta/internal/metals/ScalaVersions.scalaBinaryVersionFromJarName().(filename)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalao$ o(,2s
+scala/Predef.String#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalao7 o(=2´
+Llocal15:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaDECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalap p(2´
+Sscala/meta/internal/metals/ScalaVersions.scalaBinaryVersionFromJarName().(filename)CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalap p(2å
+4scala/collection/immutable/StringLike#stripSuffix().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaq q(2
+%scala/meta/internal/metals/BuildInfo.CALLP
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaÉ É(2à
+.scala/meta/internal/metals/BuildInfo.scala213.CALLP
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaÉ É(#2≠
+Llocal25:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaDECLARATIONP
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaÇ Ç(2¶
+Llocal25:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaCALLP
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaÇD Ç(K2ß
+Mscala/meta/internal/metals/ScalaVersions.scalaBinaryVersionFromFullVersion().CALLP
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaÇ" Ç(C2q
+scala/package.Ordering.CALLP
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaÄ Ä(2v
+scala/math/Ordering.Boolean.CALLP
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaÄ Ä($2x
+scala/math/Ordering#reverse().CALLP
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaÄ% Ä(,2j
+scala/Tuple2#_2.CALLP
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaÄ Ä(2©
+Llocal16:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalav v(2´
+Llocal17:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaDECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaw w(2§
+Llocal16:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaw) w(*2Ñ
+,scala/util/matching/Regex.MatchData#group().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaw+ w(02e
+scala/Option.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaw" w((2q
+scala/Option#isDefined().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaw5 w(>2´
+Llocal18:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaDECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalax x(2§
+Llocal16:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalax x(2Ñ
+,scala/util/matching/Regex.MatchData#group().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalax x(2´
+Llocal19:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaDECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalay y(2§
+Llocal16:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalay y(2Ñ
+,scala/util/matching/Regex.MatchData#group().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalay y(2´
+Llocal20:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaDECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaz z(2©
+Llocal21:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaz, z(-2§
+Llocal21:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaz4 z(52§
+Llocal16:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaz z(2Ñ
+,scala/util/matching/Regex.MatchData#group().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaz z(#2e
+scala/Option.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaz z(2k
+scala/Option#map().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaz( z(+2q
+scala/Option#getOrElse().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaz8 z(A2´
+Llocal22:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaDECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala{ {(2§
+Llocal18:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala{ {(2§
+Llocal19:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala{  {(%2§
+Llocal20:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala{& {(,2§
+Llocal22:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala|* |(12°
+Iscala/meta/internal/metals/ScalaVersions.isSupportedScalaBinaryVersion().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala| |()2§
+Llocal22:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala} }(2w
+scala/Predef.ArrowAssoc#`->`().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala} }(2§
+Llocal17:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala} }(-2c
+scala/Some.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala}
+ }(2c
+scala/None.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala~ ~(2§
+Llocal15:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalat t( 2ì
+;scala/meta/internal/metals/ScalaVersions.scalaVersionRegex.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalas s(2É
++scala/util/matching/Regex#findAllMatchIn().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalat t(2Ç
+*scala/collection/TraversableOnce#toList().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalau u(2Ç
+*scala/collection/immutable/List#flatMap().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalav v(2|
+"scala/collection/SeqLike#sortBy().CALLP
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaÄ Ä(2à
+.scala/collection/TraversableLike#headOption().CALLP
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaÅ Å(2m
+scala/Option#map().CALLP
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaÇ Ç(
+2s
+scala/Option#getOrElse().CALLP
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaÉ É(“
+Fscala/meta/internal/metals/ScalaVersions.isScala3Milestone().(version)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala	 	("
+endLine9"
+isVarfalse"P
+symbolFscala/meta/internal/metals/ScalaVersions.isScala3Milestone().(version)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameversion"
+kind	PARAMETER"
+	startLine9"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter31"
+startCharacter24"
+isFinalfalse*version2l
+scala/Predef.String#TYPEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala	! 	('ª
+Llocal17:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaVALUEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaw w("
+endLine119"
+isVarfalse"
+symbollocal17"
+package "
+accessEmpty""
+displayNamehasUnderscorePrefix"
+kindVALUE"
+	startLine119"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter31"
+startCharacter12"
+isFinalfalse*hasUnderscorePrefix2
+scala/Boolean#TYPE¨
+=scala/meta/internal/metals/ScalaVersions.isScala3Milestone().METHODN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala	 	("
+endLine9"
+isVarfalse"G
+symbol=scala/meta/internal/metals/ScalaVersions.isScala3Milestone()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()" 
+displayNameisScala3Milestone"
+kindMETHOD"
+	startLine9"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter6"
+isFinalfalse"
+LOC2*isScala3Milestone2£
+Fscala/meta/internal/metals/ScalaVersions.isScala3Milestone().(version)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala	 	(2m
+scala/Boolean#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala	* 	(12û
+Fscala/meta/internal/metals/ScalaVersions.isScala3Milestone().(version)CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala
+ 
+(2x
+ java/lang/String#startsWith(+1).CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala
+ 
+(2m
+scala/Boolean#`||`().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala
+" 
+($2û
+Fscala/meta/internal/metals/ScalaVersions.isScala3Milestone().(version)CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala
+% 
+(,2x
+ java/lang/String#startsWith(+1).CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala
+- 
+(7•
+Llocal18:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaVALUEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalax x("
+endLine120"
+isVarfalse"
+symbollocal18"
+package "
+accessEmpty"
+displayNamemajor"
+kindVALUE"
+	startLine120"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter12"
+isFinalfalse*major2
+scala/Predef.String#TYPE≥
+Llocal16:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalav v("
+endLine118"
+isVarfalse"
+symbollocal16"
+package "
+accessEmpty"
+displayNamem"
+kind	PARAMETER"
+	startLine118"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter17"
+isFinalfalse*m2(
+ scala/util/matching/Regex.Match#TYPE´
+Llocal15:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaVALUEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalap p("
+endLine112"
+isVarfalse"
+symbollocal15"
+package "
+accessEmpty"
+displayName
+dropEnding"
+kindVALUE"
+	startLine112"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter8"
+isFinalfalse*
+dropEnding2
+java/lang/String#TYPE‰
+Llocal14:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal14"
+package "
+accessPublicAccess()"
+displayNamecase11"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case112"
+scala/meta/Dialect#RETURN_TYPE‡
+Lscala/meta/internal/metals/ScalaVersions.isSupportedScalaVersion().(version)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala (%"
+endLine23"
+isVarfalse"V
+symbolLscala/meta/internal/metals/ScalaVersions.isSupportedScalaVersion().(version)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameversion"
+kind	PARAMETER"
+	startLine23"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter37"
+startCharacter30"
+isFinalfalse*version2l
+scala/Predef.String#TYPEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala' (-‰
+Llocal13:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal13"
+package "
+accessPublicAccess()"
+displayNamecase10"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case102"
+scala/meta/Dialect#RETURN_TYPEö
+Llocal10:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaMETHODN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala` `("
+endLine96"
+isVarfalse"
+symbollocal10"
+package "
+accessPublicAccess()"
+displayName	matchEnd6"
+kindMETHOD"
+	startLine96"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter24"
+startCharacter16"
+isFinalfalse*	matchEnd62Z
+Mlocal537:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala	PARAMETER2"
+scala/meta/Dialect#RETURN_TYPE®
+Cscala/meta/internal/metals/ScalaVersions.supportedScala3Versions().METHODN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala% %("
+endLine37"
+isVarfalse"M
+symbolCscala/meta/internal/metals/ScalaVersions.supportedScala3Versions()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"&
+displayNamesupportedScala3Versions"
+kindMETHOD"
+	startLine37"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter29"
+startCharacter6"
+isFinalfalse"
+LOC2*supportedScala3Versions2p
+scala/Predef.Set#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala% %("2s
+scala/Predef.String#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala%# %()2ì
+;scala/meta/internal/metals/ScalaVersions.isScala3Version().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala&, &(;2}
+%scala/meta/internal/metals/BuildInfo.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala& &(2î
+<scala/meta/internal/metals/BuildInfo.supportedScalaVersions.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala& &($2Ç
+*scala/collection/TraversableLike#filter().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala&% &(+2Å
+)scala/collection/TraversableOnce#toSet().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala&@ &(E£(
+;scala/meta/internal/metals/ScalaVersions.isFutureVersion().METHODN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala= =("
+endLine61"
+isVarfalse"E
+symbol;scala/meta/internal/metals/ScalaVersions.isFutureVersion()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameisFutureVersion"
+kindMETHOD"
+	startLine61"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter6"
+isFinalfalse"	
+LOC15*isFutureVersion2¶
+Iscala/meta/internal/metals/ScalaVersions.isFutureVersion().(scalaVersion)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala= =("2m
+scala/Boolean#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala=- =(42™
+Klocal4:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaDECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaD D(2°
+Iscala/meta/internal/metals/ScalaVersions.isFutureVersion().(scalaVersion)CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaE E(*2ì
+;scala/meta/internal/metals/ScalaVersions.isScala3Version().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaE E(2ì
+;scala/meta/internal/metals/ScalaVersions.isScala3Version().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaF( F(72ñ
+>scala/meta/internal/metals/ScalaVersions.isLatestScalaVersion.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaF F( 2Ç
+*scala/collection/TraversableLike#filter().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaF! F('2r
+scala/Boolean#`unary_!`().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaH( H()2ñ
+>scala/meta/internal/metals/ScalaVersions.isLatestScalaVersion.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaH H( 2Ç
+*scala/collection/TraversableLike#filter().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaH! H('2®
+Klocal6:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaI I(2£
+Klocal6:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaI5 I(82°
+Iscala/meta/internal/metals/ScalaVersions.isFutureVersion().(scalaVersion)CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaI: I(F2z
+"scala/meta/internal/semver/SemVer.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaI I(%2ã
+3scala/meta/internal/semver/SemVer.isLaterVersion().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaI& I(42£
+Klocal4:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaI I(2
+'scala/collection/IterableLike#forall().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaI I(2®
+Klocal3:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala? ?(2£
+Klocal3:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala@ @(2p
+java/lang/Object#`!=`().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala@ @(2°
+Iscala/meta/internal/metals/ScalaVersions.isFutureVersion().(scalaVersion)CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala@ @(2m
+scala/Boolean#`&&`().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala@ @(!2£
+Klocal3:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaA A( 2°
+Iscala/meta/internal/metals/ScalaVersions.isFutureVersion().(scalaVersion)CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaA" A(.2z
+"scala/meta/internal/semver/SemVer.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala@" @((2ã
+3scala/meta/internal/semver/SemVer.isLaterVersion().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaA A(2°
+Iscala/meta/internal/metals/ScalaVersions.isFutureVersion().(scalaVersion)CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala> >('2ö
+Bscala/meta/internal/metals/ScalaVersions.latestBinaryVersionFor().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala> >(2k
+scala/Option#map().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala? ?(
+2q
+scala/Option#getOrElse().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaC C(•
+Llocal19:metals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaVALUEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalay y("
+endLine121"
+isVarfalse"
+symbollocal19"
+package "
+accessEmpty"
+displayNameminor"
+kindVALUE"
+	startLine121"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter12"
+isFinalfalse*minor2
+scala/Predef.String#TYPE‰
+Iscala/meta/internal/metals/ScalaVersions.isFutureVersion().(scalaVersion)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala= =(""
+endLine61"
+isVarfalse"S
+symbolIscala/meta/internal/metals/ScalaVersions.isFutureVersion().(scalaVersion)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamescalaVersion"
+kind	PARAMETER"
+	startLine61"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter34"
+startCharacter22"
+isFinalfalse*scalaVersion2l
+scala/Predef.String#TYPEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala=$ =(*õ
+>scala/meta/internal/metals/ScalaVersions.recommendedVersion().METHODN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala3 3("
+endLine51"
+isVarfalse"H
+symbol>scala/meta/internal/metals/ScalaVersions.recommendedVersion()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"!
+displayNamerecommendedVersion"
+kindMETHOD"
+	startLine51"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter24"
+startCharacter6"
+isFinalfalse"
+LOC9*recommendedVersion2©
+Lscala/meta/internal/metals/ScalaVersions.recommendedVersion().(scalaVersion)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala3 3(%2s
+scala/Predef.String#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala30 3(62§
+Lscala/meta/internal/metals/ScalaVersions.recommendedVersion().(scalaVersion)CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala5 5(&2ì
+;scala/meta/internal/metals/ScalaVersions.isScala3Version().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala5
+ 5(2}
+%scala/meta/internal/metals/BuildInfo.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala6 6(2Ñ
+,scala/meta/internal/metals/BuildInfo.scala3.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala6 6(2}
+%scala/meta/internal/metals/BuildInfo.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala8 8(2Ü
+.scala/meta/internal/metals/BuildInfo.scala212.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala8 8(2§
+Lscala/meta/internal/metals/ScalaVersions.recommendedVersion().(scalaVersion)CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala4 4('2ö
+Bscala/meta/internal/metals/ScalaVersions.latestBinaryVersionFor().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala4 4(2q
+scala/Option#getOrElse().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala4) 4(2∫
+Bscala/meta/internal/metals/ScalaVersions._isSupportedScalaVersion.VALUEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala (&"
+endLine20"
+isVarfalse"L
+symbolBscala/meta/internal/metals/ScalaVersions._isSupportedScalaVersion."%
+packagescala.meta.internal.metals"
+accessPrivateAccess()"'
+displayName_isSupportedScalaVersion"
+kindVALUE"
+	startLine20"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter38"
+startCharacter14"
+isFinalfalse*_isSupportedScalaVersion2
+scala/Predef.Set#TYPE2
+scala/Predef.String#TYPEí
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaFILE*Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala¢	
+;scala/meta/internal/metals/ScalaVersions.isScala3Version().METHODN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala" "("
+endLine34"
+isVarfalse"E
+symbol;scala/meta/internal/metals/ScalaVersions.isScala3Version()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameisScala3Version"
+kindMETHOD"
+	startLine34"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter6"
+isFinalfalse"
+LOC2*isScala3Version2¶
+Iscala/meta/internal/metals/ScalaVersions.isScala3Version().(scalaVersion)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala" "("2m
+scala/Boolean#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"- "(42°
+Iscala/meta/internal/metals/ScalaVersions.isScala3Version().(scalaVersion)CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala# #(2x
+ java/lang/String#startsWith(+1).CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala# #(∑
+Mscala/meta/internal/metals/ScalaVersions.scalaBinaryVersionFromFullVersion().METHODN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaR R('"
+endLine82"
+isVarfalse"W
+symbolMscala/meta/internal/metals/ScalaVersions.scalaBinaryVersionFromFullVersion()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"0
+displayName!scalaBinaryVersionFromFullVersion"
+kindMETHOD"
+	startLine82"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter39"
+startCharacter6"
+isFinalfalse"
+LOC6*!scalaBinaryVersionFromFullVersion2∏
+[scala/meta/internal/metals/ScalaVersions.scalaBinaryVersionFromFullVersion().(scalaVersion)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaR( R(42s
+scala/Predef.String#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaR? R(E2≥
+[scala/meta/internal/metals/ScalaVersions.scalaBinaryVersionFromFullVersion().(scalaVersion)CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaS S(&2ï
+=scala/meta/internal/metals/ScalaVersions.isScala3Milestone().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaS S(2≥
+[scala/meta/internal/metals/ScalaVersions.scalaBinaryVersionFromFullVersion().(scalaVersion)CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaT T(2≥
+[scala/meta/internal/metals/ScalaVersions.scalaBinaryVersionFromFullVersion().(scalaVersion)CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaV V(2Ü
+.scala/collection/immutable/StringLike#split().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaV V(2Ñ
+,scala/collection/IndexedSeqOptimized#take().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaV V("2Ü
+.scala/collection/TraversableOnce#mkString(+1).CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaV& V(.®
+>scala/meta/internal/metals/ScalaVersions.isLatestScalaVersion.VALUEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala( (("
+endLine40"
+isVarfalse"H
+symbol>scala/meta/internal/metals/ScalaVersions.isLatestScalaVersion."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"#
+displayNameisLatestScalaVersion"
+kindVALUE"
+	startLine40"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter26"
+startCharacter6"
+isFinalfalse*isLatestScalaVersion2
+scala/Predef.Set#TYPE2
+scala/Predef.String#TYPEÚ
+Sscala/meta/internal/metals/ScalaVersions.scalaBinaryVersionFromJarName().(filename)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalao$ o(,"
+endLine111"
+isVarfalse"]
+symbolSscala/meta/internal/metals/ScalaVersions.scalaBinaryVersionFromJarName().(filename)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamefilename"
+kind	PARAMETER"
+	startLine111"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter44"
+startCharacter36"
+isFinalfalse*filename2l
+scala/Predef.String#TYPEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalao. o(4§
+Cscala/meta/internal/metals/ScalaVersions.dialectForDependencyJar().METHODP
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaÜ Ü("
+endLine134"
+isVarfalse"M
+symbolCscala/meta/internal/metals/ScalaVersions.dialectForDependencyJar()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"&
+displayNamedialectForDependencyJar"
+kindMETHOD"
+	startLine134"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter29"
+startCharacter6"
+isFinalfalse"
+LOC2*dialectForDependencyJar2¨
+Mscala/meta/internal/metals/ScalaVersions.dialectForDependencyJar().(filename)	PARAMETERP
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaÜ Ü(&2t
+scala/meta/Dialect#RETURN_TYPEP
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaÜ1 Ü(82ß
+Mscala/meta/internal/metals/ScalaVersions.dialectForDependencyJar().(filename)CALLP
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaá9 á(A2£
+Iscala/meta/internal/metals/ScalaVersions.scalaBinaryVersionFromJarName().CALLP
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaá á(82ú
+Bscala/meta/internal/metals/ScalaVersions.dialectForScalaVersion().CALLP
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaá á(Ï
+Rscala/meta/internal/metals/ScalaVersions.isCurrentScalaCompilerVersion().(version)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaM$ M(+"
+endLine77"
+isVarfalse"\
+symbolRscala/meta/internal/metals/ScalaVersions.isCurrentScalaCompilerVersion().(version)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameversion"
+kind	PARAMETER"
+	startLine77"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter43"
+startCharacter36"
+isFinalfalse*version2l
+scala/Predef.String#TYPEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaM- M(3Ö
+Iscala/meta/internal/metals/ScalaVersions.isCurrentScalaCompilerVersion().METHODN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaM M(#"
+endLine77"
+isVarfalse"S
+symbolIscala/meta/internal/metals/ScalaVersions.isCurrentScalaCompilerVersion()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()",
+displayNameisCurrentScalaCompilerVersion"
+kindMETHOD"
+	startLine77"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter35"
+startCharacter6"
+isFinalfalse"
+LOC4*isCurrentScalaCompilerVersion2Ø
+Rscala/meta/internal/metals/ScalaVersions.isCurrentScalaCompilerVersion().(version)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaM$ M(+2m
+scala/Boolean#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaM6 M(=2™
+Rscala/meta/internal/metals/ScalaVersions.isCurrentScalaCompilerVersion().(version)CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaO O(2Å
+)scala/meta/internal/metals/ScalaVersions.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaN N(2î
+<scala/meta/internal/metals/ScalaVersions.dropVendorSuffix().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaN N("2p
+java/lang/Object#`==`().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaP P(2r
+scala/meta/internal/mtags/CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaP	 P(2|
+$scala/meta/internal/mtags/BuildInfo.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaP P(2ë
+9scala/meta/internal/mtags/BuildInfo.scalaCompilerVersion.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scalaP P(-“
+Escala/meta/internal/metals/ScalaVersions.dropVendorSuffix().(version)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala ("
+endLine15"
+isVarfalse"O
+symbolEscala/meta/internal/metals/ScalaVersions.dropVendorSuffix().(version)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameversion"
+kind	PARAMETER"
+	startLine15"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter30"
+startCharacter23"
+isFinalfalse*version2l
+scala/Predef.String#TYPEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala  (&â
+Dscala/meta/internal/metals/ScalaVersions.isDeprecatedScalaVersion().METHODN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala ("
+endLine26"
+isVarfalse"N
+symbolDscala/meta/internal/metals/ScalaVersions.isDeprecatedScalaVersion()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"'
+displayNameisDeprecatedScalaVersion"
+kindMETHOD"
+	startLine26"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter30"
+startCharacter6"
+isFinalfalse"
+LOC2*isDeprecatedScalaVersion2™
+Mscala/meta/internal/metals/ScalaVersions.isDeprecatedScalaVersion().(version)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala (&2m
+scala/Boolean#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala1 (82•
+Mscala/meta/internal/metals/ScalaVersions.isDeprecatedScalaVersion().(version)CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala/ (62î
+<scala/meta/internal/metals/ScalaVersions.dropVendorSuffix().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala (.2õ
+Cscala/meta/internal/metals/ScalaVersions._isDeprecatedScalaVersion.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala (‰
+Iscala/meta/internal/metals/ScalaVersions.isScala3Version().(scalaVersion)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala" "(""
+endLine34"
+isVarfalse"S
+symbolIscala/meta/internal/metals/ScalaVersions.isScala3Version().(scalaVersion)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamescalaVersion"
+kind	PARAMETER"
+	startLine34"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter34"
+startCharacter22"
+isFinalfalse*scalaVersion2l
+scala/Predef.String#TYPEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ScalaVersions.scala"$ "(*

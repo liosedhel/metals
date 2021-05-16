@@ -1,0 +1,935 @@
+
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaå
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaFILE*Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalañ
+2scala/meta/internal/ansi/LineListener#`state_=`().VARIABLEK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaU U(	"
+endLine85"
+isVartrue"<
+symbol2scala/meta/internal/ansi/LineListener#`state_=`()."#
+packagescala.meta.internal.ansi"
+accessPrivateAccess()"
+displayNamestate_="
+kindVARIABLE"
+	startLine85"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/ansi/LineListener.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter9"
+startCharacter4"
+isFinalfalse*state_=2D
+7scala/meta/internal/ansi/LineListener#`state_=`().(x$1)	PARAMETER2
+scala/Unit#TYPE≠
+;scala/meta/internal/ansi/LineListener#appendString().(text)	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala* *("
+endLine42"
+isVarfalse"E
+symbol;scala/meta/internal/ansi/LineListener#appendString().(text)"#
+packagescala.meta.internal.ansi"
+accessEmpty"
+displayNametext"
+kind	PARAMETER"
+	startLine42"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/ansi/LineListener.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter19"
+isFinalfalse*text2i
+scala/Predef.String#TYPEK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala* *(ò&
+4scala/meta/internal/ansi/LineListener#appendBytes().METHODK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala0 0("
+endLine48"
+isVarfalse">
+symbol4scala/meta/internal/ansi/LineListener#appendBytes()."#
+packagescala.meta.internal.ansi"
+accessPublicAccess()"
+displayNameappendBytes"
+kindMETHOD"
+	startLine48"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/ansi/LineListener.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter6"
+isFinalfalse"	
+LOC34*appendBytes25
+&scala/meta/internal/ansi/LineListener#RETURN_TYPE2ï
+;scala/meta/internal/ansi/LineListener#appendBytes().(bytes)	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala0 0(2§
+Hlocal1:metals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaDECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala; ;(2ê
+;scala/meta/internal/ansi/LineListener#appendBytes().(bytes)CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala;. ;(32w
+"java/nio/charset/StandardCharsets#CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala; ;( 2}
+(java/nio/charset/StandardCharsets#UTF_8.CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala;! ;(&2w
+"java/nio/charset/Charset#decode().CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala;' ;(-2ù
+Hlocal1:metals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala< <(2t
+java/nio/Buffer#hasRemaining().CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala< <(2§
+Hlocal3:metals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaDECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala=
+ =(2ù
+Hlocal1:metals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala= =(2o
+java/nio/CharBuffer#get().CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala= =(2h
+scala/Char#toInt().CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaA A(2É
+.scala/meta/internal/ansi/LineListener#state().CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaA A(2Ö
+0scala/meta/internal/ansi/AnsiStateMachine#apply.CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaA A(2¢
+Hlocal6:metals/src/main/scala/scala/meta/internal/ansi/LineListener.scala	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaC C(2ù
+Hlocal6:metals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaC+ C(,2â
+4scala/meta/internal/ansi/LineListener#onCharacter().CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaC C(*2Å
+,scala/meta/internal/ansi/LineListener#stack.CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaC
+ C(2ç
+8scala/collection/generic/TraversableForwarder#foreach().CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaC C(2ù
+Hlocal3:metals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaD D(2â
+4scala/meta/internal/ansi/LineListener#onCharacter().CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaD
+ D(2à
+3scala/meta/internal/ansi/LineListener#resetState().CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaE
+ E(2à
+3scala/meta/internal/ansi/LineListener#resetState().CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaG
+ G(2É
+.scala/meta/internal/ansi/LineListener#flush().CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaI
+ I(2à
+3scala/meta/internal/ansi/LineListener#resetState().CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaJ
+ J(2Å
+,scala/meta/internal/ansi/LineListener#stack.CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaL
+ L(2Ä
++scala/collection/mutable/ListBuffer#`+=`().CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaL L(2ù
+Hlocal3:metals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaL L(2ù
+Hlocal4:metals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaM M(2á
+2scala/meta/internal/ansi/LineListener#`state_=`().CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaM
+ M(Ê
+4scala/meta/internal/ansi/LineListener#onCharacter().METHODK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaX X("
+endLine88"
+isVarfalse">
+symbol4scala/meta/internal/ansi/LineListener#onCharacter()."#
+packagescala.meta.internal.ansi"
+accessPrivateAccess()"
+displayNameonCharacter"
+kindMETHOD"
+	startLine88"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/ansi/LineListener.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter25"
+startCharacter14"
+isFinalfalse"
+LOC7*onCharacter2î
+:scala/meta/internal/ansi/LineListener#onCharacter().(char)	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaX X(2g
+scala/Unit#RETURN_TYPEK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaX' X(+2è
+:scala/meta/internal/ansi/LineListener#onCharacter().(char)CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaY Y(2i
+scala/Char#`==`(+2).CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaY Y(2É
+.scala/meta/internal/ansi/LineListener#flush().CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaZ Z(2è
+:scala/meta/internal/ansi/LineListener#onCharacter().(char)CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala\ \(2Ñ
+/scala/meta/internal/ansi/LineListener#buffer().CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala\ \(2x
+#java/lang/StringBuilder#append(+8).CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala\ \(–
+
+3scala/meta/internal/ansi/LineListener#resetState().METHODK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaS S("
+endLine83"
+isVarfalse"=
+symbol3scala/meta/internal/ansi/LineListener#resetState()."#
+packagescala.meta.internal.ansi"
+accessPrivateAccess()"
+displayName
+resetState"
+kindMETHOD"
+	startLine83"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/ansi/LineListener.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter24"
+startCharacter14"
+isFinalfalse"
+LOC4*
+resetState2g
+scala/Unit#RETURN_TYPEK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaS S( 2Å
+,scala/meta/internal/ansi/LineListener#stack.CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaT T(	2Å
+,scala/collection/mutable/ListBuffer#clear().CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaT
+ T(2
+*scala/meta/internal/ansi/AnsiStateMachine.CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaU U(2Ö
+0scala/meta/internal/ansi/AnsiStateMachine.Start.CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaU U("2á
+2scala/meta/internal/ansi/LineListener#`state_=`().CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaU U(	◊
+/scala/meta/internal/ansi/LineListener#buffer().VARIABLEK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala ("
+endLine21"
+isVartrue"9
+symbol/scala/meta/internal/ansi/LineListener#buffer()."#
+packagescala.meta.internal.ansi"
+accessPrivateAccess()"
+displayNamebuffer"
+kindVARIABLE"
+	startLine21"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/ansi/LineListener.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter14"
+isFinalfalse*buffer2 
+java/lang/StringBuilder#TYPEë
+1scala/meta/internal/ansi/LineListener#`<init>`().CONSTRUCTORK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala ("
+endLine19"
+isVarfalse";
+symbol1scala/meta/internal/ansi/LineListener#`<init>`()."#
+packagescala.meta.internal.ansi"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine19"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/ansi/LineListener.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter18"
+isFinalfalse*<init>2F
+9scala/meta/internal/ansi/LineListener#`<init>`().(onLine)	PARAMETER2á
+-scala/meta/internal/ansi/LineListener#onLine.	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala (Ø
+;scala/meta/internal/ansi/LineListener#appendBytes().(bytes)	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala0 0("
+endLine48"
+isVarfalse"E
+symbol;scala/meta/internal/ansi/LineListener#appendBytes().(bytes)"#
+packagescala.meta.internal.ansi"
+accessEmpty"
+displayNamebytes"
+kind	PARAMETER"
+	startLine48"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/ansi/LineListener.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter18"
+isFinalfalse*bytes2i
+java/nio/ByteBuffer#TYPEK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala0 0(#‘
+Hlocal9:metals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal9"
+package "
+accessPublicAccess()"
+displayNamecase10"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/ansi/LineListener.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case102
+scala/Unit#RETURN_TYPEõ
+7scala/meta/internal/ansi/LineListener#`state_=`().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"A
+symbol7scala/meta/internal/ansi/LineListener#`state_=`().(x$1)"#
+packagescala.meta.internal.ansi"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/ansi/LineListener.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$122
+*scala/meta/internal/ansi/AnsiStateMachine#TYPE“
+Hlocal8:metals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal8"
+package "
+accessPublicAccess()"
+displayNamecase9"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/ansi/LineListener.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case92
+scala/Unit#RETURN_TYPEë
+Hlocal6:metals/src/main/scala/scala/meta/internal/ansi/LineListener.scala	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaC C("
+endLine67"
+isVarfalse"
+symbollocal6"
+package "
+accessEmpty"
+displayNamei"
+kind	PARAMETER"
+	startLine67"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/ansi/LineListener.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter27"
+startCharacter26"
+isFinalfalse*i2
+scala/Char#TYPE“
+Hlocal5:metals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal5"
+package "
+accessPublicAccess()"
+displayNamecase7"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/ansi/LineListener.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case72
+scala/Unit#RETURN_TYPE÷
+Hlocal2:metals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal2"
+package "
+accessPublicAccess()"
+displayNamewhile$1"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/ansi/LineListener.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*while$12
+scala/Unit#RETURN_TYPEñ
+-scala/meta/internal/ansi/LineListener#onLine.VALUEK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala ("
+endLine19"
+isVarfalse"7
+symbol-scala/meta/internal/ansi/LineListener#onLine."#
+packagescala.meta.internal.ansi"
+accessPrivateThisAccess()"
+displayNameonLine"
+kindVALUE"
+	startLine19"
+isValtrue"H
+uriAmetals/src/main/scala/scala/meta/internal/ansi/LineListener.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter25"
+startCharacter19"
+isFinalfalse*onLine2
+scala/Function1#TYPE2i
+scala/Predef.String#TYPEK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala (!2`
+scala/Unit#TYPEK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala% ()†
+Hlocal0:metals/src/main/scala/scala/meta/internal/ansi/LineListener.scala	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala
+, 
+(0"
+endLine10"
+isVarfalse"
+symbollocal0"
+package "
+accessEmpty"
+displayNameline"
+kind	PARAMETER"
+	startLine10"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/ansi/LineListener.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter48"
+startCharacter44"
+isFinalfalse*line2
+scala/Predef.String#TYPEú
+3scala/meta/internal/ansi/LineListener#`buffer_=`().VARIABLEK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala (
+"
+endLine30"
+isVartrue"=
+symbol3scala/meta/internal/ansi/LineListener#`buffer_=`()."#
+packagescala.meta.internal.ansi"
+accessPrivateAccess()"
+displayNamebuffer_="
+kindVARIABLE"
+	startLine30"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/ansi/LineListener.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter4"
+isFinalfalse*buffer_=2E
+8scala/meta/internal/ansi/LineListener#`buffer_=`().(x$1)	PARAMETER2
+scala/Unit#TYPEó
+Hlocal1:metals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaVALUEK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala; ;("
+endLine59"
+isVarfalse"
+symbollocal1"
+package "
+accessEmpty"
+displayNamechars"
+kindVALUE"
+	startLine59"
+isValtrue"H
+uriAmetals/src/main/scala/scala/meta/internal/ansi/LineListener.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter8"
+isFinalfalse*chars2
+java/nio/CharBuffer#TYPEã
+8scala/meta/internal/ansi/LineListener#`buffer_=`().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"B
+symbol8scala/meta/internal/ansi/LineListener#`buffer_=`().(x$1)"#
+packagescala.meta.internal.ansi"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/ansi/LineListener.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12 
+java/lang/StringBuilder#TYPE“
+Hlocal7:metals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal7"
+package "
+accessPublicAccess()"
+displayNamecase8"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/ansi/LineListener.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case82
+scala/Unit#RETURN_TYPEæ
+9scala/meta/internal/ansi/LineListener#`<init>`().(onLine)	PARAMETER"
+endLine0"
+isVarfalse"C
+symbol9scala/meta/internal/ansi/LineListener#`<init>`().(onLine)"#
+packagescala.meta.internal.ansi"
+accessEmpty"
+displayNameonLine"
+kind	PARAMETER"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/ansi/LineListener.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*onLine2
+scala/Function1#TYPE2
+scala/Predef.String#TYPE2
+scala/Unit#TYPEÍ
+,scala/meta/internal/ansi/LineListener#stack.VALUEK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala ("
+endLine22"
+isVarfalse"6
+symbol,scala/meta/internal/ansi/LineListener#stack."#
+packagescala.meta.internal.ansi"
+accessPrivateAccess()"
+displayNamestack"
+kindVALUE"
+	startLine22"
+isValtrue"H
+uriAmetals/src/main/scala/scala/meta/internal/ansi/LineListener.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter14"
+isFinalfalse*stack2,
+$scala/collection/mutable/ListBuffer#TYPE2
+scala/Char#TYPEâ
+Hlocal3:metals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaVALUEK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala=
+ =("
+endLine61"
+isVarfalse"
+symbollocal3"
+package "
+accessEmpty"
+displayNamech"
+kindVALUE"
+	startLine61"
+isValtrue"H
+uriAmetals/src/main/scala/scala/meta/internal/ansi/LineListener.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter10"
+isFinalfalse*ch2
+scala/Char#TYPE®
+Hlocal4:metals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaVALUEK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaM M("
+endLine77"
+isVarfalse"
+symbollocal4"
+package "
+accessEmpty"
+displayNamex1"
+kindVALUE"
+	startLine77"
+isValtrue"H
+uriAmetals/src/main/scala/scala/meta/internal/ansi/LineListener.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter18"
+isFinalfalse*x122
+*scala/meta/internal/ansi/AnsiStateMachine#TYPEÜ
+5scala/meta/internal/ansi/LineListener#appendString().METHODK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala* *("
+endLine42"
+isVarfalse"?
+symbol5scala/meta/internal/ansi/LineListener#appendString()."#
+packagescala.meta.internal.ansi"
+accessPublicAccess()"
+displayNameappendString"
+kindMETHOD"
+	startLine42"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/ansi/LineListener.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter6"
+isFinalfalse"
+LOC5*appendString25
+&scala/meta/internal/ansi/LineListener#RETURN_TYPE2ï
+;scala/meta/internal/ansi/LineListener#appendString().(text)	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala* *(2ê
+;scala/meta/internal/ansi/LineListener#appendString().(text)CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala,4 ,(82t
+java/lang/String#toCharArray().CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala,9 ,(D2i
+java/nio/CharBuffer#CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala,$ ,(.2r
+java/nio/CharBuffer#wrap(+1).CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala,/ ,(32w
+"java/nio/charset/StandardCharsets#CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala, ,(2}
+(java/nio/charset/StandardCharsets#UTF_8.CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala, ,(2w
+"java/nio/charset/Charset#encode().CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala, ,(#2â
+4scala/meta/internal/ansi/LineListener#appendBytes().CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala+ +(ô
+.scala/meta/internal/ansi/LineListener#flush().METHODK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala ("
+endLine28"
+isVarfalse"8
+symbol.scala/meta/internal/ansi/LineListener#flush()."#
+packagescala.meta.internal.ansi"
+accessPublicAccess()"
+displayNameflush"
+kindMETHOD"
+	startLine28"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/ansi/LineListener.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter11"
+startCharacter6"
+isFinalfalse"
+LOC4*flush2g
+scala/Unit#RETURN_TYPEK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala (2Ñ
+/scala/meta/internal/ansi/LineListener#buffer().CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala (2x
+#java/lang/StringBuilder#toString().CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala (2Ç
+-scala/meta/internal/ansi/LineListener#onLine.CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala (
+2m
+java/lang/StringBuilder#CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala (2x
+#java/lang/StringBuilder#`<init>`().CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala (2à
+3scala/meta/internal/ansi/LineListener#`buffer_=`().CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala (
+Ω	
+8scala/meta/internal/ansi/LineListener#flushIfNonEmpty().METHODK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala$ $("
+endLine36"
+isVarfalse"B
+symbol8scala/meta/internal/ansi/LineListener#flushIfNonEmpty()."#
+packagescala.meta.internal.ansi"
+accessPublicAccess()"
+displayNameflushIfNonEmpty"
+kindMETHOD"
+	startLine36"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/ansi/LineListener.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter6"
+isFinalfalse"
+LOC5*flushIfNonEmpty2g
+scala/Unit#RETURN_TYPEK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala$ $(2Ñ
+/scala/meta/internal/ansi/LineListener#buffer().CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala% %(2~
+)java/lang/AbstractStringBuilder#length().CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala% %(2g
+scala/Int#`>`(+3).CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala% %(2É
+.scala/meta/internal/ansi/LineListener#flush().CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala& &(Â
+.scala/meta/internal/ansi/LineListener#state().VARIABLEK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala ("
+endLine23"
+isVartrue"8
+symbol.scala/meta/internal/ansi/LineListener#state()."#
+packagescala.meta.internal.ansi"
+accessPrivateAccess()"
+displayNamestate"
+kindVARIABLE"
+	startLine23"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/ansi/LineListener.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter14"
+isFinalfalse*state22
+*scala/meta/internal/ansi/AnsiStateMachine#TYPE’
+-scala/meta/internal/ansi/LineListener.info().METHODK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala
+ 
+(
+"
+endLine10"
+isVarfalse"7
+symbol-scala/meta/internal/ansi/LineListener.info()."#
+packagescala.meta.internal.ansi"
+accessPublicAccess()"
+displayNameinfo"
+kindMETHOD"
+	startLine10"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/ansi/LineListener.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter6"
+isFinalfalse"
+LOC1*info2Ç
+&scala/meta/internal/ansi/LineListener#RETURN_TYPEK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala
+ 
+(2{
+&scala/meta/internal/ansi/LineListener#CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala
+ 
+(+2Ü
+1scala/meta/internal/ansi/LineListener#`<init>`().CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala
++ 
+(+2¢
+Hlocal0:metals/src/main/scala/scala/meta/internal/ansi/LineListener.scala	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala
+, 
+(02ù
+Hlocal0:metals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaCALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala
+@ 
+(D2\
+scribe/CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala
+4 
+(:2s
+scribe/LoggerSupport#info(+1).CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala
+; 
+(?¢
+:scala/meta/internal/ansi/LineListener#onCharacter().(char)	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaX X("
+endLine88"
+isVarfalse"D
+symbol:scala/meta/internal/ansi/LineListener#onCharacter().(char)"#
+packagescala.meta.internal.ansi"
+accessEmpty"
+displayNamechar"
+kind	PARAMETER"
+	startLine88"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/ansi/LineListener.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter30"
+startCharacter26"
+isFinalfalse*char2`
+scala/Char#TYPEK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaX  X($Í
+&scala/meta/internal/ansi/LineListener#CLASSK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala ("
+endLine19"
+isVarfalse"0
+symbol&scala/meta/internal/ansi/LineListener#"#
+packagescala.meta.internal.ansi"
+accessPublicAccess()"
+displayNameLineListener"
+kindCLASS"
+	startLine19"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/ansi/LineListener.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter6"
+isFinalfalse"	
+LOC78*LineListener2â
+-scala/meta/internal/ansi/LineListener#onLine.DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala (2ç
+1scala/meta/internal/ansi/LineListener#`<init>`().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala (2è
+3scala/meta/internal/ansi/LineListener#`buffer_=`().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala (
+2é
+2scala/meta/internal/ansi/LineListener#`state_=`().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaU U(	2ä
+.scala/meta/internal/ansi/LineListener#flush().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala (2î
+8scala/meta/internal/ansi/LineListener#flushIfNonEmpty().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala$ $(2ë
+5scala/meta/internal/ansi/LineListener#appendString().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala* *(2ê
+4scala/meta/internal/ansi/LineListener#appendBytes().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala0 0(2è
+3scala/meta/internal/ansi/LineListener#resetState().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaS S(2ê
+4scala/meta/internal/ansi/LineListener#onCharacter().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaX X(2
+scala/AnyRef#EXTEND2ã
+/scala/meta/internal/ansi/LineListener#buffer().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala (2m
+java/lang/StringBuilder#CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala ((2x
+#java/lang/StringBuilder#`<init>`().CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala( ((2à
+,scala/meta/internal/ansi/LineListener#stack.DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala (2`
+scala/Char#CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala/ (32n
+scala/collection/mutable/CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala (2y
+$scala/collection/mutable/ListBuffer.CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala ((2á
+2scala/collection/generic/GenericCompanion#empty().CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala) (.2ä
+.scala/meta/internal/ansi/LineListener#state().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala (2
+*scala/meta/internal/ansi/AnsiStateMachine.CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala (&2Ö
+0scala/meta/internal/ansi/AnsiStateMachine.Start.CALLK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala' (,Å
+Ilocal10:metals/src/main/scala/scala/meta/internal/ansi/LineListener.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal10"
+package "
+accessPublicAccess()"
+displayName	matchEnd6"
+kindMETHOD"
+	startLine0"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/ansi/LineListener.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*	matchEnd62¢
+Hlocal1:metals/src/main/scala/scala/meta/internal/ansi/LineListener.scala	PARAMETERK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala; ;(2
+scala/Unit#RETURN_TYPE÷
+&scala/meta/internal/ansi/LineListener.OBJECTK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala	 	("
+endLine9"
+isVarfalse"0
+symbol&scala/meta/internal/ansi/LineListener."#
+packagescala.meta.internal.ansi"
+accessPublicAccess()"
+displayNameLineListener"
+kindOBJECT"
+	startLine9"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/ansi/LineListener.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter7"
+isFinaltrue"
+LOC3*LineListener2â
+-scala/meta/internal/ansi/LineListener.info().DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/ansi/LineListener.scala
+ 
+(
+2
+scala/AnyRef#EXTEND

@@ -1,0 +1,215 @@
+
+Vmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scalaß
+
+;scala/meta/internal/metals/PresentationCompilerClassLoader#CLASS`
+Vmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scala
+ 
+(%"
+endLine10"
+isVarfalse"E
+symbol;scala/meta/internal/metals/PresentationCompilerClassLoader#"%
+packagescala.meta.internal.metals"
+accessPublicAccess()".
+displayNamePresentationCompilerClassLoader"
+kindCLASS"
+	startLine10"
+isValfalse"]
+uriVmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter37"
+startCharacter6"
+isFinalfalse"	
+LOC14*PresentationCompilerClassLoader2³
+Bscala/meta/internal/metals/PresentationCompilerClassLoader#parent.DECLARATION`
+Vmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scala
+& 
+(,2·
+Fscala/meta/internal/metals/PresentationCompilerClassLoader#`<init>`().DECLARATION`
+Vmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scala
+% 
+(%2¸
+Gscala/meta/internal/metals/PresentationCompilerClassLoader#findClass().DECLARATION`
+Vmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scala (2‚
+java/lang/ClassLoader#EXTEND`
+Vmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scala (¦
+Fscala/meta/internal/metals/PresentationCompilerClassLoader#`<init>`().CONSTRUCTOR`
+Vmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scala
+% 
+(%"
+endLine10"
+isVarfalse"P
+symbolFscala/meta/internal/metals/PresentationCompilerClassLoader#`<init>`()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine10"
+isValfalse"]
+uriVmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter37"
+startCharacter37"
+isFinalfalse*<init>2[
+Nscala/meta/internal/metals/PresentationCompilerClassLoader#`<init>`().(parent)	PARAMETER2±
+Bscala/meta/internal/metals/PresentationCompilerClassLoader#parent.	PARAMETER`
+Vmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scala
+& 
+(,Ò
+Nscala/meta/internal/metals/PresentationCompilerClassLoader#`<init>`().(parent)	PARAMETER"
+endLine0"
+isVarfalse"X
+symbolNscala/meta/internal/metals/PresentationCompilerClassLoader#`<init>`().(parent)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameparent"
+kind	PARAMETER"
+	startLine0"
+isValfalse"]
+uriVmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*parent2
+java/lang/ClassLoader#TYPE¶
+Vmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scalaFILE*Vmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scalaˆ
+Bscala/meta/internal/metals/PresentationCompilerClassLoader#parent.VALUE`
+Vmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scala
+& 
+(,"
+endLine10"
+isVarfalse"L
+symbolBscala/meta/internal/metals/PresentationCompilerClassLoader#parent."%
+packagescala.meta.internal.metals"
+accessPrivateThisAccess()"
+displayNameparent"
+kindVALUE"
+	startLine10"
+isValtrue"]
+uriVmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter44"
+startCharacter38"
+isFinalfalse*parent2€
+java/lang/ClassLoader#TYPE`
+Vmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scala
+. 
+(9Ï
+Gscala/meta/internal/metals/PresentationCompilerClassLoader#findClass().METHOD`
+Vmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scala ("
+endLine12"
+isVarfalse"Q
+symbolGscala/meta/internal/metals/PresentationCompilerClassLoader#findClass()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName	findClass"
+kindMETHOD"
+	startLine12"
+isValfalse"]
+uriVmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter24"
+startCharacter15"
+isFinalfalse"	
+LOC11*	findClass2l
+]local0:metals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scalaRETURN_TYPE2.
+"java/lang/ClassLoader#findClass().OVERRIDE2¼
+Mscala/meta/internal/metals/PresentationCompilerClassLoader#findClass().(name)	PARAMETER`
+Vmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scala (2„
+scala/Predef.Class#RETURN_TYPE`
+Vmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scala( (-2Î
+]local1:metals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scalaDECLARATION`
+Vmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scala (2·
+Mscala/meta/internal/metals/PresentationCompilerClassLoader#findClass().(name)CALL`
+Vmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scala (
+2Š
+ java/lang/String#startsWith(+1).CALL`
+Vmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scala (2
+scala/Boolean#`||`().CALL`
+Vmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scala+ (-2·
+Mscala/meta/internal/metals/PresentationCompilerClassLoader#findClass().(name)CALL`
+Vmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scala (2Š
+ java/lang/String#startsWith(+1).CALL`
+Vmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scala (2
+scala/Boolean#`||`().CALL`
+Vmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scala+ (-2·
+Mscala/meta/internal/metals/PresentationCompilerClassLoader#findClass().(name)CALL`
+Vmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scala (2Š
+ java/lang/String#startsWith(+1).CALL`
+Vmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scala (2Ç
+]local1:metals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scalaCALL`
+Vmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scala (2·
+Mscala/meta/internal/metals/PresentationCompilerClassLoader#findClass().(name)CALL`
+Vmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scala (2¬
+Bscala/meta/internal/metals/PresentationCompilerClassLoader#parent.CALL`
+Vmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scala (2Œ
+"java/lang/ClassLoader#loadClass().CALL`
+Vmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scala (2‹
+!java/lang/ClassNotFoundException#CALL`
+Vmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scala (&2˜
+.java/lang/ClassNotFoundException#`<init>`(+1).CALL`
+Vmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scala& (&2·
+Mscala/meta/internal/metals/PresentationCompilerClassLoader#findClass().(name)CALL`
+Vmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scala' (+Ö
+]local1:metals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scalaVALUE`
+Vmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scala ("
+endLine13"
+isVarfalse"
+symbollocal1"
+package "
+accessEmpty"
+displayNameisShared"
+kindVALUE"
+	startLine13"
+isValtrue"]
+uriVmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter8"
+isFinalfalse*isShared2
+scala/Boolean#TYPE’
+Mscala/meta/internal/metals/PresentationCompilerClassLoader#findClass().(name)	PARAMETER`
+Vmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scala ("
+endLine12"
+isVarfalse"W
+symbolMscala/meta/internal/metals/PresentationCompilerClassLoader#findClass().(name)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamename"
+kind	PARAMETER"
+	startLine12"
+isValfalse"]
+uriVmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter29"
+startCharacter25"
+isFinalfalse*name2~
+scala/Predef.String#TYPE`
+Vmetals/src/main/scala/scala/meta/internal/metals/PresentationCompilerClassLoader.scala (%

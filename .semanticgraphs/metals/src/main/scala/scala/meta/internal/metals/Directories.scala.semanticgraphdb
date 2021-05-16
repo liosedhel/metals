@@ -1,0 +1,318 @@
+
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scalaº
+4scala/meta/internal/metals/Directories.semanticdb().METHODL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala ("
+endLine12"
+isVarfalse">
+symbol4scala/meta/internal/metals/Directories.semanticdb()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName
+semanticdb"
+kindMETHOD"
+	startLine12"
+isValfalse"I
+uriBmetals/src/main/scala/scala/meta/internal/metals/Directories.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter6"
+isFinalfalse"
+LOC2*
+semanticdb2x
+scala/meta/io/RelativePath#RETURN_TYPEL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala (2q
+scala/meta/io/RelativePath.CALLL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala (2}
+'scala/meta/io/RelativePath#resolve(+2).CALLL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala ($Ú
+8scala/meta/internal/metals/Directories.dependenciesName.VALUEL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala ("
+endLine22"
+isVarfalse"B
+symbol8scala/meta/internal/metals/Directories.dependenciesName."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamedependenciesName"
+kindVALUE"
+	startLine22"
+isValtrue"I
+uriBmetals/src/main/scala/scala/meta/internal/metals/Directories.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter6"
+isFinalfalse*dependenciesName2
+java/lang/String#TYPEÎ
+6scala/meta/internal/metals/Directories.dependencies().METHODL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala ("
+endLine8"
+isVarfalse"@
+symbol6scala/meta/internal/metals/Directories.dependencies()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamedependencies"
+kindMETHOD"
+	startLine8"
+isValfalse"I
+uriBmetals/src/main/scala/scala/meta/internal/metals/Directories.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter6"
+isFinalfalse"
+LOC2*dependencies2x
+scala/meta/io/RelativePath#RETURN_TYPEL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala ( 2é
+8scala/meta/internal/metals/Directories.dependenciesName.CALLL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala	 	(%2à
+2scala/meta/internal/metals/Directories.readonly().CALLL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala	 	(2}
+'scala/meta/io/RelativePath#resolve(+2).CALLL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala	 	(ï
+'scala/meta/internal/metals/Directories.OBJECTL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala ("
+endLine3"
+isVarfalse"1
+symbol'scala/meta/internal/metals/Directories."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameDirectories"
+kindOBJECT"
+	startLine3"
+isValfalse"I
+uriBmetals/src/main/scala/scala/meta/internal/metals/Directories.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter7"
+isFinaltrue"	
+LOC21*Directories2è
+2scala/meta/internal/metals/Directories.database().DECLARATIONL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala (2è
+2scala/meta/internal/metals/Directories.readonly().DECLARATIONL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala (2ì
+6scala/meta/internal/metals/Directories.dependencies().DECLARATIONL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala (2ä
+-scala/meta/internal/metals/Directories.log().DECLARATIONL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala
+ 
+(	2ë
+4scala/meta/internal/metals/Directories.semanticdb().DECLARATIONL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala (2â
+,scala/meta/internal/metals/Directories.pc().DECLARATIONL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala (2ñ
+9scala/meta/internal/metals/Directories.workspaceSymbol().DECLARATIONL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala (2ë
+4scala/meta/internal/metals/Directories.stacktrace().DECLARATIONL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala (2
+scala/AnyRef#EXTEND2ó
+:scala/meta/internal/metals/Directories.stacktraceFilename.DECLARATIONL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala (2ï
+8scala/meta/internal/metals/Directories.dependenciesName.DECLARATIONL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala (œ
+4scala/meta/internal/metals/Directories.stacktrace().METHODL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala ("
+endLine18"
+isVarfalse">
+symbol4scala/meta/internal/metals/Directories.stacktrace()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName
+stacktrace"
+kindMETHOD"
+	startLine18"
+isValfalse"I
+uriBmetals/src/main/scala/scala/meta/internal/metals/Directories.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter6"
+isFinalfalse"
+LOC2*
+stacktrace2x
+scala/meta/io/RelativePath#RETURN_TYPEL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala (2ê
+:scala/meta/internal/metals/Directories.stacktraceFilename.CALLL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala$ (62q
+scala/meta/io/RelativePath.CALLL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala (2}
+'scala/meta/io/RelativePath#resolve(+2).CALLL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala (#˙
+:scala/meta/internal/metals/Directories.stacktraceFilename.VALUEL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala ("
+endLine21"
+isVarfalse"D
+symbol:scala/meta/internal/metals/Directories.stacktraceFilename."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"!
+displayNamestacktraceFilename"
+kindVALUE"
+	startLine21"
+isValtrue"I
+uriBmetals/src/main/scala/scala/meta/internal/metals/Directories.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter24"
+startCharacter6"
+isFinalfalse*stacktraceFilename2
+java/lang/String#TYPEü
+-scala/meta/internal/metals/Directories.log().METHODL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala
+ 
+(	"
+endLine10"
+isVarfalse"7
+symbol-scala/meta/internal/metals/Directories.log()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamelog"
+kindMETHOD"
+	startLine10"
+isValfalse"I
+uriBmetals/src/main/scala/scala/meta/internal/metals/Directories.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter9"
+startCharacter6"
+isFinalfalse"
+LOC2*log2x
+scala/meta/io/RelativePath#RETURN_TYPEL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala
+ 
+(2q
+scala/meta/io/RelativePath.CALLL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala (2}
+'scala/meta/io/RelativePath#resolve(+2).CALLL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala (#é
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scalaFILE*Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala–
+9scala/meta/internal/metals/Directories.workspaceSymbol().METHODL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala ("
+endLine16"
+isVarfalse"C
+symbol9scala/meta/internal/metals/Directories.workspaceSymbol()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameworkspaceSymbol"
+kindMETHOD"
+	startLine16"
+isValfalse"I
+uriBmetals/src/main/scala/scala/meta/internal/metals/Directories.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter6"
+isFinalfalse"
+LOC2*workspaceSymbol2x
+scala/meta/io/RelativePath#RETURN_TYPEL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala (#2q
+scala/meta/io/RelativePath.CALLL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala (2}
+'scala/meta/io/RelativePath#resolve(+2).CALLL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala (#≤
+2scala/meta/internal/metals/Directories.readonly().METHODL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala ("
+endLine6"
+isVarfalse"<
+symbol2scala/meta/internal/metals/Directories.readonly()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamereadonly"
+kindMETHOD"
+	startLine6"
+isValfalse"I
+uriBmetals/src/main/scala/scala/meta/internal/metals/Directories.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter14"
+startCharacter6"
+isFinalfalse"
+LOC2*readonly2x
+scala/meta/io/RelativePath#RETURN_TYPEL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala (2q
+scala/meta/io/RelativePath.CALLL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala (2}
+'scala/meta/io/RelativePath#resolve(+2).CALLL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala (#≤
+2scala/meta/internal/metals/Directories.database().METHODL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala ("
+endLine4"
+isVarfalse"<
+symbol2scala/meta/internal/metals/Directories.database()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamedatabase"
+kindMETHOD"
+	startLine4"
+isValfalse"I
+uriBmetals/src/main/scala/scala/meta/internal/metals/Directories.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter14"
+startCharacter6"
+isFinalfalse"
+LOC2*database2x
+scala/meta/io/RelativePath#RETURN_TYPEL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala (2q
+scala/meta/io/RelativePath.CALLL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala (2}
+'scala/meta/io/RelativePath#resolve(+2).CALLL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala (#õ
+,scala/meta/internal/metals/Directories.pc().METHODL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala ("
+endLine14"
+isVarfalse"6
+symbol,scala/meta/internal/metals/Directories.pc()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamepc"
+kindMETHOD"
+	startLine14"
+isValfalse"I
+uriBmetals/src/main/scala/scala/meta/internal/metals/Directories.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter8"
+startCharacter6"
+isFinalfalse"
+LOC2*pc2x
+scala/meta/io/RelativePath#RETURN_TYPEL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala
+ (2q
+scala/meta/io/RelativePath.CALLL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala (2}
+'scala/meta/io/RelativePath#resolve(+2).CALLL
+Bmetals/src/main/scala/scala/meta/internal/metals/Directories.scala (#

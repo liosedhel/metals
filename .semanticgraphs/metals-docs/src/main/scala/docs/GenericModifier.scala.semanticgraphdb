@@ -1,0 +1,197 @@
+
+5metals-docs/src/main/scala/docs/GenericModifier.scalaÍ
+%docs/GenericModifier#process().(code)	PARAMETER?
+5metals-docs/src/main/scala/docs/GenericModifier.scala
+% 
+()"
+endLine10"
+isVarfalse"/
+symbol%docs/GenericModifier#process().(code)"
+packagedocs"
+accessEmpty"
+displayNamecode"
+kind	PARAMETER"
+	startLine10"
+isValfalse"<
+uri5metals-docs/src/main/scala/docs/GenericModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter41"
+startCharacter37"
+isFinalfalse*code2a
+scala/meta/inputs/Input#TYPE?
+5metals-docs/src/main/scala/docs/GenericModifier.scala
++ 
+(0Ó
+)docs/GenericModifier#process().(reporter)	PARAMETER?
+5metals-docs/src/main/scala/docs/GenericModifier.scala
+2 
+(:"
+endLine10"
+isVarfalse"3
+symbol)docs/GenericModifier#process().(reporter)"
+packagedocs"
+accessEmpty"
+displayNamereporter"
+kind	PARAMETER"
+	startLine10"
+isValfalse"<
+uri5metals-docs/src/main/scala/docs/GenericModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter58"
+startCharacter50"
+isFinalfalse*reporter2W
+mdoc/Reporter#TYPE?
+5metals-docs/src/main/scala/docs/GenericModifier.scala
+< 
+(D²
+docs/GenericModifier#CLASS?
+5metals-docs/src/main/scala/docs/GenericModifier.scala ("
+endLine7"
+isVarfalse"
+symboldocs/GenericModifier#"
+packagedocs"
+accessPublicAccess()"
+displayNameGenericModifier"
+kindCLASS"
+	startLine7"
+isValfalse"<
+uri5metals-docs/src/main/scala/docs/GenericModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter6"
+isFinalfalse"	
+LOC28*GenericModifier2p
+ docs/GenericModifier#`<init>`().DECLARATION?
+5metals-docs/src/main/scala/docs/GenericModifier.scala (2o
+docs/GenericModifier#process().DECLARATION?
+5metals-docs/src/main/scala/docs/GenericModifier.scala
+ 
+(2
+scala/AnyRef#EXTEND2_
+mdoc/StringModifier#EXTEND?
+5metals-docs/src/main/scala/docs/GenericModifier.scala (,2j
+docs/GenericModifier#name.DECLARATION?
+5metals-docs/src/main/scala/docs/GenericModifier.scala (É
+%docs/GenericModifier#process().(info)	PARAMETER?
+5metals-docs/src/main/scala/docs/GenericModifier.scala
+ 
+("
+endLine10"
+isVarfalse"/
+symbol%docs/GenericModifier#process().(info)"
+packagedocs"
+accessEmpty"
+displayNameinfo"
+kind	PARAMETER"
+	startLine10"
+isValfalse"<
+uri5metals-docs/src/main/scala/docs/GenericModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter27"
+startCharacter23"
+isFinalfalse*info2]
+scala/Predef.String#TYPE?
+5metals-docs/src/main/scala/docs/GenericModifier.scala
+ 
+(#—
+docs/GenericModifier#name.VALUE?
+5metals-docs/src/main/scala/docs/GenericModifier.scala ("
+endLine8"
+isVarfalse"$
+symboldocs/GenericModifier#name."
+packagedocs"
+accessPublicAccess()"
+displayNamename"
+kindVALUE"
+	startLine8"
+isValtrue"<
+uri5metals-docs/src/main/scala/docs/GenericModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter15"
+isFinalfalse*name2
+scala/Predef.String#TYPE2%
+mdoc/StringModifier#name.OVERRIDEt
+5metals-docs/src/main/scala/docs/GenericModifier.scalaFILE*5metals-docs/src/main/scala/docs/GenericModifier.scalaè
+docs/GenericModifier#process().METHOD?
+5metals-docs/src/main/scala/docs/GenericModifier.scala
+ 
+("
+endLine10"
+isVarfalse")
+symboldocs/GenericModifier#process()."
+packagedocs"
+accessPublicAccess()"
+displayNameprocess"
+kindMETHOD"
+	startLine10"
+isValfalse"<
+uri5metals-docs/src/main/scala/docs/GenericModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter15"
+isFinalfalse"	
+LOC24*process2*
+mdoc/StringModifier#process().OVERRIDE2s
+%docs/GenericModifier#process().(info)	PARAMETER?
+5metals-docs/src/main/scala/docs/GenericModifier.scala
+ 
+(2s
+%docs/GenericModifier#process().(code)	PARAMETER?
+5metals-docs/src/main/scala/docs/GenericModifier.scala
+% 
+()2w
+)docs/GenericModifier#process().(reporter)	PARAMETER?
+5metals-docs/src/main/scala/docs/GenericModifier.scala
+2 
+(:2d
+scala/Predef.String#RETURN_TYPE?
+5metals-docs/src/main/scala/docs/GenericModifier.scala
+G 
+(M2
+6scala/collection/immutable/StringLike#stripMargin(+1).CALL?
+5metals-docs/src/main/scala/docs/GenericModifier.scala!	 !(ï
+ docs/GenericModifier#`<init>`().CONSTRUCTOR?
+5metals-docs/src/main/scala/docs/GenericModifier.scala ("
+endLine7"
+isVarfalse"*
+symbol docs/GenericModifier#`<init>`()."
+packagedocs"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine7"
+isValfalse"<
+uri5metals-docs/src/main/scala/docs/GenericModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter22"
+isFinalfalse*<init>

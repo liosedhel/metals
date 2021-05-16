@@ -1,0 +1,86 @@
+
+=mtags/src/main/scala/scala/meta/internal/metals/Testing.scalaç
+,scala/meta/internal/metals/Testing.enable().METHODG
+=mtags/src/main/scala/scala/meta/internal/metals/Testing.scala ("
+endLine3"
+isVarfalse"6
+symbol,scala/meta/internal/metals/Testing.enable()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameenable"
+kindMETHOD"
+	startLine3"
+isValfalse"D
+uri=mtags/src/main/scala/scala/meta/internal/metals/Testing.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse"
+LOC3*enable2c
+scala/Unit#RETURN_TYPEG
+=mtags/src/main/scala/scala/meta/internal/metals/Testing.scala (2b
+java/lang/System#CALLG
+=mtags/src/main/scala/scala/meta/internal/metals/Testing.scala (
+2p
+java/lang/System#setProperty().CALLG
+=mtags/src/main/scala/scala/meta/internal/metals/Testing.scala (Å
+#scala/meta/internal/metals/Testing.OBJECTG
+=mtags/src/main/scala/scala/meta/internal/metals/Testing.scala ("
+endLine2"
+isVarfalse"-
+symbol#scala/meta/internal/metals/Testing."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameTesting"
+kindOBJECT"
+	startLine2"
+isValfalse"D
+uri=mtags/src/main/scala/scala/meta/internal/metals/Testing.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter14"
+startCharacter7"
+isFinaltrue"
+LOC8*Testing2„
+,scala/meta/internal/metals/Testing.enable().DECLARATIONG
+=mtags/src/main/scala/scala/meta/internal/metals/Testing.scala (2‡
+/scala/meta/internal/metals/Testing.isEnabled().DECLARATIONG
+=mtags/src/main/scala/scala/meta/internal/metals/Testing.scala (2
+scala/AnyRef#EXTEND„
+=mtags/src/main/scala/scala/meta/internal/metals/Testing.scalaFILE*=mtags/src/main/scala/scala/meta/internal/metals/Testing.scalaá
+/scala/meta/internal/metals/Testing.isEnabled().METHODG
+=mtags/src/main/scala/scala/meta/internal/metals/Testing.scala ("
+endLine6"
+isVarfalse"9
+symbol/scala/meta/internal/metals/Testing.isEnabled()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName	isEnabled"
+kindMETHOD"
+	startLine6"
+isValfalse"D
+uri=mtags/src/main/scala/scala/meta/internal/metals/Testing.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter15"
+startCharacter6"
+isFinalfalse"
+LOC3*	isEnabled2f
+scala/Boolean#RETURN_TYPEG
+=mtags/src/main/scala/scala/meta/internal/metals/Testing.scala (2i
+java/lang/Object#`==`().CALLG
+=mtags/src/main/scala/scala/meta/internal/metals/Testing.scala (2b
+java/lang/System#CALLG
+=mtags/src/main/scala/scala/meta/internal/metals/Testing.scala (2p
+java/lang/System#getProperty().CALLG
+=mtags/src/main/scala/scala/meta/internal/metals/Testing.scala ( 

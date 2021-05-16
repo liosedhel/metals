@@ -1,0 +1,72 @@
+
+0tests/input/src/main/scala/example/package.scala“
+#example/package.PackageObjectClass#CLASS:
+0tests/input/src/main/scala/example/package.scala ("
+endLine2"
+isVarfalse"-
+symbol#example/package.PackageObjectClass#"
+packageexample"
+accessPublicAccess()"!
+displayNamePackageObjectClass"
+kindCLASS"
+	startLine2"
+isValfalse"7
+uri0tests/input/src/main/scala/example/package.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter26"
+startCharacter8"
+isFinalfalse"
+LOC1*PackageObjectClass2u
+.example/package.PackageObjectClass#`<init>`().DECLARATION6
+0tests/input/src/main/scala/example/package.scala 2
+scala/AnyRef#EXTENDË
+example/package.PACKAGE_OBJECT6
+0tests/input/src/main/scala/example/package.scala("
+endLine0"
+isVarfalse"
+symbolexample/package."
+packageexample"
+accessEmpty"
+displayNameexample"
+kindPACKAGE_OBJECT"
+	startLine0"
+isValfalse"7
+uri0tests/input/src/main/scala/example/package.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter15"
+isFinaltrue*example2n
+#example/package.PackageObjectClass#DECLARATION:
+0tests/input/src/main/scala/example/package.scala (2
+scala/AnyRef#EXTENDþ
+.example/package.PackageObjectClass#`<init>`().CONSTRUCTOR6
+0tests/input/src/main/scala/example/package.scala "
+endLine4"
+isVarfalse"8
+symbol.example/package.PackageObjectClass#`<init>`()."
+packageexample"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine4"
+isValfalse"7
+uri0tests/input/src/main/scala/example/package.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>Ã
+0tests/input/src/main/scala/example/package.scalaFILE*0tests/input/src/main/scala/example/package.scala2W
+example/package.DECLARATION6
+0tests/input/src/main/scala/example/package.scala(

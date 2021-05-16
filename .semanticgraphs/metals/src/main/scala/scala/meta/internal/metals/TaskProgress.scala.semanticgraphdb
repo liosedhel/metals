@@ -1,0 +1,543 @@
+
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala¥
+;scala/meta/internal/metals/TaskProgress#update().(newTotal)	PARAMETERM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala  (("
+endLine12"
+isVarfalse"E
+symbol;scala/meta/internal/metals/TaskProgress#update().(newTotal)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamenewTotal"
+kind	PARAMETER"
+	startLine12"
+isValfalse"J
+uriCmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter40"
+startCharacter32"
+isFinalfalse*newTotal2b
+scala/Long#TYPEM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala* (.ù
+0scala/meta/internal/metals/TaskProgress#total().VARIABLEM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala
+ 
+("
+endLine10"
+isVartrue":
+symbol0scala/meta/internal/metals/TaskProgress#total()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNametotal"
+kindVARIABLE"
+	startLine10"
+isValfalse"J
+uriCmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter8"
+isFinalfalse*total2b
+scala/Long#TYPEM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala
+ 
+(≤
+1scala/meta/internal/metals/TaskProgress#update().METHODM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala ("
+endLine12"
+isVarfalse";
+symbol1scala/meta/internal/metals/TaskProgress#update()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameupdate"
+kindMETHOD"
+	startLine12"
+isValfalse"J
+uriCmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse"
+LOC4*update2ö
+>scala/meta/internal/metals/TaskProgress#update().(newProgress)	PARAMETERM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala (2ó
+;scala/meta/internal/metals/TaskProgress#update().(newTotal)	PARAMETERM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala  ((2i
+scala/Unit#RETURN_TYPEM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala1 (52ï
+>scala/meta/internal/metals/TaskProgress#update().(newProgress)CALLM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala (2é
+7scala/meta/internal/metals/TaskProgress#`progress_=`().CALLM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala (2í
+;scala/meta/internal/metals/TaskProgress#update().(newTotal)CALLM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala (2ã
+4scala/meta/internal/metals/TaskProgress#`total_=`().CALLM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala (	â
+:scala/meta/internal/metals/TaskProgress#`<init>`().(total)	PARAMETER"
+endLine0"
+isVartrue"D
+symbol:scala/meta/internal/metals/TaskProgress#`<init>`().(total)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNametotal"
+kind	PARAMETER"
+	startLine0"
+isValfalse"J
+uriCmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*total2
+scala/Long#TYPEˆ
+(scala/meta/internal/metals/TaskProgress#CLASSM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala ("
+endLine8"
+isVarfalse"2
+symbol(scala/meta/internal/metals/TaskProgress#"%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameTaskProgress"
+kindCLASS"
+	startLine8"
+isValfalse"J
+uriCmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter6"
+isFinalfalse"	
+LOC14*TaskProgress2ë
+3scala/meta/internal/metals/TaskProgress#progress().DECLARATIONM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala	 	(2ï
+7scala/meta/internal/metals/TaskProgress#`progress_=`().DECLARATIONM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala (2é
+0scala/meta/internal/metals/TaskProgress#total().DECLARATIONM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala
+ 
+(2í
+4scala/meta/internal/metals/TaskProgress#`total_=`().DECLARATIONM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala (	2ë
+3scala/meta/internal/metals/TaskProgress#`<init>`().DECLARATIONM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala (2è
+1scala/meta/internal/metals/TaskProgress#update().DECLARATIONM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala (2ì
+5scala/meta/internal/metals/TaskProgress#percentage().DECLARATIONM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala (2ë
+3scala/meta/internal/metals/TaskProgress#toString().DECLARATIONM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala (2
+scala/AnyRef#EXTENDÑ
+9scala/meta/internal/metals/TaskProgress#`total_=`().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"C
+symbol9scala/meta/internal/metals/TaskProgress#`total_=`().(x$1)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"J
+uriCmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+scala/Long#TYPE°
+4scala/meta/internal/metals/TaskProgress#`total_=`().VARIABLEM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala (	"
+endLine14"
+isVartrue">
+symbol4scala/meta/internal/metals/TaskProgress#`total_=`()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNametotal_="
+kindVARIABLE"
+	startLine14"
+isValfalse"J
+uriCmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter9"
+startCharacter4"
+isFinalfalse*total_=2F
+9scala/meta/internal/metals/TaskProgress#`total_=`().(x$1)	PARAMETER2
+scala/Unit#TYPE±
+7scala/meta/internal/metals/TaskProgress#`progress_=`().VARIABLEM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala ("
+endLine13"
+isVartrue"A
+symbol7scala/meta/internal/metals/TaskProgress#`progress_=`()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName
+progress_="
+kindVARIABLE"
+	startLine13"
+isValfalse"J
+uriCmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter4"
+isFinalfalse*
+progress_=2I
+<scala/meta/internal/metals/TaskProgress#`progress_=`().(x$1)	PARAMETER2
+scala/Unit#TYPEï
+=scala/meta/internal/metals/TaskProgress#`<init>`().(progress)	PARAMETER"
+endLine0"
+isVartrue"G
+symbol=scala/meta/internal/metals/TaskProgress#`<init>`().(progress)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameprogress"
+kind	PARAMETER"
+	startLine0"
+isValfalse"J
+uriCmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*progress2
+scala/Long#TYPEä
+<scala/meta/internal/metals/TaskProgress#`progress_=`().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"F
+symbol<scala/meta/internal/metals/TaskProgress#`progress_=`().(x$1)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"J
+uriCmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+scala/Long#TYPEê
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scalaFILE*Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scalaß
+3scala/meta/internal/metals/TaskProgress#progress().VARIABLEM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala	 	("
+endLine9"
+isVartrue"=
+symbol3scala/meta/internal/metals/TaskProgress#progress()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameprogress"
+kindVARIABLE"
+	startLine9"
+isValfalse"J
+uriCmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter8"
+isFinalfalse*progress2b
+scala/Long#TYPEM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala	 	(Ö
+5scala/meta/internal/metals/TaskProgress#percentage().METHODM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala ("
+endLine16"
+isVarfalse"?
+symbol5scala/meta/internal/metals/TaskProgress#percentage()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName
+percentage"
+kindMETHOD"
+	startLine16"
+isValfalse"J
+uriCmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter6"
+isFinalfalse"
+LOC4*
+percentage2h
+
+scala/Int#RETURN_TYPEM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala (2á
+0scala/meta/internal/metals/TaskProgress#total().CALLM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala (2k
+scala/Long#`==`(+3).CALLM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala (2ä
+3scala/meta/internal/metals/TaskProgress#progress().CALLM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala (2m
+scala/Long#toDouble().CALLM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala (2l
+scala/Double#`/`(+4).CALLM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala (2á
+0scala/meta/internal/metals/TaskProgress#total().CALLM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala ($2l
+scala/Double#`*`(+3).CALLM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala& ('2l
+scala/Double#toInt().CALLM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala- (2◊
+0scala/meta/internal/metals/TaskProgress.empty().METHODM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala ("
+endLine29"
+isVarfalse":
+symbol0scala/meta/internal/metals/TaskProgress.empty()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameempty"
+kindMETHOD"
+	startLine29"
+isValfalse"J
+uriCmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter11"
+startCharacter6"
+isFinalfalse"
+LOC1*empty2Ü
+(scala/meta/internal/metals/TaskProgress#RETURN_TYPEM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala (2
+(scala/meta/internal/metals/TaskProgress#CALLM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala  (,2ä
+3scala/meta/internal/metals/TaskProgress#`<init>`().CALLM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala, (,˙
+(scala/meta/internal/metals/TaskProgress.OBJECTM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala ("
+endLine23"
+isVarfalse"2
+symbol(scala/meta/internal/metals/TaskProgress."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameTaskProgress"
+kindOBJECT"
+	startLine23"
+isValfalse"J
+uriCmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter7"
+isFinaltrue"
+LOC8*TaskProgress2ê
+2scala/meta/internal/metals/TaskProgress.unapply().DECLARATIONM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala (2é
+0scala/meta/internal/metals/TaskProgress.empty().DECLARATIONM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala (2
+scala/AnyRef#EXTEND¿
+>scala/meta/internal/metals/TaskProgress#update().(newProgress)	PARAMETERM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala ("
+endLine12"
+isVarfalse"H
+symbol>scala/meta/internal/metals/TaskProgress#update().(newProgress)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamenewProgress"
+kind	PARAMETER"
+	startLine12"
+isValfalse"J
+uriCmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter24"
+startCharacter13"
+isFinalfalse*newProgress2b
+scala/Long#TYPEM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala (ø
+2scala/meta/internal/metals/TaskProgress.unapply().METHODM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala ("
+endLine24"
+isVarfalse"<
+symbol2scala/meta/internal/metals/TaskProgress.unapply()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameunapply"
+kindMETHOD"
+	startLine24"
+isValfalse"J
+uriCmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter6"
+isFinalfalse"
+LOC5*unapply2ë
+5scala/meta/internal/metals/TaskProgress.unapply().(p)	PARAMETERM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala (2k
+scala/Option#RETURN_TYPEM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala  (&2i
+scala/Long#RETURN_TYPEM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala' (+2®
+Jlocal0:metals/src/main/scala/scala/meta/internal/metals/TaskProgress.scalaDECLARATIONM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala (2å
+5scala/meta/internal/metals/TaskProgress.unapply().(p)CALLM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala (2å
+5scala/meta/internal/metals/TaskProgress#percentage().CALLM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala (!2°
+Jlocal0:metals/src/main/scala/scala/meta/internal/metals/TaskProgress.scalaCALLM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala (2j
+scala/Int#`>=`(+3).CALLM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala (2l
+scala/Boolean#`&&`().CALLM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala (2°
+Jlocal0:metals/src/main/scala/scala/meta/internal/metals/TaskProgress.scalaCALLM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala (%2j
+scala/Int#`<=`(+3).CALLM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala& ((2j
+scala/Int#toLong().CALLM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala3 (=2b
+scala/Some.CALLM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala. (22b
+scala/None.CALLM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala	 (ù
+Jlocal0:metals/src/main/scala/scala/meta/internal/metals/TaskProgress.scalaVALUEM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala ("
+endLine25"
+isVarfalse"
+symbollocal0"
+package "
+accessEmpty"
+displayName
+percentage"
+kindVALUE"
+	startLine25"
+isValtrue"J
+uriCmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter8"
+isFinalfalse*
+percentage2
+
+scala/Int#TYPE∑
+5scala/meta/internal/metals/TaskProgress.unapply().(p)	PARAMETERM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala ("
+endLine24"
+isVarfalse"?
+symbol5scala/meta/internal/metals/TaskProgress.unapply().(p)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamep"
+kind	PARAMETER"
+	startLine24"
+isValfalse"J
+uriCmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter15"
+startCharacter14"
+isFinalfalse*p2
+(scala/meta/internal/metals/TaskProgress#TYPEM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala (˝
+3scala/meta/internal/metals/TaskProgress#`<init>`().CONSTRUCTORM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala ("
+endLine8"
+isVarfalse"=
+symbol3scala/meta/internal/metals/TaskProgress#`<init>`()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine8"
+isValfalse"J
+uriCmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter18"
+isFinalfalse*<init>2J
+=scala/meta/internal/metals/TaskProgress#`<init>`().(progress)	PARAMETER2G
+:scala/meta/internal/metals/TaskProgress#`<init>`().(total)	PARAMETER2è
+3scala/meta/internal/metals/TaskProgress#progress().	PARAMETERM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala	 	(2å
+0scala/meta/internal/metals/TaskProgress#total().	PARAMETERM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala
+ 
+(•
+3scala/meta/internal/metals/TaskProgress#toString().METHODM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala ("
+endLine20"
+isVarfalse"=
+symbol3scala/meta/internal/metals/TaskProgress#toString()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNametoString"
+kindMETHOD"
+	startLine20"
+isValfalse"J
+uriCmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter15"
+isFinalfalse"
+LOC1*toString2(
+java/lang/Object#toString().OVERRIDE2!
+scala/Any#toString().OVERRIDE2r
+scala/Predef.String#RETURN_TYPEM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala (2ä
+3scala/meta/internal/metals/TaskProgress#progress().CALLM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala2 (:2á
+0scala/meta/internal/metals/TaskProgress#total().CALLM
+Cmetals/src/main/scala/scala/meta/internal/metals/TaskProgress.scala= (B

@@ -1,0 +1,74 @@
+
+Gmetals/src/main/scala/scala/meta/internal/tvp/TreeViewCompilation.scalaÆ
+4scala/meta/internal/tvp/TreeViewCompilation#timer().METHODQ
+Gmetals/src/main/scala/scala/meta/internal/tvp/TreeViewCompilation.scala ("
+endLine8"
+isVarfalse">
+symbol4scala/meta/internal/tvp/TreeViewCompilation#timer().""
+packagescala.meta.internal.tvp"
+accessPublicAccess()"
+displayNametimer"
+kindMETHOD"
+	startLine8"
+isValfalse"N
+uriGmetals/src/main/scala/scala/meta/internal/tvp/TreeViewCompilation.scala"
+
+isAbstracttrue"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter11"
+startCharacter6"
+isFinalfalse*timer2ƒ
+!scala/meta/internal/metals/Timer#RETURN_TYPEQ
+Gmetals/src/main/scala/scala/meta/internal/tvp/TreeViewCompilation.scala (­
+,scala/meta/internal/tvp/TreeViewCompilation#TRAITQ
+Gmetals/src/main/scala/scala/meta/internal/tvp/TreeViewCompilation.scala ("
+endLine7"
+isVarfalse"6
+symbol,scala/meta/internal/tvp/TreeViewCompilation#""
+packagescala.meta.internal.tvp"
+accessPublicAccess()""
+displayNameTreeViewCompilation"
+kindTRAIT"
+	startLine7"
+isValfalse"N
+uriGmetals/src/main/scala/scala/meta/internal/tvp/TreeViewCompilation.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter25"
+startCharacter6"
+isFinalfalse"
+LOC4*TreeViewCompilation2–
+4scala/meta/internal/tvp/TreeViewCompilation#timer().DECLARATIONQ
+Gmetals/src/main/scala/scala/meta/internal/tvp/TreeViewCompilation.scala (2£
+Ascala/meta/internal/tvp/TreeViewCompilation#progressPercentage().DECLARATIONQ
+Gmetals/src/main/scala/scala/meta/internal/tvp/TreeViewCompilation.scala	 	(2
+scala/AnyRef#EXTEND˜
+Gmetals/src/main/scala/scala/meta/internal/tvp/TreeViewCompilation.scalaFILE*Gmetals/src/main/scala/scala/meta/internal/tvp/TreeViewCompilation.scalaâ
+Ascala/meta/internal/tvp/TreeViewCompilation#progressPercentage().METHODQ
+Gmetals/src/main/scala/scala/meta/internal/tvp/TreeViewCompilation.scala	 	("
+endLine9"
+isVarfalse"K
+symbolAscala/meta/internal/tvp/TreeViewCompilation#progressPercentage().""
+packagescala.meta.internal.tvp"
+accessPublicAccess()"!
+displayNameprogressPercentage"
+kindMETHOD"
+	startLine9"
+isValfalse"N
+uriGmetals/src/main/scala/scala/meta/internal/tvp/TreeViewCompilation.scala"
+
+isAbstracttrue"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter24"
+startCharacter6"
+isFinalfalse*progressPercentage2l
+
+scala/Int#RETURN_TYPEQ
+Gmetals/src/main/scala/scala/meta/internal/tvp/TreeViewCompilation.scala	 	(

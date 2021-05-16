@@ -1,0 +1,100 @@
+
+Umetals/src/main/scala/scala/meta/internal/metals/BuildServerInitializeException.scalaõ
+Escala/meta/internal/metals/BuildServerInitializeException#`<init>`().CONSTRUCTOR_
+Umetals/src/main/scala/scala/meta/internal/metals/BuildServerInitializeException.scala$ ($"
+endLine2"
+isVarfalse"O
+symbolEscala/meta/internal/metals/BuildServerInitializeException#`<init>`()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine2"
+isValfalse"\
+uriUmetals/src/main/scala/scala/meta/internal/metals/BuildServerInitializeException.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter36"
+startCharacter36"
+isFinalfalse*<init>2¶
+Hscala/meta/internal/metals/BuildServerInitializeException#`<init>`().(e)	PARAMETER_
+Umetals/src/main/scala/scala/meta/internal/metals/BuildServerInitializeException.scala; (<2ª
+<scala/meta/internal/metals/BuildServerInitializeException#e.	PARAMETER_
+Umetals/src/main/scala/scala/meta/internal/metals/BuildServerInitializeException.scala% (&ï
+<scala/meta/internal/metals/BuildServerInitializeException#e.VALUE_
+Umetals/src/main/scala/scala/meta/internal/metals/BuildServerInitializeException.scala% (&"
+endLine2"
+isVarfalse"F
+symbol<scala/meta/internal/metals/BuildServerInitializeException#e."%
+packagescala.meta.internal.metals"
+accessPrivateThisAccess()"
+displayNamee"
+kindVALUE"
+	startLine2"
+isValtrue"\
+uriUmetals/src/main/scala/scala/meta/internal/metals/BuildServerInitializeException.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter38"
+startCharacter37"
+isFinalfalse*e2
+scala/package.Throwable#TYPE_
+Umetals/src/main/scala/scala/meta/internal/metals/BuildServerInitializeException.scala( (1 
+Hscala/meta/internal/metals/BuildServerInitializeException#`<init>`().(e)	PARAMETER_
+Umetals/src/main/scala/scala/meta/internal/metals/BuildServerInitializeException.scala; (<"
+endLine3"
+isVarfalse"R
+symbolHscala/meta/internal/metals/BuildServerInitializeException#`<init>`().(e)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamee"
+kind	PARAMETER"
+	startLine3"
+isValfalse"\
+uriUmetals/src/main/scala/scala/meta/internal/metals/BuildServerInitializeException.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter60"
+startCharacter59"
+isFinalfalse*e2 
+scala/package.Throwable#TYPE´
+Umetals/src/main/scala/scala/meta/internal/metals/BuildServerInitializeException.scalaFILE*Umetals/src/main/scala/scala/meta/internal/metals/BuildServerInitializeException.scalaÇ
+
+:scala/meta/internal/metals/BuildServerInitializeException#CLASS_
+Umetals/src/main/scala/scala/meta/internal/metals/BuildServerInitializeException.scala ($"
+endLine2"
+isVarfalse"D
+symbol:scala/meta/internal/metals/BuildServerInitializeException#"%
+packagescala.meta.internal.metals"
+accessPublicAccess()"-
+displayNameBuildServerInitializeException"
+kindCLASS"
+	startLine2"
+isValfalse"\
+uriUmetals/src/main/scala/scala/meta/internal/metals/BuildServerInitializeException.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter36"
+startCharacter6"
+isFinalfalse"
+LOC2*BuildServerInitializeException2¬
+<scala/meta/internal/metals/BuildServerInitializeException#e.DECLARATION_
+Umetals/src/main/scala/scala/meta/internal/metals/BuildServerInitializeException.scala% (&2µ
+Escala/meta/internal/metals/BuildServerInitializeException#`<init>`().DECLARATION_
+Umetals/src/main/scala/scala/meta/internal/metals/BuildServerInitializeException.scala$ ($2ƒ
+scala/package.Exception#EXTEND_
+Umetals/src/main/scala/scala/meta/internal/metals/BuildServerInitializeException.scala (2±
+Hscala/meta/internal/metals/BuildServerInitializeException#`<init>`().(e)CALL_
+Umetals/src/main/scala/scala/meta/internal/metals/BuildServerInitializeException.scala; (<

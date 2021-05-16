@@ -1,0 +1,51 @@
+
+6tests/input/src/main/scala/example/JavaThenScala.scalaö
+!example/JavaThenScala#`<init>`().CONSTRUCTOR@
+6tests/input/src/main/scala/example/JavaThenScala.scala ("
+endLine2"
+isVarfalse"+
+symbol!example/JavaThenScala#`<init>`()."
+packageexample"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine2"
+isValfalse"=
+uri6tests/input/src/main/scala/example/JavaThenScala.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter20"
+isFinalfalse*<init>v
+6tests/input/src/main/scala/example/JavaThenScala.scalaFILE*6tests/input/src/main/scala/example/JavaThenScala.scalaÁ
+example/JavaThenScala#CLASS@
+6tests/input/src/main/scala/example/JavaThenScala.scala ("
+endLine2"
+isVarfalse" 
+symbolexample/JavaThenScala#"
+packageexample"
+accessPublicAccess()"
+displayNameJavaThenScala"
+kindCLASS"
+	startLine2"
+isValfalse"=
+uri6tests/input/src/main/scala/example/JavaThenScala.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter6"
+isFinalfalse"
+LOC3*JavaThenScala2r
+!example/JavaThenScala#`<init>`().DECLARATION@
+6tests/input/src/main/scala/example/JavaThenScala.scala (2
+scala/AnyRef#EXTEND2\
+example/JavaClass#CALL@
+6tests/input/src/main/scala/example/JavaThenScala.scala (2i
+example/JavaClass#`<init>`(+1).CALL@
+6tests/input/src/main/scala/example/JavaThenScala.scala (

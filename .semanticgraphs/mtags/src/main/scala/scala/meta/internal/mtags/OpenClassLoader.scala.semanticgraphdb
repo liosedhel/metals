@@ -1,0 +1,487 @@
+
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala˜
+*scala/meta/internal/mtags/OpenClassLoader#CLASSN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala ("
+endLine11"
+isVarfalse"4
+symbol*scala/meta/internal/mtags/OpenClassLoader#"$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayNameOpenClassLoader"
+kindCLASS"
+	startLine11"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter27"
+startCharacter12"
+isFinaltrue"	
+LOC30*OpenClassLoader2î
+5scala/meta/internal/mtags/OpenClassLoader#`<init>`().DECLARATIONN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala (2î
+5scala/meta/internal/mtags/OpenClassLoader#addEntry().DECLARATIONN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala (2ì
+4scala/meta/internal/mtags/OpenClassLoader#resolve().DECLARATIONN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala (2ñ
+7scala/meta/internal/mtags/OpenClassLoader#resolveAll().DECLARATIONN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala   (2ï
+6scala/meta/internal/mtags/OpenClassLoader#resolve(+1).DECLARATIONN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala$ $(2r
+java/net/URLClassLoader#EXTENDN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala$ (22d
+scala/Array.CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala3 (82l
+scala/Array.empty().CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala9 (>2ë
+2scala/meta/internal/mtags/OpenClassLoader#isAdded.DECLARATIONN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala (2s
+scala/meta/io/AbsolutePath#CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala* (62q
+scala/collection/mutable/CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala (2u
+scala/collection/mutable/Set.CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala  (#2}
+%scala/collection/mutable/Set.empty().CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala$ ()–
+6scala/meta/internal/mtags/OpenClassLoader#resolve(+1).METHODN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala$ $("
+endLine36"
+isVarfalse"@
+symbol6scala/meta/internal/mtags/OpenClassLoader#resolve(+1)."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayNameresolve"
+kindMETHOD"
+	startLine36"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter6"
+isFinalfalse"
+LOC4*resolve2ú
+?scala/meta/internal/mtags/OpenClassLoader#resolve(+1).(relpath)	PARAMETERN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala$ $(2l
+scala/Option#RETURN_TYPEN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala$& $(,2z
+scala/meta/io/AbsolutePath#RETURN_TYPEN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala$- $(92™
+Klocal4:mtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scalaDECLARATIONN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala% %(2à
+0scala/meta/io/RelativePath#toURI().(isDirectory)CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala% %('2ó
+?scala/meta/internal/mtags/OpenClassLoader#resolve(+1).(relpath)CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala% %(2{
+#scala/meta/io/RelativePath#toURI().CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala% %(2p
+java/net/URI#toString().CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala%1 %(92£
+Klocal4:mtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scalaCALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala& &(2å
+4scala/meta/internal/mtags/OpenClassLoader#resolve().CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala& &(∑
+<scala/meta/internal/mtags/OpenClassLoader#resolveAll().(uri)	PARAMETERN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala   ("
+endLine32"
+isVarfalse"F
+symbol<scala/meta/internal/mtags/OpenClassLoader#resolveAll().(uri)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNameuri"
+kind	PARAMETER"
+	startLine32"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter17"
+isFinalfalse*uri2l
+scala/Predef.String#TYPEN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala   (±
+9scala/meta/internal/mtags/OpenClassLoader#resolve().(uri)	PARAMETERN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala ("
+endLine23"
+isVarfalse"C
+symbol9scala/meta/internal/mtags/OpenClassLoader#resolve().(uri)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNameuri"
+kind	PARAMETER"
+	startLine23"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter14"
+isFinalfalse*uri2l
+scala/Predef.String#TYPEN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala (Ë
+5scala/meta/internal/mtags/OpenClassLoader#addEntry().METHODN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala ("
+endLine13"
+isVarfalse"?
+symbol5scala/meta/internal/mtags/OpenClassLoader#addEntry()."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayNameaddEntry"
+kindMETHOD"
+	startLine13"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter14"
+startCharacter6"
+isFinalfalse"
+LOC9*addEntry2ô
+<scala/meta/internal/mtags/OpenClassLoader#addEntry().(entry)	PARAMETERN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala (2m
+scala/Boolean#RETURN_TYPEN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala% (,2r
+scala/Boolean#`unary_!`().CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala (	2î
+<scala/meta/internal/mtags/OpenClassLoader#addEntry().(entry)CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala (2y
+!scala/meta/io/AbsolutePath#toNIO.CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala (2s
+java/nio/file/Path#toUri().CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala ($2m
+java/net/URI#toURL().CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala% (*2y
+!java/net/URLClassLoader#addURL().CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala (2ä
+2scala/meta/internal/mtags/OpenClassLoader#isAdded.CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala (2Ä
+(scala/collection/mutable/SetLike#`+=`().CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala (2î
+<scala/meta/internal/mtags/OpenClassLoader#addEntry().(entry)CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala (ä
+2scala/meta/internal/mtags/OpenClassLoader#isAdded.VALUEN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala ("
+endLine12"
+isVarfalse"<
+symbol2scala/meta/internal/mtags/OpenClassLoader#isAdded."$
+packagescala.meta.internal.mtags"
+accessPrivateAccess()"
+displayNameisAdded"
+kindVALUE"
+	startLine12"
+isValtrue"K
+uriDmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter14"
+isFinalfalse*isAdded2%
+scala/collection/mutable/Set#TYPE2#
+scala/meta/io/AbsolutePath#TYPE∆
+4scala/meta/internal/mtags/OpenClassLoader#resolve().METHODN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala ("
+endLine23"
+isVarfalse">
+symbol4scala/meta/internal/mtags/OpenClassLoader#resolve()."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayNameresolve"
+kindMETHOD"
+	startLine23"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter6"
+isFinalfalse"
+LOC9*resolve2ñ
+9scala/meta/internal/mtags/OpenClassLoader#resolve().(uri)	PARAMETERN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala (2l
+scala/Option#RETURN_TYPEN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala ("2z
+scala/meta/io/AbsolutePath#RETURN_TYPEN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala# (/2™
+Klocal0:mtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scalaDECLARATIONN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala (2ë
+9scala/meta/internal/mtags/OpenClassLoader#resolve().(uri)CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala* (-2Ä
+(java/net/URLClassLoader#findResources().CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala ()2£
+Klocal0:mtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scalaCALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala (2Ä
+(java/util/Enumeration#hasMoreElements().CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala (#2™
+Klocal1:mtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scalaDECLARATIONN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala
+ (2£
+Klocal0:mtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scalaCALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala (2|
+$java/util/Enumeration#nextElement().CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala ('2£
+Klocal1:mtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scalaCALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala" (%2m
+java/net/URL#toURI().CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala& (+2l
+java/nio/file/Paths#CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala (2t
+java/nio/file/Paths#get(+1).CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala (!2s
+scala/meta/io/AbsolutePath.CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala (2c
+scala/Some.CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala (
+2c
+scala/None.CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala (
+Å
+7scala/meta/internal/mtags/OpenClassLoader#resolveAll().METHODN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala   ("
+endLine32"
+isVarfalse"A
+symbol7scala/meta/internal/mtags/OpenClassLoader#resolveAll()."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayName
+resolveAll"
+kindMETHOD"
+	startLine32"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter6"
+isFinalfalse"
+LOC4*
+resolveAll2ô
+<scala/meta/internal/mtags/OpenClassLoader#resolveAll().(uri)	PARAMETERN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala   (2r
+scala/package.List#RETURN_TYPEN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala   (#2z
+scala/meta/io/AbsolutePath#RETURN_TYPEN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala $  (02™
+Klocal2:mtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scalaDECLARATIONN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala! !(2î
+<scala/meta/internal/mtags/OpenClassLoader#resolveAll().(uri)CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala!* !(-2Ä
+(java/net/URLClassLoader#findResources().CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala! !()2®
+Klocal3:mtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala	PARAMETERN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala"# "(&2£
+Klocal3:mtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scalaCALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala"A "(D2m
+java/net/URL#toURI().CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala"E "(J2l
+java/nio/file/Paths#CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala"7 "(<2t
+java/nio/file/Paths#get(+1).CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala"= "(@2s
+scala/meta/io/AbsolutePath.CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala"* "(62£
+Klocal2:mtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scalaCALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala" "(2é
+6scala/collection/convert/Decorators.AsScala#asScala().CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala" "(2Ç
+*scala/collection/TraversableOnce#toList().CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala" "(2~
+&scala/collection/immutable/List#map().CALLN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala" "("Œ
+5scala/meta/internal/mtags/OpenClassLoader#`<init>`().CONSTRUCTORN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala ("
+endLine11"
+isVarfalse"?
+symbol5scala/meta/internal/mtags/OpenClassLoader#`<init>`()."$
+packagescala.meta.internal.mtags"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine11"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter28"
+startCharacter28"
+isFinalfalse*<init>≈
+Klocal0:mtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scalaVALUEN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala ("
+endLine24"
+isVarfalse"
+symbollocal0"
+package "
+accessEmpty"
+displayNameenumeration"
+kindVALUE"
+	startLine24"
+isValtrue"K
+uriDmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter8"
+isFinalfalse*enumeration2
+java/util/Enumeration#TYPE2
+java/net/URL#TYPEñ
+Klocal1:mtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scalaVALUEN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala
+ ("
+endLine26"
+isVarfalse"
+symbollocal1"
+package "
+accessEmpty"
+displayNameurl"
+kindVALUE"
+	startLine26"
+isValtrue"K
+uriDmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter10"
+isFinalfalse*url2
+java/net/URL#TYPEí
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scalaFILE*Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala¬
+<scala/meta/internal/mtags/OpenClassLoader#addEntry().(entry)	PARAMETERN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala ("
+endLine13"
+isVarfalse"F
+symbol<scala/meta/internal/mtags/OpenClassLoader#addEntry().(entry)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNameentry"
+kind	PARAMETER"
+	startLine13"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter15"
+isFinalfalse*entry2s
+scala/meta/io/AbsolutePath#TYPEN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala ("Ã
+?scala/meta/internal/mtags/OpenClassLoader#resolve(+1).(relpath)	PARAMETERN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala$ $("
+endLine36"
+isVarfalse"I
+symbol?scala/meta/internal/mtags/OpenClassLoader#resolve(+1).(relpath)"$
+packagescala.meta.internal.mtags"
+accessEmpty"
+displayNamerelpath"
+kind	PARAMETER"
+	startLine36"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter14"
+isFinalfalse*relpath2s
+scala/meta/io/RelativePath#TYPEN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala$ $(#≈
+Klocal2:mtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scalaVALUEN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala! !("
+endLine33"
+isVarfalse"
+symbollocal2"
+package "
+accessEmpty"
+displayNameenumeration"
+kindVALUE"
+	startLine33"
+isValtrue"K
+uriDmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter8"
+isFinalfalse*enumeration2
+java/util/Enumeration#TYPE2
+java/net/URL#TYPEô
+Klocal4:mtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scalaVALUEN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala% %("
+endLine37"
+isVarfalse"
+symbollocal4"
+package "
+accessEmpty"
+displayNameuri"
+kindVALUE"
+	startLine37"
+isValtrue"K
+uriDmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter11"
+startCharacter8"
+isFinalfalse*uri2
+java/lang/String#TYPE†
+Klocal3:mtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala	PARAMETERN
+Dmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala"# "(&"
+endLine34"
+isVarfalse"
+symbollocal3"
+package "
+accessEmpty"
+displayNameurl"
+kind	PARAMETER"
+	startLine34"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/mtags/OpenClassLoader.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter38"
+startCharacter35"
+isFinalfalse*url2
+java/net/URL#TYPE

@@ -1,0 +1,1696 @@
+
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaÎ
+Cscala/meta/internal/builds/MillBuildTool.isMillRelatedPath().(path)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaO O(
+"
+endLine79"
+isVarfalse"M
+symbolCscala/meta/internal/builds/MillBuildTool.isMillRelatedPath().(path)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNamepath"
+kind	PARAMETER"
+	startLine79"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter6"
+isFinalfalse*path2s
+scala/meta/io/AbsolutePath#TYPEN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaO O(á
+Gscala/meta/internal/builds/MillBuildTool#bloopInstallArgs().(workspace)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala  ()"
+endLine27"
+isVarfalse"Q
+symbolGscala/meta/internal/builds/MillBuildTool#bloopInstallArgs().(workspace)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayName	workspace"
+kind	PARAMETER"
+	startLine27"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter41"
+startCharacter32"
+isFinalfalse*	workspace2s
+scala/meta/io/AbsolutePath#TYPEN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala+ (7Õ
+9scala/meta/internal/builds/MillBuildTool#productPrefix().METHOD"
+endLine0"
+isVarfalse"C
+symbol9scala/meta/internal/builds/MillBuildTool#productPrefix()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNameproductPrefix"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productPrefix2 
+java/lang/String#RETURN_TYPE2*
+scala/Product#productPrefix().OVERRIDEƒ
+;scala/meta/internal/builds/MillBuildTool#productIterator().METHOD"
+endLine0"
+isVarfalse"E
+symbol;scala/meta/internal/builds/MillBuildTool#productIterator()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNameproductIterator"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productIterator2)
+scala/collection/Iterator#RETURN_TYPE2
+
+scala/Any#RETURN_TYPE2,
+ scala/Product#productIterator().OVERRIDE€
+7scala/meta/internal/builds/MillBuildTool#equals().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"A
+symbol7scala/meta/internal/builds/MillBuildTool#equals().(x$1)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Any#TYPEŠ
+3scala/meta/internal/builds/MillBuildTool#version().METHODN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala= =("
+endLine61"
+isVarfalse"=
+symbol3scala/meta/internal/builds/MillBuildTool#version()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNameversion"
+kindMETHOD"
+	startLine61"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter15"
+isFinalfalse"
+LOC1*version2;
+/scala/meta/internal/builds/BuildTool#version().OVERRIDE2s
+scala/Predef.String#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala= =(2}
+%scala/meta/internal/metals/BuildInfo.CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala=! =(*2‰
+1scala/meta/internal/metals/BuildInfo.millVersion.CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala=+ =(6¢
+:scala/meta/internal/builds/MillBuildTool#minimumVersion().METHODN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala9 9("
+endLine57"
+isVarfalse"D
+symbol:scala/meta/internal/builds/MillBuildTool#minimumVersion()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNameminimumVersion"
+kindMETHOD"
+	startLine57"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter29"
+startCharacter15"
+isFinalfalse"
+LOC1*minimumVersion2B
+6scala/meta/internal/builds/BuildTool#minimumVersion().OVERRIDE2s
+scala/Predef.String#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala9 9(%Õ
+<scala/meta/internal/builds/MillBuildTool#copy().(userConfig)	PARAMETER"
+endLine0"
+isVarfalse"F
+symbol<scala/meta/internal/builds/MillBuildTool#copy().(userConfig)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayName
+userConfig"
+kind	PARAMETER"
+	startLine0"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*
+userConfig2
+scala/Function0#TYPE25
+-scala/meta/internal/metals/UserConfiguration#TYPEÜ
+@scala/meta/internal/builds/MillBuildTool#`<init>`().(userConfig)	PARAMETER"
+endLine0"
+isVarfalse"J
+symbol@scala/meta/internal/builds/MillBuildTool#`<init>`().(userConfig)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayName
+userConfig"
+kind	PARAMETER"
+	startLine0"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*
+userConfig2
+scala/Function0#TYPE25
+-scala/meta/internal/metals/UserConfiguration#TYPEé7
+<scala/meta/internal/builds/MillBuildTool#bloopInstallArgs().METHODN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala ("
+endLine27"
+isVarfalse"F
+symbol<scala/meta/internal/builds/MillBuildTool#bloopInstallArgs()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNamebloopInstallArgs"
+kindMETHOD"
+	startLine27"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter31"
+startCharacter15"
+isFinalfalse"	
+LOC26*bloopInstallArgs2O
+Cscala/meta/internal/builds/BloopInstallProvider#bloopInstallArgs().OVERRIDE2¤
+Gscala/meta/internal/builds/MillBuildTool#bloopInstallArgs().(workspace)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala  ()2r
+scala/package.List#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala: (>2s
+scala/Predef.String#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala? (E2ª
+Klocal2:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaDECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala (2Ÿ
+Gscala/meta/internal/builds/MillBuildTool#bloopInstallArgs().(workspace)CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala (#2
+'scala/meta/io/AbsolutePath#resolve(+1).CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala$ (+2ª
+Klocal3:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaDECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala (2£
+Klocal2:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala ()2|
+$scala/meta/io/AbsolutePath#isFile().CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala* (02‹
+3scala/meta/internal/builds/MillBuildTool#version().CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala$ $(2£
+Klocal2:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala! !(%2y
+!scala/meta/io/AbsolutePath#toNIO.CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala!& !(+2l
+java/nio/file/Files#CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala   (2}
+%java/nio/file/Files#readAllLines(+1).CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala!	 !(2Ž
+6scala/collection/convert/Decorators.AsScala#asScala().CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"	 "(2†
+.scala/collection/TraversableLike#headOption().CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala#	 #(2q
+scala/Option#getOrElse().CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala$	 $(2‹
+3scala/meta/internal/builds/MillBuildTool#version().CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala& &(2ª
+Klocal4:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaDECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala* *(2n
+scala/util/Properties.CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala* *( 2{
+#scala/util/PropertiesTrait#isWin().CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala*! *(&2x
+ scala/collection/immutable/List.CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala*( *(,2w
+scala/collection/immutable/Nil.CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala*8 *(;2ª
+Klocal5:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaDECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala+ +(2£
+Klocal6:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala, ,(2€
+(scala/collection/immutable/List#`:::`().CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala, ,(2
+'scala/collection/immutable/List#`::`().CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala, ,(2”
+<scala/meta/internal/builds/MillBuildTool#predefScriptPath().CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala,  ,(02t
+java/lang/Object#toString().CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala,1 ,(92
+'scala/collection/immutable/List#`::`().CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala,: ,(<2
+'scala/collection/immutable/List#`::`().CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala,Z ,(\2w
+scala/collection/immutable/Nil.CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala,] ,(`2Œ
+4scala/meta/internal/builds/MillBuildTool#userConfig.CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala. .(2
+8scala/meta/internal/metals/UserConfiguration#millScript.CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala. .(2«
+Llocal13:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaDECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala/ /(2¤
+Llocal15:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala0 0(2¤
+Llocal14:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala0 0(2£
+Klocal5:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala0 0(2•
+=scala/meta/internal/builds/MillBuildTool#embeddedMillWrapper.CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala2 2(2~
+&scala/meta/io/AbsolutePath#toString().CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala2 2($2¤
+Llocal14:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala2' 2()2
+'scala/collection/immutable/List#`::`().CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala2; 2(=2¤
+Llocal19:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala2> 2(I2
+'scala/collection/immutable/List#`::`().CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala2J 2(L2£
+Klocal5:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala2M 2(Pâ
+Hscala/meta/internal/builds/MillBuildTool.isMillRelatedPath().(workspace)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaN N("
+endLine78"
+isVarfalse"R
+symbolHscala/meta/internal/builds/MillBuildTool.isMillRelatedPath().(workspace)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayName	workspace"
+kind	PARAMETER"
+	startLine78"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter15"
+startCharacter6"
+isFinalfalse*	workspace2s
+scala/meta/io/AbsolutePath#TYPEN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaN N(¨
+:scala/meta/internal/builds/MillBuildTool#copy$default$1().METHOD"
+endLine0"
+isVarfalse"D
+symbol:scala/meta/internal/builds/MillBuildTool#copy$default$1()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNamecopy$default$1"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$12<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+scala/Function0#RETURN_TYPE2<
+-scala/meta/internal/metals/UserConfiguration#RETURN_TYPE’
+=scala/meta/internal/builds/MillBuildTool#embeddedMillWrapper.VALUEN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala (&"
+endLine16"
+isVarfalse"G
+symbol=scala/meta/internal/builds/MillBuildTool#embeddedMillWrapper."%
+packagescala.meta.internal.builds"
+accessPrivateAccess()""
+displayNameembeddedMillWrapper"
+kindVALUE"
+	startLine16"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter38"
+startCharacter19"
+isFinalfalse*embeddedMillWrapper2#
+scala/meta/io/AbsolutePath#TYPE³
+3scala/meta/internal/builds/MillBuildTool.unapply().METHOD"
+endLine0"
+isVarfalse"=
+symbol3scala/meta/internal/builds/MillBuildTool.unapply()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNameunapply"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*unapply2E
+8scala/meta/internal/builds/MillBuildTool.unapply().(x$0)	PARAMETER2
+scala/Option#RETURN_TYPE2
+scala/Function0#RETURN_TYPE2<
+-scala/meta/internal/metals/UserConfiguration#RETURN_TYPE“
+4scala/meta/internal/builds/MillBuildTool#toString().METHODN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala? ?("
+endLine63"
+isVarfalse">
+symbol4scala/meta/internal/builds/MillBuildTool#toString()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNametoString"
+kindMETHOD"
+	startLine63"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter15"
+isFinalfalse"
+LOC1*toString2(
+java/lang/Object#toString().OVERRIDE2!
+scala/Any#toString().OVERRIDE2s
+scala/Predef.String#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala? ?(!°
+4scala/meta/internal/builds/MillBuildTool#`<init>`().CONSTRUCTORN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala
+ 
+("
+endLine10"
+isVarfalse">
+symbol4scala/meta/internal/builds/MillBuildTool#`<init>`()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine10"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter24"
+startCharacter24"
+isFinalfalse*<init>2M
+@scala/meta/internal/builds/MillBuildTool#`<init>`().(userConfig)	PARAMETER2‘
+4scala/meta/internal/builds/MillBuildTool#userConfig.	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala
+ 
+(#
+?scala/meta/internal/builds/MillBuildTool#productElement().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"I
+symbol?scala/meta/internal/builds/MillBuildTool#productElement().(x$1)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Int#TYPE×
+=scala/meta/internal/builds/MillBuildTool.apply().(userConfig)	PARAMETER"
+endLine0"
+isVarfalse"G
+symbol=scala/meta/internal/builds/MillBuildTool.apply().(userConfig)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayName
+userConfig"
+kind	PARAMETER"
+	startLine0"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*
+userConfig2
+scala/Function0#TYPE25
+-scala/meta/internal/metals/UserConfiguration#TYPEê
+4scala/meta/internal/builds/MillBuildTool#userConfig.VALUEN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala
+ 
+(#"
+endLine10"
+isVarfalse">
+symbol4scala/meta/internal/builds/MillBuildTool#userConfig."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayName
+userConfig"
+kindVALUE"
+	startLine10"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter35"
+startCharacter25"
+isFinalfalse*
+userConfig2
+scala/Function0#TYPE2…
+-scala/meta/internal/metals/UserConfiguration#TYPEN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala
++ 
+(<¡
+8scala/meta/internal/builds/MillBuildTool.unapply().(x$0)	PARAMETER"
+endLine0"
+isVarfalse"B
+symbol8scala/meta/internal/builds/MillBuildTool.unapply().(x$0)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNamex$0"
+kind	PARAMETER"
+	startLine0"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$021
+)scala/meta/internal/builds/MillBuildTool#TYPE¨
+2scala/meta/internal/builds/MillBuildTool#digest().METHODN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala6 6("
+endLine54"
+isVarfalse"<
+symbol2scala/meta/internal/builds/MillBuildTool#digest()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNamedigest"
+kindMETHOD"
+	startLine54"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter15"
+isFinalfalse"
+LOC2*digest2:
+.scala/meta/internal/builds/BuildTool#digest().OVERRIDE2š
+=scala/meta/internal/builds/MillBuildTool#digest().(workspace)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala6 6(2l
+scala/Option#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala60 6(62s
+scala/Predef.String#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala67 6(=2•
+=scala/meta/internal/builds/MillBuildTool#digest().(workspace)CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala7 7( 2~
+&scala/meta/internal/builds/MillDigest.CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala7 7(2ˆ
+0scala/meta/internal/builds/Digestable#current().CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala7 7(¢
+7scala/meta/internal/builds/MillBuildTool.readResolve().METHOD"
+endLine0"
+isVarfalse"A
+symbol7scala/meta/internal/builds/MillBuildTool.readResolve()."%
+packagescala.meta.internal.builds"
+accessPrivateAccess()"
+displayNamereadResolve"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*readResolve2 
+java/lang/Object#RETURN_TYPEµ
+?scala/meta/internal/builds/MillBuildTool#redirectErrorOutput().METHODN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala (""
+endLine25"
+isVarfalse"I
+symbol?scala/meta/internal/builds/MillBuildTool#redirectErrorOutput()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()""
+displayNameredirectErrorOutput"
+kindMETHOD"
+	startLine25"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter34"
+startCharacter15"
+isFinalfalse"
+LOC1*redirectErrorOutput2G
+;scala/meta/internal/builds/BuildTool#redirectErrorOutput().OVERRIDE2m
+scala/Boolean#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala$ (+Í
+=scala/meta/internal/builds/MillBuildTool#digest().(workspace)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala6 6("
+endLine54"
+isVarfalse"G
+symbol=scala/meta/internal/builds/MillBuildTool#digest().(workspace)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayName	workspace"
+kind	PARAMETER"
+	startLine54"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter31"
+startCharacter22"
+isFinalfalse*	workspace2s
+scala/meta/io/AbsolutePath#TYPEN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala6! 6(-í
+1scala/meta/internal/builds/MillBuildTool.apply().METHOD"
+endLine0"
+isVarfalse";
+symbol1scala/meta/internal/builds/MillBuildTool.apply()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNameapply"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply2J
+=scala/meta/internal/builds/MillBuildTool.apply().(userConfig)	PARAMETER28
+)scala/meta/internal/builds/MillBuildTool#RETURN_TYPE’
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaFILE*Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaÎ
+:scala/meta/internal/builds/MillBuildTool#executableName().METHODN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaA A("
+endLine65"
+isVarfalse"D
+symbol:scala/meta/internal/builds/MillBuildTool#executableName()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNameexecutableName"
+kindMETHOD"
+	startLine65"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter6"
+isFinalfalse"
+LOC1*executableName2 
+java/lang/String#RETURN_TYPE2B
+6scala/meta/internal/builds/BuildTool#executableName().OVERRIDEè
+0scala/meta/internal/builds/MillBuildTool#copy().METHOD"
+endLine0"
+isVarfalse":
+symbol0scala/meta/internal/builds/MillBuildTool#copy()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNamecopy"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy2I
+<scala/meta/internal/builds/MillBuildTool#copy().(userConfig)	PARAMETER28
+)scala/meta/internal/builds/MillBuildTool#RETURN_TYPEÄ
+>scala/meta/internal/builds/MillBuildTool#recommendedVersion().METHODN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala; ;(!"
+endLine59"
+isVarfalse"H
+symbol>scala/meta/internal/builds/MillBuildTool#recommendedVersion()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"!
+displayNamerecommendedVersion"
+kindMETHOD"
+	startLine59"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter33"
+startCharacter15"
+isFinalfalse"
+LOC1*recommendedVersion2F
+:scala/meta/internal/builds/BuildTool#recommendedVersion().OVERRIDE2s
+scala/Predef.String#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala;# ;()2‹
+3scala/meta/internal/builds/MillBuildTool#version().CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala;, ;(3“
+8scala/meta/internal/builds/MillBuildTool#predefScript().METHODN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaC C("
+endLine67"
+isVarfalse"B
+symbol8scala/meta/internal/builds/MillBuildTool#predefScript()."%
+packagescala.meta.internal.builds"
+accessPrivateAccess()"
+displayNamepredefScript"
+kindMETHOD"
+	startLine67"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter26"
+startCharacter14"
+isFinalfalse"
+LOC2*predefScript2
+scala/Array#RETURN_TYPE2
+scala/Byte#RETURN_TYPE2v
+java/lang/String#getBytes(+3).CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaDB D(Jƒ
+=scala/meta/internal/builds/MillBuildTool.isMillRelatedPath().METHODN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaM M("
+endLine77"
+isVarfalse"G
+symbol=scala/meta/internal/builds/MillBuildTool.isMillRelatedPath()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()" 
+displayNameisMillRelatedPath"
+kindMETHOD"
+	startLine77"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter6"
+isFinalfalse"
+LOC7*isMillRelatedPath2¥
+Hscala/meta/internal/builds/MillBuildTool.isMillRelatedPath().(workspace)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaN N(2 
+Cscala/meta/internal/builds/MillBuildTool.isMillRelatedPath().(path)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaO O(
+2m
+scala/Boolean#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaP P(2«
+Llocal26:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaDECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaQ Q(2›
+Cscala/meta/internal/builds/MillBuildTool.isMillRelatedPath().(path)CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaQ Q(2y
+!scala/meta/io/AbsolutePath#toNIO.CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaQ Q(2y
+!java/nio/file/Path#getFileName().CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaQ Q()2t
+java/lang/Object#toString().CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaQ* Q(22¤
+Llocal26:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaR R(2t
+java/lang/String#endsWith().CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaR R(„
+9scala/meta/internal/builds/MillBuildTool#canEqual().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"C
+symbol9scala/meta/internal/builds/MillBuildTool#canEqual().(x$1)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Any#TYPEÆ
+Klocal8:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal8"
+package "
+accessEmpty"
+displayNamex$2"
+kindVALUE"
+	startLine0"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$22
+java/lang/String#TYPEÆ
+Klocal9:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal9"
+package "
+accessEmpty"
+displayNamex$1"
+kindVALUE"
+	startLine0"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+java/lang/String#TYPEÀ
+Llocal24:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal24"
+package "
+accessPublicAccess()"
+displayName	matchEnd4"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*	matchEnd42Y
+Llocal55:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala	PARAMETER2
+scala/Boolean#RETURN_TYPEø
+Llocal25:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal25"
+package "
+accessEmpty"
+displayNameMillBuildTool$1"
+kindVALUE"
+	startLine0"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*MillBuildTool$121
+)scala/meta/internal/builds/MillBuildTool#TYPE¥
+Llocal26:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaVALUEN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaQ Q("
+endLine81"
+isVarfalse"
+symbollocal26"
+package "
+accessEmpty"
+displayNamefilename"
+kindVALUE"
+	startLine81"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter8"
+isFinalfalse*filename2
+java/lang/String#TYPE¡
+:scala/meta/internal/builds/MillBuildTool#productElement().METHOD"
+endLine0"
+isVarfalse"D
+symbol:scala/meta/internal/builds/MillBuildTool#productElement()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNameproductElement"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productElement2L
+?scala/meta/internal/builds/MillBuildTool#productElement().(x$1)	PARAMETER2
+
+scala/Any#RETURN_TYPE2+
+scala/Product#productElement().OVERRIDE»
+Klocal2:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaVALUEN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala ("
+endLine30"
+isVarfalse"
+symbollocal2"
+package "
+accessEmpty"
+displayNamemillVersionPath"
+kindVALUE"
+	startLine30"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter8"
+isFinalfalse*millVersionPath2#
+scala/meta/io/AbsolutePath#TYPE©
+Klocal3:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaVALUEN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala ("
+endLine31"
+isVarfalse"
+symbollocal3"
+package "
+accessEmpty"
+displayNamemillVersion"
+kindVALUE"
+	startLine31"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter8"
+isFinalfalse*millVersion2
+java/lang/String#TYPE‡
+Llocal20:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal20"
+package "
+accessPublicAccess()"
+displayNamecase8"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case82"
+scala/package.List#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPEÝ
+Llocal23:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal23"
+package "
+accessPublicAccess()"
+displayNamecase6"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case62
+scala/Boolean#RETURN_TYPEÉ
+8scala/meta/internal/builds/MillBuildTool#productArity().METHOD"
+endLine0"
+isVarfalse"B
+symbol8scala/meta/internal/builds/MillBuildTool#productArity()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNameproductArity"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productArity2
+
+scala/Int#RETURN_TYPE2)
+scala/Product#productArity().OVERRIDE›
+Klocal1:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaVALUEN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala ("
+endLine20"
+isVarfalse"
+symbollocal1"
+package "
+accessEmpty"
+displayNameout"
+kindVALUE"
+	startLine20"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter11"
+startCharacter8"
+isFinalfalse*out2
+java/nio/file/Path#TYPE©
+Klocal0:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaVALUEN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala ("
+endLine17"
+isVarfalse"
+symbollocal0"
+package "
+accessEmpty"
+displayNamemillWrapper"
+kindVALUE"
+	startLine17"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter8"
+isFinalfalse*millWrapper2
+java/lang/String#TYPEÝ
+Llocal22:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal22"
+package "
+accessPublicAccess()"
+displayNamecase5"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case52
+scala/Boolean#RETURN_TYPE¿
+Llocal21:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal21"
+package "
+accessEmpty"
+displayNamex1"
+kindVALUE"
+	startLine0"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x12
+
+scala/Any#TYPEÛ
+4scala/meta/internal/builds/MillBuildTool#hashCode().METHOD"
+endLine0"
+isVarfalse">
+symbol4scala/meta/internal/builds/MillBuildTool#hashCode()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNamehashCode"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*hashCode2
+
+scala/Int#RETURN_TYPE2(
+java/lang/Object#hashCode().OVERRIDE2!
+scala/Any#hashCode().OVERRIDEÃ
+Klocal5:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaVALUEN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala+ +("
+endLine43"
+isVarfalse"
+symbollocal5"
+package "
+accessEmpty"
+displayNamecmd"
+kindVALUE"
+	startLine43"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter11"
+startCharacter8"
+isFinalfalse*cmd2(
+ scala/collection/immutable/List#TYPE2
+java/lang/String#TYPEË
+Klocal4:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaVALUEN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala* *("
+endLine42"
+isVarfalse"
+symbollocal4"
+package "
+accessEmpty"
+displayNameiOption"
+kindVALUE"
+	startLine42"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter15"
+startCharacter8"
+isFinalfalse*iOption2(
+ scala/collection/immutable/List#TYPE2
+java/lang/String#TYPEÆ
+Klocal7:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal7"
+package "
+accessEmpty"
+displayNamex$3"
+kindVALUE"
+	startLine0"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$32
+java/lang/String#TYPEÃ
+Klocal6:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaVALUEN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala, ,("
+endLine44"
+isVarfalse"
+symbollocal6"
+package "
+accessEmpty"
+displayNamex$4"
+kindVALUE"
+	startLine44"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter6"
+isFinalfalse*x$42(
+ scala/collection/immutable/List#TYPE2
+java/lang/String#TYPE¥
+Llocal13:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaVALUEN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala/ /("
+endLine47"
+isVarfalse"
+symbollocal13"
+package "
+accessEmpty"
+displayNamescript"
+kindVALUE"
+	startLine47"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter16"
+isFinalfalse*script2
+scala/Predef.String#TYPE¾
+Llocal14:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaMETHODN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala2' 2()"
+endLine50"
+isVarfalse"
+symbollocal14"
+package "
+accessPublicAccess()"
+displayName	matchEnd5"
+kindMETHOD"
+	startLine50"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter41"
+startCharacter39"
+isFinalfalse*	matchEnd52Y
+Llocal54:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala	PARAMETER2"
+scala/package.List#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPEó
+<scala/meta/internal/builds/MillBuildTool#predefScriptPath().METHODN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaF F("
+endLine70"
+isVarfalse"F
+symbol<scala/meta/internal/builds/MillBuildTool#predefScriptPath()."%
+packagescala.meta.internal.builds"
+accessPrivateAccess()"
+displayNamepredefScriptPath"
+kindMETHOD"
+	startLine70"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter30"
+startCharacter14"
+isFinalfalse"
+LOC3*predefScriptPath2r
+java/nio/file/Path#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaF  F($2’
+:scala/meta/internal/builds/MillBuildTool#predefScriptName.CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaG  G(02…
+-scala/meta/internal/builds/BuildTool#tempDir.CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaG G(2w
+java/nio/file/Path#resolve(+1).CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaG G(2
+8scala/meta/internal/builds/MillBuildTool#predefScript().CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaG3 G(?2l
+java/nio/file/Files#CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaG G(	2t
+java/nio/file/Files#write().CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaG
+ G(ž
+Llocal15:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaVALUEN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala0 0("
+endLine48"
+isVarfalse"
+symbollocal15"
+package "
+accessEmpty"
+displayNamex$5"
+kindVALUE"
+	startLine48"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter14"
+startCharacter8"
+isFinalfalse*x$52
+scala/Predef.String#TYPEÓ+
+)scala/meta/internal/builds/MillBuildTool#CLASSN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala
+ 
+("
+endLine10"
+isVarfalse"3
+symbol)scala/meta/internal/builds/MillBuildTool#"%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNameMillBuildTool"
+kindCLASS"
+	startLine10"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter24"
+startCharacter11"
+isFinalfalse"	
+LOC65*MillBuildTool2“
+4scala/meta/internal/builds/MillBuildTool#userConfig.DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala
+ 
+(#2“
+4scala/meta/internal/builds/MillBuildTool#`<init>`().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala
+ 
+(2ž
+?scala/meta/internal/builds/MillBuildTool#redirectErrorOutput().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala ("2›
+<scala/meta/internal/builds/MillBuildTool#bloopInstallArgs().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala (2‘
+2scala/meta/internal/builds/MillBuildTool#digest().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala6 6(2™
+:scala/meta/internal/builds/MillBuildTool#minimumVersion().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala9 9(2
+>scala/meta/internal/builds/MillBuildTool#recommendedVersion().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala; ;(!2’
+3scala/meta/internal/builds/MillBuildTool#version().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala= =(2“
+4scala/meta/internal/builds/MillBuildTool#toString().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala? ?(2™
+:scala/meta/internal/builds/MillBuildTool#executableName().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaA A(2—
+8scala/meta/internal/builds/MillBuildTool#predefScript().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaC C(2›
+<scala/meta/internal/builds/MillBuildTool#predefScriptPath().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaF F(2?
+0scala/meta/internal/builds/MillBuildTool#copy().DECLARATION2I
+:scala/meta/internal/builds/MillBuildTool#copy$default$1().DECLARATION2H
+9scala/meta/internal/builds/MillBuildTool#productPrefix().DECLARATION2G
+8scala/meta/internal/builds/MillBuildTool#productArity().DECLARATION2I
+:scala/meta/internal/builds/MillBuildTool#productElement().DECLARATION2J
+;scala/meta/internal/builds/MillBuildTool#productIterator().DECLARATION2C
+4scala/meta/internal/builds/MillBuildTool#canEqual().DECLARATION2C
+4scala/meta/internal/builds/MillBuildTool#hashCode().DECLARATION2A
+2scala/meta/internal/builds/MillBuildTool#equals().DECLARATION2
+scala/AnyRef#EXTEND2
+scala/Product#EXTEND2
+scala/Serializable#EXTEND2
+%scala/meta/internal/builds/BuildTool#EXTENDN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala (2Š
+0scala/meta/internal/builds/BloopInstallProvider#EXTENDN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala	 (2™
+:scala/meta/internal/builds/MillBuildTool#predefScriptName.DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala (2œ
+=scala/meta/internal/builds/MillBuildTool#embeddedMillWrapper.DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala (&2ª
+Klocal0:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaDECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala (2n
+scala/util/Properties.CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala
+ (2{
+#scala/util/PropertiesTrait#isWin().CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala (2ª
+Klocal1:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaDECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala (2…
+-scala/meta/internal/builds/BuildTool#tempDir.CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala) (02£
+Klocal0:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala2 (=2}
+%scala/meta/internal/builds/BuildTool.CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala (2
+8scala/meta/internal/builds/BuildTool.copyFromResource().CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala ((2£
+Klocal1:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala (2t
+java/nio/file/Path#toFile().CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala (2w
+java/io/File#setExecutable(+1).CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala (2£
+Klocal1:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaCALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala (2s
+scala/meta/io/AbsolutePath.CALLN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala (œ
+Llocal19:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaVALUEN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala2> 2(I"
+endLine50"
+isVarfalse"
+symbollocal19"
+package "
+accessEmpty"
+displayNamex$6"
+kindVALUE"
+	startLine50"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter73"
+startCharacter62"
+isFinalfalse*x$62
+java/lang/String#TYPEü
+:scala/meta/internal/builds/MillBuildTool#predefScriptName.VALUEN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala ("
+endLine14"
+isVarfalse"D
+symbol:scala/meta/internal/builds/MillBuildTool#predefScriptName."%
+packagescala.meta.internal.builds"
+accessPrivateAccess()"
+displayNamepredefScriptName"
+kindVALUE"
+	startLine14"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter30"
+startCharacter14"
+isFinalfalse*predefScriptName2
+java/lang/String#TYPEè
+)scala/meta/internal/builds/MillBuildTool.OBJECTN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaL L("
+endLine76"
+isVarfalse"3
+symbol)scala/meta/internal/builds/MillBuildTool."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNameMillBuildTool"
+kindOBJECT"
+	startLine76"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter7"
+isFinaltrue"
+LOC9*MillBuildTool2œ
+=scala/meta/internal/builds/MillBuildTool.isMillRelatedPath().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaM M(2@
+1scala/meta/internal/builds/MillBuildTool.apply().DECLARATION2B
+3scala/meta/internal/builds/MillBuildTool.unapply().DECLARATION2F
+7scala/meta/internal/builds/MillBuildTool.readResolve().DECLARATION2
+scala/AnyRef#EXTEND2
+scala/Serializable#EXTEND½
+2scala/meta/internal/builds/MillBuildTool#equals().METHOD"
+endLine0"
+isVarfalse"<
+symbol2scala/meta/internal/builds/MillBuildTool#equals()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNameequals"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*equals2D
+7scala/meta/internal/builds/MillBuildTool#equals().(x$1)	PARAMETER2
+scala/Boolean#RETURN_TYPE2"
+scala/Equals#equals().OVERRIDE2&
+java/lang/Object#equals().OVERRIDE2
+scala/Any#equals().OVERRIDEÈ
+Llocal18:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal18"
+package "
+accessEmpty"
+displayNamex$7"
+kindVALUE"
+	startLine0"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$72
+java/lang/String#TYPEË
+Llocal17:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal17"
+package "
+accessEmpty"
+displayNamex$8"
+kindVALUE"
+	startLine0"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$82
+scala/Predef.String#TYPE‡
+Llocal16:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal16"
+package "
+accessPublicAccess()"
+displayNamecase7"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case72"
+scala/package.List#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE€
+4scala/meta/internal/builds/MillBuildTool#canEqual().METHOD"
+endLine0"
+isVarfalse">
+symbol4scala/meta/internal/builds/MillBuildTool#canEqual()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNamecanEqual"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*canEqual2F
+9scala/meta/internal/builds/MillBuildTool#canEqual().(x$1)	PARAMETER2
+scala/Boolean#RETURN_TYPE2$
+scala/Equals#canEqual().OVERRIDEÞ
+Llocal12:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal12"
+package "
+accessEmpty"
+displayNamex2"
+kindVALUE"
+	startLine0"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x22
+scala/Some#TYPE2
+scala/Predef.String#TYPE‡
+Llocal11:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal11"
+package "
+accessPublicAccess()"
+displayNamecase6"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case62"
+scala/package.List#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPEà
+Llocal10:metals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal10"
+package "
+accessEmpty"
+displayNamex1"
+kindVALUE"
+	startLine0"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/builds/MillBuildTool.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x12
+scala/Option#TYPE2
+scala/Predef.String#TYPE

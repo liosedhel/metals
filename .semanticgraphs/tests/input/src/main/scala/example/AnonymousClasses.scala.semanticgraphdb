@@ -1,0 +1,47 @@
+
+9tests/input/src/main/scala/example/AnonymousClasses.scala|
+9tests/input/src/main/scala/example/AnonymousClasses.scalaFILE*9tests/input/src/main/scala/example/AnonymousClasses.scalaê
+example/AnonymousClasses#CLASSC
+9tests/input/src/main/scala/example/AnonymousClasses.scala ("
+endLine2"
+isVarfalse"#
+symbolexample/AnonymousClasses#"
+packageexample"
+accessPublicAccess()"
+displayNameAnonymousClasses"
+kindCLASS"
+	startLine2"
+isValfalse"@
+uri9tests/input/src/main/scala/example/AnonymousClasses.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter6"
+isFinalfalse"
+LOC1*AnonymousClasses2x
+$example/AnonymousClasses#`<init>`().DECLARATIONC
+9tests/input/src/main/scala/example/AnonymousClasses.scala (2
+scala/AnyRef#EXTENDÇ
+$example/AnonymousClasses#`<init>`().CONSTRUCTORC
+9tests/input/src/main/scala/example/AnonymousClasses.scala ("
+endLine2"
+isVarfalse".
+symbol$example/AnonymousClasses#`<init>`()."
+packageexample"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine2"
+isValfalse"@
+uri9tests/input/src/main/scala/example/AnonymousClasses.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter23"
+isFinalfalse*<init>

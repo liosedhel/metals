@@ -1,0 +1,73 @@
+
+Ametals/src/main/scala/scala/meta/internal/process/ExitCodes.scala¾
+-scala/meta/internal/process/ExitCodes.Cancel.VALUEK
+Ametals/src/main/scala/scala/meta/internal/process/ExitCodes.scala ("
+endLine4"
+isVarfalse"7
+symbol-scala/meta/internal/process/ExitCodes.Cancel."&
+packagescala.meta.internal.process"
+accessPublicAccess()"
+displayNameCancel"
+kindVALUE"
+	startLine4"
+isValtrue"H
+uriAmetals/src/main/scala/scala/meta/internal/process/ExitCodes.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*Cancel2
+
+scala/Int#TYPEÂ
+.scala/meta/internal/process/ExitCodes.Success.VALUEK
+Ametals/src/main/scala/scala/meta/internal/process/ExitCodes.scala ("
+endLine3"
+isVarfalse"8
+symbol.scala/meta/internal/process/ExitCodes.Success."&
+packagescala.meta.internal.process"
+accessPublicAccess()"
+displayNameSuccess"
+kindVALUE"
+	startLine3"
+isValtrue"H
+uriAmetals/src/main/scala/scala/meta/internal/process/ExitCodes.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter6"
+isFinalfalse*Success2
+
+scala/Int#TYPEŒ
+Ametals/src/main/scala/scala/meta/internal/process/ExitCodes.scalaFILE*Ametals/src/main/scala/scala/meta/internal/process/ExitCodes.scalaà
+&scala/meta/internal/process/ExitCodes.OBJECTK
+Ametals/src/main/scala/scala/meta/internal/process/ExitCodes.scala ("
+endLine2"
+isVarfalse"0
+symbol&scala/meta/internal/process/ExitCodes."&
+packagescala.meta.internal.process"
+accessPublicAccess()"
+displayName	ExitCodes"
+kindOBJECT"
+	startLine2"
+isValfalse"H
+uriAmetals/src/main/scala/scala/meta/internal/process/ExitCodes.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter7"
+isFinaltrue"
+LOC4*	ExitCodes2
+scala/AnyRef#EXTEND2Š
+.scala/meta/internal/process/ExitCodes.Success.DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/process/ExitCodes.scala (2‰
+-scala/meta/internal/process/ExitCodes.Cancel.DECLARATIONK
+Ametals/src/main/scala/scala/meta/internal/process/ExitCodes.scala (

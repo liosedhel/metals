@@ -1,0 +1,187 @@
+
+Kmetals/src/main/scala/scala/meta/internal/builds/BloopInstallProvider.scala˚
+Jscala/meta/internal/builds/BloopInstallProvider#bloopInstall().(workspace)	PARAMETERU
+Kmetals/src/main/scala/scala/meta/internal/builds/BloopInstallProvider.scala ("
+endLine16"
+isVarfalse"T
+symbolJscala/meta/internal/builds/BloopInstallProvider#bloopInstall().(workspace)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayName	workspace"
+kind	PARAMETER"
+	startLine16"
+isValfalse"R
+uriKmetals/src/main/scala/scala/meta/internal/builds/BloopInstallProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter15"
+startCharacter6"
+isFinalfalse*	workspace2z
+scala/meta/io/AbsolutePath#TYPEU
+Kmetals/src/main/scala/scala/meta/internal/builds/BloopInstallProvider.scala (û	
+Nscala/meta/internal/builds/BloopInstallProvider#bloopInstall().(systemProcess)	PARAMETERU
+Kmetals/src/main/scala/scala/meta/internal/builds/BloopInstallProvider.scala ("
+endLine18"
+isVarfalse"X
+symbolNscala/meta/internal/builds/BloopInstallProvider#bloopInstall().(systemProcess)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNamesystemProcess"
+kind	PARAMETER"
+	startLine18"
+isValfalse"R
+uriKmetals/src/main/scala/scala/meta/internal/builds/BloopInstallProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter6"
+isFinalfalse*systemProcess2
+scala/Function1#TYPE2r
+scala/package.List#TYPEU
+Kmetals/src/main/scala/scala/meta/internal/builds/BloopInstallProvider.scala (2s
+scala/Predef.String#TYPEU
+Kmetals/src/main/scala/scala/meta/internal/builds/BloopInstallProvider.scala ( 2w
+scala/concurrent/Future#TYPEU
+Kmetals/src/main/scala/scala/meta/internal/builds/BloopInstallProvider.scala% (+2ê
+1scala/meta/internal/builds/WorkspaceLoadedStatus#TYPEU
+Kmetals/src/main/scala/scala/meta/internal/builds/BloopInstallProvider.scala, (Aÿ
+0scala/meta/internal/builds/BloopInstallProvider#TRAITU
+Kmetals/src/main/scala/scala/meta/internal/builds/BloopInstallProvider.scala	 	("
+endLine9"
+isVarfalse":
+symbol0scala/meta/internal/builds/BloopInstallProvider#"%
+packagescala.meta.internal.builds"
+accessPublicAccess()"#
+displayNameBloopInstallProvider"
+kindTRAIT"
+	startLine9"
+isValfalse"R
+uriKmetals/src/main/scala/scala/meta/internal/builds/BloopInstallProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter26"
+startCharacter6"
+isFinalfalse"	
+LOC18*BloopInstallProvider2•
+?scala/meta/internal/builds/BloopInstallProvider#bloopInstall().DECLARATIONU
+Kmetals/src/main/scala/scala/meta/internal/builds/BloopInstallProvider.scala (2©
+Cscala/meta/internal/builds/BloopInstallProvider#bloopInstallArgs().DECLARATIONU
+Kmetals/src/main/scala/scala/meta/internal/builds/BloopInstallProvider.scala (2
+scala/AnyRef#EXTENDÑ
+Nscala/meta/internal/builds/BloopInstallProvider#bloopInstallArgs().(workspace)	PARAMETERU
+Kmetals/src/main/scala/scala/meta/internal/builds/BloopInstallProvider.scala ( "
+endLine25"
+isVarfalse"X
+symbolNscala/meta/internal/builds/BloopInstallProvider#bloopInstallArgs().(workspace)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayName	workspace"
+kind	PARAMETER"
+	startLine25"
+isValfalse"R
+uriKmetals/src/main/scala/scala/meta/internal/builds/BloopInstallProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter32"
+startCharacter23"
+isFinalfalse*	workspace2z
+scala/meta/io/AbsolutePath#TYPEU
+Kmetals/src/main/scala/scala/meta/internal/builds/BloopInstallProvider.scala" (.•
+Oscala/meta/internal/builds/BloopInstallProvider#bloopInstall().(languageClient)	PARAMETERU
+Kmetals/src/main/scala/scala/meta/internal/builds/BloopInstallProvider.scala ("
+endLine17"
+isVarfalse"Y
+symbolOscala/meta/internal/builds/BloopInstallProvider#bloopInstall().(languageClient)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNamelanguageClient"
+kind	PARAMETER"
+	startLine17"
+isValfalse"R
+uriKmetals/src/main/scala/scala/meta/internal/builds/BloopInstallProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter6"
+isFinalfalse*languageClient2è
+0scala/meta/internal/metals/MetalsLanguageClient#TYPEU
+Kmetals/src/main/scala/scala/meta/internal/builds/BloopInstallProvider.scala (*≥
+?scala/meta/internal/builds/BloopInstallProvider#bloopInstall().METHODU
+Kmetals/src/main/scala/scala/meta/internal/builds/BloopInstallProvider.scala ("
+endLine15"
+isVarfalse"I
+symbol?scala/meta/internal/builds/BloopInstallProvider#bloopInstall()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNamebloopInstall"
+kindMETHOD"
+	startLine15"
+isValfalse"R
+uriKmetals/src/main/scala/scala/meta/internal/builds/BloopInstallProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter6"
+isFinalfalse"
+LOC6*bloopInstall2Æ
+Jscala/meta/internal/builds/BloopInstallProvider#bloopInstall().(workspace)	PARAMETERU
+Kmetals/src/main/scala/scala/meta/internal/builds/BloopInstallProvider.scala (2≥
+Oscala/meta/internal/builds/BloopInstallProvider#bloopInstall().(languageClient)	PARAMETERU
+Kmetals/src/main/scala/scala/meta/internal/builds/BloopInstallProvider.scala (2≤
+Nscala/meta/internal/builds/BloopInstallProvider#bloopInstall().(systemProcess)	PARAMETERU
+Kmetals/src/main/scala/scala/meta/internal/builds/BloopInstallProvider.scala (2~
+scala/concurrent/Future#RETURN_TYPEU
+Kmetals/src/main/scala/scala/meta/internal/builds/BloopInstallProvider.scala (2ó
+1scala/meta/internal/builds/WorkspaceLoadedStatus#RETURN_TYPEU
+Kmetals/src/main/scala/scala/meta/internal/builds/BloopInstallProvider.scala (!2©
+Jscala/meta/internal/builds/BloopInstallProvider#bloopInstall().(workspace)CALLU
+Kmetals/src/main/scala/scala/meta/internal/builds/BloopInstallProvider.scala# (,2¢
+Cscala/meta/internal/builds/BloopInstallProvider#bloopInstallArgs().CALLU
+Kmetals/src/main/scala/scala/meta/internal/builds/BloopInstallProvider.scala ("2≠
+Nscala/meta/internal/builds/BloopInstallProvider#bloopInstall().(systemProcess)CALLU
+Kmetals/src/main/scala/scala/meta/internal/builds/BloopInstallProvider.scala (≠
+Cscala/meta/internal/builds/BloopInstallProvider#bloopInstallArgs().METHODU
+Kmetals/src/main/scala/scala/meta/internal/builds/BloopInstallProvider.scala ("
+endLine25"
+isVarfalse"M
+symbolCscala/meta/internal/builds/BloopInstallProvider#bloopInstallArgs()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNamebloopInstallArgs"
+kindMETHOD"
+	startLine25"
+isValfalse"R
+uriKmetals/src/main/scala/scala/meta/internal/builds/BloopInstallProvider.scala"
+
+isAbstracttrue"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter6"
+isFinalfalse*bloopInstallArgs2≤
+Nscala/meta/internal/builds/BloopInstallProvider#bloopInstallArgs().(workspace)	PARAMETERU
+Kmetals/src/main/scala/scala/meta/internal/builds/BloopInstallProvider.scala ( 2y
+scala/package.List#RETURN_TYPEU
+Kmetals/src/main/scala/scala/meta/internal/builds/BloopInstallProvider.scala1 (52z
+scala/Predef.String#RETURN_TYPEU
+Kmetals/src/main/scala/scala/meta/internal/builds/BloopInstallProvider.scala6 (<†
+Kmetals/src/main/scala/scala/meta/internal/builds/BloopInstallProvider.scalaFILE*Kmetals/src/main/scala/scala/meta/internal/builds/BloopInstallProvider.scala

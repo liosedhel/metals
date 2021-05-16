@@ -1,0 +1,299 @@
+
++metals-docs/src/main/scala/docs/Image.scala§
+!docs/Image.importBuild().(editor)	PARAMETER5
++metals-docs/src/main/scala/docs/Image.scala ("
+endLine19"
+isVarfalse"+
+symbol!docs/Image.importBuild().(editor)"
+packagedocs"
+accessEmpty"
+displayNameeditor"
+kind	PARAMETER"
+	startLine19"
+isValfalse"2
+uri+metals-docs/src/main/scala/docs/Image.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter24"
+startCharacter18"
+isFinalfalse*editor2S
+scala/Predef.String#TYPE5
++metals-docs/src/main/scala/docs/Image.scala ( Í
+docs/Image.importBuild().METHOD5
++metals-docs/src/main/scala/docs/Image.scala ("
+endLine19"
+isVarfalse"#
+symboldocs/Image.importBuild()."
+packagedocs"
+accessPublicAccess()"
+displayNameimportBuild"
+kindMETHOD"
+	startLine19"
+isValfalse"2
+uri+metals-docs/src/main/scala/docs/Image.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter6"
+isFinalfalse"
+LOC2*importBuild2e
+!docs/Image.importBuild().(editor)	PARAMETER5
++metals-docs/src/main/scala/docs/Image.scala (2Z
+scala/Predef.String#RETURN_TYPE5
++metals-docs/src/main/scala/docs/Image.scala# ()2`
+!docs/Image.importBuild().(editor)CALL5
++metals-docs/src/main/scala/docs/Image.scala (2N
+docs/Image.all.CALL5
++metals-docs/src/main/scala/docs/Image.scala (Á
+docs/Image.runDoctor().METHOD5
++metals-docs/src/main/scala/docs/Image.scala ("
+endLine25"
+isVarfalse"!
+symboldocs/Image.runDoctor()."
+packagedocs"
+accessPublicAccess()"
+displayName	runDoctor"
+kindMETHOD"
+	startLine25"
+isValfalse"2
+uri+metals-docs/src/main/scala/docs/Image.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter15"
+startCharacter6"
+isFinalfalse"
+LOC2*	runDoctor2c
+docs/Image.runDoctor().(editor)	PARAMETER5
++metals-docs/src/main/scala/docs/Image.scala (2Z
+scala/Predef.String#RETURN_TYPE5
++metals-docs/src/main/scala/docs/Image.scala! ('2^
+docs/Image.runDoctor().(editor)CALL5
++metals-docs/src/main/scala/docs/Image.scala (2N
+docs/Image.all.CALL5
++metals-docs/src/main/scala/docs/Image.scala (Ù
+docs/Image.importCommand().METHOD5
++metals-docs/src/main/scala/docs/Image.scala ("
+endLine23"
+isVarfalse"%
+symboldocs/Image.importCommand()."
+packagedocs"
+accessPublicAccess()"
+displayNameimportCommand"
+kindMETHOD"
+	startLine23"
+isValfalse"2
+uri+metals-docs/src/main/scala/docs/Image.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter6"
+isFinalfalse"
+LOC2*importCommand2g
+#docs/Image.importCommand().(editor)	PARAMETER5
++metals-docs/src/main/scala/docs/Image.scala (2Z
+scala/Predef.String#RETURN_TYPE5
++metals-docs/src/main/scala/docs/Image.scala% (+2b
+#docs/Image.importCommand().(editor)CALL5
++metals-docs/src/main/scala/docs/Image.scala (2N
+docs/Image.all.CALL5
++metals-docs/src/main/scala/docs/Image.scala («
+#docs/Image.importChanges().(editor)	PARAMETER5
++metals-docs/src/main/scala/docs/Image.scala ("
+endLine21"
+isVarfalse"-
+symbol#docs/Image.importChanges().(editor)"
+packagedocs"
+accessEmpty"
+displayNameeditor"
+kind	PARAMETER"
+	startLine21"
+isValfalse"2
+uri+metals-docs/src/main/scala/docs/Image.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter26"
+startCharacter20"
+isFinalfalse*editor2S
+scala/Predef.String#TYPE5
++metals-docs/src/main/scala/docs/Image.scala ("Œ
+docs/Image.OBJECT5
++metals-docs/src/main/scala/docs/Image.scala ("
+endLine2"
+isVarfalse"
+symboldocs/Image."
+packagedocs"
+accessPublicAccess()"
+displayNameImage"
+kindOBJECT"
+	startLine2"
+isValfalse"2
+uri+metals-docs/src/main/scala/docs/Image.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter7"
+isFinaltrue"	
+LOC26*Image2_
+docs/Image.importBuild().DECLARATION5
++metals-docs/src/main/scala/docs/Image.scala (2a
+docs/Image.importChanges().DECLARATION5
++metals-docs/src/main/scala/docs/Image.scala (2a
+docs/Image.importCommand().DECLARATION5
++metals-docs/src/main/scala/docs/Image.scala (2]
+docs/Image.runDoctor().DECLARATION5
++metals-docs/src/main/scala/docs/Image.scala (2
+scala/AnyRef#EXTEND2U
+docs/Image.all.DECLARATION5
++metals-docs/src/main/scala/docs/Image.scala (	2^
+scala/Predef.ArrowAssoc#`->`().CALL5
++metals-docs/src/main/scala/docs/Image.scala (2^
+scala/Predef.ArrowAssoc#`->`().CALL5
++metals-docs/src/main/scala/docs/Image.scala (2^
+scala/Predef.ArrowAssoc#`->`().CALL5
++metals-docs/src/main/scala/docs/Image.scala (2^
+scala/Predef.ArrowAssoc#`->`().CALL5
++metals-docs/src/main/scala/docs/Image.scala (2^
+scala/Predef.ArrowAssoc#`->`().CALL5
++metals-docs/src/main/scala/docs/Image.scala (2P
+scala/Predef.Map.CALL5
++metals-docs/src/main/scala/docs/Image.scala (2^
+scala/Predef.ArrowAssoc#`->`().CALL5
++metals-docs/src/main/scala/docs/Image.scala
+
+ 
+(2^
+scala/Predef.ArrowAssoc#`->`().CALL5
++metals-docs/src/main/scala/docs/Image.scala (2^
+scala/Predef.ArrowAssoc#`->`().CALL5
++metals-docs/src/main/scala/docs/Image.scala (2P
+scala/Predef.Map.CALL5
++metals-docs/src/main/scala/docs/Image.scala
+ 
+(2^
+scala/Predef.ArrowAssoc#`->`().CALL5
++metals-docs/src/main/scala/docs/Image.scala (2^
+scala/Predef.ArrowAssoc#`->`().CALL5
++metals-docs/src/main/scala/docs/Image.scala (2^
+scala/Predef.ArrowAssoc#`->`().CALL5
++metals-docs/src/main/scala/docs/Image.scala (2P
+scala/Predef.Map.CALL5
++metals-docs/src/main/scala/docs/Image.scala (2P
+scala/Predef.Map.CALL5
++metals-docs/src/main/scala/docs/Image.scala. (1´
+docs/Image.all.VALUE5
++metals-docs/src/main/scala/docs/Image.scala (	"
+endLine3"
+isVarfalse"
+symboldocs/Image.all."
+packagedocs"
+accessPublicAccess()"
+displayNameall"
+kindVALUE"
+	startLine3"
+isValtrue"2
+uri+metals-docs/src/main/scala/docs/Image.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter9"
+startCharacter6"
+isFinalfalse*all2
+scala/Predef.Map#TYPE2
+scala/Predef.String#TYPE2
+scala/Predef.Map#TYPE2
+scala/Predef.String#TYPE2
+scala/Predef.String#TYPE£
+docs/Image.runDoctor().(editor)	PARAMETER5
++metals-docs/src/main/scala/docs/Image.scala ("
+endLine25"
+isVarfalse")
+symboldocs/Image.runDoctor().(editor)"
+packagedocs"
+accessEmpty"
+displayNameeditor"
+kind	PARAMETER"
+	startLine25"
+isValfalse"2
+uri+metals-docs/src/main/scala/docs/Image.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter16"
+isFinalfalse*editor2S
+scala/Predef.String#TYPE5
++metals-docs/src/main/scala/docs/Image.scala («
+#docs/Image.importCommand().(editor)	PARAMETER5
++metals-docs/src/main/scala/docs/Image.scala ("
+endLine23"
+isVarfalse"-
+symbol#docs/Image.importCommand().(editor)"
+packagedocs"
+accessEmpty"
+displayNameeditor"
+kind	PARAMETER"
+	startLine23"
+isValfalse"2
+uri+metals-docs/src/main/scala/docs/Image.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter26"
+startCharacter20"
+isFinalfalse*editor2S
+scala/Predef.String#TYPE5
++metals-docs/src/main/scala/docs/Image.scala ("Ù
+docs/Image.importChanges().METHOD5
++metals-docs/src/main/scala/docs/Image.scala ("
+endLine21"
+isVarfalse"%
+symboldocs/Image.importChanges()."
+packagedocs"
+accessPublicAccess()"
+displayNameimportChanges"
+kindMETHOD"
+	startLine21"
+isValfalse"2
+uri+metals-docs/src/main/scala/docs/Image.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter6"
+isFinalfalse"
+LOC2*importChanges2g
+#docs/Image.importChanges().(editor)	PARAMETER5
++metals-docs/src/main/scala/docs/Image.scala (2Z
+scala/Predef.String#RETURN_TYPE5
++metals-docs/src/main/scala/docs/Image.scala% (+2b
+#docs/Image.importChanges().(editor)CALL5
++metals-docs/src/main/scala/docs/Image.scala (2N
+docs/Image.all.CALL5
++metals-docs/src/main/scala/docs/Image.scala (`
++metals-docs/src/main/scala/docs/Image.scalaFILE*+metals-docs/src/main/scala/docs/Image.scala

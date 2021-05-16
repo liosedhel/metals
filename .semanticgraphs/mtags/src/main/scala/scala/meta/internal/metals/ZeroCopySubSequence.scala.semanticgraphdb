@@ -1,0 +1,443 @@
+
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scalaÇ
+=scala/meta/internal/metals/ZeroCopySubSequence#subSequence().METHODS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala
+ 
+("
+endLine10"
+isVarfalse"G
+symbol=scala/meta/internal/metals/ZeroCopySubSequence#subSequence()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamesubSequence"
+kindMETHOD"
+	startLine10"
+isValfalse"P
+uriImtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter26"
+startCharacter15"
+isFinalfalse"
+LOC3*subSequence21
+%java/lang/CharSequence#subSequence().OVERRIDE2©
+Gscala/meta/internal/metals/ZeroCopySubSequence#subSequence().(newStart)	PARAMETERS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala
+ 
+(#2ß
+Escala/meta/internal/metals/ZeroCopySubSequence#subSequence().(newEnd)	PARAMETERS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala
+* 
+(02{
+java/lang/CharSequence#RETURN_TYPES
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala
+8 
+(D2å
+/scala/meta/internal/metals/ZeroCopySubSequence#CALLS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala (2ó
+:scala/meta/internal/metals/ZeroCopySubSequence#`<init>`().CALLS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala (2ó
+:scala/meta/internal/metals/ZeroCopySubSequence#underlying.CALLS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala (&2í
+5scala/meta/internal/metals/ZeroCopySubSequence#start.CALLS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala( (-2o
+scala/Int#`+`(+4).CALLS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala. (/2§
+Gscala/meta/internal/metals/ZeroCopySubSequence#subSequence().(newStart)CALLS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala0 (82í
+5scala/meta/internal/metals/ZeroCopySubSequence#start.CALLS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala: (?2o
+scala/Int#`+`(+4).CALLS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala@ (A2ê
+3scala/meta/internal/metals/ZeroCopySubSequence#end.CALLS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scalaB (Eï
+?scala/meta/internal/metals/ZeroCopySubSequence#`<init>`().(end)	PARAMETER"
+endLine0"
+isVarfalse"I
+symbol?scala/meta/internal/metals/ZeroCopySubSequence#`<init>`().(end)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameend"
+kind	PARAMETER"
+	startLine0"
+isValfalse"P
+uriImtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*end2
+
+scala/Int#TYPEú
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scalaFILE*Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala•
+
+:scala/meta/internal/metals/ZeroCopySubSequence#`<init>`().CONSTRUCTORS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala ("
+endLine2"
+isVarfalse"D
+symbol:scala/meta/internal/metals/ZeroCopySubSequence#`<init>`()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine2"
+isValfalse"P
+uriImtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter25"
+startCharacter25"
+isFinalfalse*<init>2S
+Fscala/meta/internal/metals/ZeroCopySubSequence#`<init>`().(underlying)	PARAMETER2N
+Ascala/meta/internal/metals/ZeroCopySubSequence#`<init>`().(start)	PARAMETER2L
+?scala/meta/internal/metals/ZeroCopySubSequence#`<init>`().(end)	PARAMETER2ú
+:scala/meta/internal/metals/ZeroCopySubSequence#underlying.	PARAMETERS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala ($2ó
+5scala/meta/internal/metals/ZeroCopySubSequence#start.	PARAMETERS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala4 (92ï
+3scala/meta/internal/metals/ZeroCopySubSequence#end.	PARAMETERS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala@ (C›
+Gscala/meta/internal/metals/ZeroCopySubSequence#subSequence().(newStart)	PARAMETERS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala
+ 
+(#"
+endLine10"
+isVarfalse"Q
+symbolGscala/meta/internal/metals/ZeroCopySubSequence#subSequence().(newStart)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamenewStart"
+kind	PARAMETER"
+	startLine10"
+isValfalse"P
+uriImtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter35"
+startCharacter27"
+isFinalfalse*newStart2g
+
+scala/Int#TYPES
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala
+% 
+((æ
+Fscala/meta/internal/metals/ZeroCopySubSequence#`<init>`().(underlying)	PARAMETER"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/metals/ZeroCopySubSequence#`<init>`().(underlying)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayName
+underlying"
+kind	PARAMETER"
+	startLine0"
+isValfalse"P
+uriImtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*
+underlying2
+java/lang/CharSequence#TYPEù
+Ascala/meta/internal/metals/ZeroCopySubSequence#`<init>`().(start)	PARAMETER"
+endLine0"
+isVarfalse"K
+symbolAscala/meta/internal/metals/ZeroCopySubSequence#`<init>`().(start)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamestart"
+kind	PARAMETER"
+	startLine0"
+isValfalse"P
+uriImtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*start2
+
+scala/Int#TYPE∂
+5scala/meta/internal/metals/ZeroCopySubSequence#start.VALUES
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala4 (9"
+endLine2"
+isVarfalse"?
+symbol5scala/meta/internal/metals/ZeroCopySubSequence#start."%
+packagescala.meta.internal.metals"
+accessPrivateThisAccess()"
+displayNamestart"
+kindVALUE"
+	startLine2"
+isValtrue"P
+uriImtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter57"
+startCharacter52"
+isFinalfalse*start2g
+
+scala/Int#TYPES
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala; (>Æ
+3scala/meta/internal/metals/ZeroCopySubSequence#end.VALUES
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala@ (C"
+endLine2"
+isVarfalse"=
+symbol3scala/meta/internal/metals/ZeroCopySubSequence#end."%
+packagescala.meta.internal.metals"
+accessPrivateThisAccess()"
+displayNameend"
+kindVALUE"
+	startLine2"
+isValtrue"P
+uriImtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter67"
+startCharacter64"
+isFinalfalse*end2g
+
+scala/Int#TYPES
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scalaE (Hî	
+8scala/meta/internal/metals/ZeroCopySubSequence#length().METHODS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala ("
+endLine4"
+isVarfalse"B
+symbol8scala/meta/internal/metals/ZeroCopySubSequence#length()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamelength"
+kindMETHOD"
+	startLine4"
+isValfalse"P
+uriImtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter15"
+isFinalfalse"
+LOC1*length2,
+ java/lang/CharSequence#length().OVERRIDE2n
+
+scala/Int#RETURN_TYPES
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala (2ê
+3scala/meta/internal/metals/ZeroCopySubSequence#end.CALLS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala ("2o
+scala/Int#`-`(+3).CALLS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala# ($2í
+5scala/meta/internal/metals/ZeroCopySubSequence#start.CALLS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala% (*†
+:scala/meta/internal/metals/ZeroCopySubSequence#toString().METHODS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala ("
+endLine14"
+isVarfalse"D
+symbol:scala/meta/internal/metals/ZeroCopySubSequence#toString()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNametoString"
+kindMETHOD"
+	startLine14"
+isValfalse"P
+uriImtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter15"
+isFinalfalse"
+LOC1*toString2.
+"java/lang/CharSequence#toString().OVERRIDE2(
+java/lang/Object#toString().OVERRIDE2!
+scala/Any#toString().OVERRIDE2x
+scala/Predef.String#RETURN_TYPES
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala (2í
+5scala/meta/internal/metals/ZeroCopySubSequence#start.CALLS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala9 (>2ê
+3scala/meta/internal/metals/ZeroCopySubSequence#end.CALLS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala@ (C2ó
+:scala/meta/internal/metals/ZeroCopySubSequence#underlying.CALLS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala" (,2Ç
+%java/lang/CharSequence#subSequence().CALLS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala- (82y
+java/lang/Object#toString().CALLS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scalaE (M◊
+:scala/meta/internal/metals/ZeroCopySubSequence#underlying.VALUES
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala ($"
+endLine2"
+isVarfalse"D
+symbol:scala/meta/internal/metals/ZeroCopySubSequence#underlying."%
+packagescala.meta.internal.metals"
+accessPrivateThisAccess()"
+displayName
+underlying"
+kindVALUE"
+	startLine2"
+isValtrue"P
+uriImtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter36"
+startCharacter26"
+isFinalfalse*
+underlying2t
+java/lang/CharSequence#TYPES
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala& (2≈
+?scala/meta/internal/metals/ZeroCopySubSequence#charAt().(index)	PARAMETERS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala ("
+endLine6"
+isVarfalse"I
+symbol?scala/meta/internal/metals/ZeroCopySubSequence#charAt().(index)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameindex"
+kind	PARAMETER"
+	startLine6"
+isValfalse"P
+uriImtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter27"
+startCharacter22"
+isFinalfalse*index2g
+
+scala/Int#TYPES
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala ( Û
+/scala/meta/internal/metals/ZeroCopySubSequence#CLASSS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala ("
+endLine2"
+isVarfalse"9
+symbol/scala/meta/internal/metals/ZeroCopySubSequence#"%
+packagescala.meta.internal.metals"
+accessPublicAccess()""
+displayNameZeroCopySubSequence"
+kindCLASS"
+	startLine2"
+isValfalse"P
+uriImtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter25"
+startCharacter6"
+isFinalfalse"	
+LOC14*ZeroCopySubSequence2û
+:scala/meta/internal/metals/ZeroCopySubSequence#underlying.DECLARATIONS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala ($2ô
+5scala/meta/internal/metals/ZeroCopySubSequence#start.DECLARATIONS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala4 (92ó
+3scala/meta/internal/metals/ZeroCopySubSequence#end.DECLARATIONS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala@ (C2û
+:scala/meta/internal/metals/ZeroCopySubSequence#`<init>`().DECLARATIONS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala (2ú
+8scala/meta/internal/metals/ZeroCopySubSequence#length().DECLARATIONS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala (2ú
+8scala/meta/internal/metals/ZeroCopySubSequence#charAt().DECLARATIONS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala (2°
+=scala/meta/internal/metals/ZeroCopySubSequence#subSequence().DECLARATIONS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala
+ 
+(2û
+:scala/meta/internal/metals/ZeroCopySubSequence#toString().DECLARATIONS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala (2
+java/lang/Object#EXTEND2v
+java/lang/CharSequence#EXTENDS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala (’
+Escala/meta/internal/metals/ZeroCopySubSequence#subSequence().(newEnd)	PARAMETERS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala
+* 
+(0"
+endLine10"
+isVarfalse"O
+symbolEscala/meta/internal/metals/ZeroCopySubSequence#subSequence().(newEnd)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamenewEnd"
+kind	PARAMETER"
+	startLine10"
+isValfalse"P
+uriImtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter48"
+startCharacter42"
+isFinalfalse*newEnd2g
+
+scala/Int#TYPES
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala
+2 
+(5ﬁ
+8scala/meta/internal/metals/ZeroCopySubSequence#charAt().METHODS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala ("
+endLine6"
+isVarfalse"B
+symbol8scala/meta/internal/metals/ZeroCopySubSequence#charAt()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamecharAt"
+kindMETHOD"
+	startLine6"
+isValfalse"P
+uriImtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter15"
+isFinalfalse"
+LOC3*charAt2,
+ java/lang/CharSequence#charAt().OVERRIDE2°
+?scala/meta/internal/metals/ZeroCopySubSequence#charAt().(index)	PARAMETERS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala (2o
+scala/Char#RETURN_TYPES
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala# ('2í
+5scala/meta/internal/metals/ZeroCopySubSequence#start.CALLS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala (2o
+scala/Int#`+`(+4).CALLS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala (2ú
+?scala/meta/internal/metals/ZeroCopySubSequence#charAt().(index)CALLS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala (#2ó
+:scala/meta/internal/metals/ZeroCopySubSequence#underlying.CALLS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala (2}
+ java/lang/CharSequence#charAt().CALLS
+Imtags/src/main/scala/scala/meta/internal/metals/ZeroCopySubSequence.scala (

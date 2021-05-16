@@ -1,0 +1,255 @@
+
+Amtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala¸
+1scala/meta/internal/pc/CompilerWrapper#[Compiler]TYPE_PARAMETERK
+Amtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala  (("
+endLine2"
+isVarfalse";
+symbol1scala/meta/internal/pc/CompilerWrapper#[Compiler]"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNameCompiler"
+kindTYPE_PARAMETER"
+	startLine2"
+isValfalse"H
+uriAmtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter40"
+startCharacter32"
+isFinalfalse*Compiler2
+
+scala/Any#TYPE_PARAMETER2 
+scala/Nothing#TYPE_PARAMETERŸ
+Dscala/meta/internal/pc/CompilerWrapper#presentationCompilerThread().METHODK
+Amtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala ( "
+endLine16"
+isVarfalse"N
+symbolDscala/meta/internal/pc/CompilerWrapper#presentationCompilerThread()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()")
+displayNamepresentationCompilerThread"
+kindMETHOD"
+	startLine16"
+isValfalse"H
+uriAmtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala"
+
+isAbstracttrue"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter32"
+startCharacter6"
+isFinalfalse*presentationCompilerThread2i
+scala/Option#RETURN_TYPEK
+Amtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala" ((2m
+java/lang/Thread#RETURN_TYPEK
+Amtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala) (/≤
+7scala/meta/internal/pc/CompilerWrapper#resetReporter().METHODK
+Amtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala ("
+endLine4"
+isVarfalse"A
+symbol7scala/meta/internal/pc/CompilerWrapper#resetReporter()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameresetReporter"
+kindMETHOD"
+	startLine4"
+isValfalse"H
+uriAmtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala"
+
+isAbstracttrue"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter6"
+isFinalfalse*resetReporter2g
+scala/Unit#RETURN_TYPEK
+Amtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala (à
+'scala/meta/internal/pc/CompilerWrapper#TRAITK
+Amtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala ("
+endLine2"
+isVarfalse"1
+symbol'scala/meta/internal/pc/CompilerWrapper#"!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameCompilerWrapper"
+kindTRAIT"
+	startLine2"
+isValfalse"H
+uriAmtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter6"
+isFinalfalse"	
+LOC16*CompilerWrapper2ì
+7scala/meta/internal/pc/CompilerWrapper#resetReporter().DECLARATIONK
+Amtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala (2î
+8scala/meta/internal/pc/CompilerWrapper#reporterAccess().DECLARATIONK
+Amtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala (2ë
+5scala/meta/internal/pc/CompilerWrapper#askShutdown().DECLARATIONK
+Amtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala (2ç
+1scala/meta/internal/pc/CompilerWrapper#isAlive().DECLARATIONK
+Amtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala
+ 
+(2ä
+.scala/meta/internal/pc/CompilerWrapper#stop().DECLARATIONK
+Amtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala (
+2é
+2scala/meta/internal/pc/CompilerWrapper#compiler().DECLARATIONK
+Amtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala (2†
+Dscala/meta/internal/pc/CompilerWrapper#presentationCompilerThread().DECLARATIONK
+Amtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala ( 2
+scala/AnyRef#EXTEND2ê
+1scala/meta/internal/pc/CompilerWrapper#[Reporter]TYPE_PARAMETERK
+Amtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala (2ê
+1scala/meta/internal/pc/CompilerWrapper#[Compiler]TYPE_PARAMETERK
+Amtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala  ((å
+Amtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scalaFILE*Amtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala¸
+1scala/meta/internal/pc/CompilerWrapper#[Reporter]TYPE_PARAMETERK
+Amtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala ("
+endLine2"
+isVarfalse";
+symbol1scala/meta/internal/pc/CompilerWrapper#[Reporter]"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNameReporter"
+kindTYPE_PARAMETER"
+	startLine2"
+isValfalse"H
+uriAmtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter30"
+startCharacter22"
+isFinalfalse*Reporter2
+
+scala/Any#TYPE_PARAMETER2 
+scala/Nothing#TYPE_PARAMETER«
+2scala/meta/internal/pc/CompilerWrapper#compiler().METHODK
+Amtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala ("
+endLine14"
+isVarfalse"<
+symbol2scala/meta/internal/pc/CompilerWrapper#compiler()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamecompiler"
+kindMETHOD"
+	startLine14"
+isValfalse"H
+uriAmtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala"
+
+isAbstracttrue"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter14"
+startCharacter6"
+isFinalfalse*compiler2ç
+1scala/meta/internal/pc/CompilerWrapper#[Compiler]RETURN_TYPEK
+Amtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala (™
+5scala/meta/internal/pc/CompilerWrapper#askShutdown().METHODK
+Amtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala ("
+endLine8"
+isVarfalse"?
+symbol5scala/meta/internal/pc/CompilerWrapper#askShutdown()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameaskShutdown"
+kindMETHOD"
+	startLine8"
+isValfalse"H
+uriAmtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala"
+
+isAbstracttrue"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter6"
+isFinalfalse*askShutdown2g
+scala/Unit#RETURN_TYPEK
+Amtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala (‚
+8scala/meta/internal/pc/CompilerWrapper#reporterAccess().METHODK
+Amtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala ("
+endLine6"
+isVarfalse"B
+symbol8scala/meta/internal/pc/CompilerWrapper#reporterAccess()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamereporterAccess"
+kindMETHOD"
+	startLine6"
+isValfalse"H
+uriAmtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala"
+
+isAbstracttrue"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter6"
+isFinalfalse*reporterAccess2Ç
+&scala/meta/internal/pc/ReporterAccess#RETURN_TYPEK
+Amtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala ($2ç
+1scala/meta/internal/pc/CompilerWrapper#[Reporter]RETURN_TYPEK
+Amtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala% (-ü
+1scala/meta/internal/pc/CompilerWrapper#isAlive().METHODK
+Amtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala
+ 
+("
+endLine10"
+isVarfalse";
+symbol1scala/meta/internal/pc/CompilerWrapper#isAlive()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameisAlive"
+kindMETHOD"
+	startLine10"
+isValfalse"H
+uriAmtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala"
+
+isAbstracttrue"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter6"
+isFinalfalse*isAlive2j
+scala/Boolean#RETURN_TYPEK
+Amtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala
+ 
+(ê
+.scala/meta/internal/pc/CompilerWrapper#stop().METHODK
+Amtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala (
+"
+endLine12"
+isVarfalse"8
+symbol.scala/meta/internal/pc/CompilerWrapper#stop()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamestop"
+kindMETHOD"
+	startLine12"
+isValfalse"H
+uriAmtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala"
+
+isAbstracttrue"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter6"
+isFinalfalse*stop2g
+scala/Unit#RETURN_TYPEK
+Amtags/src/main/scala/scala/meta/internal/pc/CompilerWrapper.scala (

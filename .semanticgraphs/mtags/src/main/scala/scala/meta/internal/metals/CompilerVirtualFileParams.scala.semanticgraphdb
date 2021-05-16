@@ -1,0 +1,956 @@
+
+Omtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scalaı
+5scala/meta/internal/metals/CompilerVirtualFileParams#CLASSY
+Omtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala ($"
+endLine7"
+isVarfalse"?
+symbol5scala/meta/internal/metals/CompilerVirtualFileParams#"%
+packagescala.meta.internal.metals"
+accessPublicAccess()"(
+displayNameCompilerVirtualFileParams"
+kindCLASS"
+	startLine7"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter36"
+startCharacter11"
+isFinalfalse"
+LOC5*CompilerVirtualFileParams2£
+9scala/meta/internal/metals/CompilerVirtualFileParams#uri.DECLARATIONY
+Omtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala (2§
+:scala/meta/internal/metals/CompilerVirtualFileParams#text.DECLARATIONY
+Omtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala	 	(2•
+;scala/meta/internal/metals/CompilerVirtualFileParams#token.DECLARATIONY
+Omtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala
+ 
+(	2™
+@scala/meta/internal/metals/CompilerVirtualFileParams#`<init>`().DECLARATIONY
+Omtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala$ ($2K
+<scala/meta/internal/metals/CompilerVirtualFileParams#copy().DECLARATION2U
+Fscala/meta/internal/metals/CompilerVirtualFileParams#copy$default$1().DECLARATION2U
+Fscala/meta/internal/metals/CompilerVirtualFileParams#copy$default$2().DECLARATION2U
+Fscala/meta/internal/metals/CompilerVirtualFileParams#copy$default$3().DECLARATION2T
+Escala/meta/internal/metals/CompilerVirtualFileParams#productPrefix().DECLARATION2S
+Dscala/meta/internal/metals/CompilerVirtualFileParams#productArity().DECLARATION2U
+Fscala/meta/internal/metals/CompilerVirtualFileParams#productElement().DECLARATION2V
+Gscala/meta/internal/metals/CompilerVirtualFileParams#productIterator().DECLARATION2O
+@scala/meta/internal/metals/CompilerVirtualFileParams#canEqual().DECLARATION2O
+@scala/meta/internal/metals/CompilerVirtualFileParams#hashCode().DECLARATION2O
+@scala/meta/internal/metals/CompilerVirtualFileParams#toString().DECLARATION2M
+>scala/meta/internal/metals/CompilerVirtualFileParams#equals().DECLARATION2
+java/lang/Object#EXTEND2
+scala/Product#EXTEND2
+scala/Serializable#EXTEND2Ö
+ scala/meta/pc/VirtualFileParams#EXTENDY
+Omtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala
+ (Ø
+@scala/meta/internal/metals/CompilerVirtualFileParams#canEqual().METHOD"
+endLine0"
+isVarfalse"J
+symbol@scala/meta/internal/metals/CompilerVirtualFileParams#canEqual()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamecanEqual"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*canEqual2R
+Escala/meta/internal/metals/CompilerVirtualFileParams#canEqual().(x$1)	PARAMETER2
+scala/Boolean#RETURN_TYPE2$
+scala/Equals#canEqual().OVERRIDE£
+Cscala/meta/internal/metals/CompilerVirtualFileParams#equals().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"M
+symbolCscala/meta/internal/metals/CompilerVirtualFileParams#equals().(x$1)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Any#TYPE§
+Bscala/meta/internal/metals/CompilerVirtualFileParams.apply().(uri)	PARAMETER"
+endLine0"
+isVarfalse"L
+symbolBscala/meta/internal/metals/CompilerVirtualFileParams.apply().(uri)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameuri"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*uri2
+java/net/URI#TYPEæ
+Gscala/meta/internal/metals/CompilerVirtualFileParams#`<init>`().(token)	PARAMETER"
+endLine0"
+isVarfalse"Q
+symbolGscala/meta/internal/metals/CompilerVirtualFileParams#`<init>`().(token)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNametoken"
+kind	PARAMETER"
+	startLine0"
+isValtrue"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*token2"
+scala/meta/pc/CancelToken#TYPE¶
+Gscala/meta/internal/metals/CompilerVirtualFileParams#productIterator().METHOD"
+endLine0"
+isVarfalse"Q
+symbolGscala/meta/internal/metals/CompilerVirtualFileParams#productIterator()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameproductIterator"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productIterator2)
+scala/collection/Iterator#RETURN_TYPE2
+
+scala/Any#RETURN_TYPE2,
+ scala/Product#productIterator().OVERRIDEÏ
+=scala/meta/internal/metals/CompilerVirtualFileParams.apply().METHOD"
+endLine0"
+isVarfalse"G
+symbol=scala/meta/internal/metals/CompilerVirtualFileParams.apply()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameapply"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply2O
+Bscala/meta/internal/metals/CompilerVirtualFileParams.apply().(uri)	PARAMETER2P
+Cscala/meta/internal/metals/CompilerVirtualFileParams.apply().(text)	PARAMETER2Q
+Dscala/meta/internal/metals/CompilerVirtualFileParams.apply().(token)	PARAMETER2D
+5scala/meta/internal/metals/CompilerVirtualFileParams#RETURN_TYPE2$
+scala/Function3#apply().OVERRIDE≈
+Cscala/meta/internal/metals/CompilerVirtualFileParams.readResolve().METHOD"
+endLine0"
+isVarfalse"M
+symbolCscala/meta/internal/metals/CompilerVirtualFileParams.readResolve()."%
+packagescala.meta.internal.metals"
+accessPrivateAccess()"
+displayNamereadResolve"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*readResolve2 
+java/lang/Object#RETURN_TYPEÏ
+>scala/meta/internal/metals/CompilerVirtualFileParams#equals().METHOD"
+endLine0"
+isVarfalse"H
+symbol>scala/meta/internal/metals/CompilerVirtualFileParams#equals()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameequals"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*equals2P
+Cscala/meta/internal/metals/CompilerVirtualFileParams#equals().(x$1)	PARAMETER2
+scala/Boolean#RETURN_TYPE2"
+scala/Equals#equals().OVERRIDE2&
+java/lang/Object#equals().OVERRIDE2
+scala/Any#equals().OVERRIDEä
+Fscala/meta/internal/metals/CompilerVirtualFileParams#copy$default$1().METHOD"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/metals/CompilerVirtualFileParams#copy$default$1()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamecopy$default$1"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$12<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+java/net/URI#RETURN_TYPEó
+Fscala/meta/internal/metals/CompilerVirtualFileParams#copy$default$3().METHOD"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/metals/CompilerVirtualFileParams#copy$default$3()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamecopy$default$3"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$32<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2)
+scala/meta/pc/CancelToken#RETURN_TYPE€
+
+5scala/meta/internal/metals/CompilerVirtualFileParams.OBJECTW
+Omtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala ("
+endLine0"
+isVarfalse"?
+symbol5scala/meta/internal/metals/CompilerVirtualFileParams."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"(
+displayNameCompilerVirtualFileParams"
+kindOBJECT"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinaltrue*CompilerVirtualFileParams2O
+@scala/meta/internal/metals/CompilerVirtualFileParams.toString().DECLARATION2L
+=scala/meta/internal/metals/CompilerVirtualFileParams.apply().DECLARATION2V
+Gscala/meta/internal/metals/CompilerVirtualFileParams.apply$default$3().DECLARATION2N
+?scala/meta/internal/metals/CompilerVirtualFileParams.unapply().DECLARATION2Y
+Jscala/meta/internal/metals/CompilerVirtualFileParams.`<init>$default$3`().DECLARATION2R
+Cscala/meta/internal/metals/CompilerVirtualFileParams.readResolve().DECLARATION2*
+ scala/runtime/AbstractFunction3#EXTEND2
+java/net/URI#EXTEND2
+scala/Predef.String#EXTEND2$
+scala/meta/pc/CancelToken#EXTEND2?
+5scala/meta/internal/metals/CompilerVirtualFileParams#EXTEND2
+scala/Serializable#EXTEND‡
+Vlocal3:mtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal3"
+package "
+accessPublicAccess()"
+displayName	matchEnd4"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*	matchEnd42e
+Xlocal499:mtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala	PARAMETER2
+scala/Boolean#RETURN_TYPE∞
+Vlocal4:mtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal4"
+package "
+accessEmpty"*
+displayNameCompilerVirtualFileParams$1"
+kindVALUE"
+	startLine0"
+isValtrue"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*CompilerVirtualFileParams$12=
+5scala/meta/internal/metals/CompilerVirtualFileParams#TYPEè
+?scala/meta/internal/metals/CompilerVirtualFileParams.unapply().METHOD"
+endLine0"
+isVarfalse"I
+symbol?scala/meta/internal/metals/CompilerVirtualFileParams.unapply()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameunapply"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*unapply2Q
+Dscala/meta/internal/metals/CompilerVirtualFileParams.unapply().(x$0)	PARAMETER2
+scala/Option#RETURN_TYPE2
+scala/Tuple3#RETURN_TYPE2
+java/net/URI#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE2)
+scala/meta/pc/CancelToken#RETURN_TYPE˛
+@scala/meta/internal/metals/CompilerVirtualFileParams#hashCode().METHOD"
+endLine0"
+isVarfalse"J
+symbol@scala/meta/internal/metals/CompilerVirtualFileParams#hashCode()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamehashCode"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*hashCode2
+
+scala/Int#RETURN_TYPE2(
+java/lang/Object#hashCode().OVERRIDE2!
+scala/Any#hashCode().OVERRIDE∑
+Cscala/meta/internal/metals/CompilerVirtualFileParams#copy().(token)	PARAMETER"
+endLine0"
+isVarfalse"M
+symbolCscala/meta/internal/metals/CompilerVirtualFileParams#copy().(token)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNametoken"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*token2"
+scala/meta/pc/CancelToken#TYPEà
+:scala/meta/internal/metals/CompilerVirtualFileParams#text.VALUEY
+Omtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala	 	("
+endLine9"
+isVarfalse"D
+symbol:scala/meta/internal/metals/CompilerVirtualFileParams#text."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNametext"
+kindVALUE"
+	startLine9"
+isValtrue"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter8"
+startCharacter4"
+isFinalfalse*text23
+'scala/meta/pc/VirtualFileParams#text().OVERRIDE2w
+scala/Predef.String#TYPEY
+Omtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala	
+ 	(Ò
+Vlocal1:mtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal1"
+package "
+accessPublicAccess()"
+displayNamecase5"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case52
+scala/Boolean#RETURN_TYPE”
+Vlocal0:mtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal0"
+package "
+accessEmpty"
+displayNamex1"
+kindVALUE"
+	startLine0"
+isValtrue"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x12
+
+scala/Any#TYPE¥
+Fscala/meta/internal/metals/CompilerVirtualFileParams#`<init>`().(text)	PARAMETER"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/metals/CompilerVirtualFileParams#`<init>`().(text)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNametext"
+kind	PARAMETER"
+	startLine0"
+isValtrue"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*text2
+scala/Predef.String#TYPEÁ
+
+@scala/meta/internal/metals/CompilerVirtualFileParams#`<init>`().CONSTRUCTORY
+Omtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala$ ($"
+endLine7"
+isVarfalse"J
+symbol@scala/meta/internal/metals/CompilerVirtualFileParams#`<init>`()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine7"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter36"
+startCharacter36"
+isFinalfalse*<init>2R
+Escala/meta/internal/metals/CompilerVirtualFileParams#`<init>`().(uri)	PARAMETER2S
+Fscala/meta/internal/metals/CompilerVirtualFileParams#`<init>`().(text)	PARAMETER2T
+Gscala/meta/internal/metals/CompilerVirtualFileParams#`<init>`().(token)	PARAMETER2°
+9scala/meta/internal/metals/CompilerVirtualFileParams#uri.	PARAMETERY
+Omtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala (2¢
+:scala/meta/internal/metals/CompilerVirtualFileParams#text.	PARAMETERY
+Omtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala	 	(2£
+;scala/meta/internal/metals/CompilerVirtualFileParams#token.	PARAMETERY
+Omtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala
+ 
+(	Ö
+@scala/meta/internal/metals/CompilerVirtualFileParams#toString().METHOD"
+endLine0"
+isVarfalse"J
+symbol@scala/meta/internal/metals/CompilerVirtualFileParams#toString()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNametoString"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*toString2 
+java/lang/String#RETURN_TYPE2(
+java/lang/Object#toString().OVERRIDE2!
+scala/Any#toString().OVERRIDEß
+Escala/meta/internal/metals/CompilerVirtualFileParams#canEqual().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"O
+symbolEscala/meta/internal/metals/CompilerVirtualFileParams#canEqual().(x$1)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Any#TYPE¯
+Escala/meta/internal/metals/CompilerVirtualFileParams#productPrefix().METHOD"
+endLine0"
+isVarfalse"O
+symbolEscala/meta/internal/metals/CompilerVirtualFileParams#productPrefix()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameproductPrefix"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productPrefix2 
+java/lang/String#RETURN_TYPE2*
+scala/Product#productPrefix().OVERRIDE®
+Omtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scalaFILE*Omtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scalaë
+Fscala/meta/internal/metals/CompilerVirtualFileParams#copy$default$2().METHOD"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/metals/CompilerVirtualFileParams#copy$default$2()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamecopy$default$2"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$22<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPEØ
+Cscala/meta/internal/metals/CompilerVirtualFileParams.apply().(text)	PARAMETER"
+endLine0"
+isVarfalse"M
+symbolCscala/meta/internal/metals/CompilerVirtualFileParams.apply().(text)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNametext"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*text2
+scala/Predef.String#TYPEÒ
+Vlocal2:mtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal2"
+package "
+accessPublicAccess()"
+displayNamecase6"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case62
+scala/Boolean#RETURN_TYPE≥
+Kscala/meta/internal/metals/CompilerVirtualFileParams#productElement().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"U
+symbolKscala/meta/internal/metals/CompilerVirtualFileParams#productElement().(x$1)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Int#TYPE¢
+Ascala/meta/internal/metals/CompilerVirtualFileParams#copy().(uri)	PARAMETER"
+endLine0"
+isVarfalse"K
+symbolAscala/meta/internal/metals/CompilerVirtualFileParams#copy().(uri)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameuri"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*uri2
+java/net/URI#TYPEõ
+Gscala/meta/internal/metals/CompilerVirtualFileParams.apply$default$3().METHOD"
+endLine0"
+isVarfalse"Q
+symbolGscala/meta/internal/metals/CompilerVirtualFileParams.apply$default$3()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameapply$default$3"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply$default$32<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2)
+scala/meta/pc/CancelToken#RETURN_TYPE≠
+@scala/meta/internal/metals/CompilerVirtualFileParams.toString().METHOD"
+endLine0"
+isVarfalse"J
+symbol@scala/meta/internal/metals/CompilerVirtualFileParams.toString()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNametoString"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinaltrue*toString2 
+java/lang/String#RETURN_TYPE2'
+scala/Function3#toString().OVERRIDE2(
+java/lang/Object#toString().OVERRIDE2!
+scala/Any#toString().OVERRIDEπ
+Dscala/meta/internal/metals/CompilerVirtualFileParams.apply().(token)	PARAMETER"
+endLine0"
+isVarfalse"N
+symbolDscala/meta/internal/metals/CompilerVirtualFileParams.apply().(token)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNametoken"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*token2"
+scala/meta/pc/CancelToken#TYPEÏ
+Dscala/meta/internal/metals/CompilerVirtualFileParams#productArity().METHOD"
+endLine0"
+isVarfalse"N
+symbolDscala/meta/internal/metals/CompilerVirtualFileParams#productArity()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameproductArity"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productArity2
+
+scala/Int#RETURN_TYPE2)
+scala/Product#productArity().OVERRIDEø
+<scala/meta/internal/metals/CompilerVirtualFileParams#copy().METHOD"
+endLine0"
+isVarfalse"F
+symbol<scala/meta/internal/metals/CompilerVirtualFileParams#copy()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamecopy"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy2N
+Ascala/meta/internal/metals/CompilerVirtualFileParams#copy().(uri)	PARAMETER2O
+Bscala/meta/internal/metals/CompilerVirtualFileParams#copy().(text)	PARAMETER2P
+Cscala/meta/internal/metals/CompilerVirtualFileParams#copy().(token)	PARAMETER2D
+5scala/meta/internal/metals/CompilerVirtualFileParams#RETURN_TYPE–
+Dscala/meta/internal/metals/CompilerVirtualFileParams.unapply().(x$0)	PARAMETER"
+endLine0"
+isVarfalse"N
+symbolDscala/meta/internal/metals/CompilerVirtualFileParams.unapply().(x$0)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamex$0"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$02=
+5scala/meta/internal/metals/CompilerVirtualFileParams#TYPE–
+Fscala/meta/internal/metals/CompilerVirtualFileParams#productElement().METHOD"
+endLine0"
+isVarfalse"P
+symbolFscala/meta/internal/metals/CompilerVirtualFileParams#productElement()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameproductElement"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productElement2X
+Kscala/meta/internal/metals/CompilerVirtualFileParams#productElement().(x$1)	PARAMETER2
+
+scala/Any#RETURN_TYPE2+
+scala/Product#productElement().OVERRIDE©
+Escala/meta/internal/metals/CompilerVirtualFileParams#`<init>`().(uri)	PARAMETER"
+endLine0"
+isVarfalse"O
+symbolEscala/meta/internal/metals/CompilerVirtualFileParams#`<init>`().(uri)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameuri"
+kind	PARAMETER"
+	startLine0"
+isValtrue"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*uri2
+java/net/URI#TYPE¸
+9scala/meta/internal/metals/CompilerVirtualFileParams#uri.VALUEY
+Omtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala ("
+endLine8"
+isVarfalse"C
+symbol9scala/meta/internal/metals/CompilerVirtualFileParams#uri."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameuri"
+kindVALUE"
+	startLine8"
+isValtrue"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter7"
+startCharacter4"
+isFinalfalse*uri22
+&scala/meta/pc/VirtualFileParams#uri().OVERRIDE2p
+java/net/URI#TYPEY
+Omtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala	 (ï
+;scala/meta/internal/metals/CompilerVirtualFileParams#token.VALUEY
+Omtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala
+ 
+(	"
+endLine10"
+isVarfalse"E
+symbol;scala/meta/internal/metals/CompilerVirtualFileParams#token."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNametoken"
+kindVALUE"
+	startLine10"
+isValtrue"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter9"
+startCharacter4"
+isFinalfalse*token24
+(scala/meta/pc/VirtualFileParams#token().OVERRIDE2}
+scala/meta/pc/CancelToken#TYPEY
+Omtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala
+ 
+(≠
+Bscala/meta/internal/metals/CompilerVirtualFileParams#copy().(text)	PARAMETER"
+endLine0"
+isVarfalse"L
+symbolBscala/meta/internal/metals/CompilerVirtualFileParams#copy().(text)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNametext"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*text2
+scala/Predef.String#TYPE£
+Jscala/meta/internal/metals/CompilerVirtualFileParams.`<init>$default$3`().METHOD"
+endLine0"
+isVarfalse"T
+symbolJscala/meta/internal/metals/CompilerVirtualFileParams.`<init>$default$3`()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName<init>$default$3"
+kindMETHOD"
+	startLine0"
+isValfalse"V
+uriOmtags/src/main/scala/scala/meta/internal/metals/CompilerVirtualFileParams.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>$default$32<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2)
+scala/meta/pc/CancelToken#RETURN_TYPE

@@ -1,0 +1,378 @@
+
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scalaµ
+<scala/meta/internal/builds/SbtDigest.digestSbtFiles().(path)	PARAMETERJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala ("
+endLine21"
+isVarfalse"F
+symbol<scala/meta/internal/builds/SbtDigest.digestSbtFiles().(path)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNamepath"
+kind	PARAMETER"
+	startLine21"
+isValfalse"G
+uri@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter25"
+startCharacter21"
+isFinalfalse*path2o
+scala/meta/io/AbsolutePath#TYPEJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala ('˝
+%scala/meta/internal/builds/SbtDigest.OBJECTJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala ("
+endLine8"
+isVarfalse"/
+symbol%scala/meta/internal/builds/SbtDigest."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayName	SbtDigest"
+kindOBJECT"
+	startLine8"
+isValfalse"G
+uri@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter7"
+isFinaltrue"	
+LOC30*	SbtDigest2í
+7scala/meta/internal/builds/SbtDigest.digestWorkspace().DECLARATIONJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala
+ 
+((2ë
+6scala/meta/internal/builds/SbtDigest.digestSbtFiles().DECLARATIONJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala (2ê
+5scala/meta/internal/builds/SbtDigest.digestSbtFile().DECLARATIONJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala (2
+scala/AnyRef#EXTEND2|
+&scala/meta/internal/builds/Digestable#EXTENDJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala (# 
+Bscala/meta/internal/builds/SbtDigest.digestWorkspace().(workspace)	PARAMETERJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala ("
+endLine11"
+isVarfalse"L
+symbolBscala/meta/internal/builds/SbtDigest.digestWorkspace().(workspace)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayName	workspace"
+kind	PARAMETER"
+	startLine11"
+isValfalse"G
+uri@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter15"
+startCharacter6"
+isFinalfalse*	workspace2o
+scala/meta/io/AbsolutePath#TYPEJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala (≥
+;scala/meta/internal/builds/SbtDigest.digestSbtFile().(path)	PARAMETERJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala3 (7"
+endLine29"
+isVarfalse"E
+symbol;scala/meta/internal/builds/SbtDigest.digestSbtFile().(path)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNamepath"
+kind	PARAMETER"
+	startLine29"
+isValfalse"G
+uri@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter55"
+startCharacter51"
+isFinalfalse*path2o
+scala/meta/io/AbsolutePath#TYPEJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala9 (Eæ
+>scala/meta/internal/builds/SbtDigest.digestSbtFiles().(digest)	PARAMETERJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala) (/"
+endLine21"
+isVarfalse"H
+symbol>scala/meta/internal/builds/SbtDigest.digestSbtFiles().(digest)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNamedigest"
+kind	PARAMETER"
+	startLine21"
+isValfalse"G
+uri@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter47"
+startCharacter41"
+isFinalfalse*digest2p
+java/security/MessageDigest#TYPEJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala1 (>¢!
+7scala/meta/internal/builds/SbtDigest.digestWorkspace().METHODJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala
+ 
+(("
+endLine10"
+isVarfalse"A
+symbol7scala/meta/internal/builds/SbtDigest.digestWorkspace()."%
+packagescala.meta.internal.builds"
+accessProtectedAccess()"
+displayNamedigestWorkspace"
+kindMETHOD"
+	startLine10"
+isValfalse"G
+uri@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter40"
+startCharacter25"
+isFinalfalse"	
+LOC10*digestWorkspace2D
+8scala/meta/internal/builds/Digestable#digestWorkspace().OVERRIDE2õ
+Bscala/meta/internal/builds/SbtDigest.digestWorkspace().(workspace)	PARAMETERJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala (2ò
+?scala/meta/internal/builds/SbtDigest.digestWorkspace().(digest)	PARAMETERJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala (2i
+scala/Boolean#RETURN_TYPEJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala (2¢
+Glocal0:metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scalaDECLARATIONJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala (2ñ
+Bscala/meta/internal/builds/SbtDigest.digestWorkspace().(workspace)CALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala (2{
+'scala/meta/io/AbsolutePath#resolve(+1).CALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala (#2ñ
+Bscala/meta/internal/builds/SbtDigest.digestWorkspace().(workspace)CALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala (2ì
+?scala/meta/internal/builds/SbtDigest.digestWorkspace().(digest)CALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala ($2ä
+6scala/meta/internal/builds/SbtDigest.digestSbtFiles().CALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala (2i
+scala/Boolean#`&&`().CALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala& ((2õ
+Glocal0:metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scalaCALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala ("2{
+'scala/meta/io/AbsolutePath#resolve(+1).CALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala# (*2ì
+?scala/meta/internal/builds/SbtDigest.digestWorkspace().(digest)CALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala@ (F2v
+"scala/meta/internal/builds/Digest.CALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala (
+2à
+4scala/meta/internal/builds/Digest.digestFileBytes().CALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala (2i
+scala/Boolean#`&&`().CALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scalaH (J2õ
+Glocal0:metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scalaCALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala ("2ì
+?scala/meta/internal/builds/SbtDigest.digestWorkspace().(digest)CALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala$ (*2v
+"scala/meta/internal/builds/Digest.CALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala (
+2à
+4scala/meta/internal/builds/Digest.digestDirectory().CALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala (2i
+scala/Boolean#`&&`().CALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala, (.2õ
+Glocal0:metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scalaCALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala ("2{
+'scala/meta/io/AbsolutePath#resolve(+1).CALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala# (*2ì
+?scala/meta/internal/builds/SbtDigest.digestWorkspace().(digest)CALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala7 (=2v
+"scala/meta/internal/builds/Digest.CALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala (
+2à
+4scala/meta/internal/builds/Digest.digestDirectory().CALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala (ü
+Glocal0:metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scalaVALUEJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala ("
+endLine14"
+isVarfalse"
+symbollocal0"
+package "
+accessEmpty"
+displayNameproject"
+kindVALUE"
+	startLine14"
+isValtrue"G
+uri@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter15"
+startCharacter8"
+isFinalfalse*project2#
+scala/meta/io/AbsolutePath#TYPEø
+?scala/meta/internal/builds/SbtDigest.digestWorkspace().(digest)	PARAMETERJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala ("
+endLine12"
+isVarfalse"I
+symbol?scala/meta/internal/builds/SbtDigest.digestWorkspace().(digest)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNamedigest"
+kind	PARAMETER"
+	startLine12"
+isValfalse"G
+uri@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*digest2p
+java/security/MessageDigest#TYPEJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala (Ú
+5scala/meta/internal/builds/SbtDigest.digestSbtFile().METHODJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala ("
+endLine29"
+isVarfalse"?
+symbol5scala/meta/internal/builds/SbtDigest.digestSbtFile()."%
+packagescala.meta.internal.builds"
+accessPrivateAccess()"
+displayNamedigestSbtFile"
+kindMETHOD"
+	startLine29"
+isValfalse"G
+uri@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter27"
+startCharacter14"
+isFinalfalse"
+LOC7*digestSbtFile2
+scala/Boolean#RETURN_TYPE2ñ
+=scala/meta/internal/builds/SbtDigest.digestSbtFile().(digest)	PARAMETERJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala ("2î
+;scala/meta/internal/builds/SbtDigest.digestSbtFile().(path)	PARAMETERJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala3 (72è
+;scala/meta/internal/builds/SbtDigest.digestSbtFile().(path)CALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala (2x
+$scala/meta/io/AbsolutePath#isFile().CALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala (2i
+scala/Boolean#`&&`().CALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala (2è
+;scala/meta/internal/builds/SbtDigest.digestSbtFile().(path)CALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala (2¶
+Rscala/meta/internal/mtags/CommonMtagsEnrichments#XtensionAbsolutePath#extension().CALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala (%2l
+java/lang/Object#`==`().CALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala& ((2è
+;scala/meta/internal/builds/SbtDigest.digestSbtFile().(path)CALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala (2ë
+=scala/meta/internal/builds/SbtDigest.digestSbtFile().(digest)CALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala (2Ñ
+0scala/meta/internal/builds/Digest.digestScala().CALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala (º
+=scala/meta/internal/builds/SbtDigest.digestSbtFile().(digest)	PARAMETERJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala (""
+endLine29"
+isVarfalse"G
+symbol=scala/meta/internal/builds/SbtDigest.digestSbtFile().(digest)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNamedigest"
+kind	PARAMETER"
+	startLine29"
+isValfalse"G
+uri@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter34"
+startCharacter28"
+isFinalfalse*digest2p
+java/security/MessageDigest#TYPEJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala$ (1é
+6scala/meta/internal/builds/SbtDigest.digestSbtFiles().METHODJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala ("
+endLine21"
+isVarfalse"@
+symbol6scala/meta/internal/builds/SbtDigest.digestSbtFiles()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"
+displayNamedigestSbtFiles"
+kindMETHOD"
+	startLine21"
+isValfalse"G
+uri@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter6"
+isFinalfalse"
+LOC7*digestSbtFiles2ï
+<scala/meta/internal/builds/SbtDigest.digestSbtFiles().(path)	PARAMETERJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala (2ó
+>scala/meta/internal/builds/SbtDigest.digestSbtFiles().(digest)	PARAMETERJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala) (/2i
+scala/Boolean#RETURN_TYPEJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scalaA (H2ê
+<scala/meta/internal/builds/SbtDigest.digestSbtFiles().(path)CALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala (2}
+)scala/meta/io/AbsolutePath#isDirectory().CALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala (2†
+Glocal1:metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala	PARAMETERJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala (2õ
+Glocal1:metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scalaCALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala5 (92í
+>scala/meta/internal/builds/SbtDigest.digestSbtFiles().(digest)CALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala- (32â
+5scala/meta/internal/builds/SbtDigest.digestSbtFile().CALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala (,2ê
+<scala/meta/internal/builds/SbtDigest.digestSbtFiles().(path)CALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala (
+2°
+Mscala/meta/internal/mtags/CommonMtagsEnrichments#XtensionAbsolutePath#list().CALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala (2l
+geny/Generator#forall().CALLJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala (ä
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scalaFILE*@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala§
+Glocal1:metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala	PARAMETERJ
+@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala ("
+endLine23"
+isVarfalse"
+symbollocal1"
+package "
+accessEmpty"
+displayNamefile"
+kind	PARAMETER"
+	startLine23"
+isValfalse"G
+uri@metals/src/main/scala/scala/meta/internal/builds/SbtDigest.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter27"
+startCharacter23"
+isFinalfalse*file2#
+scala/meta/io/AbsolutePath#TYPE

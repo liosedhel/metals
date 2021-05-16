@@ -1,0 +1,316 @@
+
+7tests/input/src/main/scala/example/MethodOverload.scala˝
+$example/MethodOverload#`<init>`(+1).CONSTRUCTORA
+7tests/input/src/main/scala/example/MethodOverload.scala (
+"
+endLine3"
+isVarfalse".
+symbol$example/MethodOverload#`<init>`(+1)."
+packageexample"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine3"
+isValfalse">
+uri7tests/input/src/main/scala/example/MethodOverload.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter6"
+isFinalfalse*<init>ˆ
+$example/MethodOverload#`<init>`(+2).CONSTRUCTORA
+7tests/input/src/main/scala/example/MethodOverload.scala (
+"
+endLine4"
+isVarfalse".
+symbol$example/MethodOverload#`<init>`(+2)."
+packageexample"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine4"
+isValfalse">
+uri7tests/input/src/main/scala/example/MethodOverload.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter6"
+isFinalfalse*<init>2w
+'example/MethodOverload#`<init>`(+2).(c)	PARAMETERA
+7tests/input/src/main/scala/example/MethodOverload.scala (Å
+'example/MethodOverload#`<init>`(+2).(c)	PARAMETERA
+7tests/input/src/main/scala/example/MethodOverload.scala ("
+endLine4"
+isVarfalse"1
+symbol'example/MethodOverload#`<init>`(+2).(c)"
+packageexample"
+accessEmpty"
+displayNamec"
+kind	PARAMETER"
+	startLine4"
+isValfalse">
+uri7tests/input/src/main/scala/example/MethodOverload.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter11"
+isFinalfalse*c2
+
+scala/Int#TYPEÎ
+example/MethodOverload#a().METHODA
+7tests/input/src/main/scala/example/MethodOverload.scala ("
+endLine6"
+isVarfalse"%
+symbolexample/MethodOverload#a()."
+packageexample"
+accessPublicAccess()"
+displayNamea"
+kindMETHOD"
+	startLine6"
+isValfalse">
+uri7tests/input/src/main/scala/example/MethodOverload.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter7"
+startCharacter6"
+isFinalfalse"
+LOC1*a2
+
+scala/Int#RETURN_TYPE2n
+example/MethodOverload#a().(x)	PARAMETERA
+7tests/input/src/main/scala/example/MethodOverload.scala (	„
+example/MethodOverload#a.VALUEA
+7tests/input/src/main/scala/example/MethodOverload.scala ("
+endLine5"
+isVarfalse"#
+symbolexample/MethodOverload#a."
+packageexample"
+accessPublicAccess()"
+displayNamea"
+kindVALUE"
+	startLine5"
+isValtrue">
+uri7tests/input/src/main/scala/example/MethodOverload.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter7"
+startCharacter6"
+isFinalfalse*a2
+
+scala/Int#TYPE„
+example/MethodOverload#a(+1).METHODA
+7tests/input/src/main/scala/example/MethodOverload.scala ("
+endLine7"
+isVarfalse"'
+symbolexample/MethodOverload#a(+1)."
+packageexample"
+accessPublicAccess()"
+displayNamea"
+kindMETHOD"
+	startLine7"
+isValfalse">
+uri7tests/input/src/main/scala/example/MethodOverload.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter7"
+startCharacter6"
+isFinalfalse"
+LOC1*a2
+
+scala/Int#RETURN_TYPE2p
+ example/MethodOverload#a(+1).(x)	PARAMETERA
+7tests/input/src/main/scala/example/MethodOverload.scala (	2p
+ example/MethodOverload#a(+1).(y)	PARAMETERA
+7tests/input/src/main/scala/example/MethodOverload.scala (x
+7tests/input/src/main/scala/example/MethodOverload.scalaFILE*7tests/input/src/main/scala/example/MethodOverload.scala∞
+example/MethodOverload#a().(x)	PARAMETERA
+7tests/input/src/main/scala/example/MethodOverload.scala (	"
+endLine6"
+isVarfalse"(
+symbolexample/MethodOverload#a().(x)"
+packageexample"
+accessEmpty"
+displayNamex"
+kind	PARAMETER"
+	startLine6"
+isValfalse">
+uri7tests/input/src/main/scala/example/MethodOverload.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter9"
+startCharacter8"
+isFinalfalse*x2U
+
+scala/Int#TYPEA
+7tests/input/src/main/scala/example/MethodOverload.scala (™
+
+example/MethodOverload#CLASSA
+7tests/input/src/main/scala/example/MethodOverload.scala ("
+endLine2"
+isVarfalse"!
+symbolexample/MethodOverload#"
+packageexample"
+accessPublicAccess()"
+displayNameMethodOverload"
+kindCLASS"
+	startLine2"
+isValfalse">
+uri7tests/input/src/main/scala/example/MethodOverload.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter6"
+isFinalfalse"
+LOC7*MethodOverload2k
+example/MethodOverload#b.DECLARATIONA
+7tests/input/src/main/scala/example/MethodOverload.scala (2t
+"example/MethodOverload#`<init>`().DECLARATIONA
+7tests/input/src/main/scala/example/MethodOverload.scala (2v
+$example/MethodOverload#`<init>`(+1).DECLARATIONA
+7tests/input/src/main/scala/example/MethodOverload.scala (
+2v
+$example/MethodOverload#`<init>`(+2).DECLARATIONA
+7tests/input/src/main/scala/example/MethodOverload.scala (
+2m
+example/MethodOverload#a().DECLARATIONA
+7tests/input/src/main/scala/example/MethodOverload.scala (2o
+example/MethodOverload#a(+1).DECLARATIONA
+7tests/input/src/main/scala/example/MethodOverload.scala (2
+scala/AnyRef#EXTEND2k
+example/MethodOverload#a.DECLARATIONA
+7tests/input/src/main/scala/example/MethodOverload.scala (ô
+"example/MethodOverload#`<init>`().CONSTRUCTORA
+7tests/input/src/main/scala/example/MethodOverload.scala ("
+endLine2"
+isVarfalse",
+symbol"example/MethodOverload#`<init>`()."
+packageexample"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine2"
+isValfalse">
+uri7tests/input/src/main/scala/example/MethodOverload.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter20"
+isFinalfalse*<init>22
+%example/MethodOverload#`<init>`().(b)	PARAMETER2i
+example/MethodOverload#b.	PARAMETERA
+7tests/input/src/main/scala/example/MethodOverload.scala (∑
+example/MethodOverload#b.VALUEA
+7tests/input/src/main/scala/example/MethodOverload.scala ("
+endLine2"
+isVarfalse"#
+symbolexample/MethodOverload#b."
+packageexample"
+accessPrivateThisAccess()"
+displayNameb"
+kindVALUE"
+	startLine2"
+isValtrue">
+uri7tests/input/src/main/scala/example/MethodOverload.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter21"
+isFinalfalse*b2_
+scala/Predef.String#TYPEA
+7tests/input/src/main/scala/example/MethodOverload.scala (¥
+ example/MethodOverload#a(+1).(x)	PARAMETERA
+7tests/input/src/main/scala/example/MethodOverload.scala (	"
+endLine7"
+isVarfalse"*
+symbol example/MethodOverload#a(+1).(x)"
+packageexample"
+accessEmpty"
+displayNamex"
+kind	PARAMETER"
+	startLine7"
+isValfalse">
+uri7tests/input/src/main/scala/example/MethodOverload.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter9"
+startCharacter8"
+isFinalfalse*x2U
+
+scala/Int#TYPEA
+7tests/input/src/main/scala/example/MethodOverload.scala (¬
+%example/MethodOverload#`<init>`().(b)	PARAMETER"
+endLine0"
+isVarfalse"/
+symbol%example/MethodOverload#`<init>`().(b)"
+packageexample"
+accessEmpty"
+displayNameb"
+kind	PARAMETER"
+	startLine0"
+isValfalse">
+uri7tests/input/src/main/scala/example/MethodOverload.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*b2
+scala/Predef.String#TYPE∂
+ example/MethodOverload#a(+1).(y)	PARAMETERA
+7tests/input/src/main/scala/example/MethodOverload.scala ("
+endLine7"
+isVarfalse"*
+symbol example/MethodOverload#a(+1).(y)"
+packageexample"
+accessEmpty"
+displayNamey"
+kind	PARAMETER"
+	startLine7"
+isValfalse">
+uri7tests/input/src/main/scala/example/MethodOverload.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter16"
+isFinalfalse*y2U
+
+scala/Int#TYPEA
+7tests/input/src/main/scala/example/MethodOverload.scala (

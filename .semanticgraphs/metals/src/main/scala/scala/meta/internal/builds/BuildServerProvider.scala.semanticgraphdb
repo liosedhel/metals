@@ -1,0 +1,253 @@
+
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala™
+Sscala/meta/internal/builds/BuildServerProvider#generateBspConfig().(languageClient)	PARAMETERT
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala ("
+endLine20"
+isVarfalse"]
+symbolSscala/meta/internal/builds/BuildServerProvider#generateBspConfig().(languageClient)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNamelanguageClient"
+kind	PARAMETER"
+	startLine20"
+isValfalse"Q
+uriJmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter6"
+isFinalfalse*languageClient2é
+0scala/meta/internal/metals/MetalsLanguageClient#TYPET
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala (*ª	
+Rscala/meta/internal/builds/BuildServerProvider#generateBspConfig().(systemProcess)	PARAMETERT
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala ("
+endLine21"
+isVarfalse"\
+symbolRscala/meta/internal/builds/BuildServerProvider#generateBspConfig().(systemProcess)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayNamesystemProcess"
+kind	PARAMETER"
+	startLine21"
+isValfalse"Q
+uriJmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter6"
+isFinalfalse*systemProcess2
+scala/Function1#TYPE2q
+scala/package.List#TYPET
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala (2r
+scala/Predef.String#TYPET
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala ( 2v
+scala/concurrent/Future#TYPET
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala% (+2™
+Lscala/meta/internal/bsp/BspConfigGenerationStatus.BspConfigGenerationStatus#TYPET
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala, (EÄ
+Nscala/meta/internal/builds/BuildServerProvider#generateBspConfig().(workspace)	PARAMETERT
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala ("
+endLine19"
+isVarfalse"X
+symbolNscala/meta/internal/builds/BuildServerProvider#generateBspConfig().(workspace)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayName	workspace"
+kind	PARAMETER"
+	startLine19"
+isValfalse"Q
+uriJmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter15"
+startCharacter6"
+isFinalfalse*	workspace2y
+scala/meta/io/AbsolutePath#TYPET
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala (Å
+Nscala/meta/internal/builds/BuildServerProvider#createBspFileArgs().(workspace)	PARAMETERT
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala" "(!"
+endLine34"
+isVarfalse"X
+symbolNscala/meta/internal/builds/BuildServerProvider#createBspFileArgs().(workspace)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayName	workspace"
+kind	PARAMETER"
+	startLine34"
+isValfalse"Q
+uriJmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter33"
+startCharacter24"
+isFinalfalse*	workspace2y
+scala/meta/io/AbsolutePath#TYPET
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala"# "(/
+Cscala/meta/internal/builds/BuildServerProvider#generateBspConfig().METHODT
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala ("
+endLine18"
+isVarfalse"M
+symbolCscala/meta/internal/builds/BuildServerProvider#generateBspConfig()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()" 
+displayNamegenerateBspConfig"
+kindMETHOD"
+	startLine18"
+isValfalse"Q
+uriJmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter6"
+isFinalfalse"	
+LOC12*generateBspConfig2±
+Nscala/meta/internal/builds/BuildServerProvider#generateBspConfig().(workspace)	PARAMETERT
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala (2∂
+Sscala/meta/internal/builds/BuildServerProvider#generateBspConfig().(languageClient)	PARAMETERT
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala (2µ
+Rscala/meta/internal/builds/BuildServerProvider#generateBspConfig().(systemProcess)	PARAMETERT
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala (2}
+scala/concurrent/Future#RETURN_TYPET
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala (2±
+Lscala/meta/internal/bsp/BspConfigGenerationStatus.BspConfigGenerationStatus#RETURN_TYPET
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala (%2¨
+Nscala/meta/internal/builds/BuildServerProvider#generateBspConfig().(workspace)CALLT
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala (&2§
+Fscala/meta/internal/builds/BuildServerProvider#workspaceSupportsBsp().CALLT
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala (2¨
+Nscala/meta/internal/builds/BuildServerProvider#generateBspConfig().(workspace)CALLT
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala& (/2°
+Cscala/meta/internal/builds/BuildServerProvider#createBspFileArgs().CALLT
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala (%2∞
+Rscala/meta/internal/builds/BuildServerProvider#generateBspConfig().(systemProcess)CALLT
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala (2Ç
+$scala/meta/internal/metals/Messages.CALLT
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala (2è
+1scala/meta/internal/metals/Messages.NoBspSupport.CALLT
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala (*2â
++org/eclipse/lsp4j/MessageParams#toString().CALLT
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala+ (32r
+scala/package.Right.CALLT
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala (2ó
+9scala/meta/internal/bsp/BspConfigGenerationStatus.Failed.CALLT
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala (2v
+scala/concurrent/Future.CALLT
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala (2É
+%scala/concurrent/Future.successful().CALLT
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala (á
+Qscala/meta/internal/builds/BuildServerProvider#workspaceSupportsBsp().(workspace)	PARAMETERT
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala$ $($"
+endLine36"
+isVarfalse"[
+symbolQscala/meta/internal/builds/BuildServerProvider#workspaceSupportsBsp().(workspace)"%
+packagescala.meta.internal.builds"
+accessEmpty"
+displayName	workspace"
+kind	PARAMETER"
+	startLine36"
+isValfalse"Q
+uriJmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter36"
+startCharacter27"
+isFinalfalse*	workspace2y
+scala/meta/io/AbsolutePath#TYPET
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala$& $(2™
+Cscala/meta/internal/builds/BuildServerProvider#createBspFileArgs().METHODT
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala" "("
+endLine34"
+isVarfalse"M
+symbolCscala/meta/internal/builds/BuildServerProvider#createBspFileArgs()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()" 
+displayNamecreateBspFileArgs"
+kindMETHOD"
+	startLine34"
+isValfalse"Q
+uriJmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala"
+
+isAbstracttrue"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter6"
+isFinalfalse*createBspFileArgs2±
+Nscala/meta/internal/builds/BuildServerProvider#createBspFileArgs().(workspace)	PARAMETERT
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala" "(!2x
+scala/package.List#RETURN_TYPET
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala"2 "(62y
+scala/Predef.String#RETURN_TYPET
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala"7 "(=Ñ	
+/scala/meta/internal/builds/BuildServerProvider#TRAITT
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala ("
+endLine12"
+isVarfalse"9
+symbol/scala/meta/internal/builds/BuildServerProvider#"%
+packagescala.meta.internal.builds"
+accessPublicAccess()""
+displayNameBuildServerProvider"
+kindTRAIT"
+	startLine12"
+isValfalse"Q
+uriJmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter25"
+startCharacter6"
+isFinalfalse"	
+LOC26*BuildServerProvider2®
+Cscala/meta/internal/builds/BuildServerProvider#generateBspConfig().DECLARATIONT
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala (2®
+Cscala/meta/internal/builds/BuildServerProvider#createBspFileArgs().DECLARATIONT
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala" "(2´
+Fscala/meta/internal/builds/BuildServerProvider#workspaceSupportsBsp().DECLARATIONT
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala$ $(2
+scala/AnyRef#EXTENDπ
+Fscala/meta/internal/builds/BuildServerProvider#workspaceSupportsBsp().METHODT
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala$ $("
+endLine36"
+isVarfalse"P
+symbolFscala/meta/internal/builds/BuildServerProvider#workspaceSupportsBsp()."%
+packagescala.meta.internal.builds"
+accessPublicAccess()"#
+displayNameworkspaceSupportsBsp"
+kindMETHOD"
+	startLine36"
+isValfalse"Q
+uriJmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala"
+
+isAbstracttrue"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter26"
+startCharacter6"
+isFinalfalse*workspaceSupportsBsp2¥
+Qscala/meta/internal/builds/BuildServerProvider#workspaceSupportsBsp().(workspace)	PARAMETERT
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala$ $($2s
+scala/Boolean#RETURN_TYPET
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala$5 $(<û
+Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scalaFILE*Jmetals/src/main/scala/scala/meta/internal/builds/BuildServerProvider.scala

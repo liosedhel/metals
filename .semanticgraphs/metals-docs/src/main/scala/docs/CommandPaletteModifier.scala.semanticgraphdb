@@ -1,0 +1,191 @@
+
+<metals-docs/src/main/scala/docs/CommandPaletteModifier.scalaó
+.docs/CommandPaletteModifier#process().(editor)	PARAMETERF
+<metals-docs/src/main/scala/docs/CommandPaletteModifier.scala
+ 
+("
+endLine10"
+isVarfalse"8
+symbol.docs/CommandPaletteModifier#process().(editor)"
+packagedocs"
+accessEmpty"
+displayNameeditor"
+kind	PARAMETER"
+	startLine10"
+isValfalse"C
+uri<metals-docs/src/main/scala/docs/CommandPaletteModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*editor2d
+scala/Predef.String#TYPEF
+<metals-docs/src/main/scala/docs/CommandPaletteModifier.scala
+ 
+(³
+!docs/CommandPaletteModifier#name.VALUEF
+<metals-docs/src/main/scala/docs/CommandPaletteModifier.scala ("
+endLine8"
+isVarfalse"+
+symbol!docs/CommandPaletteModifier#name."
+packagedocs"
+accessPublicAccess()"
+displayNamename"
+kindVALUE"
+	startLine8"
+isValtrue"C
+uri<metals-docs/src/main/scala/docs/CommandPaletteModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter15"
+isFinalfalse*name2
+scala/Predef.String#TYPE2%
+mdoc/StringModifier#name.OVERRIDE‹
+'docs/CommandPaletteModifier#`<init>`().CONSTRUCTORF
+<metals-docs/src/main/scala/docs/CommandPaletteModifier.scala ("
+endLine7"
+isVarfalse"1
+symbol'docs/CommandPaletteModifier#`<init>`()."
+packagedocs"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine7"
+isValfalse"C
+uri<metals-docs/src/main/scala/docs/CommandPaletteModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter29"
+startCharacter29"
+isFinalfalse*<init>õ
+0docs/CommandPaletteModifier#process().(reporter)	PARAMETERF
+<metals-docs/src/main/scala/docs/CommandPaletteModifier.scala ("
+endLine12"
+isVarfalse":
+symbol0docs/CommandPaletteModifier#process().(reporter)"
+packagedocs"
+accessEmpty"
+displayNamereporter"
+kind	PARAMETER"
+	startLine12"
+isValfalse"C
+uri<metals-docs/src/main/scala/docs/CommandPaletteModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter14"
+startCharacter6"
+isFinalfalse*reporter2^
+mdoc/Reporter#TYPEF
+<metals-docs/src/main/scala/docs/CommandPaletteModifier.scala (Ñ
+&docs/CommandPaletteModifier#process().METHODF
+<metals-docs/src/main/scala/docs/CommandPaletteModifier.scala	 	("
+endLine9"
+isVarfalse"0
+symbol&docs/CommandPaletteModifier#process()."
+packagedocs"
+accessPublicAccess()"
+displayNameprocess"
+kindMETHOD"
+	startLine9"
+isValfalse"C
+uri<metals-docs/src/main/scala/docs/CommandPaletteModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter15"
+isFinalfalse"	
+LOC21*process2*
+mdoc/StringModifier#process().OVERRIDE2ƒ
+.docs/CommandPaletteModifier#process().(editor)	PARAMETERF
+<metals-docs/src/main/scala/docs/CommandPaletteModifier.scala
+ 
+(2‚
+-docs/CommandPaletteModifier#process().(input)	PARAMETERF
+<metals-docs/src/main/scala/docs/CommandPaletteModifier.scala (2…
+0docs/CommandPaletteModifier#process().(reporter)	PARAMETERF
+<metals-docs/src/main/scala/docs/CommandPaletteModifier.scala (2k
+scala/Predef.String#RETURN_TYPEF
+<metals-docs/src/main/scala/docs/CommandPaletteModifier.scala (2~
+.docs/CommandPaletteModifier#process().(editor)CALLF
+<metals-docs/src/main/scala/docs/CommandPaletteModifier.scala6 (<2[
+docs/Image.CALLF
+<metals-docs/src/main/scala/docs/CommandPaletteModifier.scala" ('2k
+docs/Image.importCommand().CALLF
+<metals-docs/src/main/scala/docs/CommandPaletteModifier.scala( (52~
+.docs/CommandPaletteModifier#process().(editor)CALLF
+<metals-docs/src/main/scala/docs/CommandPaletteModifier.scala0 (62[
+docs/Image.CALLF
+<metals-docs/src/main/scala/docs/CommandPaletteModifier.scala  (%2g
+docs/Image.runDoctor().CALLF
+<metals-docs/src/main/scala/docs/CommandPaletteModifier.scala& (/2†
+6scala/collection/immutable/StringLike#stripMargin(+1).CALLF
+<metals-docs/src/main/scala/docs/CommandPaletteModifier.scala (‚
+<metals-docs/src/main/scala/docs/CommandPaletteModifier.scalaFILE*<metals-docs/src/main/scala/docs/CommandPaletteModifier.scalaó
+-docs/CommandPaletteModifier#process().(input)	PARAMETERF
+<metals-docs/src/main/scala/docs/CommandPaletteModifier.scala ("
+endLine11"
+isVarfalse"7
+symbol-docs/CommandPaletteModifier#process().(input)"
+packagedocs"
+accessEmpty"
+displayNameinput"
+kind	PARAMETER"
+	startLine11"
+isValfalse"C
+uri<metals-docs/src/main/scala/docs/CommandPaletteModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter11"
+startCharacter6"
+isFinalfalse*input2h
+scala/meta/inputs/Input#TYPEF
+<metals-docs/src/main/scala/docs/CommandPaletteModifier.scala (
+docs/CommandPaletteModifier#CLASSF
+<metals-docs/src/main/scala/docs/CommandPaletteModifier.scala ("
+endLine7"
+isVarfalse"&
+symboldocs/CommandPaletteModifier#"
+packagedocs"
+accessPublicAccess()"%
+displayNameCommandPaletteModifier"
+kindCLASS"
+	startLine7"
+isValfalse"C
+uri<metals-docs/src/main/scala/docs/CommandPaletteModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter28"
+startCharacter6"
+isFinalfalse"	
+LOC24*CommandPaletteModifier2~
+'docs/CommandPaletteModifier#`<init>`().DECLARATIONF
+<metals-docs/src/main/scala/docs/CommandPaletteModifier.scala (2}
+&docs/CommandPaletteModifier#process().DECLARATIONF
+<metals-docs/src/main/scala/docs/CommandPaletteModifier.scala	 	(2
+scala/AnyRef#EXTEND2f
+mdoc/StringModifier#EXTENDF
+<metals-docs/src/main/scala/docs/CommandPaletteModifier.scala% (32x
+!docs/CommandPaletteModifier#name.DECLARATIONF
+<metals-docs/src/main/scala/docs/CommandPaletteModifier.scala (

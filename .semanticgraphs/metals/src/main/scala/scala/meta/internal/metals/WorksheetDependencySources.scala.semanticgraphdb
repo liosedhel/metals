@@ -1,0 +1,345 @@
+
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scalaØ
+Escala/meta/internal/metals/WorksheetDependencySources#setWorksheet().METHOD[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala	 	("
+endLine9"
+isVarfalse"O
+symbolEscala/meta/internal/metals/WorksheetDependencySources#setWorksheet()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamesetWorksheet"
+kindMETHOD"
+	startLine9"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter6"
+isFinalfalse"	
+LOC11*setWorksheet2Á
+Wscala/meta/internal/metals/WorksheetDependencySources#setWorksheet().(dependencySource)	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala
+ 
+(2À
+Vscala/meta/internal/metals/WorksheetDependencySources#setWorksheet().(worksheetSource)	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala (2v
+
+scala/Int#RETURN_TYPE[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala (2Â
+Xlocal0:metals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala (2¼
+Wscala/meta/internal/metals/WorksheetDependencySources#setWorksheet().(dependencySource)CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala ((2ˆ
+#scala/meta/io/AbsolutePath#toURI().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala) (.2}
+java/net/URI#toString().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala/ (72½
+Xlocal0:metals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scalaCALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala (
+2Œ
+'java/sql/PreparedStatement#setString().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala (2»
+Vscala/meta/internal/metals/WorksheetDependencySources#setWorksheet().(worksheetSource)CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala ('2ˆ
+#scala/meta/io/AbsolutePath#toURI().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala( (-2}
+java/net/URI#toString().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala. (62½
+Xlocal0:metals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scalaCALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala (
+2Œ
+'java/sql/PreparedStatement#setString().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala (2 
+;scala/meta/internal/metals/WorksheetDependencySources#conn.CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala (2¬
+Gscala/meta/internal/metals/JdbcEnrichments.XtensionConnection#update().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala (ê
+
+6scala/meta/internal/metals/WorksheetDependencySources#CLASS[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala (&"
+endLine8"
+isVarfalse"@
+symbol6scala/meta/internal/metals/WorksheetDependencySources#"%
+packagescala.meta.internal.metals"
+accessPublicAccess()")
+displayNameWorksheetDependencySources"
+kindCLASS"
+	startLine8"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter38"
+startCharacter12"
+isFinaltrue"	
+LOC22*WorksheetDependencySources2§
+;scala/meta/internal/metals/WorksheetDependencySources#conn.DECLARATION[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala' (+2­
+Ascala/meta/internal/metals/WorksheetDependencySources#`<init>`().DECLARATION[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala& (&2±
+Escala/meta/internal/metals/WorksheetDependencySources#setWorksheet().DECLARATION[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala	 	(2±
+Escala/meta/internal/metals/WorksheetDependencySources#getWorksheet().DECLARATION[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala (2
+scala/AnyRef#EXTENDâ
+Escala/meta/internal/metals/WorksheetDependencySources#getWorksheet().METHOD[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala ("
+endLine20"
+isVarfalse"O
+symbolEscala/meta/internal/metals/WorksheetDependencySources#getWorksheet()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamegetWorksheet"
+kindMETHOD"
+	startLine20"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter6"
+isFinalfalse"
+LOC9*getWorksheet2Á
+Wscala/meta/internal/metals/WorksheetDependencySources#getWorksheet().(dependencySource)	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala (2y
+scala/Option#RETURN_TYPE[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala (2‡
+scala/meta/io/AbsolutePath#RETURN_TYPE[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala (2Â
+Xlocal2:metals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scalaG (I2½
+Xlocal2:metals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scalaCALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala (2„
+java/sql/ResultSet#getString().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala	 (2²
+Mscala/meta/internal/metals/MetalsEnrichments.XtensionString#toAbsolutePath().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala ($2Â
+Xlocal1:metals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala (2¼
+Wscala/meta/internal/metals/WorksheetDependencySources#getWorksheet().(dependencySource)CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala" (22ˆ
+#scala/meta/io/AbsolutePath#toURI().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala3 (82}
+java/net/URI#toString().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala9 (A2½
+Xlocal1:metals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scalaCALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala (2Œ
+'java/sql/PreparedStatement#setString().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala (2 
+;scala/meta/internal/metals/WorksheetDependencySources#conn.CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala (2«
+Fscala/meta/internal/metals/JdbcEnrichments.XtensionConnection#query().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala (2“
+.scala/collection/TraversableLike#headOption().CALL[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala (ý
+Ascala/meta/internal/metals/WorksheetDependencySources#`<init>`().CONSTRUCTOR[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala& (&"
+endLine8"
+isVarfalse"K
+symbolAscala/meta/internal/metals/WorksheetDependencySources#`<init>`()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine8"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter38"
+startCharacter38"
+isFinalfalse*<init>2T
+Gscala/meta/internal/metals/WorksheetDependencySources#`<init>`().(conn)	PARAMETER2¥
+;scala/meta/internal/metals/WorksheetDependencySources#conn.	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala' (+Ë
+Xlocal2:metals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scalaG (I"
+endLine25"
+isVarfalse"
+symbollocal2"
+package "
+accessEmpty"
+displayNamers"
+kind	PARAMETER"
+	startLine25"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter73"
+startCharacter71"
+isFinalfalse*rs2
+java/sql/ResultSet#TYPE¶
+Wscala/meta/internal/metals/WorksheetDependencySources#setWorksheet().(dependencySource)	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala
+ 
+("
+endLine10"
+isVarfalse"a
+symbolWscala/meta/internal/metals/WorksheetDependencySources#setWorksheet().(dependencySource)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamedependencySource"
+kind	PARAMETER"
+	startLine10"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter6"
+isFinalfalse*dependencySource2€
+scala/meta/io/AbsolutePath#TYPE[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala
+ 
+($²
+Vscala/meta/internal/metals/WorksheetDependencySources#setWorksheet().(worksheetSource)	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala ("
+endLine11"
+isVarfalse"`
+symbolVscala/meta/internal/metals/WorksheetDependencySources#setWorksheet().(worksheetSource)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameworksheetSource"
+kind	PARAMETER"
+	startLine11"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter6"
+isFinalfalse*worksheetSource2€
+scala/meta/io/AbsolutePath#TYPE[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala (#ü
+;scala/meta/internal/metals/WorksheetDependencySources#conn.VALUE[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala' (+"
+endLine8"
+isVarfalse"E
+symbol;scala/meta/internal/metals/WorksheetDependencySources#conn."%
+packagescala.meta.internal.metals"
+accessPrivateThisAccess()"
+displayNameconn"
+kindVALUE"
+	startLine8"
+isValtrue"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter43"
+startCharacter39"
+isFinalfalse*conn2
+scala/Function0#TYPE2y
+java/sql/Connection#TYPE[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala3 (=Ö
+Xlocal0:metals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala ("
+endLine15"
+isVarfalse"
+symbollocal0"
+package "
+accessEmpty"
+displayNamestmt"
+kind	PARAMETER"
+	startLine15"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter8"
+isFinalfalse*stmt2#
+java/sql/PreparedStatement#TYPEÓ
+Gscala/meta/internal/metals/WorksheetDependencySources#`<init>`().(conn)	PARAMETER"
+endLine0"
+isVarfalse"Q
+symbolGscala/meta/internal/metals/WorksheetDependencySources#`<init>`().(conn)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameconn"
+kind	PARAMETER"
+	startLine0"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*conn2
+scala/Function0#TYPE2
+java/sql/Connection#TYPEÖ
+Xlocal1:metals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala ("
+endLine25"
+isVarfalse"
+symbollocal1"
+package "
+accessEmpty"
+displayNamestmt"
+kind	PARAMETER"
+	startLine25"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter8"
+isFinalfalse*stmt2#
+java/sql/PreparedStatement#TYPE¶
+Wscala/meta/internal/metals/WorksheetDependencySources#getWorksheet().(dependencySource)	PARAMETER[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala ("
+endLine21"
+isVarfalse"a
+symbolWscala/meta/internal/metals/WorksheetDependencySources#getWorksheet().(dependencySource)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamedependencySource"
+kind	PARAMETER"
+	startLine21"
+isValfalse"X
+uriQmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter6"
+isFinalfalse*dependencySource2€
+scala/meta/io/AbsolutePath#TYPE[
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala ($¬
+Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scalaFILE*Qmetals/src/main/scala/scala/meta/internal/metals/WorksheetDependencySources.scala

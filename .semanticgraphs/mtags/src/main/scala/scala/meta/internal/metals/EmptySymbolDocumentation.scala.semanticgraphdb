@@ -1,0 +1,209 @@
+
+Nmtags/src/main/scala/scala/meta/internal/metals/EmptySymbolDocumentation.scalaË
+
+Escala/meta/internal/metals/EmptySymbolDocumentation.typeParameters().METHODX
+Nmtags/src/main/scala/scala/meta/internal/metals/EmptySymbolDocumentation.scala ("
+endLine15"
+isVarfalse"O
+symbolEscala/meta/internal/metals/EmptySymbolDocumentation.typeParameters()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNametypeParameters"
+kindMETHOD"
+	startLine15"
+isValfalse"U
+uriNmtags/src/main/scala/scala/meta/internal/metals/EmptySymbolDocumentation.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter29"
+startCharacter15"
+isFinalfalse"
+LOC2*typeParameters2?
+3scala/meta/pc/SymbolDocumentation#typeParameters().OVERRIDE2l
+
+java/util/CALLX
+Nmtags/src/main/scala/scala/meta/internal/metals/EmptySymbolDocumentation.scala! (%2x
+java/util/List#RETURN_TYPEX
+Nmtags/src/main/scala/scala/meta/internal/metals/EmptySymbolDocumentation.scala& (*2‹
+"scala/meta/pc/SymbolDocumentation#RETURN_TYPEX
+Nmtags/src/main/scala/scala/meta/internal/metals/EmptySymbolDocumentation.scala+ (>2x
+java/util/Collections#CALLX
+Nmtags/src/main/scala/scala/meta/internal/metals/EmptySymbolDocumentation.scala (2„
+"java/util/Collections#emptyList().CALLX
+Nmtags/src/main/scala/scala/meta/internal/metals/EmptySymbolDocumentation.scala (Ä
+Bscala/meta/internal/metals/EmptySymbolDocumentation.displayName().METHODX
+Nmtags/src/main/scala/scala/meta/internal/metals/EmptySymbolDocumentation.scala ("
+endLine12"
+isVarfalse"L
+symbolBscala/meta/internal/metals/EmptySymbolDocumentation.displayName()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamedisplayName"
+kindMETHOD"
+	startLine12"
+isValfalse"U
+uriNmtags/src/main/scala/scala/meta/internal/metals/EmptySymbolDocumentation.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter26"
+startCharacter15"
+isFinalfalse"
+LOC1*displayName2<
+0scala/meta/pc/SymbolDocumentation#displayName().OVERRIDE2}
+scala/Predef.String#RETURN_TYPEX
+Nmtags/src/main/scala/scala/meta/internal/metals/EmptySymbolDocumentation.scala ($«
+=scala/meta/internal/metals/EmptySymbolDocumentation.symbol().METHODX
+Nmtags/src/main/scala/scala/meta/internal/metals/EmptySymbolDocumentation.scala ("
+endLine11"
+isVarfalse"G
+symbol=scala/meta/internal/metals/EmptySymbolDocumentation.symbol()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamesymbol"
+kindMETHOD"
+	startLine11"
+isValfalse"U
+uriNmtags/src/main/scala/scala/meta/internal/metals/EmptySymbolDocumentation.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter15"
+isFinalfalse"
+LOC1*symbol27
++scala/meta/pc/SymbolDocumentation#symbol().OVERRIDE2}
+scala/Predef.String#RETURN_TYPEX
+Nmtags/src/main/scala/scala/meta/internal/metals/EmptySymbolDocumentation.scala (¦
+Nmtags/src/main/scala/scala/meta/internal/metals/EmptySymbolDocumentation.scalaFILE*Nmtags/src/main/scala/scala/meta/internal/metals/EmptySymbolDocumentation.scalaº
+@scala/meta/internal/metals/EmptySymbolDocumentation.docstring().METHODX
+Nmtags/src/main/scala/scala/meta/internal/metals/EmptySymbolDocumentation.scala ("
+endLine13"
+isVarfalse"J
+symbol@scala/meta/internal/metals/EmptySymbolDocumentation.docstring()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName	docstring"
+kindMETHOD"
+	startLine13"
+isValfalse"U
+uriNmtags/src/main/scala/scala/meta/internal/metals/EmptySymbolDocumentation.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter24"
+startCharacter15"
+isFinalfalse"
+LOC1*	docstring2:
+.scala/meta/pc/SymbolDocumentation#docstring().OVERRIDE2}
+scala/Predef.String#RETURN_TYPEX
+Nmtags/src/main/scala/scala/meta/internal/metals/EmptySymbolDocumentation.scala ("º
+4scala/meta/internal/metals/EmptySymbolDocumentation.OBJECTX
+Nmtags/src/main/scala/scala/meta/internal/metals/EmptySymbolDocumentation.scala
+ 
+("
+endLine10"
+isVarfalse">
+symbol4scala/meta/internal/metals/EmptySymbolDocumentation."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"'
+displayNameEmptySymbolDocumentation"
+kindOBJECT"
+	startLine10"
+isValfalse"U
+uriNmtags/src/main/scala/scala/meta/internal/metals/EmptySymbolDocumentation.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter31"
+startCharacter7"
+isFinaltrue"	
+LOC10*EmptySymbolDocumentation2¦
+=scala/meta/internal/metals/EmptySymbolDocumentation.symbol().DECLARATIONX
+Nmtags/src/main/scala/scala/meta/internal/metals/EmptySymbolDocumentation.scala (2«
+Bscala/meta/internal/metals/EmptySymbolDocumentation.displayName().DECLARATIONX
+Nmtags/src/main/scala/scala/meta/internal/metals/EmptySymbolDocumentation.scala (2©
+@scala/meta/internal/metals/EmptySymbolDocumentation.docstring().DECLARATIONX
+Nmtags/src/main/scala/scala/meta/internal/metals/EmptySymbolDocumentation.scala (2¬
+Cscala/meta/internal/metals/EmptySymbolDocumentation.defaultValue().DECLARATIONX
+Nmtags/src/main/scala/scala/meta/internal/metals/EmptySymbolDocumentation.scala (2®
+Escala/meta/internal/metals/EmptySymbolDocumentation.typeParameters().DECLARATIONX
+Nmtags/src/main/scala/scala/meta/internal/metals/EmptySymbolDocumentation.scala (2ª
+Ascala/meta/internal/metals/EmptySymbolDocumentation.parameters().DECLARATIONX
+Nmtags/src/main/scala/scala/meta/internal/metals/EmptySymbolDocumentation.scala (2
+java/lang/Object#EXTEND2†
+"scala/meta/pc/SymbolDocumentation#EXTENDX
+Nmtags/src/main/scala/scala/meta/internal/metals/EmptySymbolDocumentation.scala
+( 
+(;É
+Cscala/meta/internal/metals/EmptySymbolDocumentation.defaultValue().METHODX
+Nmtags/src/main/scala/scala/meta/internal/metals/EmptySymbolDocumentation.scala ("
+endLine14"
+isVarfalse"M
+symbolCscala/meta/internal/metals/EmptySymbolDocumentation.defaultValue()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamedefaultValue"
+kindMETHOD"
+	startLine14"
+isValfalse"U
+uriNmtags/src/main/scala/scala/meta/internal/metals/EmptySymbolDocumentation.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter27"
+startCharacter15"
+isFinalfalse"
+LOC1*defaultValue2=
+1scala/meta/pc/SymbolDocumentation#defaultValue().OVERRIDE2}
+scala/Predef.String#RETURN_TYPEX
+Nmtags/src/main/scala/scala/meta/internal/metals/EmptySymbolDocumentation.scala (%·
+
+Ascala/meta/internal/metals/EmptySymbolDocumentation.parameters().METHODX
+Nmtags/src/main/scala/scala/meta/internal/metals/EmptySymbolDocumentation.scala ("
+endLine17"
+isVarfalse"K
+symbolAscala/meta/internal/metals/EmptySymbolDocumentation.parameters()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName
+parameters"
+kindMETHOD"
+	startLine17"
+isValfalse"U
+uriNmtags/src/main/scala/scala/meta/internal/metals/EmptySymbolDocumentation.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter25"
+startCharacter15"
+isFinalfalse"
+LOC2*
+parameters2;
+/scala/meta/pc/SymbolDocumentation#parameters().OVERRIDE2l
+
+java/util/CALLX
+Nmtags/src/main/scala/scala/meta/internal/metals/EmptySymbolDocumentation.scala (!2x
+java/util/List#RETURN_TYPEX
+Nmtags/src/main/scala/scala/meta/internal/metals/EmptySymbolDocumentation.scala" (&2‹
+"scala/meta/pc/SymbolDocumentation#RETURN_TYPEX
+Nmtags/src/main/scala/scala/meta/internal/metals/EmptySymbolDocumentation.scala' (:2x
+java/util/Collections#CALLX
+Nmtags/src/main/scala/scala/meta/internal/metals/EmptySymbolDocumentation.scala (2„
+"java/util/Collections#emptyList().CALLX
+Nmtags/src/main/scala/scala/meta/internal/metals/EmptySymbolDocumentation.scala (

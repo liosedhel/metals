@@ -1,0 +1,425 @@
+
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala°
+7scala/meta/internal/metals/ProgressTicks.dots.format().METHODN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala ("
+endLine24"
+isVarfalse"A
+symbol7scala/meta/internal/metals/ProgressTicks.dots.format()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameformat"
+kindMETHOD"
+	startLine24"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter17"
+isFinalfalse"
+LOC3*format2>
+2scala/meta/internal/metals/ProgressTicks#format().OVERRIDE2—
+:scala/meta/internal/metals/ProgressTicks.dots.format().(i)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala (2s
+scala/Predef.String#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala! ('2’
+:scala/meta/internal/metals/ProgressTicks.dots.format().(i)CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala (2j
+scala/Int#`%`(+3).CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala (2Œ
+4scala/meta/internal/metals/ProgressTicks.dots.value.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala (2m
+scala/Array#length().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala (2Œ
+4scala/meta/internal/metals/ProgressTicks.dots.value.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala (¦
+:scala/meta/internal/metals/ProgressTicks.dots.format().(i)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala ("
+endLine24"
+isVarfalse"D
+symbol:scala/meta/internal/metals/ProgressTicks.dots.format().(i)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamei"
+kind	PARAMETER"
+	startLine24"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter25"
+startCharacter24"
+isFinalfalse*i2b
+
+scala/Int#TYPEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala (Ž
+)scala/meta/internal/metals/ProgressTicks.OBJECTN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala ("
+endLine5"
+isVarfalse"3
+symbol)scala/meta/internal/metals/ProgressTicks."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameProgressTicks"
+kindOBJECT"
+	startLine5"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter20"
+startCharacter7"
+isFinaltrue"	
+LOC24*ProgressTicks2
+.scala/meta/internal/metals/ProgressTicks.none.DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala	 (2
+1scala/meta/internal/metals/ProgressTicks.braille.DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala
+	 
+(2
+.scala/meta/internal/metals/ProgressTicks.dots.DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala	 (2
+scala/AnyRef#EXTENDš
+5scala/meta/internal/metals/ProgressTicks#format().(i)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala ("
+endLine3"
+isVarfalse"?
+symbol5scala/meta/internal/metals/ProgressTicks#format().(i)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamei"
+kind	PARAMETER"
+	startLine3"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter14"
+startCharacter13"
+isFinalfalse*i2b
+
+scala/Int#TYPEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala (¬
+=scala/meta/internal/metals/ProgressTicks.braille.format().(i)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala ("
+endLine12"
+isVarfalse"G
+symbol=scala/meta/internal/metals/ProgressTicks.braille.format().(i)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamei"
+kind	PARAMETER"
+	startLine12"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter25"
+startCharacter24"
+isFinalfalse*i2b
+
+scala/Int#TYPEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala (ª
+:scala/meta/internal/metals/ProgressTicks.braille.format().METHODN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala ("
+endLine12"
+isVarfalse"D
+symbol:scala/meta/internal/metals/ProgressTicks.braille.format()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameformat"
+kindMETHOD"
+	startLine12"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter17"
+isFinalfalse"
+LOC3*format2>
+2scala/meta/internal/metals/ProgressTicks#format().OVERRIDE2š
+=scala/meta/internal/metals/ProgressTicks.braille.format().(i)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala (2s
+scala/Predef.String#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala! ('2•
+=scala/meta/internal/metals/ProgressTicks.braille.format().(i)CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala (2j
+scala/Int#`%`(+3).CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala (2
+7scala/meta/internal/metals/ProgressTicks.braille.value.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala (2r
+java/lang/String#length().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala (#2
+7scala/meta/internal/metals/ProgressTicks.braille.value.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala (2r
+java/lang/String#charAt().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala (2m
+scala/Any#toString().CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala% (-ñ
+4scala/meta/internal/metals/ProgressTicks.dots.value.VALUEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala ("
+endLine18"
+isVarfalse">
+symbol4scala/meta/internal/metals/ProgressTicks.dots.value."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamevalue"
+kindVALUE"
+	startLine18"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter8"
+isFinalfalse*value2
+scala/Array#TYPE2
+scala/Predef.String#TYPE’
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scalaFILE*Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala¤
+:scala/meta/internal/metals/ProgressTicks.none.format().(i)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala ("
+endLine7"
+isVarfalse"D
+symbol:scala/meta/internal/metals/ProgressTicks.none.format().(i)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamei"
+kind	PARAMETER"
+	startLine7"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter25"
+startCharacter24"
+isFinalfalse*i2b
+
+scala/Int#TYPEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala (Å
+2scala/meta/internal/metals/ProgressTicks#format().METHODN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala ("
+endLine3"
+isVarfalse"<
+symbol2scala/meta/internal/metals/ProgressTicks#format()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameformat"
+kindMETHOD"
+	startLine3"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala"
+
+isAbstracttrue"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*format2’
+5scala/meta/internal/metals/ProgressTicks#format().(i)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala (2s
+scala/Predef.String#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala (‚
+1scala/meta/internal/metals/ProgressTicks.braille.OBJECTN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala
+	 
+("
+endLine10"
+isVarfalse";
+symbol1scala/meta/internal/metals/ProgressTicks.braille."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamebraille"
+kindOBJECT"
+	startLine10"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter16"
+startCharacter9"
+isFinaltrue"
+LOC6*braille2™
+:scala/meta/internal/metals/ProgressTicks.braille.format().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala (2ƒ
+)scala/meta/internal/metals/ProgressTicks#EXTENDN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala
+ 
+(&2–
+7scala/meta/internal/metals/ProgressTicks.braille.value.DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala (Ë
+4scala/meta/internal/metals/ProgressTicks#`<init>`().CONSTRUCTORN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala ("
+endLine2"
+isVarfalse">
+symbol4scala/meta/internal/metals/ProgressTicks#`<init>`()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine2"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter29"
+startCharacter29"
+isFinalfalse*<init>Þ
+7scala/meta/internal/metals/ProgressTicks.braille.value.VALUEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala ("
+endLine11"
+isVarfalse"A
+symbol7scala/meta/internal/metals/ProgressTicks.braille.value."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamevalue"
+kindVALUE"
+	startLine11"
+isValtrue"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter8"
+isFinalfalse*value2
+java/lang/String#TYPE×
+.scala/meta/internal/metals/ProgressTicks.dots.OBJECTN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala	 ("
+endLine17"
+isVarfalse"8
+symbol.scala/meta/internal/metals/ProgressTicks.dots."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamedots"
+kindOBJECT"
+	startLine17"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter9"
+isFinaltrue"	
+LOC11*dots2–
+7scala/meta/internal/metals/ProgressTicks.dots.format().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala (2ƒ
+)scala/meta/internal/metals/ProgressTicks#EXTENDN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala (#2“
+4scala/meta/internal/metals/ProgressTicks.dots.value.DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala (2d
+scala/Array.CALLN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala ($ƒ
+)scala/meta/internal/metals/ProgressTicks#CLASSN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala ("
+endLine2"
+isVarfalse"3
+symbol)scala/meta/internal/metals/ProgressTicks#"%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameProgressTicks"
+kindCLASS"
+	startLine2"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala"
+
+isAbstracttrue"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter28"
+startCharacter15"
+isFinalfalse"
+LOC3*ProgressTicks2“
+4scala/meta/internal/metals/ProgressTicks#`<init>`().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala (2‘
+2scala/meta/internal/metals/ProgressTicks#format().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala (2
+scala/AnyRef#EXTENDØ
+.scala/meta/internal/metals/ProgressTicks.none.OBJECTN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala	 ("
+endLine6"
+isVarfalse"8
+symbol.scala/meta/internal/metals/ProgressTicks.none."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamenone"
+kindOBJECT"
+	startLine6"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter9"
+isFinaltrue"
+LOC3*none2–
+7scala/meta/internal/metals/ProgressTicks.none.format().DECLARATIONN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala (2ƒ
+)scala/meta/internal/metals/ProgressTicks#EXTENDN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala (# 
+7scala/meta/internal/metals/ProgressTicks.none.format().METHODN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala ("
+endLine7"
+isVarfalse"A
+symbol7scala/meta/internal/metals/ProgressTicks.none.format()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameformat"
+kindMETHOD"
+	startLine7"
+isValfalse"K
+uriDmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter17"
+isFinalfalse"
+LOC1*format2>
+2scala/meta/internal/metals/ProgressTicks#format().OVERRIDE2—
+:scala/meta/internal/metals/ProgressTicks.none.format().(i)	PARAMETERN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala (2s
+scala/Predef.String#RETURN_TYPEN
+Dmetals/src/main/scala/scala/meta/internal/metals/ProgressTicks.scala! ('

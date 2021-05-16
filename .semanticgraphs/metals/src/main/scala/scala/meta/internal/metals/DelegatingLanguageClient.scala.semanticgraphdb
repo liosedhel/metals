@@ -1,0 +1,1029 @@
+
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaˇ
+?scala/meta/internal/metals/DelegatingLanguageClient#`<init>`().CONSTRUCTORY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala ("
+endLine17"
+isVarfalse"I
+symbol?scala/meta/internal/metals/DelegatingLanguageClient#`<init>`()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine17"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter30"
+startCharacter30"
+isFinalfalse*<init>2X
+Kscala/meta/internal/metals/DelegatingLanguageClient#`<init>`().(underlying)	PARAMETER2©
+Ascala/meta/internal/metals/DelegatingLanguageClient#underlying().	PARAMETERY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala# (-®
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaFILE*Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaÖ	
+?scala/meta/internal/metals/DelegatingLanguageClient#shutdown().METHODY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala ("
+endLine20"
+isVarfalse"I
+symbol?scala/meta/internal/metals/DelegatingLanguageClient#shutdown()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameshutdown"
+kindMETHOD"
+	startLine20"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter15"
+isFinalfalse"
+LOC3*shutdown2G
+;scala/meta/internal/metals/MetalsLanguageClient#shutdown().OVERRIDE2u
+scala/Unit#RETURN_TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala (2§
+Ascala/meta/internal/metals/DelegatingLanguageClient#underlying().CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala (2û
+;scala/meta/internal/metals/MetalsLanguageClient#shutdown().CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala (ù
+Mscala/meta/internal/metals/DelegatingLanguageClient#metalsInputBox().(params)	PARAMETERY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaS S("
+endLine83"
+isVarfalse"W
+symbolMscala/meta/internal/metals/DelegatingLanguageClient#metalsInputBox().(params)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameparams"
+kind	PARAMETER"
+	startLine83"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*params2ì
+0scala/meta/internal/metals/MetalsInputBoxParams#TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaS S("Œ
+Escala/meta/internal/metals/DelegatingLanguageClient#metalsSlowTask().METHODY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala. .("
+endLine46"
+isVarfalse"O
+symbolEscala/meta/internal/metals/DelegatingLanguageClient#metalsSlowTask()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamemetalsSlowTask"
+kindMETHOD"
+	startLine46"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter29"
+startCharacter15"
+isFinalfalse"
+LOC5*metalsSlowTask2M
+Ascala/meta/internal/metals/MetalsLanguageClient#metalsSlowTask().OVERRIDE2µ
+Mscala/meta/internal/metals/DelegatingLanguageClient#metalsSlowTask().(params)	PARAMETERY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala/ /(2ë
+'java/util/concurrent/CompletableFuture#RETURN_TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala0 0(2ö
+0scala/meta/internal/metals/MetalsSlowTaskResult#RETURN_TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala0 0(+2∞
+Mscala/meta/internal/metals/DelegatingLanguageClient#metalsSlowTask().(params)CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala1 1($2§
+Ascala/meta/internal/metals/DelegatingLanguageClient#underlying().CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala1 1(2§
+Ascala/meta/internal/metals/MetalsLanguageClient#metalsSlowTask().CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala1 1(Ü
+Escala/meta/internal/metals/DelegatingLanguageClient#telemetryEvent().METHODY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala4 4("
+endLine52"
+isVarfalse"O
+symbolEscala/meta/internal/metals/DelegatingLanguageClient#telemetryEvent()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNametelemetryEvent"
+kindMETHOD"
+	startLine52"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter29"
+startCharacter15"
+isFinalfalse"
+LOC3*telemetryEvent2G
+;org/eclipse/lsp4j/services/LanguageClient#telemetryEvent().OVERRIDE2¥
+Lscala/meta/internal/metals/DelegatingLanguageClient#telemetryEvent().(value)	PARAMETERY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala4 4(#2u
+scala/Unit#RETURN_TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala4+ 4(/2Ø
+Lscala/meta/internal/metals/DelegatingLanguageClient#telemetryEvent().(value)CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala5 5(#2§
+Ascala/meta/internal/metals/DelegatingLanguageClient#underlying().CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala5 5(2û
+;org/eclipse/lsp4j/services/LanguageClient#telemetryEvent().CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala5 5(ô
+Escala/meta/internal/metals/DelegatingLanguageClient#`underlying_=`().VARIABLE"
+endLine0"
+isVartrue"O
+symbolEscala/meta/internal/metals/DelegatingLanguageClient#`underlying_=`()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameunderlying_="
+kindVARIABLE"
+	startLine0"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*underlying_=2W
+Jscala/meta/internal/metals/DelegatingLanguageClient#`underlying_=`().(x$1)	PARAMETER2
+scala/Unit#TYPE® 
+4scala/meta/internal/metals/DelegatingLanguageClient#CLASSY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala ("
+endLine17"
+isVarfalse">
+symbol4scala/meta/internal/metals/DelegatingLanguageClient#"%
+packagescala.meta.internal.metals"
+accessPublicAccess()"'
+displayNameDelegatingLanguageClient"
+kindCLASS"
+	startLine17"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter30"
+startCharacter6"
+isFinalfalse"	
+LOC90*DelegatingLanguageClient2´
+Ascala/meta/internal/metals/DelegatingLanguageClient#underlying().DECLARATIONY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala# (-2T
+Escala/meta/internal/metals/DelegatingLanguageClient#`underlying_=`().DECLARATION2©
+?scala/meta/internal/metals/DelegatingLanguageClient#`<init>`().DECLARATIONY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala (2©
+?scala/meta/internal/metals/DelegatingLanguageClient#shutdown().DECLARATIONY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala (2≥
+Iscala/meta/internal/metals/DelegatingLanguageClient#registerCapability().DECLARATIONY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala (!2µ
+Kscala/meta/internal/metals/DelegatingLanguageClient#unregisterCapability().DECLARATIONY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala (#2™
+@scala/meta/internal/metals/DelegatingLanguageClient#applyEdit().DECLARATIONY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala$ $(2≠
+Cscala/meta/internal/metals/DelegatingLanguageClient#metalsStatus().DECLARATIONY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala* *(2Ø
+Escala/meta/internal/metals/DelegatingLanguageClient#metalsSlowTask().DECLARATIONY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala. .(2Ø
+Escala/meta/internal/metals/DelegatingLanguageClient#telemetryEvent().DECLARATIONY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala4 4(2≥
+Iscala/meta/internal/metals/DelegatingLanguageClient#publishDiagnostics().DECLARATIONY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala8 8(!2¨
+Bscala/meta/internal/metals/DelegatingLanguageClient#showMessage().DECLARATIONY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala> >(2≥
+Iscala/meta/internal/metals/DelegatingLanguageClient#showMessageRequest().DECLARATIONY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaB B(!2´
+Ascala/meta/internal/metals/DelegatingLanguageClient#logMessage().DECLARATIONY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaH H(2ª
+Qscala/meta/internal/metals/DelegatingLanguageClient#metalsExecuteClientCommand().DECLARATIONY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaL L()2Ø
+Escala/meta/internal/metals/DelegatingLanguageClient#metalsInputBox().DECLARATIONY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaR R(2∞
+Fscala/meta/internal/metals/DelegatingLanguageClient#metalsQuickPick().DECLARATIONY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaX X(2∏
+Nscala/meta/internal/metals/DelegatingLanguageClient#metalsTreeViewDidChange().DECLARATIONY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala^ ^(&2π
+Oscala/meta/internal/metals/DelegatingLanguageClient#metalsPublishDecorations().DECLARATIONY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalad d('2
+java/lang/Object#EXTEND2ï
+0scala/meta/internal/metals/MetalsLanguageClient#EXTENDY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala ( Œ
+Escala/meta/internal/metals/DelegatingLanguageClient#metalsInputBox().METHODY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaR R("
+endLine82"
+isVarfalse"O
+symbolEscala/meta/internal/metals/DelegatingLanguageClient#metalsInputBox()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamemetalsInputBox"
+kindMETHOD"
+	startLine82"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter29"
+startCharacter15"
+isFinalfalse"
+LOC5*metalsInputBox2M
+Ascala/meta/internal/metals/MetalsLanguageClient#metalsInputBox().OVERRIDE2µ
+Mscala/meta/internal/metals/DelegatingLanguageClient#metalsInputBox().(params)	PARAMETERY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaS S(2ë
+'java/util/concurrent/CompletableFuture#RETURN_TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaT T(2ö
+0scala/meta/internal/metals/MetalsInputBoxResult#RETURN_TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaT T(+2∞
+Mscala/meta/internal/metals/DelegatingLanguageClient#metalsInputBox().(params)CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaU U($2§
+Ascala/meta/internal/metals/DelegatingLanguageClient#underlying().CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaU U(2§
+Ascala/meta/internal/metals/MetalsLanguageClient#metalsInputBox().CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaU U(¥
+Vscala/meta/internal/metals/DelegatingLanguageClient#publishDiagnostics().(diagnostics)	PARAMETERY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala9 9("
+endLine57"
+isVarfalse"`
+symbolVscala/meta/internal/metals/DelegatingLanguageClient#publishDiagnostics().(diagnostics)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamediagnostics"
+kind	PARAMETER"
+	startLine57"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter6"
+isFinalfalse*diagnostics2é
++org/eclipse/lsp4j/PublishDiagnosticsParams#TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala9 9(+ó
+@scala/meta/internal/metals/DelegatingLanguageClient#applyEdit().METHODY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala$ $("
+endLine36"
+isVarfalse"J
+symbol@scala/meta/internal/metals/DelegatingLanguageClient#applyEdit()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName	applyEdit"
+kindMETHOD"
+	startLine36"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter24"
+startCharacter15"
+isFinalfalse"
+LOC5*	applyEdit2B
+6org/eclipse/lsp4j/services/LanguageClient#applyEdit().OVERRIDE2∞
+Hscala/meta/internal/metals/DelegatingLanguageClient#applyEdit().(params)	PARAMETERY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala% %(2ë
+'java/util/concurrent/CompletableFuture#RETURN_TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala& &(2ó
+-org/eclipse/lsp4j/ApplyWorkspaceEditResponse#RETURN_TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala& &(12´
+Hscala/meta/internal/metals/DelegatingLanguageClient#applyEdit().(params)CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala' '(2§
+Ascala/meta/internal/metals/DelegatingLanguageClient#underlying().CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala' '(2ô
+6org/eclipse/lsp4j/services/LanguageClient#applyEdit().CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala' '(à
+Jscala/meta/internal/metals/DelegatingLanguageClient#showMessage().(params)	PARAMETERY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala> >(!"
+endLine62"
+isVarfalse"T
+symbolJscala/meta/internal/metals/DelegatingLanguageClient#showMessage().(params)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameparams"
+kind	PARAMETER"
+	startLine62"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter33"
+startCharacter27"
+isFinalfalse*params2É
+ org/eclipse/lsp4j/MessageParams#TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala># >(0†
+Nscala/meta/internal/metals/DelegatingLanguageClient#metalsQuickPick().(params)	PARAMETERY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaY Y("
+endLine89"
+isVarfalse"X
+symbolNscala/meta/internal/metals/DelegatingLanguageClient#metalsQuickPick().(params)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameparams"
+kind	PARAMETER"
+	startLine89"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*params2î
+1scala/meta/internal/metals/MetalsQuickPickParams#TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaY Y(#Û
+Lscala/meta/internal/metals/DelegatingLanguageClient#telemetryEvent().(value)	PARAMETERY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala4 4(#"
+endLine52"
+isVarfalse"V
+symbolLscala/meta/internal/metals/DelegatingLanguageClient#telemetryEvent().(value)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamevalue"
+kind	PARAMETER"
+	startLine52"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter35"
+startCharacter30"
+isFinalfalse*value2m
+
+scala/Any#TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala4% 4((¨
+Yscala/meta/internal/metals/DelegatingLanguageClient#metalsExecuteClientCommand().(params)	PARAMETERY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaM M("
+endLine77"
+isVarfalse"c
+symbolYscala/meta/internal/metals/DelegatingLanguageClient#metalsExecuteClientCommand().(params)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameparams"
+kind	PARAMETER"
+	startLine77"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*params2ä
+'org/eclipse/lsp4j/ExecuteCommandParams#TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaM M("◊
+Jscala/meta/internal/metals/DelegatingLanguageClient#`underlying_=`().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"T
+symbolJscala/meta/internal/metals/DelegatingLanguageClient#`underlying_=`().(x$1)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$128
+0scala/meta/internal/metals/MetalsLanguageClient#TYPEØ
+Vscala/meta/internal/metals/DelegatingLanguageClient#metalsTreeViewDidChange().(params)	PARAMETERY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala_ _("
+endLine95"
+isVarfalse"`
+symbolVscala/meta/internal/metals/DelegatingLanguageClient#metalsTreeViewDidChange().(params)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameparams"
+kind	PARAMETER"
+	startLine95"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*params2ì
+0scala/meta/internal/tvp/TreeViewDidChangeParams#TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala_ _(%Ë
+Oscala/meta/internal/metals/DelegatingLanguageClient#metalsPublishDecorations().METHODY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalad d('"
+endLine100"
+isVarfalse"Y
+symbolOscala/meta/internal/metals/DelegatingLanguageClient#metalsPublishDecorations()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"'
+displayNamemetalsPublishDecorations"
+kindMETHOD"
+	startLine100"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter39"
+startCharacter15"
+isFinalfalse"
+LOC5*metalsPublishDecorations2X
+Lscala/meta/internal/decorations/DecorationClient#metalsPublishDecorations().OVERRIDE2ø
+Wscala/meta/internal/metals/DelegatingLanguageClient#metalsPublishDecorations().(params)	PARAMETERY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalae e(2u
+scala/Unit#RETURN_TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaf f(	2∫
+Wscala/meta/internal/metals/DelegatingLanguageClient#metalsPublishDecorations().(params)CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalag( g(.2§
+Ascala/meta/internal/metals/DelegatingLanguageClient#underlying().CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalag g(2Ø
+Lscala/meta/internal/decorations/DecorationClient#metalsPublishDecorations().CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalag g('î
+Ascala/meta/internal/metals/DelegatingLanguageClient#underlying().VARIABLEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala# (-"
+endLine17"
+isVartrue"K
+symbolAscala/meta/internal/metals/DelegatingLanguageClient#underlying()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName
+underlying"
+kindVARIABLE"
+	startLine17"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter45"
+startCharacter35"
+isFinalfalse*
+underlying2ì
+0scala/meta/internal/metals/MetalsLanguageClient#TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala/ (C
+Bscala/meta/internal/metals/DelegatingLanguageClient#showMessage().METHODY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala> >("
+endLine62"
+isVarfalse"L
+symbolBscala/meta/internal/metals/DelegatingLanguageClient#showMessage()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameshowMessage"
+kindMETHOD"
+	startLine62"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter26"
+startCharacter15"
+isFinalfalse"
+LOC3*showMessage2D
+8org/eclipse/lsp4j/services/LanguageClient#showMessage().OVERRIDE2≤
+Jscala/meta/internal/metals/DelegatingLanguageClient#showMessage().(params)	PARAMETERY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala> >(!2u
+scala/Unit#RETURN_TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala>3 >(72≠
+Jscala/meta/internal/metals/DelegatingLanguageClient#showMessage().(params)CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala? ?(!2§
+Ascala/meta/internal/metals/DelegatingLanguageClient#underlying().CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala? ?(2õ
+8org/eclipse/lsp4j/services/LanguageClient#showMessage().CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala? ?(º
+Wscala/meta/internal/metals/DelegatingLanguageClient#metalsPublishDecorations().(params)	PARAMETERY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalae e("
+endLine101"
+isVarfalse"a
+symbolWscala/meta/internal/metals/DelegatingLanguageClient#metalsPublishDecorations().(params)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameparams"
+kind	PARAMETER"
+	startLine101"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*params2ú
+9scala/meta/internal/decorations/PublishDecorationsParams#TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalae e(&ù
+Mscala/meta/internal/metals/DelegatingLanguageClient#metalsSlowTask().(params)	PARAMETERY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala/ /("
+endLine47"
+isVarfalse"W
+symbolMscala/meta/internal/metals/DelegatingLanguageClient#metalsSlowTask().(params)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameparams"
+kind	PARAMETER"
+	startLine47"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*params2ì
+0scala/meta/internal/metals/MetalsSlowTaskParams#TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala/ /("◊
+Fscala/meta/internal/metals/DelegatingLanguageClient#metalsQuickPick().METHODY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaX X("
+endLine88"
+isVarfalse"P
+symbolFscala/meta/internal/metals/DelegatingLanguageClient#metalsQuickPick()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamemetalsQuickPick"
+kindMETHOD"
+	startLine88"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter30"
+startCharacter15"
+isFinalfalse"
+LOC5*metalsQuickPick2N
+Bscala/meta/internal/metals/MetalsLanguageClient#metalsQuickPick().OVERRIDE2∂
+Nscala/meta/internal/metals/DelegatingLanguageClient#metalsQuickPick().(params)	PARAMETERY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaY Y(2ë
+'java/util/concurrent/CompletableFuture#RETURN_TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaZ Z(2õ
+1scala/meta/internal/metals/MetalsQuickPickResult#RETURN_TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaZ Z(,2±
+Nscala/meta/internal/metals/DelegatingLanguageClient#metalsQuickPick().(params)CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala[ [(%2§
+Ascala/meta/internal/metals/DelegatingLanguageClient#underlying().CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala[ [(2•
+Bscala/meta/internal/metals/MetalsLanguageClient#metalsQuickPick().CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala[ [(Ñ
+Cscala/meta/internal/metals/DelegatingLanguageClient#metalsStatus().METHODY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala* *("
+endLine42"
+isVarfalse"M
+symbolCscala/meta/internal/metals/DelegatingLanguageClient#metalsStatus()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamemetalsStatus"
+kindMETHOD"
+	startLine42"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter27"
+startCharacter15"
+isFinalfalse"
+LOC3*metalsStatus2K
+?scala/meta/internal/metals/MetalsLanguageClient#metalsStatus().OVERRIDE2≥
+Kscala/meta/internal/metals/DelegatingLanguageClient#metalsStatus().(params)	PARAMETERY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala* *("2u
+scala/Unit#RETURN_TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala*9 *(=2Æ
+Kscala/meta/internal/metals/DelegatingLanguageClient#metalsStatus().(params)CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala+ +("2§
+Ascala/meta/internal/metals/DelegatingLanguageClient#underlying().CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala+ +(2¢
+?scala/meta/internal/metals/MetalsLanguageClient#metalsStatus().CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala+ +(ä
+Jscala/meta/internal/metals/DelegatingLanguageClient#logMessage().(message)	PARAMETERY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaH H(!"
+endLine72"
+isVarfalse"T
+symbolJscala/meta/internal/metals/DelegatingLanguageClient#logMessage().(message)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNamemessage"
+kind	PARAMETER"
+	startLine72"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter33"
+startCharacter26"
+isFinalfalse*message2É
+ org/eclipse/lsp4j/MessageParams#TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaH# H(0é
+Hscala/meta/internal/metals/DelegatingLanguageClient#applyEdit().(params)	PARAMETERY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala% %("
+endLine37"
+isVarfalse"R
+symbolHscala/meta/internal/metals/DelegatingLanguageClient#applyEdit().(params)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameparams"
+kind	PARAMETER"
+	startLine37"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*params2é
++org/eclipse/lsp4j/ApplyWorkspaceEditParams#TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala% %(&ö
+Qscala/meta/internal/metals/DelegatingLanguageClient#registerCapability().(params)	PARAMETERY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala ("
+endLine25"
+isVarfalse"[
+symbolQscala/meta/internal/metals/DelegatingLanguageClient#registerCapability().(params)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameparams"
+kind	PARAMETER"
+	startLine25"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*params2à
+%org/eclipse/lsp4j/RegistrationParams#TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala ( ÷
+Iscala/meta/internal/metals/DelegatingLanguageClient#showMessageRequest().METHODY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaB B(!"
+endLine66"
+isVarfalse"S
+symbolIscala/meta/internal/metals/DelegatingLanguageClient#showMessageRequest()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"!
+displayNameshowMessageRequest"
+kindMETHOD"
+	startLine66"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter33"
+startCharacter15"
+isFinalfalse"
+LOC5*showMessageRequest2K
+?org/eclipse/lsp4j/services/LanguageClient#showMessageRequest().OVERRIDE2π
+Qscala/meta/internal/metals/DelegatingLanguageClient#showMessageRequest().(params)	PARAMETERY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaC C(2ë
+'java/util/concurrent/CompletableFuture#RETURN_TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaD D(2é
+$org/eclipse/lsp4j/MessageActionItem#RETURN_TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaD D((2¥
+Qscala/meta/internal/metals/DelegatingLanguageClient#showMessageRequest().(params)CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaE" E((2§
+Ascala/meta/internal/metals/DelegatingLanguageClient#underlying().CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaE E(2¢
+?org/eclipse/lsp4j/services/LanguageClient#showMessageRequest().CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaE E(!¿
+Iscala/meta/internal/metals/DelegatingLanguageClient#registerCapability().METHODY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala (!"
+endLine24"
+isVarfalse"S
+symbolIscala/meta/internal/metals/DelegatingLanguageClient#registerCapability()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"!
+displayNameregisterCapability"
+kindMETHOD"
+	startLine24"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter33"
+startCharacter15"
+isFinalfalse"
+LOC5*registerCapability2K
+?org/eclipse/lsp4j/services/LanguageClient#registerCapability().OVERRIDE2π
+Qscala/meta/internal/metals/DelegatingLanguageClient#registerCapability().(params)	PARAMETERY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala (2ë
+'java/util/concurrent/CompletableFuture#RETURN_TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala (2y
+java/lang/Void#RETURN_TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala (2¥
+Qscala/meta/internal/metals/DelegatingLanguageClient#registerCapability().(params)CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala" ((2§
+Ascala/meta/internal/metals/DelegatingLanguageClient#underlying().CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala (2¢
+?org/eclipse/lsp4j/services/LanguageClient#registerCapability().CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala (!≤
+Iscala/meta/internal/metals/DelegatingLanguageClient#publishDiagnostics().METHODY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala8 8(!"
+endLine56"
+isVarfalse"S
+symbolIscala/meta/internal/metals/DelegatingLanguageClient#publishDiagnostics()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"!
+displayNamepublishDiagnostics"
+kindMETHOD"
+	startLine56"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter33"
+startCharacter15"
+isFinalfalse"
+LOC5*publishDiagnostics2K
+?org/eclipse/lsp4j/services/LanguageClient#publishDiagnostics().OVERRIDE2æ
+Vscala/meta/internal/metals/DelegatingLanguageClient#publishDiagnostics().(diagnostics)	PARAMETERY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala9 9(2u
+scala/Unit#RETURN_TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala: :(	2π
+Vscala/meta/internal/metals/DelegatingLanguageClient#publishDiagnostics().(diagnostics)CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala;" ;(-2§
+Ascala/meta/internal/metals/DelegatingLanguageClient#underlying().CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala; ;(2¢
+?org/eclipse/lsp4j/services/LanguageClient#publishDiagnostics().CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala; ;(!Ê
+Kscala/meta/internal/metals/DelegatingLanguageClient#`<init>`().(underlying)	PARAMETER"
+endLine0"
+isVartrue"U
+symbolKscala/meta/internal/metals/DelegatingLanguageClient#`<init>`().(underlying)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayName
+underlying"
+kind	PARAMETER"
+	startLine0"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*
+underlying28
+0scala/meta/internal/metals/MetalsLanguageClient#TYPE†
+Qscala/meta/internal/metals/DelegatingLanguageClient#showMessageRequest().(params)	PARAMETERY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaC C("
+endLine67"
+isVarfalse"[
+symbolQscala/meta/internal/metals/DelegatingLanguageClient#showMessageRequest().(params)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameparams"
+kind	PARAMETER"
+	startLine67"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*params2é
++org/eclipse/lsp4j/ShowMessageRequestParams#TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaC C(&Ù
+Qscala/meta/internal/metals/DelegatingLanguageClient#metalsExecuteClientCommand().METHODY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaL L()"
+endLine76"
+isVarfalse"[
+symbolQscala/meta/internal/metals/DelegatingLanguageClient#metalsExecuteClientCommand()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()")
+displayNamemetalsExecuteClientCommand"
+kindMETHOD"
+	startLine76"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter41"
+startCharacter15"
+isFinalfalse"
+LOC5*metalsExecuteClientCommand2Y
+Mscala/meta/internal/metals/MetalsLanguageClient#metalsExecuteClientCommand().OVERRIDE2¡
+Yscala/meta/internal/metals/DelegatingLanguageClient#metalsExecuteClientCommand().(params)	PARAMETERY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaM M(2u
+scala/Unit#RETURN_TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaN N(	2º
+Yscala/meta/internal/metals/DelegatingLanguageClient#metalsExecuteClientCommand().(params)CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaO* O(02§
+Ascala/meta/internal/metals/DelegatingLanguageClient#underlying().CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaO O(2∞
+Mscala/meta/internal/metals/MetalsLanguageClient#metalsExecuteClientCommand().CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaO O()Í
+Ascala/meta/internal/metals/DelegatingLanguageClient#logMessage().METHODY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaH H("
+endLine72"
+isVarfalse"K
+symbolAscala/meta/internal/metals/DelegatingLanguageClient#logMessage()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayName
+logMessage"
+kindMETHOD"
+	startLine72"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter25"
+startCharacter15"
+isFinalfalse"
+LOC3*
+logMessage2C
+7org/eclipse/lsp4j/services/LanguageClient#logMessage().OVERRIDE2≤
+Jscala/meta/internal/metals/DelegatingLanguageClient#logMessage().(message)	PARAMETERY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaH H(!2u
+scala/Unit#RETURN_TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaH3 H(72≠
+Jscala/meta/internal/metals/DelegatingLanguageClient#logMessage().(message)CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaI I(!2§
+Ascala/meta/internal/metals/DelegatingLanguageClient#underlying().CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaI I(2ö
+7org/eclipse/lsp4j/services/LanguageClient#logMessage().CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaI I(†
+Sscala/meta/internal/metals/DelegatingLanguageClient#unregisterCapability().(params)	PARAMETERY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala ("
+endLine31"
+isVarfalse"]
+symbolSscala/meta/internal/metals/DelegatingLanguageClient#unregisterCapability().(params)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameparams"
+kind	PARAMETER"
+	startLine31"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse*params2ä
+'org/eclipse/lsp4j/UnregistrationParams#TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala (" 
+Nscala/meta/internal/metals/DelegatingLanguageClient#metalsTreeViewDidChange().METHODY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala^ ^(&"
+endLine94"
+isVarfalse"X
+symbolNscala/meta/internal/metals/DelegatingLanguageClient#metalsTreeViewDidChange()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"&
+displayNamemetalsTreeViewDidChange"
+kindMETHOD"
+	startLine94"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter38"
+startCharacter15"
+isFinalfalse"
+LOC5*metalsTreeViewDidChange2M
+Ascala/meta/internal/tvp/TreeViewClient#metalsTreeViewDidChange().OVERRIDE2æ
+Vscala/meta/internal/metals/DelegatingLanguageClient#metalsTreeViewDidChange().(params)	PARAMETERY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala_ _(2u
+scala/Unit#RETURN_TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala` `(	2π
+Vscala/meta/internal/metals/DelegatingLanguageClient#metalsTreeViewDidChange().(params)CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaa' a(-2§
+Ascala/meta/internal/metals/DelegatingLanguageClient#underlying().CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaa a(2§
+Ascala/meta/internal/tvp/TreeViewClient#metalsTreeViewDidChange().CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scalaa a(&–
+Kscala/meta/internal/metals/DelegatingLanguageClient#unregisterCapability().METHODY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala (#"
+endLine30"
+isVarfalse"U
+symbolKscala/meta/internal/metals/DelegatingLanguageClient#unregisterCapability()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"#
+displayNameunregisterCapability"
+kindMETHOD"
+	startLine30"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter35"
+startCharacter15"
+isFinalfalse"
+LOC5*unregisterCapability2M
+Aorg/eclipse/lsp4j/services/LanguageClient#unregisterCapability().OVERRIDE2ª
+Sscala/meta/internal/metals/DelegatingLanguageClient#unregisterCapability().(params)	PARAMETERY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala (2ë
+'java/util/concurrent/CompletableFuture#RETURN_TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala   (2y
+java/lang/Void#RETURN_TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala   (2∂
+Sscala/meta/internal/metals/DelegatingLanguageClient#unregisterCapability().(params)CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala!$ !(*2§
+Ascala/meta/internal/metals/DelegatingLanguageClient#underlying().CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala! !(2§
+Aorg/eclipse/lsp4j/services/LanguageClient#unregisterCapability().CALLY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala! !(#ò
+Kscala/meta/internal/metals/DelegatingLanguageClient#metalsStatus().(params)	PARAMETERY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala* *(""
+endLine42"
+isVarfalse"U
+symbolKscala/meta/internal/metals/DelegatingLanguageClient#metalsStatus().(params)"%
+packagescala.meta.internal.metals"
+accessEmpty"
+displayNameparams"
+kind	PARAMETER"
+	startLine42"
+isValfalse"V
+uriOmetals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter34"
+startCharacter28"
+isFinalfalse*params2ë
+.scala/meta/internal/metals/MetalsStatusParams#TYPEY
+Ometals/src/main/scala/scala/meta/internal/metals/DelegatingLanguageClient.scala*$ *(6

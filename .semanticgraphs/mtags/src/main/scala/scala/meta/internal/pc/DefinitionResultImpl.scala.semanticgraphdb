@@ -1,0 +1,819 @@
+
+Fmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala®
+=scala/meta/internal/pc/DefinitionResultImpl#productElement().METHOD"
+endLine0"
+isVarfalse"G
+symbol=scala/meta/internal/pc/DefinitionResultImpl#productElement()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameproductElement"
+kindMETHOD"
+	startLine0"
+isValfalse"M
+uriFmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productElement2O
+Bscala/meta/internal/pc/DefinitionResultImpl#productElement().(x$1)	PARAMETER2
+
+scala/Any#RETURN_TYPE2+
+scala/Product#productElement().OVERRIDEù
+7scala/meta/internal/pc/DefinitionResultImpl#`<init>`().CONSTRUCTORP
+Fmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala ("
+endLine8"
+isVarfalse"A
+symbol7scala/meta/internal/pc/DefinitionResultImpl#`<init>`()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine8"
+isValfalse"M
+uriFmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter31"
+startCharacter31"
+isFinalfalse*<init>2L
+?scala/meta/internal/pc/DefinitionResultImpl#`<init>`().(symbol)	PARAMETER2O
+Bscala/meta/internal/pc/DefinitionResultImpl#`<init>`().(locations)	PARAMETER2í
+3scala/meta/internal/pc/DefinitionResultImpl#symbol.	PARAMETERP
+Fmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala	 	(
+2ï
+6scala/meta/internal/pc/DefinitionResultImpl#locations.	PARAMETERP
+Fmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala
+ 
+(˛
+,scala/meta/internal/pc/DefinitionResultImpl.OBJECTP
+Fmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala ("
+endLine13"
+isVarfalse"6
+symbol,scala/meta/internal/pc/DefinitionResultImpl."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"#
+displayNameDefinitionResultImpl"
+kindOBJECT"
+	startLine13"
+isValfalse"M
+uriFmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter27"
+startCharacter7"
+isFinaltrue"
+LOC4*DefinitionResultImpl2ï
+4scala/meta/internal/pc/DefinitionResultImpl.empty().DECLARATIONP
+Fmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala (2C
+4scala/meta/internal/pc/DefinitionResultImpl.apply().DECLARATION2E
+6scala/meta/internal/pc/DefinitionResultImpl.unapply().DECLARATION2I
+:scala/meta/internal/pc/DefinitionResultImpl.readResolve().DECLARATION2
+scala/AnyRef#EXTEND2
+scala/Serializable#EXTENDù
+?scala/meta/internal/pc/DefinitionResultImpl#`<init>`().(symbol)	PARAMETER"
+endLine0"
+isVarfalse"I
+symbol?scala/meta/internal/pc/DefinitionResultImpl#`<init>`().(symbol)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamesymbol"
+kind	PARAMETER"
+	startLine0"
+isValtrue"M
+uriFmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*symbol2
+scala/Predef.String#TYPEÚ
+=scala/meta/internal/pc/DefinitionResultImpl#copy$default$1().METHOD"
+endLine0"
+isVarfalse"G
+symbol=scala/meta/internal/pc/DefinitionResultImpl#copy$default$1()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamecopy$default$1"
+kindMETHOD"
+	startLine0"
+isValfalse"M
+uriFmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$12<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE¡
+4scala/meta/internal/pc/DefinitionResultImpl.apply().METHOD"
+endLine0"
+isVarfalse">
+symbol4scala/meta/internal/pc/DefinitionResultImpl.apply()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameapply"
+kindMETHOD"
+	startLine0"
+isValfalse"M
+uriFmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply2I
+<scala/meta/internal/pc/DefinitionResultImpl.apply().(symbol)	PARAMETER2L
+?scala/meta/internal/pc/DefinitionResultImpl.apply().(locations)	PARAMETER2;
+,scala/meta/internal/pc/DefinitionResultImpl#RETURN_TYPE®
+;scala/meta/internal/pc/DefinitionResultImpl.unapply().(x$0)	PARAMETER"
+endLine0"
+isVarfalse"E
+symbol;scala/meta/internal/pc/DefinitionResultImpl.unapply().(x$0)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamex$0"
+kind	PARAMETER"
+	startLine0"
+isValfalse"M
+uriFmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$024
+,scala/meta/internal/pc/DefinitionResultImpl#TYPEﬂ
+7scala/meta/internal/pc/DefinitionResultImpl#hashCode().METHOD"
+endLine0"
+isVarfalse"A
+symbol7scala/meta/internal/pc/DefinitionResultImpl#hashCode()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamehashCode"
+kindMETHOD"
+	startLine0"
+isValfalse"M
+uriFmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*hashCode2
+
+scala/Int#RETURN_TYPE2(
+java/lang/Object#hashCode().OVERRIDE2!
+scala/Any#hashCode().OVERRIDEƒ
+5scala/meta/internal/pc/DefinitionResultImpl#equals().METHOD"
+endLine0"
+isVarfalse"?
+symbol5scala/meta/internal/pc/DefinitionResultImpl#equals()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameequals"
+kindMETHOD"
+	startLine0"
+isValfalse"M
+uriFmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*equals2G
+:scala/meta/internal/pc/DefinitionResultImpl#equals().(x$1)	PARAMETER2
+scala/Boolean#RETURN_TYPE2"
+scala/Equals#equals().OVERRIDE2&
+java/lang/Object#equals().OVERRIDE2
+scala/Any#equals().OVERRIDE¨	
+4scala/meta/internal/pc/DefinitionResultImpl.empty().METHODP
+Fmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala ("
+endLine14"
+isVarfalse">
+symbol4scala/meta/internal/pc/DefinitionResultImpl.empty()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameempty"
+kindMETHOD"
+	startLine14"
+isValfalse"M
+uriFmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter11"
+startCharacter6"
+isFinalfalse"
+LOC2*empty2Ä
+scala/meta/pc/DefinitionResult#RETURN_TYPEP
+Fmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala (2d
+
+java/util/CALLP
+Fmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala (2p
+java/util/Collections#CALLP
+Fmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala  (+2|
+"java/util/Collections#emptyList().CALLP
+Fmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala, (52Ü
+,scala/meta/internal/pc/DefinitionResultImpl.CALLP
+Fmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala (Ê
+7scala/meta/internal/pc/DefinitionResultImpl#toString().METHOD"
+endLine0"
+isVarfalse"A
+symbol7scala/meta/internal/pc/DefinitionResultImpl#toString()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNametoString"
+kindMETHOD"
+	startLine0"
+isValfalse"M
+uriFmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*toString2 
+java/lang/String#RETURN_TYPE2(
+java/lang/Object#toString().OVERRIDE2!
+scala/Any#toString().OVERRIDE¡
+Mlocal0:mtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal0"
+package "
+accessEmpty"
+displayNamex1"
+kindVALUE"
+	startLine0"
+isValtrue"M
+uriFmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x12
+
+scala/Any#TYPE≈
+Mlocal3:mtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal3"
+package "
+accessPublicAccess()"
+displayName	matchEnd4"
+kindMETHOD"
+	startLine0"
+isValfalse"M
+uriFmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*	matchEnd42\
+Olocal554:mtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala	PARAMETER2
+scala/Boolean#RETURN_TYPE…
+Bscala/meta/internal/pc/DefinitionResultImpl#`<init>`().(locations)	PARAMETER"
+endLine0"
+isVarfalse"L
+symbolBscala/meta/internal/pc/DefinitionResultImpl#`<init>`().(locations)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayName	locations"
+kind	PARAMETER"
+	startLine0"
+isValtrue"M
+uriFmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*	locations2
+java/util/List#TYPE2#
+org/eclipse/lsp4j/Location#TYPEà
+<scala/meta/internal/pc/DefinitionResultImpl#canEqual().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"F
+symbol<scala/meta/internal/pc/DefinitionResultImpl#canEqual().(x$1)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"M
+uriFmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Any#TYPE®
+,scala/meta/internal/pc/DefinitionResultImpl#CLASSP
+Fmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala ("
+endLine8"
+isVarfalse"6
+symbol,scala/meta/internal/pc/DefinitionResultImpl#"!
+packagescala.meta.internal.pc"
+accessPublicAccess()"#
+displayNameDefinitionResultImpl"
+kindCLASS"
+	startLine8"
+isValfalse"M
+uriFmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter31"
+startCharacter11"
+isFinalfalse"
+LOC4*DefinitionResultImpl2î
+3scala/meta/internal/pc/DefinitionResultImpl#symbol.DECLARATIONP
+Fmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala	 	(
+2ó
+6scala/meta/internal/pc/DefinitionResultImpl#locations.DECLARATIONP
+Fmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala
+ 
+(2ò
+7scala/meta/internal/pc/DefinitionResultImpl#`<init>`().DECLARATIONP
+Fmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala (2B
+3scala/meta/internal/pc/DefinitionResultImpl#copy().DECLARATION2L
+=scala/meta/internal/pc/DefinitionResultImpl#copy$default$1().DECLARATION2L
+=scala/meta/internal/pc/DefinitionResultImpl#copy$default$2().DECLARATION2K
+<scala/meta/internal/pc/DefinitionResultImpl#productPrefix().DECLARATION2J
+;scala/meta/internal/pc/DefinitionResultImpl#productArity().DECLARATION2L
+=scala/meta/internal/pc/DefinitionResultImpl#productElement().DECLARATION2M
+>scala/meta/internal/pc/DefinitionResultImpl#productIterator().DECLARATION2F
+7scala/meta/internal/pc/DefinitionResultImpl#canEqual().DECLARATION2F
+7scala/meta/internal/pc/DefinitionResultImpl#hashCode().DECLARATION2F
+7scala/meta/internal/pc/DefinitionResultImpl#toString().DECLARATION2D
+5scala/meta/internal/pc/DefinitionResultImpl#equals().DECLARATION2
+java/lang/Object#EXTEND2
+scala/Product#EXTEND2
+scala/Serializable#EXTEND2{
+scala/meta/pc/DefinitionResult#EXTENDP
+Fmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala
+ (ª
+3scala/meta/internal/pc/DefinitionResultImpl#copy().METHOD"
+endLine0"
+isVarfalse"=
+symbol3scala/meta/internal/pc/DefinitionResultImpl#copy()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamecopy"
+kindMETHOD"
+	startLine0"
+isValfalse"M
+uriFmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy2H
+;scala/meta/internal/pc/DefinitionResultImpl#copy().(symbol)	PARAMETER2K
+>scala/meta/internal/pc/DefinitionResultImpl#copy().(locations)	PARAMETER2;
+,scala/meta/internal/pc/DefinitionResultImpl#RETURN_TYPEá
+7scala/meta/internal/pc/DefinitionResultImpl#canEqual().METHOD"
+endLine0"
+isVarfalse"A
+symbol7scala/meta/internal/pc/DefinitionResultImpl#canEqual()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamecanEqual"
+kindMETHOD"
+	startLine0"
+isValfalse"M
+uriFmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*canEqual2I
+<scala/meta/internal/pc/DefinitionResultImpl#canEqual().(x$1)	PARAMETER2
+scala/Boolean#RETURN_TYPE2$
+scala/Equals#canEqual().OVERRIDEá
+>scala/meta/internal/pc/DefinitionResultImpl#productIterator().METHOD"
+endLine0"
+isVarfalse"H
+symbol>scala/meta/internal/pc/DefinitionResultImpl#productIterator()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameproductIterator"
+kindMETHOD"
+	startLine0"
+isValfalse"M
+uriFmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productIterator2)
+scala/collection/Iterator#RETURN_TYPE2
+
+scala/Any#RETURN_TYPE2,
+ scala/Product#productIterator().OVERRIDEî
+Bscala/meta/internal/pc/DefinitionResultImpl#productElement().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"L
+symbolBscala/meta/internal/pc/DefinitionResultImpl#productElement().(x$1)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"M
+uriFmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Int#TYPEÍ
+6scala/meta/internal/pc/DefinitionResultImpl.unapply().METHOD"
+endLine0"
+isVarfalse"@
+symbol6scala/meta/internal/pc/DefinitionResultImpl.unapply()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameunapply"
+kindMETHOD"
+	startLine0"
+isValfalse"M
+uriFmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*unapply2H
+;scala/meta/internal/pc/DefinitionResultImpl.unapply().(x$0)	PARAMETER2
+scala/Option#RETURN_TYPE2
+scala/Tuple2#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE2
+java/util/List#RETURN_TYPE2*
+org/eclipse/lsp4j/Location#RETURN_TYPE·
+3scala/meta/internal/pc/DefinitionResultImpl#symbol.VALUEP
+Fmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala	 	(
+"
+endLine9"
+isVarfalse"=
+symbol3scala/meta/internal/pc/DefinitionResultImpl#symbol."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamesymbol"
+kindVALUE"
+	startLine9"
+isValtrue"M
+uriFmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter4"
+isFinalfalse*symbol24
+(scala/meta/pc/DefinitionResult#symbol().OVERRIDE2n
+scala/Predef.String#TYPEP
+Fmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala	 	(ñ
+Fmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scalaFILE*Fmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scalaô
+=scala/meta/internal/pc/DefinitionResultImpl#copy$default$2().METHOD"
+endLine0"
+isVarfalse"G
+symbol=scala/meta/internal/pc/DefinitionResultImpl#copy$default$2()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamecopy$default$2"
+kindMETHOD"
+	startLine0"
+isValfalse"M
+uriFmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$22<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2
+java/util/List#RETURN_TYPE2*
+org/eclipse/lsp4j/Location#RETURN_TYPEƒ
+?scala/meta/internal/pc/DefinitionResultImpl.apply().(locations)	PARAMETER"
+endLine0"
+isVarfalse"I
+symbol?scala/meta/internal/pc/DefinitionResultImpl.apply().(locations)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayName	locations"
+kind	PARAMETER"
+	startLine0"
+isValfalse"M
+uriFmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*	locations2
+java/util/List#TYPE2#
+org/eclipse/lsp4j/Location#TYPEò
+<scala/meta/internal/pc/DefinitionResultImpl.apply().(symbol)	PARAMETER"
+endLine0"
+isVarfalse"F
+symbol<scala/meta/internal/pc/DefinitionResultImpl.apply().(symbol)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamesymbol"
+kind	PARAMETER"
+	startLine0"
+isValfalse"M
+uriFmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*symbol2
+scala/Predef.String#TYPE¬
+>scala/meta/internal/pc/DefinitionResultImpl#copy().(locations)	PARAMETER"
+endLine0"
+isVarfalse"H
+symbol>scala/meta/internal/pc/DefinitionResultImpl#copy().(locations)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayName	locations"
+kind	PARAMETER"
+	startLine0"
+isValfalse"M
+uriFmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*	locations2
+java/util/List#TYPE2#
+org/eclipse/lsp4j/Location#TYPEﬂ
+Mlocal1:mtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal1"
+package "
+accessPublicAccess()"
+displayNamecase5"
+kindMETHOD"
+	startLine0"
+isValfalse"M
+uriFmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case52
+scala/Boolean#RETURN_TYPEã
+Mlocal4:mtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal4"
+package "
+accessEmpty"%
+displayNameDefinitionResultImpl$1"
+kindVALUE"
+	startLine0"
+isValtrue"M
+uriFmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*DefinitionResultImpl$124
+,scala/meta/internal/pc/DefinitionResultImpl#TYPEñ
+;scala/meta/internal/pc/DefinitionResultImpl#copy().(symbol)	PARAMETER"
+endLine0"
+isVarfalse"E
+symbol;scala/meta/internal/pc/DefinitionResultImpl#copy().(symbol)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamesymbol"
+kind	PARAMETER"
+	startLine0"
+isValfalse"M
+uriFmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*symbol2
+scala/Predef.String#TYPEÕ
+;scala/meta/internal/pc/DefinitionResultImpl#productArity().METHOD"
+endLine0"
+isVarfalse"E
+symbol;scala/meta/internal/pc/DefinitionResultImpl#productArity()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameproductArity"
+kindMETHOD"
+	startLine0"
+isValfalse"M
+uriFmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productArity2
+
+scala/Int#RETURN_TYPE2)
+scala/Product#productArity().OVERRIDE 
+6scala/meta/internal/pc/DefinitionResultImpl#locations.VALUEP
+Fmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala
+ 
+("
+endLine10"
+isVarfalse"@
+symbol6scala/meta/internal/pc/DefinitionResultImpl#locations."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayName	locations"
+kindVALUE"
+	startLine10"
+isValtrue"M
+uriFmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter4"
+isFinalfalse*	locations27
++scala/meta/pc/DefinitionResult#locations().OVERRIDE2d
+
+java/util/CALLP
+Fmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala
+ 
+(2i
+java/util/List#TYPEP
+Fmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala
+ 
+(2u
+org/eclipse/lsp4j/Location#TYPEP
+Fmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala
+ 
+(¶
+:scala/meta/internal/pc/DefinitionResultImpl.readResolve().METHOD"
+endLine0"
+isVarfalse"D
+symbol:scala/meta/internal/pc/DefinitionResultImpl.readResolve()."!
+packagescala.meta.internal.pc"
+accessPrivateAccess()"
+displayNamereadResolve"
+kindMETHOD"
+	startLine0"
+isValfalse"M
+uriFmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*readResolve2 
+java/lang/Object#RETURN_TYPEÑ
+:scala/meta/internal/pc/DefinitionResultImpl#equals().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"D
+symbol:scala/meta/internal/pc/DefinitionResultImpl#equals().(x$1)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"M
+uriFmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Any#TYPEﬂ
+Mlocal2:mtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal2"
+package "
+accessPublicAccess()"
+displayNamecase6"
+kindMETHOD"
+	startLine0"
+isValfalse"M
+uriFmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case62
+scala/Boolean#RETURN_TYPEŸ
+<scala/meta/internal/pc/DefinitionResultImpl#productPrefix().METHOD"
+endLine0"
+isVarfalse"F
+symbol<scala/meta/internal/pc/DefinitionResultImpl#productPrefix()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameproductPrefix"
+kindMETHOD"
+	startLine0"
+isValfalse"M
+uriFmtags/src/main/scala/scala/meta/internal/pc/DefinitionResultImpl.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productPrefix2 
+java/lang/String#RETURN_TYPE2*
+scala/Product#productPrefix().OVERRIDE

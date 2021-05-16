@@ -1,0 +1,182 @@
+
+;metals/src/main/scala/scala/meta/internal/metals/Time.scala•
+ scala/meta/internal/metals/Time.OBJECTE
+;metals/src/main/scala/scala/meta/internal/metals/Time.scala ("
+endLine11"
+isVarfalse"*
+symbol scala/meta/internal/metals/Time."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameTime"
+kindOBJECT"
+	startLine11"
+isValfalse"B
+uri;metals/src/main/scala/scala/meta/internal/metals/Time.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter11"
+startCharacter7"
+isFinaltrue"
+LOC6*Time2}
+'scala/meta/internal/metals/Time.system.DECLARATIONE
+;metals/src/main/scala/scala/meta/internal/metals/Time.scala	 (2
+scala/AnyRef#EXTEND√
+'scala/meta/internal/metals/Time.system.OBJECTE
+;metals/src/main/scala/scala/meta/internal/metals/Time.scala	 ("
+endLine12"
+isVarfalse"1
+symbol'scala/meta/internal/metals/Time.system."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamesystem"
+kindOBJECT"
+	startLine12"
+isValfalse"B
+uri;metals/src/main/scala/scala/meta/internal/metals/Time.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter15"
+startCharacter9"
+isFinaltrue"
+LOC4*system2Ö
+/scala/meta/internal/metals/Time.system.nanos().DECLARATIONE
+;metals/src/main/scala/scala/meta/internal/metals/Time.scala (2ç
+7scala/meta/internal/metals/Time.system.currentMillis().DECLARATIONE
+;metals/src/main/scala/scala/meta/internal/metals/Time.scala (2
+scala/AnyRef#EXTEND2q
+ scala/meta/internal/metals/Time#EXTENDE
+;metals/src/main/scala/scala/meta/internal/metals/Time.scala (ñ
+/scala/meta/internal/metals/Time.system.nanos().METHODE
+;metals/src/main/scala/scala/meta/internal/metals/Time.scala ("
+endLine13"
+isVarfalse"9
+symbol/scala/meta/internal/metals/Time.system.nanos()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamenanos"
+kindMETHOD"
+	startLine13"
+isValfalse"B
+uri;metals/src/main/scala/scala/meta/internal/metals/Time.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter13"
+startCharacter8"
+isFinalfalse"
+LOC1*nanos24
+(scala/meta/internal/metals/Time#nanos().OVERRIDE2a
+scala/Long#RETURN_TYPEE
+;metals/src/main/scala/scala/meta/internal/metals/Time.scala (2`
+java/lang/System#CALLE
+;metals/src/main/scala/scala/meta/internal/metals/Time.scala (2k
+java/lang/System#nanoTime().CALLE
+;metals/src/main/scala/scala/meta/internal/metals/Time.scala ('ˆ
+(scala/meta/internal/metals/Time#nanos().METHODE
+;metals/src/main/scala/scala/meta/internal/metals/Time.scala ("
+endLine7"
+isVarfalse"2
+symbol(scala/meta/internal/metals/Time#nanos()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamenanos"
+kindMETHOD"
+	startLine7"
+isValfalse"B
+uri;metals/src/main/scala/scala/meta/internal/metals/Time.scala"
+
+isAbstracttrue"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter11"
+startCharacter6"
+isFinalfalse*nanos2a
+scala/Long#RETURN_TYPEE
+;metals/src/main/scala/scala/meta/internal/metals/Time.scala (¨
+ scala/meta/internal/metals/Time#TRAITE
+;metals/src/main/scala/scala/meta/internal/metals/Time.scala (
+"
+endLine6"
+isVarfalse"*
+symbol scala/meta/internal/metals/Time#"%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNameTime"
+kindTRAIT"
+	startLine6"
+isValfalse"B
+uri;metals/src/main/scala/scala/meta/internal/metals/Time.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter6"
+isFinalfalse"
+LOC4*Time2~
+(scala/meta/internal/metals/Time#nanos().DECLARATIONE
+;metals/src/main/scala/scala/meta/internal/metals/Time.scala (2Ü
+0scala/meta/internal/metals/Time#currentMillis().DECLARATIONE
+;metals/src/main/scala/scala/meta/internal/metals/Time.scala (2
+scala/AnyRef#EXTEND«
+7scala/meta/internal/metals/Time.system.currentMillis().METHODE
+;metals/src/main/scala/scala/meta/internal/metals/Time.scala ("
+endLine14"
+isVarfalse"A
+symbol7scala/meta/internal/metals/Time.system.currentMillis()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamecurrentMillis"
+kindMETHOD"
+	startLine14"
+isValfalse"B
+uri;metals/src/main/scala/scala/meta/internal/metals/Time.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter8"
+isFinalfalse"
+LOC1*currentMillis2<
+0scala/meta/internal/metals/Time#currentMillis().OVERRIDE2a
+scala/Long#RETURN_TYPEE
+;metals/src/main/scala/scala/meta/internal/metals/Time.scala (2`
+java/lang/System#CALLE
+;metals/src/main/scala/scala/meta/internal/metals/Time.scala  (&2t
+%java/lang/System#currentTimeMillis().CALLE
+;metals/src/main/scala/scala/meta/internal/metals/Time.scala' (8ñ
+0scala/meta/internal/metals/Time#currentMillis().METHODE
+;metals/src/main/scala/scala/meta/internal/metals/Time.scala ("
+endLine8"
+isVarfalse":
+symbol0scala/meta/internal/metals/Time#currentMillis()."%
+packagescala.meta.internal.metals"
+accessPublicAccess()"
+displayNamecurrentMillis"
+kindMETHOD"
+	startLine8"
+isValfalse"B
+uri;metals/src/main/scala/scala/meta/internal/metals/Time.scala"
+
+isAbstracttrue"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter6"
+isFinalfalse*currentMillis2a
+scala/Long#RETURN_TYPEE
+;metals/src/main/scala/scala/meta/internal/metals/Time.scala (Ä
+;metals/src/main/scala/scala/meta/internal/metals/Time.scalaFILE*;metals/src/main/scala/scala/meta/internal/metals/Time.scala

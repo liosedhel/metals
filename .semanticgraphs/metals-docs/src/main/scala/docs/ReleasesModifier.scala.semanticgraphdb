@@ -1,0 +1,180 @@
+
+6metals-docs/src/main/scala/docs/ReleasesModifier.scala¾
+docs/ReleasesModifier#CLASS@
+6metals-docs/src/main/scala/docs/ReleasesModifier.scala ("
+endLine7"
+isVarfalse" 
+symboldocs/ReleasesModifier#"
+packagedocs"
+accessPublicAccess()"
+displayNameReleasesModifier"
+kindCLASS"
+	startLine7"
+isValfalse"=
+uri6metals-docs/src/main/scala/docs/ReleasesModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter6"
+isFinalfalse"
+LOC5*ReleasesModifier2r
+!docs/ReleasesModifier#`<init>`().DECLARATION@
+6metals-docs/src/main/scala/docs/ReleasesModifier.scala (2q
+ docs/ReleasesModifier#process().DECLARATION@
+6metals-docs/src/main/scala/docs/ReleasesModifier.scala	 	(2
+scala/AnyRef#EXTEND2`
+mdoc/StringModifier#EXTEND@
+6metals-docs/src/main/scala/docs/ReleasesModifier.scala (-2l
+docs/ReleasesModifier#name.DECLARATION@
+6metals-docs/src/main/scala/docs/ReleasesModifier.scala (v
+6metals-docs/src/main/scala/docs/ReleasesModifier.scalaFILE*6metals-docs/src/main/scala/docs/ReleasesModifier.scalaó
+!docs/ReleasesModifier#`<init>`().CONSTRUCTOR@
+6metals-docs/src/main/scala/docs/ReleasesModifier.scala ("
+endLine7"
+isVarfalse"+
+symbol!docs/ReleasesModifier#`<init>`()."
+packagedocs"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine7"
+isValfalse"=
+uri6metals-docs/src/main/scala/docs/ReleasesModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter23"
+startCharacter23"
+isFinalfalse*<init>Ð
+&docs/ReleasesModifier#process().(code)	PARAMETER@
+6metals-docs/src/main/scala/docs/ReleasesModifier.scala	% 	()"
+endLine9"
+isVarfalse"0
+symbol&docs/ReleasesModifier#process().(code)"
+packagedocs"
+accessEmpty"
+displayNamecode"
+kind	PARAMETER"
+	startLine9"
+isValfalse"=
+uri6metals-docs/src/main/scala/docs/ReleasesModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter41"
+startCharacter37"
+isFinalfalse*code2b
+scala/meta/inputs/Input#TYPE@
+6metals-docs/src/main/scala/docs/ReleasesModifier.scala	+ 	(0›
+docs/ReleasesModifier#name.VALUE@
+6metals-docs/src/main/scala/docs/ReleasesModifier.scala ("
+endLine8"
+isVarfalse"%
+symboldocs/ReleasesModifier#name."
+packagedocs"
+accessPublicAccess()"
+displayNamename"
+kindVALUE"
+	startLine8"
+isValtrue"=
+uri6metals-docs/src/main/scala/docs/ReleasesModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter19"
+startCharacter15"
+isFinalfalse*name2
+scala/Predef.String#TYPE2%
+mdoc/StringModifier#name.OVERRIDE«	
+ docs/ReleasesModifier#process().METHOD@
+6metals-docs/src/main/scala/docs/ReleasesModifier.scala	 	("
+endLine9"
+isVarfalse"*
+symbol docs/ReleasesModifier#process()."
+packagedocs"
+accessPublicAccess()"
+displayNameprocess"
+kindMETHOD"
+	startLine9"
+isValfalse"=
+uri6metals-docs/src/main/scala/docs/ReleasesModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter15"
+isFinalfalse"
+LOC2*process2*
+mdoc/StringModifier#process().OVERRIDE2u
+&docs/ReleasesModifier#process().(info)	PARAMETER@
+6metals-docs/src/main/scala/docs/ReleasesModifier.scala	 	(2u
+&docs/ReleasesModifier#process().(code)	PARAMETER@
+6metals-docs/src/main/scala/docs/ReleasesModifier.scala	% 	()2y
+*docs/ReleasesModifier#process().(reporter)	PARAMETER@
+6metals-docs/src/main/scala/docs/ReleasesModifier.scala	2 	(:2e
+scala/Predef.String#RETURN_TYPE@
+6metals-docs/src/main/scala/docs/ReleasesModifier.scala	G 	(M2T
+
+docs/Docs.CALL@
+6metals-docs/src/main/scala/docs/ReleasesModifier.scala
+ 
+(2d
+docs/Docs.releasesTable().CALL@
+6metals-docs/src/main/scala/docs/ReleasesModifier.scala
+	 
+(Ö
+*docs/ReleasesModifier#process().(reporter)	PARAMETER@
+6metals-docs/src/main/scala/docs/ReleasesModifier.scala	2 	(:"
+endLine9"
+isVarfalse"4
+symbol*docs/ReleasesModifier#process().(reporter)"
+packagedocs"
+accessEmpty"
+displayNamereporter"
+kind	PARAMETER"
+	startLine9"
+isValfalse"=
+uri6metals-docs/src/main/scala/docs/ReleasesModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter58"
+startCharacter50"
+isFinalfalse*reporter2X
+mdoc/Reporter#TYPE@
+6metals-docs/src/main/scala/docs/ReleasesModifier.scala	< 	(DÌ
+&docs/ReleasesModifier#process().(info)	PARAMETER@
+6metals-docs/src/main/scala/docs/ReleasesModifier.scala	 	("
+endLine9"
+isVarfalse"0
+symbol&docs/ReleasesModifier#process().(info)"
+packagedocs"
+accessEmpty"
+displayNameinfo"
+kind	PARAMETER"
+	startLine9"
+isValfalse"=
+uri6metals-docs/src/main/scala/docs/ReleasesModifier.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter27"
+startCharacter23"
+isFinalfalse*info2^
+scala/Predef.String#TYPE@
+6metals-docs/src/main/scala/docs/ReleasesModifier.scala	 	(#

@@ -1,0 +1,96 @@
+
+4tests/input/src/main/scala/example/Definitions.scala×
+example/Definitions#CLASS>
+4tests/input/src/main/scala/example/Definitions.scala ("
+endLine2"
+isVarfalse"
+symbolexample/Definitions#"
+packageexample"
+accessPublicAccess()"
+displayNameDefinitions"
+kindCLASS"
+	startLine2"
+isValfalse";
+uri4tests/input/src/main/scala/example/Definitions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter17"
+startCharacter6"
+isFinalfalse"	
+LOC13*Definitions2n
+example/Definitions#`<init>`().DECLARATION>
+4tests/input/src/main/scala/example/Definitions.scala (2
+scala/AnyRef#EXTEND2U
+scala/Predef.CALL>
+4tests/input/src/main/scala/example/Definitions.scala (2e
+scala/Predef.any2stringadd().CALL>
+4tests/input/src/main/scala/example/Definitions.scala	 (2t
+,scala/collection/immutable/List.apply().(xs)CALL>
+4tests/input/src/main/scala/example/Definitions.scala
+ 
+(2M
+java/CALL>
+4tests/input/src/main/scala/example/Definitions.scala (2R
+
+java/util/CALL>
+4tests/input/src/main/scala/example/Definitions.scala	 (2V
+java/util/Map#CALL>
+4tests/input/src/main/scala/example/Definitions.scala (2\
+java/util/Map#Entry#CALL>
+4tests/input/src/main/scala/example/Definitions.scala (2M
+java/CALL>
+4tests/input/src/main/scala/example/Definitions.scala (
+2R
+
+java/lang/CALL>
+4tests/input/src/main/scala/example/Definitions.scala (2Z
+java/lang/Integer#CALL>
+4tests/input/src/main/scala/example/Definitions.scala (2M
+java/CALL>
+4tests/input/src/main/scala/example/Definitions.scala (
+2R
+
+java/lang/CALL>
+4tests/input/src/main/scala/example/Definitions.scala (2Y
+java/lang/Double#CALL>
+4tests/input/src/main/scala/example/Definitions.scala (2h
+ scala/collection/immutable/List.CALL>
+4tests/input/src/main/scala/example/Definitions.scala (2`
+example/MacroAnnotation.CALL>
+4tests/input/src/main/scala/example/Definitions.scala
+ (2v
+.example/MacroAnnotation.decodeMacroAnnotation.CALL>
+4tests/input/src/main/scala/example/Definitions.scala (/2a
+scala/Predef.println(+1).CALL>
+4tests/input/src/main/scala/example/Definitions.scala (	2`
+example/MacroAnnotation.CALL>
+4tests/input/src/main/scala/example/Definitions.scala
+ (2v
+.example/MacroAnnotation.encodeMacroAnnotation.CALL>
+4tests/input/src/main/scala/example/Definitions.scala (/2a
+scala/Predef.println(+1).CALL>
+4tests/input/src/main/scala/example/Definitions.scala (	î
+example/Definitions#`<init>`().CONSTRUCTOR>
+4tests/input/src/main/scala/example/Definitions.scala ("
+endLine2"
+isVarfalse")
+symbolexample/Definitions#`<init>`()."
+packageexample"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine2"
+isValfalse";
+uri4tests/input/src/main/scala/example/Definitions.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter18"
+isFinalfalse*<init>r
+4tests/input/src/main/scala/example/Definitions.scalaFILE*4tests/input/src/main/scala/example/Definitions.scala

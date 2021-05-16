@@ -1,0 +1,1075 @@
+
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala˛
+8scala/meta/internal/pc/CompletionItemData#equals().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"B
+symbol8scala/meta/internal/pc/CompletionItemData#equals().(x$1)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Any#TYPEó
+=scala/meta/internal/pc/CompletionItemData#`<init>`().(symbol)	PARAMETER"
+endLine0"
+isVarfalse"G
+symbol=scala/meta/internal/pc/CompletionItemData#`<init>`().(symbol)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamesymbol"
+kind	PARAMETER"
+	startLine0"
+isValtrue"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*symbol2
+scala/Predef.String#TYPEˆ
+?scala/meta/internal/pc/CompletionItemData.`<init>$default$3`().METHOD"
+endLine0"
+isVarfalse"I
+symbol?scala/meta/internal/pc/CompletionItemData.`<init>$default$3`()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayName<init>$default$3"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*<init>$default$32<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2!
+java/lang/Integer#RETURN_TYPEÏ
+;scala/meta/internal/pc/CompletionItemData#copy$default$2().METHOD"
+endLine0"
+isVarfalse"E
+symbol;scala/meta/internal/pc/CompletionItemData#copy$default$2()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamecopy$default$2"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$22<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPEç
+;scala/meta/internal/pc/CompletionItemData#`<init>`().(kind)	PARAMETER"
+endLine0"
+isVarfalse"E
+symbol;scala/meta/internal/pc/CompletionItemData#`<init>`().(kind)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamekind"
+kind	PARAMETER"
+	startLine0"
+isValtrue"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*kind2
+java/lang/Integer#TYPE€
+/scala/meta/internal/pc/CompletionItemData#kind.VALUEN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala
+ 
+("
+endLine10"
+isVarfalse"9
+symbol/scala/meta/internal/pc/CompletionItemData#kind."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamekind"
+kindVALUE"
+	startLine10"
+isValtrue"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter8"
+startCharacter4"
+isFinalfalse*kind2]
+java/CALLN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala
+
+ 
+(2b
+
+java/lang/CALLN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala
+ 
+(2j
+java/lang/Integer#TYPEN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala
+ 
+(í
+:scala/meta/internal/pc/CompletionItemData.apply().(target)	PARAMETER"
+endLine0"
+isVarfalse"D
+symbol:scala/meta/internal/pc/CompletionItemData.apply().(target)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNametarget"
+kind	PARAMETER"
+	startLine0"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*target2
+scala/Predef.String#TYPEÜ
+3scala/meta/internal/pc/CompletionItemData#toJson().METHODN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala ("
+endLine12"
+isVarfalse"=
+symbol3scala/meta/internal/pc/CompletionItemData#toJson()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNametoJson"
+kindMETHOD"
+	startLine12"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter12"
+startCharacter6"
+isFinalfalse"
+LOC9*toJson2{
+com/google/gson/JsonElement#RETURN_TYPEN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala (2™
+Klocal0:mtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scalaDECLARATIONN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala (2s
+com/google/gson/JsonObject#CALLN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala (2~
+&com/google/gson/JsonObject#`<init>`().CALLN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala (2v
+com/google/gson/JsonPrimitive#CALLN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala ('2É
++com/google/gson/JsonPrimitive#`<init>`(+2).CALLN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala' ('2â
+1scala/meta/internal/pc/CompletionItemData#symbol.CALLN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala( (.2£
+Klocal0:mtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scalaCALLN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala (2y
+!com/google/gson/JsonObject#add().CALLN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala (2v
+com/google/gson/JsonPrimitive#CALLN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala ('2É
++com/google/gson/JsonPrimitive#`<init>`(+2).CALLN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala' ('2â
+1scala/meta/internal/pc/CompletionItemData#target.CALLN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala( (.2£
+Klocal0:mtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scalaCALLN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala (2y
+!com/google/gson/JsonObject#add().CALLN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala (2á
+/scala/meta/internal/pc/CompletionItemData#kind.CALLN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala (2p
+java/lang/Object#`!=`().CALLN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala (2v
+com/google/gson/JsonPrimitive#CALLN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala ('2É
++com/google/gson/JsonPrimitive#`<init>`(+1).CALLN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala' ('2á
+/scala/meta/internal/pc/CompletionItemData#kind.CALLN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala( (,2£
+Klocal0:mtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scalaCALLN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala (	2y
+!com/google/gson/JsonObject#add().CALLN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala
+ (2£
+Klocal0:mtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scalaCALLN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala (°
+1scala/meta/internal/pc/CompletionItemData#symbol.VALUEN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala (
+"
+endLine7"
+isVarfalse";
+symbol1scala/meta/internal/pc/CompletionItemData#symbol."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamesymbol"
+kindVALUE"
+	startLine7"
+isValtrue"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter4"
+isFinalfalse*symbol2l
+scala/Predef.String#TYPEN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala (Ü
+7scala/meta/internal/pc/CompletionItemData#copy().(kind)	PARAMETER"
+endLine0"
+isVarfalse"A
+symbol7scala/meta/internal/pc/CompletionItemData#copy().(kind)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamekind"
+kind	PARAMETER"
+	startLine0"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*kind2
+java/lang/Integer#TYPEﬁ
+4scala/meta/internal/pc/CompletionItemData.unapply().METHOD"
+endLine0"
+isVarfalse">
+symbol4scala/meta/internal/pc/CompletionItemData.unapply()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameunapply"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*unapply2F
+9scala/meta/internal/pc/CompletionItemData.unapply().(x$0)	PARAMETER2
+scala/Option#RETURN_TYPE2
+scala/Tuple3#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE2!
+java/lang/Integer#RETURN_TYPEÓ
+<scala/meta/internal/pc/CompletionItemData.apply$default$3().METHOD"
+endLine0"
+isVarfalse"F
+symbol<scala/meta/internal/pc/CompletionItemData.apply$default$3()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameapply$default$3"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply$default$32<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2!
+java/lang/Integer#RETURN_TYPEí
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scalaFILE*Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scalaà
+8scala/meta/internal/pc/CompletionItemData.apply().(kind)	PARAMETER"
+endLine0"
+isVarfalse"B
+symbol8scala/meta/internal/pc/CompletionItemData.apply().(kind)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamekind"
+kind	PARAMETER"
+	startLine0"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*kind2
+java/lang/Integer#TYPEÇ
+:scala/meta/internal/pc/CompletionItemData#canEqual().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"D
+symbol:scala/meta/internal/pc/CompletionItemData#canEqual().(x$1)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Any#TYPEÈ
+7scala/meta/internal/pc/CompletionItemData.OverrideKind.VALUEN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala ("
+endLine26"
+isVarfalse"A
+symbol7scala/meta/internal/pc/CompletionItemData.OverrideKind."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameOverrideKind"
+kindVALUE"
+	startLine26"
+isValtrue"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter18"
+startCharacter6"
+isFinalfalse*OverrideKind2
+java/lang/Integer#TYPE€
+Klocal2:mtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal2"
+package "
+accessPublicAccess()"
+displayNamecase5"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case52
+scala/Boolean#RETURN_TYPE†
+9scala/meta/internal/pc/CompletionItemData.unapply().(x$0)	PARAMETER"
+endLine0"
+isVarfalse"C
+symbol9scala/meta/internal/pc/CompletionItemData.unapply().(x$0)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamex$0"
+kind	PARAMETER"
+	startLine0"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$022
+*scala/meta/internal/pc/CompletionItemData#TYPEÅ
+<scala/meta/internal/pc/CompletionItemData#productIterator().METHOD"
+endLine0"
+isVarfalse"F
+symbol<scala/meta/internal/pc/CompletionItemData#productIterator()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameproductIterator"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productIterator2)
+scala/collection/Iterator#RETURN_TYPE2
+
+scala/Any#RETURN_TYPE2,
+ scala/Product#productIterator().OVERRIDEΩ
+Klocal1:mtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal1"
+package "
+accessEmpty"
+displayNamex1"
+kindVALUE"
+	startLine0"
+isValtrue"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x12
+
+scala/Any#TYPEÈ
+*scala/meta/internal/pc/CompletionItemData#CLASSN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala ("
+endLine6"
+isVarfalse"4
+symbol*scala/meta/internal/pc/CompletionItemData#"!
+packagescala.meta.internal.pc"
+accessPublicAccess()"!
+displayNameCompletionItemData"
+kindCLASS"
+	startLine6"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter29"
+startCharacter11"
+isFinalfalse"	
+LOC16*CompletionItemData2ê
+1scala/meta/internal/pc/CompletionItemData#symbol.DECLARATIONN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala (
+2ê
+1scala/meta/internal/pc/CompletionItemData#target.DECLARATIONN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala (
+2é
+/scala/meta/internal/pc/CompletionItemData#kind.DECLARATIONN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala
+ 
+(2î
+5scala/meta/internal/pc/CompletionItemData#`<init>`().DECLARATIONN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala (2í
+3scala/meta/internal/pc/CompletionItemData#toJson().DECLARATIONN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala (2@
+1scala/meta/internal/pc/CompletionItemData#copy().DECLARATION2J
+;scala/meta/internal/pc/CompletionItemData#copy$default$1().DECLARATION2J
+;scala/meta/internal/pc/CompletionItemData#copy$default$2().DECLARATION2J
+;scala/meta/internal/pc/CompletionItemData#copy$default$3().DECLARATION2I
+:scala/meta/internal/pc/CompletionItemData#productPrefix().DECLARATION2H
+9scala/meta/internal/pc/CompletionItemData#productArity().DECLARATION2J
+;scala/meta/internal/pc/CompletionItemData#productElement().DECLARATION2K
+<scala/meta/internal/pc/CompletionItemData#productIterator().DECLARATION2D
+5scala/meta/internal/pc/CompletionItemData#canEqual().DECLARATION2D
+5scala/meta/internal/pc/CompletionItemData#hashCode().DECLARATION2D
+5scala/meta/internal/pc/CompletionItemData#toString().DECLARATION2B
+3scala/meta/internal/pc/CompletionItemData#equals().DECLARATION2
+scala/AnyRef#EXTEND2
+scala/Product#EXTEND2
+scala/Serializable#EXTENDÅ
+Klocal5:mtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scalaVALUE"
+endLine0"
+isVarfalse"
+symbollocal5"
+package "
+accessEmpty"#
+displayNameCompletionItemData$1"
+kindVALUE"
+	startLine0"
+isValtrue"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*CompletionItemData$122
+*scala/meta/internal/pc/CompletionItemData#TYPE£
+Klocal0:mtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scalaVALUEN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala ("
+endLine13"
+isVarfalse"
+symbollocal0"
+package "
+accessEmpty"
+displayNameobj"
+kindVALUE"
+	startLine13"
+isValtrue"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocaltrue"
+
+isImplicitfalse"
+endCharacter11"
+startCharacter8"
+isFinalfalse*obj2#
+com/google/gson/JsonObject#TYPEº
+3scala/meta/internal/pc/CompletionItemData#equals().METHOD"
+endLine0"
+isVarfalse"=
+symbol3scala/meta/internal/pc/CompletionItemData#equals()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameequals"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*equals2E
+8scala/meta/internal/pc/CompletionItemData#equals().(x$1)	PARAMETER2
+scala/Boolean#RETURN_TYPE2"
+scala/Equals#equals().OVERRIDE2&
+java/lang/Object#equals().OVERRIDE2
+scala/Any#equals().OVERRIDEˇ
+5scala/meta/internal/pc/CompletionItemData#canEqual().METHOD"
+endLine0"
+isVarfalse"?
+symbol5scala/meta/internal/pc/CompletionItemData#canEqual()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamecanEqual"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*canEqual2G
+:scala/meta/internal/pc/CompletionItemData#canEqual().(x$1)	PARAMETER2
+scala/Boolean#RETURN_TYPE2$
+scala/Equals#canEqual().OVERRIDE€
+Klocal3:mtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal3"
+package "
+accessPublicAccess()"
+displayNamecase6"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*case62
+scala/Boolean#RETURN_TYPEø
+Klocal4:mtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scalaMETHOD"
+endLine0"
+isVarfalse"
+symbollocal4"
+package "
+accessPublicAccess()"
+displayName	matchEnd4"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*	matchEnd42Z
+Mlocal553:mtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala	PARAMETER2
+scala/Boolean#RETURN_TYPE†
+;scala/meta/internal/pc/CompletionItemData#productElement().METHOD"
+endLine0"
+isVarfalse"E
+symbol;scala/meta/internal/pc/CompletionItemData#productElement()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameproductElement"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productElement2M
+@scala/meta/internal/pc/CompletionItemData#productElement().(x$1)	PARAMETER2
+
+scala/Any#RETURN_TYPE2+
+scala/Product#productElement().OVERRIDE«
+9scala/meta/internal/pc/CompletionItemData#productArity().METHOD"
+endLine0"
+isVarfalse"C
+symbol9scala/meta/internal/pc/CompletionItemData#productArity()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameproductArity"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productArity2
+
+scala/Int#RETURN_TYPE2)
+scala/Product#productArity().OVERRIDEê
+9scala/meta/internal/pc/CompletionItemData#copy().(symbol)	PARAMETER"
+endLine0"
+isVarfalse"C
+symbol9scala/meta/internal/pc/CompletionItemData#copy().(symbol)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamesymbol"
+kind	PARAMETER"
+	startLine0"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*symbol2
+scala/Predef.String#TYPEí
+:scala/meta/internal/pc/CompletionItemData.apply().(symbol)	PARAMETER"
+endLine0"
+isVarfalse"D
+symbol:scala/meta/internal/pc/CompletionItemData.apply().(symbol)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamesymbol"
+kind	PARAMETER"
+	startLine0"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*symbol2
+scala/Predef.String#TYPEŸ
+5scala/meta/internal/pc/CompletionItemData#hashCode().METHOD"
+endLine0"
+isVarfalse"?
+symbol5scala/meta/internal/pc/CompletionItemData#hashCode()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamehashCode"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*hashCode2
+
+scala/Int#RETURN_TYPE2(
+java/lang/Object#hashCode().OVERRIDE2!
+scala/Any#hashCode().OVERRIDE˘
+2scala/meta/internal/pc/CompletionItemData.apply().METHOD"
+endLine0"
+isVarfalse"<
+symbol2scala/meta/internal/pc/CompletionItemData.apply()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameapply"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*apply2G
+:scala/meta/internal/pc/CompletionItemData.apply().(symbol)	PARAMETER2G
+:scala/meta/internal/pc/CompletionItemData.apply().(target)	PARAMETER2E
+8scala/meta/internal/pc/CompletionItemData.apply().(kind)	PARAMETER29
+*scala/meta/internal/pc/CompletionItemData#RETURN_TYPEÏ
+;scala/meta/internal/pc/CompletionItemData#copy$default$1().METHOD"
+endLine0"
+isVarfalse"E
+symbol;scala/meta/internal/pc/CompletionItemData#copy$default$1()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamecopy$default$1"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$12<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2#
+scala/Predef.String#RETURN_TYPE‹	
+5scala/meta/internal/pc/CompletionItemData#`<init>`().CONSTRUCTORN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala ("
+endLine6"
+isVarfalse"?
+symbol5scala/meta/internal/pc/CompletionItemData#`<init>`()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine6"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter29"
+startCharacter29"
+isFinalfalse*<init>2J
+=scala/meta/internal/pc/CompletionItemData#`<init>`().(symbol)	PARAMETER2J
+=scala/meta/internal/pc/CompletionItemData#`<init>`().(target)	PARAMETER2H
+;scala/meta/internal/pc/CompletionItemData#`<init>`().(kind)	PARAMETER2é
+1scala/meta/internal/pc/CompletionItemData#symbol.	PARAMETERN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala (
+2é
+1scala/meta/internal/pc/CompletionItemData#target.	PARAMETERN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala (
+2å
+/scala/meta/internal/pc/CompletionItemData#kind.	PARAMETERN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala
+ 
+(”
+2scala/meta/internal/pc/CompletionItemData.empty().METHODN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala ("
+endLine24"
+isVarfalse"<
+symbol2scala/meta/internal/pc/CompletionItemData.empty()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameempty"
+kindMETHOD"
+	startLine24"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter11"
+startCharacter6"
+isFinalfalse"
+LOC1*empty2â
+*scala/meta/internal/pc/CompletionItemData#RETURN_TYPEN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala (2Ç
+*scala/meta/internal/pc/CompletionItemData.CALLN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala" (4é
+@scala/meta/internal/pc/CompletionItemData#productElement().(x$1)	PARAMETER"
+endLine0"
+isVarfalse"J
+symbol@scala/meta/internal/pc/CompletionItemData#productElement().(x$1)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNamex$1"
+kind	PARAMETER"
+	startLine0"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*x$12
+
+scala/Int#TYPE‡
+5scala/meta/internal/pc/CompletionItemData#toString().METHOD"
+endLine0"
+isVarfalse"?
+symbol5scala/meta/internal/pc/CompletionItemData#toString()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNametoString"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*toString2 
+java/lang/String#RETURN_TYPE2(
+java/lang/Object#toString().OVERRIDE2!
+scala/Any#toString().OVERRIDEÍ
+;scala/meta/internal/pc/CompletionItemData#copy$default$3().METHOD"
+endLine0"
+isVarfalse"E
+symbol;scala/meta/internal/pc/CompletionItemData#copy$default$3()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamecopy$default$3"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy$default$32<
+-scala/annotation/unchecked/uncheckedVariance#RETURN_TYPE2!
+java/lang/Integer#RETURN_TYPE°
+1scala/meta/internal/pc/CompletionItemData#target.VALUEN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala (
+"
+endLine8"
+isVarfalse";
+symbol1scala/meta/internal/pc/CompletionItemData#target."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNametarget"
+kindVALUE"
+	startLine8"
+isValtrue"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter10"
+startCharacter4"
+isFinalfalse*target2l
+scala/Predef.String#TYPEN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala (”
+:scala/meta/internal/pc/CompletionItemData#productPrefix().METHOD"
+endLine0"
+isVarfalse"D
+symbol:scala/meta/internal/pc/CompletionItemData#productPrefix()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNameproductPrefix"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*productPrefix2 
+java/lang/String#RETURN_TYPE2*
+scala/Product#productPrefix().OVERRIDEû
+
+*scala/meta/internal/pc/CompletionItemData.OBJECTN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala ("
+endLine23"
+isVarfalse"4
+symbol*scala/meta/internal/pc/CompletionItemData."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"!
+displayNameCompletionItemData"
+kindOBJECT"
+	startLine23"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter25"
+startCharacter7"
+isFinaltrue"
+LOC5*CompletionItemData2ë
+2scala/meta/internal/pc/CompletionItemData.empty().DECLARATIONN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala (2A
+2scala/meta/internal/pc/CompletionItemData.apply().DECLARATION2K
+<scala/meta/internal/pc/CompletionItemData.apply$default$3().DECLARATION2C
+4scala/meta/internal/pc/CompletionItemData.unapply().DECLARATION2N
+?scala/meta/internal/pc/CompletionItemData.`<init>$default$3`().DECLARATION2G
+8scala/meta/internal/pc/CompletionItemData.readResolve().DECLARATION2
+scala/AnyRef#EXTEND2
+scala/Serializable#EXTEND2ñ
+7scala/meta/internal/pc/CompletionItemData.OverrideKind.DECLARATIONN
+Dmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala (Ú
+1scala/meta/internal/pc/CompletionItemData#copy().METHOD"
+endLine0"
+isVarfalse";
+symbol1scala/meta/internal/pc/CompletionItemData#copy()."!
+packagescala.meta.internal.pc"
+accessPublicAccess()"
+displayNamecopy"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*copy2F
+9scala/meta/internal/pc/CompletionItemData#copy().(symbol)	PARAMETER2F
+9scala/meta/internal/pc/CompletionItemData#copy().(target)	PARAMETER2D
+7scala/meta/internal/pc/CompletionItemData#copy().(kind)	PARAMETER29
+*scala/meta/internal/pc/CompletionItemData#RETURN_TYPEê
+9scala/meta/internal/pc/CompletionItemData#copy().(target)	PARAMETER"
+endLine0"
+isVarfalse"C
+symbol9scala/meta/internal/pc/CompletionItemData#copy().(target)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNametarget"
+kind	PARAMETER"
+	startLine0"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*target2
+scala/Predef.String#TYPEó
+=scala/meta/internal/pc/CompletionItemData#`<init>`().(target)	PARAMETER"
+endLine0"
+isVarfalse"G
+symbol=scala/meta/internal/pc/CompletionItemData#`<init>`().(target)"!
+packagescala.meta.internal.pc"
+accessEmpty"
+displayNametarget"
+kind	PARAMETER"
+	startLine0"
+isValtrue"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*target2
+scala/Predef.String#TYPE†
+8scala/meta/internal/pc/CompletionItemData.readResolve().METHOD"
+endLine0"
+isVarfalse"B
+symbol8scala/meta/internal/pc/CompletionItemData.readResolve()."!
+packagescala.meta.internal.pc"
+accessPrivateAccess()"
+displayNamereadResolve"
+kindMETHOD"
+	startLine0"
+isValfalse"K
+uriDmtags/src/main/scala/scala/meta/internal/pc/CompletionItemData.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter0"
+startCharacter0"
+isFinalfalse*readResolve2 
+java/lang/Object#RETURN_TYPE

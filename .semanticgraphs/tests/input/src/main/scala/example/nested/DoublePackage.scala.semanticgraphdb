@@ -1,0 +1,91 @@
+
+=tests/input/src/main/scala/example/nested/DoublePackage.scala„
+=tests/input/src/main/scala/example/nested/DoublePackage.scalaFILE*=tests/input/src/main/scala/example/nested/DoublePackage.scala¢
++example/nested2/y/DoublePackage#`<init>`().CONSTRUCTORG
+=tests/input/src/main/scala/example/nested/DoublePackage.scala ("
+endLine7"
+isVarfalse"5
+symbol+example/nested2/y/DoublePackage#`<init>`()."
+packageexample.nested2.y"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine7"
+isValfalse"D
+uri=tests/input/src/main/scala/example/nested/DoublePackage.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter22"
+isFinalfalse*<init>Ÿ
+*example/nested/x/DoublePackage#`<init>`().CONSTRUCTORG
+=tests/input/src/main/scala/example/nested/DoublePackage.scala ("
+endLine3"
+isVarfalse"4
+symbol*example/nested/x/DoublePackage#`<init>`()."
+packageexample.nested.x"
+accessPublicAccess()"
+displayName<init>"
+kindCONSTRUCTOR"
+	startLine3"
+isValfalse"D
+uri=tests/input/src/main/scala/example/nested/DoublePackage.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter22"
+startCharacter22"
+isFinalfalse*<init>¶
+ example/nested2/y/DoublePackage#CLASSG
+=tests/input/src/main/scala/example/nested/DoublePackage.scala ("
+endLine7"
+isVarfalse"*
+symbol example/nested2/y/DoublePackage#"
+packageexample.nested2.y"
+accessPublicAccess()"
+displayNameDoublePackage"
+kindCLASS"
+	startLine7"
+isValfalse"D
+uri=tests/input/src/main/scala/example/nested/DoublePackage.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter8"
+isFinalfalse"
+LOC1*DoublePackage2ƒ
++example/nested2/y/DoublePackage#`<init>`().DECLARATIONG
+=tests/input/src/main/scala/example/nested/DoublePackage.scala (2
+scala/AnyRef#EXTEND²
+example/nested/x/DoublePackage#CLASSG
+=tests/input/src/main/scala/example/nested/DoublePackage.scala ("
+endLine3"
+isVarfalse")
+symbolexample/nested/x/DoublePackage#"
+packageexample.nested.x"
+accessPublicAccess()"
+displayNameDoublePackage"
+kindCLASS"
+	startLine3"
+isValfalse"D
+uri=tests/input/src/main/scala/example/nested/DoublePackage.scala"
+
+isAbstractfalse"
+isLocalfalse"
+
+isImplicitfalse"
+endCharacter21"
+startCharacter8"
+isFinalfalse"
+LOC1*DoublePackage2‚
+*example/nested/x/DoublePackage#`<init>`().DECLARATIONG
+=tests/input/src/main/scala/example/nested/DoublePackage.scala (2
+scala/AnyRef#EXTEND
